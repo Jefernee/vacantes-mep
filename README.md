@@ -41,9 +41,12 @@ cada una. Se queda con las vacantes cuya especialidad calza con VT6 y manda un
 WhatsApp con las que no se hayan avisado antes.
 
 - **✅ calce exacto** — la especialidad es una de las 13 de la constancia.
-- **🔎 posible** — habla de informática pero no es idéntica (por ejemplo
-  "Informática Educativa. Informática Para I Y Ii Ciclos", que es de I y II
-  ciclos). Se avisa igual: perderse una vacante cuesta más que un aviso de más.
+- **🔎 posible** — habla de informática pero no es idéntica a ninguna de las 13.
+  Se avisa igual: perderse una vacante cuesta más que un aviso de más.
+- **excluida** — suena a informática pero no se puede dar con esta constancia.
+  Hoy: **Informática Educativa** (I y II ciclos, y III y IV). Es otro grupo
+  profesional. Se anota en el catálogo pero nunca se avisa: un aviso al que no se
+  puede aplicar es peor que ninguno, porque enseña a ignorar los mensajes.
 
 Las especialidades se comparan **palabra por palabra**, sin las de relleno. El MEP
 publica "Informática En Desarrollo *Del* Software" y la constancia dice "*De*

@@ -60,6 +60,18 @@ const ESPECIALIDADES_VT6 = [
   'INTELIGENCIA ARTIFICIAL',
 ];
 
+// Suena a informática pero NO es del grupo VT6. "Informática Educativa" es de
+// I y II ciclos (y su variante de III y IV): es otro grupo profesional y no se
+// pueden dar esas clases con esta constancia. Sin esta lista caerían siempre en
+// la red de "posibles" y llegarían avisos de vacantes a las que no se puede
+// aplicar — que es peor que no avisar, porque enseña a ignorar los mensajes.
+const EXCLUIDAS = ['INFORMATICA EDUCATIVA'];
+
+const estaExcluida = (especialidad) => {
+  const plano = normalizar(especialidad);
+  return EXCLUIDAS.some((x) => plano.includes(x));
+};
+
 // Cualquier otra cosa que hable de informática se avisa igual, marcada aparte.
 // Perderse una vacante cuesta muchísimo más que recibir un aviso de más: la
 // ventana son 24 horas hábiles y no hay segunda oportunidad.
@@ -88,6 +100,9 @@ const contieneTodas = (grandes, chicas) => chicas.every((t) => grandes.includes(
 
 // Devuelve 'exacta' | 'posible' | null
 const clasificar = (especialidad) => {
+  // Antes que nada: lo excluido no se avisa ni aunque calce con las palabras.
+  if (estaExcluida(especialidad)) return null;
+
   const propias = fichas(especialidad);
   if (!propias.length) return null;
 
@@ -274,12 +289,12 @@ const actualizarCatalogo = (catalogo, todas, ahora) => {
     const nombre = (v.especialidad || '').trim();
     if (!nombre) continue;
 
-    const calce = clasificar(nombre);
+    const calce = clasificar(nombre) || (estaExcluida(nombre) ? 'excluida' : 'no interesa');
     const yaEstaba = catalogo.especialidades[nombre];
 
     if (!yaEstaba) {
       catalogo.especialidades[nombre] = {
-        calce: calce || 'no interesa',
+        calce: calce,
         vecesVista: 1,
         primeraVez: cuando,
         ultimaVez: cuando,
@@ -288,7 +303,7 @@ const actualizarCatalogo = (catalogo, todas, ahora) => {
     } else {
       yaEstaba.vecesVista += 1;
       yaEstaba.ultimaVez = cuando;
-      yaEstaba.calce = calce || 'no interesa';
+      yaEstaba.calce = calce;
     }
   }
 };
