@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-03T22:15:22.537Z",
-  "totalPais": 52,
+  "generado": "2026-09-03T23:47:03.764Z",
+  "totalPais": 51,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -191,16 +191,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543801",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Campo De Aterrizaje (Cariari)",
-      "lecciones": "0",
-      "rige": "05/09/2026",
-      "vence": "23/10/2026"
-    },
-    {
       "vacante": "1543819",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -209,6 +199,16 @@
       "lecciones": "0",
       "rige": "05/09/2026",
       "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1543801",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Campo De Aterrizaje (Cariari)",
+      "lecciones": "0",
+      "rige": "05/09/2026",
+      "vence": "23/10/2026"
     },
     {
       "vacante": "1543725",
@@ -229,16 +229,6 @@
       "lecciones": "3",
       "rige": "01/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543598",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Proyectos De Educacion Abierta",
-      "lecciones": "12",
-      "rige": "17/09/2026",
-      "vence": "30/09/2026"
     },
     {
       "vacante": "1543572",
@@ -331,16 +321,6 @@
       "vence": "31/01/2029"
     },
     {
-      "vacante": "1543716",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Tierra Prometida",
-      "lecciones": "0",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543692",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -348,6 +328,16 @@
       "institucion": "San Migue (Pejibaye)",
       "lecciones": "0",
       "rige": "04/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543716",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Tierra Prometida",
+      "lecciones": "0",
+      "rige": "07/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -421,16 +411,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1543155",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Estado De Israel",
-      "lecciones": "40",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1542691",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -441,14 +421,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543255",
+      "vacante": "1543155",
       "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Cedros",
-      "lecciones": "0",
-      "rige": "01/09/2026",
-      "vence": "31/01/2031"
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+      "institucion": "Estado De Israel",
+      "lecciones": "40",
+      "rige": "14/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1543275",
@@ -469,6 +449,16 @@
       "lecciones": "0",
       "rige": "27/08/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543255",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Cedros",
+      "lecciones": "0",
+      "rige": "01/09/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1543268",
