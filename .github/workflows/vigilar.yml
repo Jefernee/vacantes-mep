@@ -45,8 +45,19 @@ jobs:
         with:
           node-version: '22'
 
+      # Sin caché, cada corrida baja las dependencias y los ~130 MB de Chromium.
+      # A 51 corridas por día eso es puro tiempo tirado (y ancho de banda ajeno).
+      - name: Caché de dependencias y navegador
+        uses: actions/cache@v4
+        with:
+          path: |
+            node_modules
+            ~/.cache/ms-playwright
+          key: deps-${{ runner.os }}-${{ hashFiles('package.json') }}
+
       - run: npm install
 
+      # Si el navegador ya vino de la caché, esto no descarga nada: solo verifica.
       - run: npx playwright install --with-deps chromium
 
       - name: Revisar las vacantes
