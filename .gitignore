@@ -1,1 +1,5 @@
 node_modules/
+
+# Copias de los triggers de Atlas con la API key REAL ya puesta, para pegarlas en
+# el panel. Se generan a mano y NUNCA se suben (llevan secretos).
+atlas/*LISTO-NO-SUBIR*

@@ -47,7 +47,15 @@ exports = async function () {
   const horaCR = new Date(AHORA.getTime() - 6 * 60 * 60 * 1000).getUTCHours();
 
   // De madrugada el vigilante no corre: el silencio es esperado, no un fallo.
-  if (horaCR < HORA_INICIO_CR || horaCR >= HORA_FIN_CR) {
+  //
+  // OJO con los "<": el transpilador de Atlas es Babel CON JSX. Si ve un "<"
+  // seguido de un nombre en mayusculas y encuentra un ">" mas adelante, cree que
+  // es una etiqueta de React y revienta con errores que no tienen sentido
+  // ("falta un punto y coma" apuntando a un if). Por eso todas las
+  // comparaciones de este archivo estan escritas con ">".
+  var antesDeEmpezar = HORA_INICIO_CR > horaCR;
+  var despuesDeTerminar = horaCR >= HORA_FIN_CR;
+  if (antesDeEmpezar || despuesDeTerminar) {
     console.log("Fuera del horario activo (" + horaCR + "h CR). No se revisa.");
     return;
   }
@@ -62,7 +70,7 @@ exports = async function () {
         "User-Agent": ["watchdog-vacantes"],
       },
     });
-    if (resp.statusCode < 200 || resp.statusCode >= 300) {
+    if (200 > resp.statusCode || resp.statusCode >= 300) {
       console.error("GitHub respondió " + resp.statusCode);
       return;
     }
@@ -82,11 +90,11 @@ exports = async function () {
   const horasDeSilencio = (AHORA - ultimoCommit) / 3600000;
   console.log("Último commit hace " + horasDeSilencio.toFixed(1) + " horas.");
 
-  if (horasDeSilencio < HORAS_DE_SILENCIO) return;
+  if (HORAS_DE_SILENCIO > horasDeSilencio) return;
 
   // ── Freno: un aviso cada 12 horas, no uno por hora ──────────────────────
   let coleccion = null;
-  for (let i = 0; i < NOMBRES_DATA_SOURCE.length; i++) {
+  for (var i = 0; NOMBRES_DATA_SOURCE.length > i; i++) {
     try {
       const s = context.services.get(NOMBRES_DATA_SOURCE[i]);
       if (s) { coleccion = s.db(NOMBRE_DB).collection("watchdog_vacantes"); break; }
