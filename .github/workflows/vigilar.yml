@@ -1,10 +1,18 @@
 name: Vigilar vacantes VT6
 
-# Todavía SIN horario: se corre a mano hasta comprobar que lee bien.
-# Cuando esté validado se le agrega:
-#   schedule:
-#     - cron: '*/20 * * * *'
+# Cada 20 minutos, de 5:00 a 22:00 hora de Costa Rica.
+#
+# Por qué cada 20 minutos: el MEP deja cada vacante publicada 24 horas hábiles.
+# Un aviso diario se perdería la mitad.
+#
+# Por qué no de madrugada: las vacantes las publican en horario de oficina, así
+# que revisar a las 3 AM solo golpea un sitio del gobierno sin ganar nada. Los
+# cron van en UTC y Costa Rica es UTC-6 todo el año (no hay horario de verano),
+# así que 11:00 UTC = 5:00 AM en CR.
 on:
+  schedule:
+    - cron: '*/20 11-23 * * *'   # 05:00 - 17:59 CR
+    - cron: '*/20 0-3 * * *'     # 18:00 - 21:59 CR
   workflow_dispatch:
     inputs:
       modo:
@@ -39,7 +47,8 @@ jobs:
 
       - name: Revisar las vacantes
         env:
-          MODO: ${{ inputs.modo }}
+          # En las corridas por horario no hay inputs, y ahi el modo debe ser real.
+          MODO: ${{ inputs.modo || 'real' }}
           WAHA_URL: ${{ secrets.WAHA_URL }}
           WAHA_API_KEY: ${{ secrets.WAHA_API_KEY }}
           WAHA_CHAT_ID: ${{ secrets.WAHA_CHAT_ID }}

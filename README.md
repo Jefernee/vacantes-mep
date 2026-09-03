@@ -32,3 +32,39 @@ gratis e ilimitado en repos públicos.
   la captura, el texto, el HTML ya dibujado y la estructura de controles.
 - `.github/workflows/explorar.yml` — corre el explorador a mano y hace commit de
   los resultados.
+
+## Cómo funciona
+
+Cada 20 minutos (de 5:00 a 22:00 hora de Costa Rica) GitHub Actions abre la app
+del MEP con Chromium, recorre el menú de direcciones regionales y lee la tabla de
+cada una. Se queda con las vacantes cuya especialidad calza con VT6 y manda un
+WhatsApp con las que no se hayan avisado antes.
+
+- **✅ calce exacto** — la especialidad es una de las 13 de la constancia.
+- **🔎 posible** — habla de informática pero no es idéntica (por ejemplo
+  "Informática Educativa. Informática Para I Y Ii Ciclos", que es de I y II
+  ciclos). Se avisa igual: perderse una vacante cuesta más que un aviso de más.
+
+Las especialidades se comparan **palabra por palabra**, sin las de relleno. El MEP
+publica "Informática En Desarrollo *Del* Software" y la constancia dice "*De*
+Software": comparando el texto completo, esa palabra sola hacía fallar el calce.
+
+### Lo que evita fallar en silencio
+
+- El pie de la tabla declara cuántas vacantes hay ("1-10 de 23"). Si se leyeron
+  menos, queda una advertencia en `salida/vacantes.json`.
+- Si Blazor muestra su cartel de error, se detecta, se recarga y se sigue. Sin
+  eso, las regionales que faltaran darían cero y parecería que no hay vacantes.
+- El estado solo se marca si el WhatsApp salió: un fallo de envío se reintenta.
+
+## Correrlo a mano
+
+```bash
+gh workflow run vigilar.yml -f modo=prueba   # lee y guarda, no manda WhatsApp
+gh workflow run vigilar.yml -f modo=real     # manda de verdad
+```
+
+## Configuración
+
+Tres Secrets en GitHub: `WAHA_URL`, `WAHA_API_KEY` y `WAHA_CHAT_ID`. El envío lo
+hace la API de WAHA en la VM de Oracle, la misma que usa la sala de juegos.
