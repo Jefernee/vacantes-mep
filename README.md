@@ -71,3 +71,27 @@ gh workflow run vigilar.yml -f modo=real     # manda de verdad
 
 Tres Secrets en GitHub: `WAHA_URL`, `WAHA_API_KEY` y `WAHA_CHAT_ID`. El envío lo
 hace la API de WAHA en la VM de Oracle, la misma que usa la sala de juegos.
+
+## Qué NO cubre
+
+El MEP publica por **dos canales distintos**, y esto vigila uno solo:
+
+| Canal | Qué lleva | ¿Se vigila? |
+|---|---|---|
+| App `apps.mep.go.cr/formulario` | Vacantes de más de 35 días, todas las regionales | **Sí** |
+| Hojas de cada regional | Suplencias de **menos de 35 días** | No |
+
+Comprobado el 03/09/2026: ese día la app mostraba **1** vacante para Alajuela
+(Religión, del 7/9 al 11/12) y la hoja de la DREA tenía **9** distintas, todas
+con fecha límite del mismo día. No es un error de lectura: son cosas distintas.
+
+Se dejó fuera a propósito. Si algún día hacen falta, la hoja de Alajuela se lee
+como CSV y sería una segunda fuente sencilla:
+
+```
+https://docs.google.com/spreadsheets/d/e/2PACX-1vRJe_uT8v9Cd9WlRGf10ArtZmpGwkEUiPcpmA9F7NHrNW9Iy0_7G-sJUYxSlb8zkl6Q3T_suWKGeDf_/pub?gid=821349536&single=true&output=csv
+```
+
+Sale del iframe incrustado en `drea.mep.go.cr/vacantes`. De las demás regionales
+no se sabe: sus dominios `dre*.mep.go.cr` ya no existen y habría que descubrir
+una por una si publican en algún lado.
