@@ -30,6 +30,10 @@ const CARPETA = new URL('./', import.meta.url);
 
 const MODO_PRUEBA = (process.env.MODO || '').toLowerCase() === 'prueba';
 
+// Cosas raras que conviene ver aunque no rompan la corrida.
+const advertencias = [];
+const advertir = (m) => { advertencias.push(m); console.error('ADVERTENCIA: ' + m); };
+
 // ── El filtro: grupo profesional VT6 ──────────────────────────────────────
 // Tal como aparecen en la constancia de grupos profesionales. Se comparan sin
 // tildes y en mayúsculas, porque el MEP no es consistente con los acentos
@@ -63,15 +67,34 @@ const normalizar = (s) =>
     .replace(/\s+/g, ' ')
     .trim();
 
+// Palabras que no distinguen nada y sí rompen las comparaciones: el MEP publica
+// "Informática En Desarrollo DEL Software" y la constancia dice "DE Software".
+// Comparando palabra por palabra sin el relleno, las dos son la misma cosa.
+const RELLENO = new Set(['DE', 'DEL', 'LA', 'EL', 'LOS', 'LAS', 'Y', 'EN', 'PARA', 'A', 'CON', 'AL']);
+
+const fichas = (s) =>
+  normalizar(s)
+    .replace(/[^A-Z0-9 ]/g, ' ')
+    .split(/\s+/)
+    .filter((t) => t && !RELLENO.has(t));
+
+const contieneTodas = (grandes, chicas) => chicas.every((t) => grandes.includes(t));
+
 // Devuelve 'exacta' | 'posible' | null
 const clasificar = (especialidad) => {
-  const e = normalizar(especialidad);
-  if (!e) return null;
+  const propias = fichas(especialidad);
+  if (!propias.length) return null;
+
   for (const v of ESPECIALIDADES_VT6) {
-    if (e === v || e.includes(v) || v.includes(e)) return 'exacta';
+    const suyas = fichas(v);
+    // Calce en los dos sentidos: la publicación puede ser más específica que la
+    // constancia o al revés.
+    if (contieneTodas(propias, suyas) || contieneTodas(suyas, propias)) return 'exacta';
   }
+
+  const plano = normalizar(especialidad);
   for (const p of PISTAS_SUELTAS) {
-    if (e.includes(p)) return 'posible';
+    if (plano.includes(p)) return 'posible';
   }
   return null;
 };
@@ -91,7 +114,78 @@ const leerJson = async (ruta, porDefecto) => {
   }
 };
 
-// ── Leer las vacantes de todas las regionales ─────────────────────────────
+// ── Leer la tabla que está en pantalla, página por página ─────────────────
+const leerFilas = (pagina) =>
+  pagina.$$eval('table tbody tr', (trs) =>
+    trs
+      .map((tr) => [...tr.cells].map((c) => (c.innerText || '').trim()))
+      .filter((celdas) => celdas.length >= 8)
+  );
+
+// El pie de la tabla dice algo como "1-10 de 23". Ese último número es la única
+// forma de saber si nos faltan filas, así que se usa para verificar.
+const totalDeclarado = async (pagina) => {
+  const texto = await pagina
+    .$eval('.mud-table-pagination', (el) => el.innerText || '')
+    .catch(() => '');
+  const m = texto.replace(/\s+/g, ' ').match(/(\d+)\s*-\s*(\d+)\s+(?:de|of)\s+(\d+)/i);
+  return m ? Number(m[3]) : null;
+};
+
+// Pasa a la página siguiente. Devuelve false si ya no hay más.
+const siguientePagina = async (pagina) => {
+  const boton = pagina
+    .locator('.mud-table-pagination button[aria-label*="next" i], .mud-table-pagination button[aria-label*="siguiente" i]')
+    .first();
+  if ((await boton.count()) === 0) return false;
+  if (await boton.isDisabled().catch(() => true)) return false;
+  await boton.click();
+  await pagina.waitForTimeout(900);
+  return true;
+};
+
+const leerRegional = async (pagina, regional) => {
+  await pagina.selectOption('#regionalSelect', regional.valor);
+
+  await pagina
+    .waitForFunction(
+      () => {
+        const filas = document.querySelectorAll('table tbody tr');
+        if (!filas.length) return false;
+        return !/seleccione una direcci/i.test(filas[0].innerText || '');
+      },
+      { timeout: 20000 }
+    )
+    .catch(() => {});
+
+  await pagina.waitForTimeout(700);
+
+  const filas = [];
+  const vistas = new Set();
+  const total = await totalDeclarado(pagina);
+
+  for (let pag = 1; pag <= 25; pag++) {
+    for (const c of await leerFilas(pagina)) {
+      const clave = c.join('|');
+      if (!vistas.has(clave)) {
+        vistas.add(clave);
+        filas.push(c);
+      }
+    }
+    if (total !== null && filas.length >= total) break;
+    if (!(await siguientePagina(pagina))) break;
+  }
+
+  // La red de seguridad: si el pie declara más filas de las que juntamos, algo
+  // quedó sin leer. Mejor enterarse acá que por una vacante perdida.
+  if (total !== null && filas.length < total) {
+    advertir(regional.texto + ': el MEP declara ' + total + ' vacantes y solo se leyeron ' + filas.length);
+  }
+
+  return filas;
+};
+
+// ── Recorrer todas las regionales ─────────────────────────────────────────
 const recolectar = async (pagina) => {
   await pagina.goto(DIRECCION, { waitUntil: 'domcontentloaded', timeout: 90000 });
 
@@ -102,44 +196,26 @@ const recolectar = async (pagina) => {
     { timeout: 60000 }
   );
 
-  const regionales = await pagina.$$eval('select option', (opciones) =>
+  const regionales = await pagina.$$eval('#regionalSelect option', (opciones) =>
     opciones
       .map((o) => ({ valor: o.value, texto: o.text.trim() }))
       .filter((o) => o.valor && !/^seleccione/i.test(o.texto))
   );
 
   console.log('Regionales con vacantes publicadas: ' + regionales.length);
+  if (regionales.length < 3) {
+    advertir('El menú trajo solo ' + regionales.length + ' regionales; puede que la app no cargara bien.');
+  }
 
   const todas = [];
   let htmlDeMuestra = null;
 
   for (const regional of regionales) {
     try {
-      await pagina.selectOption('select', regional.valor);
-
-      // La tabla se redibuja sola. Esperamos a que desaparezca el cartel de
-      // "Seleccione una Dirección Regional" y haya filas con datos.
-      await pagina.waitForFunction(
-        () => {
-          const filas = document.querySelectorAll('table tbody tr');
-          if (!filas.length) return false;
-          const primera = (filas[0].innerText || '').toLowerCase();
-          return !primera.includes('seleccione una direccion') &&
-                 !primera.includes('seleccione una dirección');
-        },
-        { timeout: 20000 }
-      ).catch(() => { /* puede quedar vacía: se maneja abajo */ });
-
-      await pagina.waitForTimeout(700);
-
-      const filas = await pagina.$$eval('table tbody tr', (trs) =>
-        trs
-          .map((tr) => [...tr.cells].map((c) => (c.innerText || '').trim()))
-          .filter((celdas) => celdas.length >= 8)
-      );
+      const filas = await leerRegional(pagina, regional);
 
       // Guardamos el HTML de la primera regional con datos: sirve para revisar
-      // si la tabla tiene paginación y se nos escapan filas.
+      // cómo viene la tabla si algo cambia.
       if (!htmlDeMuestra && filas.length) {
         htmlDeMuestra = { regional: regional.texto, html: await pagina.content() };
       }
@@ -157,9 +233,21 @@ const recolectar = async (pagina) => {
         });
       }
 
-      console.log('  ' + regional.texto + ': ' + filas.length + ' vacantes');
+      console.log('  ' + regional.texto + ': ' + filas.length);
     } catch (e) {
-      console.error('  ' + regional.texto + ': ERROR — ' + e.message);
+      advertir(regional.texto + ': no se pudo leer — ' + e.message);
+    }
+
+    // Blazor muestra su propio cartel cuando se le cae el circuito. Si eso pasa,
+    // TODAS las regionales que siguen darían cero vacantes y parecería que no
+    // hay ninguna: es el peor fallo posible acá, porque es silencioso.
+    const reventado = await pagina.locator('#blazor-error-ui').isVisible().catch(() => false);
+    if (reventado) {
+      advertir('La app mostró su cartel de error. Se recarga y se sigue.');
+      await pagina.goto(DIRECCION, { waitUntil: 'domcontentloaded', timeout: 90000 });
+      await pagina
+        .waitForFunction(() => document.querySelectorAll('#regionalSelect option').length > 3, { timeout: 60000 })
+        .catch(() => {});
     }
   }
 
@@ -247,6 +335,7 @@ await guardar('salida/vacantes.json', JSON.stringify({
   generado: new Date().toISOString(),
   totalPais: todas.length,
   calzanVT6: interesantes.length,
+  advertencias,
   especialidadesVistas: especialidades,
   interesantes,
   todas,
