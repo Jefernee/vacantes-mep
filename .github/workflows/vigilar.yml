@@ -1,0 +1,59 @@
+name: Vigilar vacantes VT6
+
+# Todavía SIN horario: se corre a mano hasta comprobar que lee bien.
+# Cuando esté validado se le agrega:
+#   schedule:
+#     - cron: '*/20 * * * *'
+on:
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: 'prueba = solo mira y guarda, no manda WhatsApp'
+        type: choice
+        options: [prueba, real]
+        default: prueba
+
+permissions:
+  contents: write
+
+# Dos corridas a la vez se pisarían al hacer commit del estado.
+concurrency:
+  group: vigilar
+  cancel-in-progress: false
+
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - run: npm install
+
+      - run: npx playwright install --with-deps chromium
+
+      - name: Revisar las vacantes
+        env:
+          MODO: ${{ inputs.modo }}
+          WAHA_URL: ${{ secrets.WAHA_URL }}
+          WAHA_API_KEY: ${{ secrets.WAHA_API_KEY }}
+          WAHA_CHAT_ID: ${{ secrets.WAHA_CHAT_ID }}
+        run: node revisar.mjs
+
+      # El estado de lo ya avisado vive en el repo: es lo que evita que la misma
+      # vacante se avise cada 20 minutos durante su ventana de 24 horas.
+      - name: Guardar estado y salida
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A salida estado
+          git commit -m "Vacantes revisadas ($(date -u '+%Y-%m-%d %H:%M UTC'))" || echo "Sin cambios."
+          # Otra corrida pudo haber commiteado mientras esta trabajaba.
+          git pull --rebase --autostash || true
+          git push || echo "No se pudo hacer push; el estado se recupera en la próxima corrida."
