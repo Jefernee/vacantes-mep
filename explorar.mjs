@@ -25,7 +25,11 @@
 import { chromium } from 'playwright';
 import { writeFile } from 'node:fs/promises';
 
-const URL = 'https://apps.mep.go.cr/formulario';
+const DIRECCION = 'https://apps.mep.go.cr/formulario';
+
+// OJO: no llamar URL a nada acá. Ese nombre es el del constructor global que se
+// usa dos líneas abajo, y taparlo hace fallar el arranque con "URL is not a
+// constructor" antes de abrir el navegador.
 const SALIDA = new URL('./salida/', import.meta.url);
 
 const guardar = async (nombre, contenido) => {
@@ -56,8 +60,10 @@ pagina.on('request', (r) => {
 });
 pagina.on('websocket', (ws) => peticiones.push('WEBSOCKET ' + ws.url()));
 
-console.log('Cargando ' + URL + ' ...');
-await pagina.goto(URL, { waitUntil: 'networkidle', timeout: 90000 });
+console.log('Cargando ' + DIRECCION + ' ...');
+// domcontentloaded y no networkidle: Blazor deja un WebSocket abierto y la red
+// nunca queda del todo quieta. La espera de verdad es la de abajo.
+await pagina.goto(DIRECCION, { waitUntil: 'domcontentloaded', timeout: 90000 });
 
 // Blazor conecta el WebSocket y DESPUÉS dibuja. `networkidle` no lo espera, así
 // que le damos unos segundos de gracia antes de mirar.

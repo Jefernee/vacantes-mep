@@ -52,4 +52,8 @@ jobs:
         with:
           name: salida
           path: salida/
+          # .gitkeep es un archivo oculto y upload-artifact los ignora por
+          # defecto: sin esto, una corrida que no llegue a escribir nada avisa
+          # "no files found" y no queda ni rastro de que se intentó.
+          include-hidden-files: true
           if-no-files-found: warn
