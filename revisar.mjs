@@ -254,8 +254,55 @@ const recolectar = async (pagina) => {
   return { todas, htmlDeMuestra };
 };
 
+// ── Catálogo de especialidades ────────────────────────────────────────────
+// Se anota TODA especialidad que el MEP publique, calce o no. Es la red contra
+// el fallo más peligroso de todos: que el MEP le cambie el nombre a una de las
+// tuyas y el filtro deje de reconocerla sin que nadie se entere.
+//
+// Con el catálogo, un nombre nuevo queda registrado la primera vez que aparece y
+// se puede revisar después, en vez de descubrirlo por una vacante perdida.
+const actualizarCatalogo = (catalogo, todas, ahora) => {
+  const cuando = ahora.toISOString();
+
+  for (const v of todas) {
+    const nombre = (v.especialidad || '').trim();
+    if (!nombre) continue;
+
+    const calce = clasificar(nombre);
+    const yaEstaba = catalogo.especialidades[nombre];
+
+    if (!yaEstaba) {
+      catalogo.especialidades[nombre] = {
+        calce: calce || 'no interesa',
+        vecesVista: 1,
+        primeraVez: cuando,
+        ultimaVez: cuando,
+        avisadaComoNueva: false,
+      };
+    } else {
+      yaEstaba.vecesVista += 1;
+      yaEstaba.ultimaVez = cuando;
+      yaEstaba.calce = calce || 'no interesa';
+    }
+  }
+};
+
+// Los nombres parecidos que todavía no se avisaron.
+//
+// Anotar y avisar van SEPARADOS a propósito: el catálogo se guarda siempre, pero
+// la marca de "ya avisado" solo se pone si el WhatsApp salió. Si se marcaran
+// juntos, un fallo de envío se tragaría la única alerta de que el filtro pudo
+// haber quedado corto — y esa alerta no vuelve a aparecer nunca.
+//
+// Solo se avisan las parecidas: una especialidad nueva de cocina o de música no
+// aporta nada y llenaría el mensaje de ruido.
+const parecidasSinAvisar = (catalogo) =>
+  Object.entries(catalogo.especialidades)
+    .filter(([, e]) => e.calce === 'posible' && !e.avisadaComoNueva)
+    .map(([nombre]) => nombre);
+
 // ── Mandar el WhatsApp por WAHA ───────────────────────────────────────────
-const avisar = async (nuevas) => {
+const avisar = async (nuevas, nuevasParecidas = []) => {
   const url = process.env.WAHA_URL;
   const apiKey = process.env.WAHA_API_KEY;
   const chatId = process.env.WAHA_CHAT_ID;
@@ -265,7 +312,9 @@ const avisar = async (nuevas) => {
     return false;
   }
 
-  const lineas = ['🎓 *Vacantes nuevas para vos* (VT6)', ''];
+  const lineas = [];
+  lineas.push(nuevas.length ? '🎓 *Vacantes nuevas para vos* (VT6)' : '🆕 *Aviso del vigilante de vacantes*');
+  lineas.push('');
   for (const v of nuevas) {
     lineas.push((v.calce === 'exacta' ? '✅ ' : '🔎 ') + '*' + v.especialidad + '*');
     lineas.push('🏫 ' + v.institucion);
@@ -275,11 +324,17 @@ const avisar = async (nuevas) => {
     lineas.push('🔢 Vacante ' + v.vacante);
     lineas.push('');
   }
-  lineas.push('⏳ El MEP las deja publicadas 24 horas hábiles.');
+  if (nuevas.length) lineas.push('⏳ El MEP las deja publicadas 24 horas hábiles.');
   lineas.push('👉 ' + DIRECCION);
   if (nuevas.some((v) => v.calce === 'posible')) {
     lineas.push('');
     lineas.push('_🔎 = parecida a lo tuyo pero no idéntica. Revisala por las dudas._');
+  }
+  if (nuevasParecidas.length) {
+    lineas.push('');
+    lineas.push('🆕 *Nombre de especialidad nunca visto antes:*');
+    for (const n of nuevasParecidas) lineas.push('· ' + n);
+    lineas.push('_Puede ser una de las tuyas escrita distinto. Queda anotada._');
   }
 
   const mensaje = lineas.join('\n');
@@ -348,30 +403,50 @@ if (htmlDeMuestra) {
 
 if (MODO_PRUEBA) {
   console.log('');
-  console.log('MODO PRUEBA: no se manda WhatsApp ni se toca el estado.');
+  console.log('MODO PRUEBA: no se manda WhatsApp ni se toca el estado ni el catálogo.');
   console.log('Especialidades que hay hoy en el país:');
   for (const e of especialidades) console.log('  · ' + e);
   process.exit(0);
 }
 
+// ── Anotar las especialidades vistas ──────────────────────────────────────
+const ahora = new Date();
+const catalogo = await leerJson('estado/especialidades.json', { especialidades: {} });
+actualizarCatalogo(catalogo, todas, ahora);
+const nuevasParecidas = parecidasSinAvisar(catalogo);
+catalogo.actualizado = ahora.toISOString();
+await guardar('estado/especialidades.json', JSON.stringify(catalogo, null, 2));
+
+if (nuevasParecidas.length) {
+  console.log('Especialidades parecidas nunca vistas: ' + nuevasParecidas.join(' | '));
+}
+console.log('Especialidades conocidas hasta hoy: ' + Object.keys(catalogo.especialidades).length);
+
 // ── Avisar solo lo que no se avisó antes ──────────────────────────────────
 const estado = await leerJson('estado/avisadas.json', { avisadas: {} });
-const ahora = new Date();
 
 const nuevas = interesantes.filter((v) => !estado.avisadas[v.regional + '|' + v.vacante]);
 
-if (!nuevas.length) {
+// Un nombre nuevo parecido al tuyo se avisa aunque no haya vacantes nuevas: es
+// justamente la señal de que el filtro puede haber quedado corto.
+if (!nuevas.length && !nuevasParecidas.length) {
   console.log('Nada nuevo que avisar.');
   process.exit(0);
 }
 
 console.log('Vacantes nuevas: ' + nuevas.length);
-const enviado = await avisar(nuevas);
+const enviado = await avisar(nuevas, nuevasParecidas);
 
 if (enviado) {
   for (const v of nuevas) {
     estado.avisadas[v.regional + '|' + v.vacante] = ahora.toISOString();
   }
+
+  // Los nombres nuevos ya se avisaron: no repetirlos en cada corrida.
+  for (const nombre of nuevasParecidas) {
+    if (catalogo.especialidades[nombre]) catalogo.especialidades[nombre].avisadaComoNueva = true;
+  }
+  await guardar('estado/especialidades.json', JSON.stringify(catalogo, null, 2));
   // Limpieza: lo de hace más de 30 días ya no puede reaparecer, y sin esto el
   // archivo crece para siempre.
   const limite = new Date(ahora.getTime() - 30 * 24 * 60 * 60 * 1000);
