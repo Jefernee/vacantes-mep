@@ -20,6 +20,10 @@ on:
         type: choice
         options: [prueba, real]
         default: prueba
+      simular_fallo:
+        description: 'Romper la corrida a propósito, para comprobar que la alarma avisa'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -49,10 +53,32 @@ jobs:
         env:
           # En las corridas por horario no hay inputs, y ahi el modo debe ser real.
           MODO: ${{ inputs.modo || 'real' }}
+          SIMULAR_FALLO: ${{ inputs.simular_fallo && '1' || '0' }}
           WAHA_URL: ${{ secrets.WAHA_URL }}
           WAHA_API_KEY: ${{ secrets.WAHA_API_KEY }}
           WAHA_CHAT_ID: ${{ secrets.WAHA_CHAT_ID }}
         run: node revisar.mjs
+
+      # Un vigilante caido se ve igual que uno que no encontro nada: silencio.
+      # Por eso el fallo se avisa por WhatsApp, con freno de 3 horas para no
+      # mandar 50 mensajes si el MEP se cae un fin de semana.
+      - name: Avisar si se rompió
+        if: failure()
+        env:
+          WAHA_URL: ${{ secrets.WAHA_URL }}
+          WAHA_API_KEY: ${{ secrets.WAHA_API_KEY }}
+          WAHA_CHAT_ID: ${{ secrets.WAHA_CHAT_ID }}
+          ENLACE_CORRIDA: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: node avisar-fallo.mjs fallo "la corrida de GitHub Actions falló"
+
+      # Y avisar cuando vuelve, para no quedarse con la duda de si sigue caído.
+      - name: Avisar que se recuperó
+        if: success()
+        env:
+          WAHA_URL: ${{ secrets.WAHA_URL }}
+          WAHA_API_KEY: ${{ secrets.WAHA_API_KEY }}
+          WAHA_CHAT_ID: ${{ secrets.WAHA_CHAT_ID }}
+        run: node avisar-fallo.mjs ok
 
       # El estado de lo ya avisado vive en el repo: es lo que evita que la misma
       # vacante se avise cada 20 minutos durante su ventana de 24 horas.

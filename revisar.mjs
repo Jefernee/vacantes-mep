@@ -30,6 +30,12 @@ const CARPETA = new URL('./', import.meta.url);
 
 const MODO_PRUEBA = (process.env.MODO || '').toLowerCase() === 'prueba';
 
+// Botón de prueba de la alarma. Una alarma que nunca se probó es una alarma que
+// no se sabe si suena, y esta tiene que sonar el día que de verdad haga falta.
+if (process.env.SIMULAR_FALLO === '1') {
+  throw new Error('Fallo simulado a propósito para probar el aviso.');
+}
+
 // Cosas raras que conviene ver aunque no rompan la corrida.
 const advertencias = [];
 const advertir = (m) => { advertencias.push(m); console.error('ADVERTENCIA: ' + m); };
@@ -302,7 +308,7 @@ const parecidasSinAvisar = (catalogo) =>
     .map(([nombre]) => nombre);
 
 // ── Mandar el WhatsApp por WAHA ───────────────────────────────────────────
-const avisar = async (nuevas, nuevasParecidas = []) => {
+const avisar = async (nuevas, nuevasParecidas = [], problemas = []) => {
   const url = process.env.WAHA_URL;
   const apiKey = process.env.WAHA_API_KEY;
   const chatId = process.env.WAHA_CHAT_ID;
@@ -313,7 +319,11 @@ const avisar = async (nuevas, nuevasParecidas = []) => {
   }
 
   const lineas = [];
-  lineas.push(nuevas.length ? '🎓 *Vacantes nuevas para vos* (VT6)' : '🆕 *Aviso del vigilante de vacantes*');
+  lineas.push(
+    nuevas.length ? '🎓 *Vacantes nuevas para vos* (VT6)'
+    : problemas.length ? '⚠️ *Aviso del vigilante de vacantes*'
+    : '🆕 *Aviso del vigilante de vacantes*'
+  );
   lineas.push('');
   for (const v of nuevas) {
     lineas.push((v.calce === 'exacta' ? '✅ ' : '🔎 ') + '*' + v.especialidad + '*');
@@ -335,6 +345,12 @@ const avisar = async (nuevas, nuevasParecidas = []) => {
     lineas.push('🆕 *Nombre de especialidad nunca visto antes:*');
     for (const n of nuevasParecidas) lineas.push('· ' + n);
     lineas.push('_Puede ser una de las tuyas escrita distinto. Queda anotada._');
+  }
+  if (problemas.length) {
+    lineas.push('');
+    lineas.push('⚠️ *El vigilante leyó a medias:*');
+    for (const p of problemas) lineas.push('· ' + p);
+    lineas.push('_Puede haber vacantes que no se vieron. Revisá el sitio a mano._');
   }
 
   const mensaje = lineas.join('\n');
@@ -429,13 +445,13 @@ const nuevas = interesantes.filter((v) => !estado.avisadas[v.regional + '|' + v.
 
 // Un nombre nuevo parecido al tuyo se avisa aunque no haya vacantes nuevas: es
 // justamente la señal de que el filtro puede haber quedado corto.
-if (!nuevas.length && !nuevasParecidas.length) {
+if (!nuevas.length && !nuevasParecidas.length && !advertencias.length) {
   console.log('Nada nuevo que avisar.');
   process.exit(0);
 }
 
 console.log('Vacantes nuevas: ' + nuevas.length);
-const enviado = await avisar(nuevas, nuevasParecidas);
+const enviado = await avisar(nuevas, nuevasParecidas, advertencias);
 
 if (enviado) {
   for (const v of nuevas) {
