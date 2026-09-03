@@ -100,6 +100,31 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A salida estado
           git commit -m "Vacantes revisadas ($(date -u '+%Y-%m-%d %H:%M UTC'))" || echo "Sin cambios."
-          # Otra corrida pudo haber commiteado mientras esta trabajaba.
-          git pull --rebase --autostash || true
-          git push || echo "No se pudo hacer push; el estado se recupera en la próxima corrida."
+
+          # Otra corrida pudo haber commiteado mientras esta trabajaba, y los dos
+          # escriben los mismos archivos de estado. Antes esto era un
+          # `git pull --rebase || true` que ante un conflicto dejaba el repo a
+          # medias y se comía el error: el estado no se guardaba y NADIE se
+          # enteraba. Asi se perdio el catalogo de especialidades el 03/09/2026.
+          #
+          # -X theirs, dentro de un rebase, quiere decir "quedate con lo que
+          # estoy reaplicando", o sea con lo de ESTA corrida, que es la que tiene
+          # la foto mas reciente.
+          guardado=no
+          for intento in 1 2 3; do
+            git fetch origin main
+            if git rebase -X theirs origin/main; then
+              if git push; then guardado=si; break; fi
+            else
+              git rebase --abort || true
+            fi
+            echo "Intento $intento sin exito; reintentando..."
+            sleep 5
+          done
+
+          if [ "$guardado" != "si" ]; then
+            echo "::error::No se pudo guardar el estado despues de 3 intentos."
+            echo "Sin estado guardado se repiten avisos ya mandados, asi que esto"
+            echo "tiene que verse en rojo y no pasar callado."
+            exit 1
+          fi
