@@ -1,0 +1,78 @@
+{
+  "titulo": "Formulario en línea",
+  "selects": [
+    {
+      "nombre": "regionalSelect",
+      "opciones": [
+        "Seleccione una Dirección Regional",
+        "Administracion Regional Del Sist. Educ.",
+        "Regional Educación De Sarapiqui",
+        "Regional Educación Alajuela",
+        "Regional Educación Cartago",
+        "Regional Educación Central Del Pacífico",
+        "Regional Educación Coto",
+        "Regional Educación Desamparados",
+        "Regional Educación Grande De Terraba",
+        "Regional Educación Guapiles",
+        "Regional Educación Heredia",
+        "Regional Educación Liberia",
+        "Regional Educación Limon",
+        "Regional Educación Los Santos",
+        "Regional Educación Nicoya",
+        "Regional Educación Occidente",
+        "Regional Educación Perez Zeledon",
+        "Regional Educación Puntarenas",
+        "Regional Educación San Carlos",
+        "Regional Educación San Jose - Norte",
+        "Regional Educación San Jose - Oeste",
+        "Regional Educación Santa Cruz",
+        "Regional Educación Zona Norte-Norte"
+      ]
+    }
+  ],
+  "controlesMud": [],
+  "botones": [
+    "1"
+  ],
+  "tablas": [
+    {
+      "encabezados": [
+        "Vacante",
+        "Dirección Regional",
+        "Clase de Puesto",
+        "Especialidad",
+        "Institución",
+        "Lecciones",
+        "Rige",
+        "Vence",
+        "",
+        "Seleccione una Dirección Regional para buscar vacantes"
+      ],
+      "filas": 1,
+      "primeraFila": [
+        "Seleccione una Dirección Regional para buscar vacantes"
+      ]
+    }
+  ],
+  "largoTextoVisible": 1490,
+  "peticiones": [
+    "GET https://apps.mep.go.cr/formulario",
+    "GET https://apps.mep.go.cr/cdn-cgi/speculation",
+    "GET https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap",
+    "GET https://apps.mep.go.cr/formulario/js/sienna.min.js",
+    "GET https://apps.mep.go.cr/formulario/js/polyfills.umd.js",
+    "GET https://apps.mep.go.cr/formulario/js/purify.js",
+    "GET https://apps.mep.go.cr/formulario/js/html2canvas.min.js",
+    "GET https://apps.mep.go.cr/formulario/js/jspdf.umd.min.js",
+    "GET https://apps.mep.go.cr/formulario/js/jspdf.umd.js",
+    "GET https://apps.mep.go.cr/formulario/js/utilidades.js",
+    "GET https://apps.mep.go.cr/formulario/_framework/blazor.server.js",
+    "GET https://apps.mep.go.cr/formulario/_content/MudBlazor/MudBlazor.min.js?v=8.4.0",
+    "GET https://apps.mep.go.cr/formulario/_blazor/initializers",
+    "GET https://apps.mep.go.cr/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+    "GET https://apps.mep.go.cr/cdn-cgi/challenge-platform/h/g/scripts/jsd/330e41bb475c/main.js?",
+    "POST https://apps.mep.go.cr/cdn-cgi/challenge-platform/h/g/jsd/oneshot/330e41bb475c/0.9592150290422262:1788465644:SrvHNW_Ko5t7v4PVN3A577dE2mpq6xxBKG2MmGmFZ7M/a357e4c90ad553dd",
+    "POST https://apps.mep.go.cr/formulario/_blazor/negotiate?negotiateVersion=1",
+    "WEBSOCKET wss://apps.mep.go.cr/formulario/_blazor?id=fppgpYlmBuzyAAET3ctw1w"
+  ]
+}
