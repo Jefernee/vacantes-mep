@@ -308,22 +308,29 @@ const actualizarCatalogo = (catalogo, todas, ahora) => {
   }
 };
 
-// Los nombres parecidos que todavía no se avisaron.
+// Los nombres que todavía no se avisaron.
+//
+// Se avisa de TODO nombre nuevo, no solo de los que suenan a informática. El
+// fallo que esto tiene que atrapar es el que no se ve: que el MEP le cambie el
+// nombre a una especialidad tuya lo suficiente como para que ni siquiera parezca
+// informática ("Seguridad de la Información" en vez de "Ciberseguridad", por
+// ejemplo). Filtrando por palabras clave, ese caso pasaría de largo para siempre.
+//
+// No es ruidoso porque se avisa por NOMBRE, no por vacante: las especialidades se
+// repiten, así que después de la siembra inicial aparecen unas pocas al mes.
 //
 // Anotar y avisar van SEPARADOS a propósito: el catálogo se guarda siempre, pero
 // la marca de "ya avisado" solo se pone si el WhatsApp salió. Si se marcaran
 // juntos, un fallo de envío se tragaría la única alerta de que el filtro pudo
 // haber quedado corto — y esa alerta no vuelve a aparecer nunca.
-//
-// Solo se avisan las parecidas: una especialidad nueva de cocina o de música no
-// aporta nada y llenaría el mensaje de ruido.
-const parecidasSinAvisar = (catalogo) =>
+const nombresSinAvisar = (catalogo) =>
   Object.entries(catalogo.especialidades)
-    .filter(([, e]) => e.calce === 'posible' && !e.avisadaComoNueva)
-    .map(([nombre]) => nombre);
+    // Las excluidas ya se decidieron a mano: no hay nada que revisar.
+    .filter(([, e]) => !e.avisadaComoNueva && e.calce !== 'excluida')
+    .map(([nombre, e]) => ({ nombre, calce: e.calce }));
 
 // ── Mandar el WhatsApp por WAHA ───────────────────────────────────────────
-const avisar = async (nuevas, nuevasParecidas = [], problemas = []) => {
+const avisar = async (nuevas, nombresNuevos = [], problemas = [], esSiembra = false) => {
   const url = process.env.WAHA_URL;
   const apiKey = process.env.WAHA_API_KEY;
   const chatId = process.env.WAHA_CHAT_ID;
@@ -355,11 +362,32 @@ const avisar = async (nuevas, nuevasParecidas = [], problemas = []) => {
     lineas.push('');
     lineas.push('_🔎 = parecida a lo tuyo pero no idéntica. Revisala por las dudas._');
   }
-  if (nuevasParecidas.length) {
+  if (nombresNuevos.length) {
     lineas.push('');
-    lineas.push('🆕 *Nombre de especialidad nunca visto antes:*');
-    for (const n of nuevasParecidas) lineas.push('· ' + n);
-    lineas.push('_Puede ser una de las tuyas escrita distinto. Queda anotada._');
+    if (esSiembra) {
+      lineas.push('🗂 *Especialidades que publica el MEP hoy* (' + nombresNuevos.length + ')');
+      lineas.push('_Esta lista va una sola vez, para que la revises. De aquí en adelante solo te aviso de los nombres nuevos._');
+    } else {
+      lineas.push('🆕 *Nombres de especialidad nunca vistos* (' + nombresNuevos.length + ')');
+    }
+    lineas.push('');
+
+    // Primero las que sí se avisarían: si alguna es un nombre nuevo de algo tuyo,
+    // conviene que salte a la vista antes que la lista larga de las que no.
+    const ordenados = [...nombresNuevos].sort((a, b) =>
+      (a.calce === 'no interesa' ? 1 : 0) - (b.calce === 'no interesa' ? 1 : 0)
+    );
+
+    // El mensaje tiene que seguir siendo legible en el teléfono.
+    const TOPE = 25;
+    for (const n of ordenados.slice(0, TOPE)) {
+      const marca = n.calce === 'exacta' ? '✅' : n.calce === 'posible' ? '🔎' : '·';
+      lineas.push(marca + ' ' + n.nombre);
+    }
+    if (ordenados.length > TOPE) lineas.push('… y ' + (ordenados.length - TOPE) + ' más.');
+
+    lineas.push('');
+    lineas.push('_Si alguna de estas es tuya y no te la estoy avisando, decímelo y la agrego al filtro._');
   }
   if (problemas.length) {
     lineas.push('');
@@ -443,13 +471,16 @@ if (MODO_PRUEBA) {
 // ── Anotar las especialidades vistas ──────────────────────────────────────
 const ahora = new Date();
 const catalogo = await leerJson('estado/especialidades.json', { especialidades: {} });
+// La primera corrida ve TODAS las especialidades como nuevas. Eso no es una
+// alerta, es la siembra del catálogo, y el mensaje lo tiene que decir así.
+const catalogoEstabaVacio = Object.keys(catalogo.especialidades).length === 0;
 actualizarCatalogo(catalogo, todas, ahora);
-const nuevasParecidas = parecidasSinAvisar(catalogo);
+const nombresNuevos = nombresSinAvisar(catalogo);
 catalogo.actualizado = ahora.toISOString();
 await guardar('estado/especialidades.json', JSON.stringify(catalogo, null, 2));
 
-if (nuevasParecidas.length) {
-  console.log('Especialidades parecidas nunca vistas: ' + nuevasParecidas.join(' | '));
+if (nombresNuevos.length) {
+  console.log('Nombres de especialidad nunca vistos: ' + nombresNuevos.map((n) => n.nombre).join(' | '));
 }
 console.log('Especialidades conocidas hasta hoy: ' + Object.keys(catalogo.especialidades).length);
 
@@ -458,15 +489,15 @@ const estado = await leerJson('estado/avisadas.json', { avisadas: {} });
 
 const nuevas = interesantes.filter((v) => !estado.avisadas[v.regional + '|' + v.vacante]);
 
-// Un nombre nuevo parecido al tuyo se avisa aunque no haya vacantes nuevas: es
-// justamente la señal de que el filtro puede haber quedado corto.
-if (!nuevas.length && !nuevasParecidas.length && !advertencias.length) {
+// Un nombre nuevo se avisa aunque no haya vacantes nuevas: es justamente la
+// señal de que el filtro puede haber quedado corto.
+if (!nuevas.length && !nombresNuevos.length && !advertencias.length) {
   console.log('Nada nuevo que avisar.');
   process.exit(0);
 }
 
 console.log('Vacantes nuevas: ' + nuevas.length);
-const enviado = await avisar(nuevas, nuevasParecidas, advertencias);
+const enviado = await avisar(nuevas, nombresNuevos, advertencias, catalogoEstabaVacio);
 
 if (enviado) {
   for (const v of nuevas) {
@@ -474,8 +505,8 @@ if (enviado) {
   }
 
   // Los nombres nuevos ya se avisaron: no repetirlos en cada corrida.
-  for (const nombre of nuevasParecidas) {
-    if (catalogo.especialidades[nombre]) catalogo.especialidades[nombre].avisadaComoNueva = true;
+  for (const n of nombresNuevos) {
+    if (catalogo.especialidades[n.nombre]) catalogo.especialidades[n.nombre].avisadaComoNueva = true;
   }
   await guardar('estado/especialidades.json', JSON.stringify(catalogo, null, 2));
   // Limpieza: lo de hace más de 30 días ya no puede reaparecer, y sin esto el
