@@ -1,0 +1,55 @@
+name: Explorar la app del MEP
+
+# Se corre A MANO desde la pestaña Actions (o con `gh workflow run explorar.yml`).
+# No tiene horario: es una herramienta de diagnóstico, no el vigilante.
+#
+# Qué hace: abre https://apps.mep.go.cr/formulario con Chromium de verdad, guarda
+# lo que ve en salida/ y hace commit de esos archivos al repo, para poder mirarlos
+# sin descargar nada a mano.
+on:
+  workflow_dispatch:
+
+# Necesario para que el job pueda hacer push de los resultados.
+permissions:
+  contents: write
+
+jobs:
+  explorar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Instalar dependencias
+        run: npm install
+
+      # --with-deps instala también las librerías de sistema que Chromium
+      # necesita en Ubuntu. Sin eso el navegador no arranca en el runner.
+      - name: Instalar Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Explorar
+        run: node explorar.mjs
+
+      # Los resultados quedan en el repo para poder leerlos con `git pull`.
+      - name: Guardar los resultados en el repo
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A salida
+          git commit -m "Resultado de la exploración del MEP ($(date -u '+%Y-%m-%d %H:%M UTC'))" || echo "No hubo cambios que guardar."
+          git push
+
+      # Copia de respaldo descargable, por si el push falla.
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: salida
+          path: salida/
+          if-no-files-found: warn

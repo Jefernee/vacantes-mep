@@ -1,0 +1,13 @@
+{
+  "name": "vacantes-mep",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Vigilante de vacantes del MEP para el grupo profesional VT6",
+  "scripts": {
+    "explorar": "node explorar.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
