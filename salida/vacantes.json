@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-03T23:47:03.764Z",
+  "generado": "2026-09-04T02:59:33.261Z",
   "totalPais": 51,
   "calzanVT6": 1,
   "advertencias": [],
@@ -111,16 +111,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543395",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Turismo En Alimentos Y Bebidas",
-      "institucion": "C.T.P. De Jaco",
-      "lecciones": "40",
-      "rige": "21/09/2026",
-      "vence": "04/12/2026"
-    },
-    {
       "vacante": "1543372",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -141,6 +131,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1543395",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Turismo En Alimentos Y Bebidas",
+      "institucion": "C.T.P. De Jaco",
+      "lecciones": "40",
+      "rige": "21/09/2026",
+      "vence": "04/12/2026"
+    },
+    {
       "vacante": "1543695",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -151,16 +151,6 @@
       "vence": "30/10/2026"
     },
     {
-      "vacante": "1541232",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Aruba",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1543669",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -169,6 +159,16 @@
       "lecciones": "0",
       "rige": "08/09/2026",
       "vence": "21/01/2028"
+    },
+    {
+      "vacante": "1541232",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Aruba",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1543659",
@@ -321,16 +321,6 @@
       "vence": "31/01/2029"
     },
     {
-      "vacante": "1543692",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Migue (Pejibaye)",
-      "lecciones": "0",
-      "rige": "04/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543716",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -338,6 +328,16 @@
       "institucion": "Tierra Prometida",
       "lecciones": "0",
       "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543692",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Migue (Pejibaye)",
+      "lecciones": "0",
+      "rige": "04/09/2026",
       "vence": "11/12/2026"
     },
     {
