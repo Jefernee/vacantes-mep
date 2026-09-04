@@ -1,12 +1,12 @@
 {
-  "generado": "2026-09-04T16:40:40.098Z",
+  "generado": "2026-09-04T17:00:36.805Z",
   "totalPais": 18,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Contabilidad",
     "Educación Para El Hogar",
-    "Español",
+    "Equipos Interdisciplinarios / Orientación",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
     "Física",
@@ -14,7 +14,6 @@
     "Matemáticas",
     "Música/Música",
     "Religión",
-    "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -41,6 +40,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1543843",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Labrador (Jesus Maria)",
+      "lecciones": "0",
+      "rige": "08/09/2026",
+      "vence": "31/07/2030"
+    },
+    {
       "vacante": "1542597",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -51,14 +60,24 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1543843",
+      "vacante": "1542687",
       "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "clasePuesto": "Cocinero",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "Labrador (Jesus Maria)",
+      "institucion": "Central De Atenas (Atenas)",
       "lecciones": "0",
       "rige": "08/09/2026",
-      "vence": "31/07/2030"
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1541720",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Equipos Interdisciplinarios / Orientación",
+      "institucion": "Central De Atenas (Atenas)",
+      "lecciones": "0",
+      "rige": "08/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1543652",
@@ -81,16 +100,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1542634",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Liceo De Carrillos",
-      "lecciones": "14",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543922",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -98,6 +107,16 @@
       "institucion": "C.T.P. Invu Las Cañas",
       "lecciones": "20",
       "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1542634",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Liceo De Carrillos",
+      "lecciones": "14",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -148,26 +167,6 @@
       "institucion": "Cindea De Limon",
       "lecciones": "5",
       "rige": "08/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543715",
-      "regional": "Direc. Regional Educacion Los Santos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Llano Bonito",
-      "lecciones": "6",
-      "rige": "08/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543733",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De Corralillo",
-      "lecciones": "16",
-      "rige": "14/09/2026",
       "vence": "11/12/2026"
     },
     {
