@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-04T19:00:33.777Z",
+  "generado": "2026-09-04T19:20:35.797Z",
   "totalPais": 16,
   "calzanVT6": 0,
   "advertencias": [],
@@ -120,16 +120,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543801",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Campo De Aterrizaje (Cariari)",
-      "lecciones": "0",
-      "rige": "05/09/2026",
-      "vence": "23/10/2026"
-    },
-    {
       "vacante": "1543819",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -138,6 +128,16 @@
       "lecciones": "0",
       "rige": "05/09/2026",
       "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1543801",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Campo De Aterrizaje (Cariari)",
+      "lecciones": "0",
+      "rige": "05/09/2026",
+      "vence": "23/10/2026"
     },
     {
       "vacante": "1543811",
