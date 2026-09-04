@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-04T19:40:32.169Z",
-  "totalPais": 16,
+  "generado": "2026-09-04T20:00:32.266Z",
+  "totalPais": 17,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,14 +8,14 @@
     "Contabilidad",
     "Equipos Interdisciplinarios / Orientación",
     "Equipos Interdisciplinarios / Social",
-    "Estudios Sociales/Educación Cívica",
+    "Español",
     "Filosofía",
     "Francés",
     "Labores Varias De Oficina",
     "Música/Música",
-    "Religión",
     "Sin Especialidad T-I",
-    "Sin Especialidad T-Ii"
+    "Sin Especialidad T-Ii",
+    "Turismo Rural"
   ],
   "interesantes": [],
   "todas": [
@@ -80,16 +80,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1543652",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "I.P.E.C. Maria Pacheco",
-      "lecciones": "7",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543848",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -120,6 +110,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1543997",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "C.T.P. De Corredores",
+      "lecciones": "44",
+      "rige": "09/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1543801",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -138,6 +138,16 @@
       "lecciones": "0",
       "rige": "05/09/2026",
       "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1544000",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Turismo Rural",
+      "institucion": "C.T.P. De Guacimo",
+      "lecciones": "40",
+      "rige": "08/09/2026",
+      "vence": "12/10/2026"
     },
     {
       "vacante": "1543967",
@@ -160,14 +170,14 @@
       "vence": "31/01/2029"
     },
     {
-      "vacante": "1543774",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Capitan Manuel Quiros",
-      "lecciones": "12",
-      "rige": "03/09/2026",
-      "vence": "30/10/2026"
+      "vacante": "1544004",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Cayetano (Rio Nuevo)",
+      "lecciones": "0",
+      "rige": "07/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1543991",
