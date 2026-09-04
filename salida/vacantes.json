@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-04T18:40:44.720Z",
-  "totalPais": 17,
+  "generado": "2026-09-04T19:00:33.777Z",
+  "totalPais": 16,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -11,7 +11,6 @@
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
     "Francés",
-    "Física",
     "Labores Varias De Oficina",
     "Música/Música",
     "Religión",
@@ -31,16 +30,6 @@
       "vence": "15/10/2026"
     },
     {
-      "vacante": "1543843",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Labrador (Jesus Maria)",
-      "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1542597",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -48,6 +37,16 @@
       "institucion": "Santa Cecilia",
       "lecciones": "0",
       "rige": "21/09/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1543843",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Labrador (Jesus Maria)",
+      "lecciones": "0",
+      "rige": "08/09/2026",
       "vence": "31/07/2030"
     },
     {
@@ -139,16 +138,6 @@
       "lecciones": "0",
       "rige": "05/09/2026",
       "vence": "31/07/2031"
-    },
-    {
-      "vacante": "1543761",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Unidad Pedagogica Rio Cuba",
-      "lecciones": "3",
-      "rige": "08/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1543811",
