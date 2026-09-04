@@ -1,0 +1,5 @@
+# Los scripts de shell corren en Linux (la VM de Oracle). Si git los entrega
+# con CRLF, el shebang queda con un retorno de carro pegado al final y Linux
+# responde "bad interpreter: No such file or directory", que no dice nada sobre
+# la causa real. Esto los fuerza a LF sin importar el autocrlf de quien clone.
+*.sh text eol=lf

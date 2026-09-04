@@ -41,6 +41,22 @@ por esa cola de horarios: se lanzan de una. El `schedule` del workflow se dejó
 puesto como red por si Atlas se cae — con suerte agrega unas pocas corridas, y el
 `concurrency` del workflow evita que dos se pisen.
 
+## Las tres patas
+
+Cada pieza vive en una infraestructura distinta, a propósito:
+
+| Pata | Dónde | Qué hace |
+|---|---|---|
+| El reloj | Atlas | dispara el workflow cada 20 min |
+| El trabajo | GitHub Actions | abre el sitio del MEP con Chromium |
+| La alarma | la VM de Oracle | mira que el trabajo esté ocurriendo |
+
+Antes el reloj y la alarma estaban los dos en Atlas, y eso lo volvía un punto
+único de fallo: si Atlas se caía, se caían a la vez el que dispara y el que
+avisa, y nadie se enteraba. Con la alarma en la VM, si se cae cualquiera de las
+tres, otra se da cuenta. El trigger de Atlas se puede dejar como segunda alarma
+o borrar: los dos hacen el mismo chequeo.
+
 ## Archivos
 
 - `explorar.mjs` — herramienta de diagnóstico: abre la app y guarda en `salida/`
@@ -52,6 +68,9 @@ puesto como red por si Atlas se cae — con suerte agrega unas pocas corridas, y
 - `atlas/watchdogVacantes.js` — la alarma. Trigger de Atlas, cada hora, avisa por
   WhatsApp si el último commit del repo tiene más de 3 horas (o sea: el vigilante
   no está corriendo, o el disparador dejó de disparar).
+- `vm/vacantes-watchdog.sh` — la misma alarma, pero por cron en la VM de Oracle.
+  Avisa por WhatsApp y, si WAHA está caído, por correo con Resend. Ver "Las tres
+  patas" arriba.
 
 ## Cómo funciona
 
