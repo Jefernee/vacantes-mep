@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-04T17:00:36.805Z",
-  "totalPais": 18,
+  "generado": "2026-09-04T17:20:34.568Z",
+  "totalPais": 17,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -40,16 +40,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1543843",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Labrador (Jesus Maria)",
-      "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1542597",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -57,6 +47,16 @@
       "institucion": "Santa Cecilia",
       "lecciones": "0",
       "rige": "21/09/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1543843",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Labrador (Jesus Maria)",
+      "lecciones": "0",
+      "rige": "08/09/2026",
       "vence": "31/07/2030"
     },
     {
@@ -120,16 +120,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543819",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Anita Grande (Jimenez)",
-      "lecciones": "0",
-      "rige": "05/09/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1543801",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -138,6 +128,16 @@
       "lecciones": "0",
       "rige": "05/09/2026",
       "vence": "23/10/2026"
+    },
+    {
+      "vacante": "1543819",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Anita Grande (Jimenez)",
+      "lecciones": "0",
+      "rige": "05/09/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1542801",
@@ -188,16 +188,6 @@
       "lecciones": "12",
       "rige": "03/09/2026",
       "vence": "30/10/2026"
-    },
-    {
-      "vacante": "1543737",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Director De Colegio 2",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Julio Fonseca G.",
-      "lecciones": "0",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
     }
   ]
 }
