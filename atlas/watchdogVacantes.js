@@ -5,12 +5,16 @@
 // una vez por hora, Authentication: System). NO corre en GitHub.
 //
 // POR QUE EXISTE: el vigilante avisa cuando falla, pero eso solo
-// sirve si LLEGA A CORRER. Si GitHub desactiva el horario (lo hace
-// en repos sin actividad) no falla nada: simplemente deja de pasar,
-// y "no pasa nada" es justo lo que uno espera cuando no hay
-// vacantes. Podrian pasar semanas sin que nadie lo note. Por eso
-// vive en otra infraestructura: en GitHub se caeria junto con lo
-// que tiene que vigilar.
+// sirve si LLEGA A CORRER. Si nadie lo dispara no falla nada:
+// simplemente deja de pasar, y "no pasa nada" es justo lo que uno
+// espera cuando no hay vacantes. Podrian pasar semanas sin que
+// nadie lo note. Por eso vive en otra infraestructura: en GitHub
+// se caeria junto con lo que tiene que vigilar.
+//
+// Desde el 04/09/2026 el que lo dispara es [[dispararVacantes]],
+// otro trigger de Atlas, porque el cron de GitHub descartaba 9 de
+// cada 10 corridas. Asi que ahora este watchdog vigila dos cosas:
+// que el vigilante corra Y que el disparador siga disparando.
 //
 // COMO SE DA CUENTA: cada corrida del vigilante hace un commit al
 // guardar su estado. Si el ultimo commit es viejo, dejo de correr.
@@ -40,7 +44,14 @@ var REPO = "vacantes-mep";
 
 // Horas de silencio que se consideran "esta caido".
 var LIMITE = 3;
-var HORA_INICIO = 5;
+
+// Empieza a las 6 y NO a las 5 a proposito. El vigilante para a
+// las 21:40 CR y arranca a las 5:00, o sea 7h20 de silencio que
+// son normales. Revisando a las 5:00 en punto se ve ese hueco de
+// 7 horas y se grita en falso, porque el disparo de las 5:00
+// todavia no alcanzo a commitear. A las 6 ya lleva 3 corridas.
+// Se paga con detectar una caida de las 5 a.m. una hora tarde.
+var HORA_INICIO = 6;
 var HORA_FIN = 22;
 
 var FUENTES = ["Cluster0", "mongodb-atlas"];
@@ -139,8 +150,9 @@ exports = async function () {
   lineas.push("Para ver que paso:");
   lineas.push(acciones + "/actions");
   lineas.push("");
-  lineas.push("_Lo mas comun: GitHub desactiva los horarios en");
-  lineas.push("repos sin actividad. Se reactiva desde esa pagina._");
+  lineas.push("_Lo mas comun: el trigger dispararVacantes de");
+  lineas.push("Atlas dejo de disparar (PAT vencido o trigger");
+  lineas.push("suspendido). Revisalo en el panel de Atlas._");
   var mensaje = lineas.join("\n");
 
   var enviado = false;

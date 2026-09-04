@@ -26,19 +26,39 @@ WAHA es una Oracle E2.1.Micro de **1 GB** y su motor se eligió expresamente por
 traer Chromium — meterle uno ahí puede tumbar el WhatsApp de la sala. Actions es
 gratis e ilimitado en repos públicos.
 
+## Por qué el reloj NO es el cron de GitHub
+
+El workflow tiene su `schedule`, pero Actions lo cumple cuando quiere. El
+04/09/2026, con el workflow activo y sano, GitHub lanzó **4 corridas en 16 horas**
+en vez de las ~50 que pedía el cron, y uno de esos disparos llegó **4 horas tarde**
+(07:53 UTC, fuera de las dos ventanas configuradas). En repos públicos del plan
+gratis, los horarios de intervalo corto son lo primero que GitHub descarta cuando
+su cola va cargada. No se reactiva ni se arregla desde el repo.
+
+Así que el reloj vive afuera: el trigger `atlas/dispararVacantes.js` le pega al
+API de GitHub cada 20 minutos. Las corridas por `workflow_dispatch` **no** pasan
+por esa cola de horarios: se lanzan de una. El `schedule` del workflow se dejó
+puesto como red por si Atlas se cae — con suerte agrega unas pocas corridas, y el
+`concurrency` del workflow evita que dos se pisen.
+
 ## Archivos
 
 - `explorar.mjs` — herramienta de diagnóstico: abre la app y guarda en `salida/`
   la captura, el texto, el HTML ya dibujado y la estructura de controles.
 - `.github/workflows/explorar.yml` — corre el explorador a mano y hace commit de
   los resultados.
+- `atlas/dispararVacantes.js` — el reloj. Trigger de Atlas, cada 20 min, dispara
+  el workflow por `workflow_dispatch`.
+- `atlas/watchdogVacantes.js` — la alarma. Trigger de Atlas, cada hora, avisa por
+  WhatsApp si el último commit del repo tiene más de 3 horas (o sea: el vigilante
+  no está corriendo, o el disparador dejó de disparar).
 
 ## Cómo funciona
 
-Cada 20 minutos (de 5:00 a 22:00 hora de Costa Rica) GitHub Actions abre la app
-del MEP con Chromium, recorre el menú de direcciones regionales y lee la tabla de
-cada una. Se queda con las vacantes cuya especialidad calza con VT6 y manda un
-WhatsApp con las que no se hayan avisado antes.
+Cada 20 minutos (de 5:00 a 22:00 hora de Costa Rica) un trigger de Atlas dispara
+el workflow, que abre la app del MEP con Chromium, recorre el menú de direcciones
+regionales y lee la tabla de cada una. Se queda con las vacantes cuya especialidad
+calza con VT6 y manda un WhatsApp con las que no se hayan avisado antes.
 
 - **✅ calce exacto** — la especialidad es una de las 13 de la constancia.
 - **🔎 posible** — habla de informática pero no es idéntica a ninguna de las 13.
@@ -71,6 +91,21 @@ gh workflow run vigilar.yml -f modo=real     # manda de verdad
 
 Tres Secrets en GitHub: `WAHA_URL`, `WAHA_API_KEY` y `WAHA_CHAT_ID`. El envío lo
 hace la API de WAHA en la VM de Oracle, la misma que usa la sala de juegos.
+
+Y dos triggers en MongoDB Atlas (Scheduled, Authentication: System), cada uno con
+su secreto pegado a mano en el panel:
+
+| Trigger | Cron (UTC) | Necesita |
+|---|---|---|
+| `dispararVacantes` | `*/20 0-3,11-23 * * *` | PAT de GitHub, fine-grained, solo este repo, permiso **Actions: Read and write** |
+| `watchdogVacantes` | `0 * * * *` | la API key de WAHA |
+
+El watchdog empieza a vigilar a las **6:00** CR, no a las 5:00: entre las 21:40 y
+las 5:00 hay 7h20 de silencio que son normales, y revisando a las 5:00 en punto
+se vería ese hueco como una caída. A las 6 el disparador ya lleva tres corridas.
+
+Las copias con los secretos ya puestos van en `atlas/*LISTO-NO-SUBIR*`, que las
+ignora `.gitignore`.
 
 ## Qué NO cubre
 
