@@ -1,10 +1,11 @@
 {
-  "generado": "2026-09-04T18:00:41.538Z",
-  "totalPais": 19,
+  "generado": "2026-09-04T18:20:34.225Z",
+  "totalPais": 18,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Contabilidad",
+    "Educación Para El Hogar",
     "Equipos Interdisciplinarios / Orientación",
     "Equipos Interdisciplinarios / Social",
     "Estudios Sociales/Educación Cívica",
@@ -29,16 +30,6 @@
       "lecciones": "0",
       "rige": "04/09/2026",
       "vence": "15/10/2026"
-    },
-    {
-      "vacante": "1543753",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "El Carmen",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1542597",
@@ -111,6 +102,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1543922",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P. Invu Las Cañas",
+      "lecciones": "20",
+      "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1542634",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -151,42 +152,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543819",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Anita Grande (Jimenez)",
-      "lecciones": "0",
-      "rige": "05/09/2026",
-      "vence": "31/07/2031"
-    },
-    {
-      "vacante": "1543801",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Campo De Aterrizaje (Cariari)",
-      "lecciones": "0",
-      "rige": "05/09/2026",
-      "vence": "23/10/2026"
-    },
-    {
-      "vacante": "1542801",
-      "regional": "Direc. Regional Educacion Guapiles",
+      "vacante": "1543761",
+      "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Col. Noct. De Pocora",
+      "especialidad": "Física",
+      "institucion": "Unidad Pedagogica Rio Cuba",
       "lecciones": "3",
-      "rige": "01/09/2026",
+      "rige": "08/09/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543967",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Valle Azul",
-      "lecciones": "15",
+      "vacante": "1543811",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Cindea De Limon",
+      "lecciones": "5",
       "rige": "08/09/2026",
       "vence": "11/12/2026"
     },
