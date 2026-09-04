@@ -1,44 +1,24 @@
 {
-  "generado": "2026-09-04T08:01:33.779Z",
-  "totalPais": 51,
-  "calzanVT6": 1,
+  "generado": "2026-09-04T14:42:59.191Z",
+  "totalPais": 27,
+  "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Artes Plásticas/Artes Plásticas",
-    "Contabilidad",
     "Educación Física",
     "Educación Para El Hogar",
-    "Enseñanza Especial . Audición Y Lenguaje",
-    "Enseñanza Especial . Terapia Del Lenguaje",
-    "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
     "Estudios Sociales/Educación Cívica",
+    "Filosofía",
     "Física",
-    "Informática Educativa. Informática Para I Y Ii Ciclos",
-    "Informática En Desarrollo Del Software",
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
-    "Música/Música",
     "Religión",
     "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
-    "Sin Especialidad T-Ii",
-    "Turismo En Alimentos Y Bebidas"
+    "Sin Especialidad T-Ii"
   ],
-  "interesantes": [
-    {
-      "vacante": "1540577",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "C.C.M.Maria Mazzarello",
-      "lecciones": "25",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026",
-      "calce": "exacta"
-    }
-  ],
+  "interesantes": [],
   "todas": [
     {
       "vacante": "1543800",
@@ -61,6 +41,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1543843",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Labrador (Jesus Maria)",
+      "lecciones": "0",
+      "rige": "08/09/2026",
+      "vence": "31/07/2030"
+    },
+    {
       "vacante": "1543652",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -71,74 +61,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543556",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Rescate De Ujarraz (Santiago)",
-      "lecciones": "0",
-      "rige": "02/09/2026",
-      "vence": "18/10/2026"
-    },
-    {
-      "vacante": "1543375",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "C.T.P. De Matapalo",
-      "lecciones": "0",
-      "rige": "16/09/2026",
-      "vence": "31/01/2029"
-    },
-    {
-      "vacante": "1542702",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Tigre (Parrita)",
-      "lecciones": "0",
-      "rige": "27/08/2026",
-      "vence": "13/12/2026"
-    },
-    {
-      "vacante": "1543371",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Audición Y Lenguaje",
-      "institucion": "C.T.P. De Quepos",
-      "lecciones": "11",
-      "rige": "21/08/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543372",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "C.T.P. De Quepos",
-      "lecciones": "12",
-      "rige": "21/08/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543532",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "C.T.P. De Parrita",
+      "vacante": "1543848",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Liceo Labrador",
       "lecciones": "6",
-      "rige": "20/08/2026",
+      "rige": "08/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543395",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Turismo En Alimentos Y Bebidas",
-      "institucion": "C.T.P. De Jaco",
-      "lecciones": "40",
-      "rige": "21/09/2026",
-      "vence": "04/12/2026"
     },
     {
       "vacante": "1543695",
@@ -149,16 +79,6 @@
       "lecciones": "42",
       "rige": "07/09/2026",
       "vence": "30/10/2026"
-    },
-    {
-      "vacante": "1541232",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Aruba",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1543669",
@@ -231,16 +151,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543572",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Barrio Corazon De Jesus",
-      "lecciones": "0",
-      "rige": "04/09/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1543761",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -291,26 +201,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1537090",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo De Palmares",
-      "lecciones": "35",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1529433",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media Bilingüe (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo De Palmares",
-      "lecciones": "28",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543794",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -351,36 +241,6 @@
       "vence": "08/09/2026"
     },
     {
-      "vacante": "1542721",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Liceo De Esparza",
-      "lecciones": "34",
-      "rige": "27/08/2026",
-      "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1543647",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "C.T.P. De Pital",
-      "lecciones": "0",
-      "rige": "03/09/2026",
-      "vence": "06/11/2026"
-    },
-    {
-      "vacante": "1543774",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Capitan Manuel Quiros",
-      "lecciones": "12",
-      "rige": "03/09/2026",
-      "vence": "30/10/2026"
-    },
-    {
       "vacante": "1543650",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -391,94 +251,14 @@
       "vence": "11/10/2026"
     },
     {
-      "vacante": "1543340",
+      "vacante": "1543774",
       "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Gamonales",
-      "lecciones": "0",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Capitan Manuel Quiros",
+      "lecciones": "12",
       "rige": "03/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1542690",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Fernando Centeno Oficinas Centrales",
-      "lecciones": "0",
-      "rige": "26/08/2026",
-      "vence": "31/07/2031"
-    },
-    {
-      "vacante": "1543155",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Estado De Israel",
-      "lecciones": "40",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1542691",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
-      "institucion": "Inglaterra",
-      "lecciones": "40",
-      "rige": "16/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543255",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Cedros",
-      "lecciones": "0",
-      "rige": "01/09/2026",
-      "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1543275",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jose Cubero Muñoz",
-      "lecciones": "0",
-      "rige": "07/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1542715",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jose Ana Marin Cubero",
-      "lecciones": "0",
-      "rige": "27/08/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543268",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Manuel Maria Gutierrez Zamora",
-      "lecciones": "0",
-      "rige": "07/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1542686",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. Vasquez De Coronado",
-      "lecciones": "20",
-      "rige": "25/08/2026",
-      "vence": "11/12/2026"
+      "vence": "30/10/2026"
     },
     {
       "vacante": "1543664",
@@ -501,16 +281,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1540577",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "C.C.M.Maria Mazzarello",
-      "lecciones": "25",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543661",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -519,36 +289,6 @@
       "lecciones": "0",
       "rige": "03/09/2026",
       "vence": "30/10/2026"
-    },
-    {
-      "vacante": "1542700",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Katira",
-      "lecciones": "0",
-      "rige": "26/08/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1543142",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
-      "institucion": "La Katira",
-      "lecciones": "40",
-      "rige": "01/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543379",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo De Pavon",
-      "lecciones": "44",
-      "rige": "28/08/2026",
-      "vence": "16/11/2026"
     }
   ]
 }
