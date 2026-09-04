@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-04T20:40:35.119Z",
-  "totalPais": 16,
+  "generado": "2026-09-04T21:00:30.224Z",
+  "totalPais": 15,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -49,16 +49,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1543954",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Equipos Interdisciplinarios / Social",
-      "institucion": "California (Rio Segundo)",
-      "lecciones": "0",
-      "rige": "07/09/2026",
-      "vence": "07/03/2028"
-    },
-    {
       "vacante": "1541720",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
@@ -67,6 +57,16 @@
       "lecciones": "0",
       "rige": "08/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1543954",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Equipos Interdisciplinarios / Social",
+      "institucion": "California (Rio Segundo)",
+      "lecciones": "0",
+      "rige": "07/09/2026",
+      "vence": "07/03/2028"
     },
     {
       "vacante": "1543848",
@@ -107,16 +107,6 @@
       "lecciones": "44",
       "rige": "09/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543801",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Campo De Aterrizaje (Cariari)",
-      "lecciones": "0",
-      "rige": "05/09/2026",
-      "vence": "23/10/2026"
     },
     {
       "vacante": "1543819",
