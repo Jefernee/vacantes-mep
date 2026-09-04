@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-04T20:20:38.218Z",
-  "totalPais": 17,
+  "generado": "2026-09-04T20:37:41.877Z",
+  "totalPais": 16,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -11,7 +11,6 @@
     "Español",
     "Filosofía",
     "Francés",
-    "Labores Varias De Oficina",
     "Música/Música",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
@@ -19,16 +18,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1543800",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asistente De Asesoría Y Supervisión",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Dirección Regional De Educación Puriscal",
-      "lecciones": "0",
-      "rige": "04/09/2026",
-      "vence": "15/10/2026"
-    },
     {
       "vacante": "1542597",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -90,16 +79,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543922",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. Invu Las Cañas",
-      "lecciones": "20",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1542634",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -107,6 +86,16 @@
       "institucion": "Liceo De Carrillos",
       "lecciones": "14",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543922",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P. Invu Las Cañas",
+      "lecciones": "20",
+      "rige": "07/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -160,14 +149,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543794",
+      "vacante": "1544019",
       "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Liceo Rural Santiago De San Pe",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Barrio Nuevo (Pejibaye)",
       "lecciones": "0",
-      "rige": "05/09/2026",
-      "vence": "31/01/2029"
+      "rige": "08/09/2026",
+      "vence": "15/10/2026"
     },
     {
       "vacante": "1544004",
