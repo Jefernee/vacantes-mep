@@ -1,11 +1,10 @@
 {
-  "generado": "2026-09-05T17:20:35.417Z",
-  "totalPais": 9,
+  "generado": "2026-09-05T17:40:28.052Z",
+  "totalPais": 8,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
-    "Equipos Interdisciplinarios / Social",
     "Español",
     "Francés",
     "Inglés",
@@ -15,16 +14,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1543954",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Equipos Interdisciplinarios / Social",
-      "institucion": "California (Rio Segundo)",
-      "lecciones": "0",
-      "rige": "07/09/2026",
-      "vence": "07/03/2028"
-    },
     {
       "vacante": "1543997",
       "regional": "Direc. Regional Educacion Coto",
