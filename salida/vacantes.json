@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-05T01:01:39.380Z",
+  "generado": "2026-09-05T01:20:27.505Z",
   "totalPais": 16,
   "calzanVT6": 0,
   "advertencias": [],
@@ -80,16 +80,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543922",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. Invu Las Cañas",
-      "lecciones": "20",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1542634",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -97,6 +87,16 @@
       "institucion": "Liceo De Carrillos",
       "lecciones": "14",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543922",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P. Invu Las Cañas",
+      "lecciones": "20",
+      "rige": "07/09/2026",
       "vence": "11/12/2026"
     },
     {
