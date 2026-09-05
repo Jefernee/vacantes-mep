@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 111,
+      "vecesVista": 113,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-05T00:00:31.234Z",
+      "ultimaVez": "2026-09-05T00:20:41.819Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 161,
+      "vecesVista": 165,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-05T00:00:31.234Z",
+      "ultimaVez": "2026-09-05T00:20:41.819Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -51,9 +51,9 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 24,
+      "vecesVista": 25,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-05T00:00:31.234Z",
+      "ultimaVez": "2026-09-05T00:20:41.819Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 24,
+      "vecesVista": 25,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-05T00:00:31.234Z",
+      "ultimaVez": "2026-09-05T00:20:41.819Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,16 +93,16 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 17,
+      "vecesVista": 18,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-05T00:00:31.234Z",
+      "ultimaVez": "2026-09-05T00:20:41.819Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 31,
+      "vecesVista": 32,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-05T00:00:31.234Z",
+      "ultimaVez": "2026-09-05T00:20:41.819Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -135,9 +135,9 @@
     },
     "Contabilidad": {
       "calce": "no interesa",
-      "vecesVista": 31,
+      "vecesVista": 32,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-05T00:00:31.234Z",
+      "ultimaVez": "2026-09-05T00:20:41.819Z",
       "avisadaComoNueva": true
     },
     "Informática En Desarrollo Del Software": {
@@ -149,39 +149,39 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 28,
+      "vecesVista": 29,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-09-05T00:00:31.234Z",
+      "ultimaVez": "2026-09-05T00:20:41.819Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
       "calce": "no interesa",
-      "vecesVista": 24,
+      "vecesVista": 25,
       "primeraVez": "2026-09-04T17:00:36.807Z",
-      "ultimaVez": "2026-09-05T00:00:31.234Z",
+      "ultimaVez": "2026-09-05T00:20:41.819Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Social": {
       "calce": "no interesa",
-      "vecesVista": 22,
+      "vecesVista": 23,
       "primeraVez": "2026-09-04T17:40:39.152Z",
-      "ultimaVez": "2026-09-05T00:00:31.234Z",
+      "ultimaVez": "2026-09-05T00:20:41.819Z",
       "avisadaComoNueva": true
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 21,
+      "vecesVista": 22,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-09-05T00:00:31.234Z",
+      "ultimaVez": "2026-09-05T00:20:41.819Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
       "calce": "no interesa",
-      "vecesVista": 15,
+      "vecesVista": 16,
       "primeraVez": "2026-09-04T20:00:32.268Z",
-      "ultimaVez": "2026-09-05T00:00:31.234Z",
+      "ultimaVez": "2026-09-05T00:20:41.819Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-05T00:00:31.234Z"
+  "actualizado": "2026-09-05T00:20:41.819Z"
 }
