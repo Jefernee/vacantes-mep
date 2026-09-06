@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 283,
+      "vecesVista": 285,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-06T15:40:32.484Z",
+      "ultimaVez": "2026-09-06T16:00:31.420Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 328,
+      "vecesVista": 329,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-06T15:40:32.484Z",
+      "ultimaVez": "2026-09-06T16:00:31.420Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -51,9 +51,9 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 110,
+      "vecesVista": 111,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-06T15:40:32.484Z",
+      "ultimaVez": "2026-09-06T16:00:31.420Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 110,
+      "vecesVista": 111,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-06T15:40:32.484Z",
+      "ultimaVez": "2026-09-06T16:00:31.420Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 103,
+      "vecesVista": 104,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-06T15:40:32.484Z",
+      "ultimaVez": "2026-09-06T16:00:31.420Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -170,18 +170,18 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 107,
+      "vecesVista": 108,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-09-06T15:40:32.484Z",
+      "ultimaVez": "2026-09-06T16:00:31.420Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
       "calce": "no interesa",
-      "vecesVista": 101,
+      "vecesVista": 102,
       "primeraVez": "2026-09-04T20:00:32.268Z",
-      "ultimaVez": "2026-09-06T15:40:32.484Z",
+      "ultimaVez": "2026-09-06T16:00:31.420Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-06T15:40:32.484Z"
+  "actualizado": "2026-09-06T16:00:31.420Z"
 }
