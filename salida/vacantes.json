@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-07T20:20:41.592Z",
-  "totalPais": 43,
+  "generado": "2026-09-07T20:40:43.234Z",
+  "totalPais": 44,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -57,21 +57,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544058",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Matapalo (Las Juntas)",
-      "lecciones": "0",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544065",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Jose Ma Cald Mayorga (Tilaran)",
+      "lecciones": "0",
+      "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544058",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Matapalo (Las Juntas)",
       "lecciones": "0",
       "rige": "07/09/2026",
       "vence": "11/12/2026"
@@ -237,16 +237,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544013",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Col. Noct. De Pocora",
-      "lecciones": "3",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543962",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -254,6 +244,16 @@
       "institucion": "Ctp Las Palmitas",
       "lecciones": "44",
       "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544013",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Col. Noct. De Pocora",
+      "lecciones": "3",
+      "rige": "07/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -297,6 +297,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1544236",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Belen",
+      "lecciones": "4",
+      "rige": "09/08/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544233",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -307,14 +317,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544236",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Belen",
-      "lecciones": "4",
-      "rige": "09/08/2026",
-      "vence": "11/12/2026"
+      "vacante": "1544272",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Abanico (Peñas Blancas)",
+      "lecciones": "0",
+      "rige": "09/09/2026",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1542712",
