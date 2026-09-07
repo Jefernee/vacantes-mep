@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-07T21:00:43.995Z",
+  "generado": "2026-09-07T21:20:37.879Z",
   "totalPais": 47,
   "calzanVT6": 1,
   "advertencias": [],
@@ -77,13 +77,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544058",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Matapalo (Las Juntas)",
-      "lecciones": "0",
-      "rige": "07/09/2026",
+      "vacante": "1544287",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Prev Ens Esp Liceo San Jose",
+      "lecciones": "10",
+      "rige": "09/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -92,6 +92,16 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Jose Ma Cald Mayorga (Tilaran)",
+      "lecciones": "0",
+      "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544058",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Matapalo (Las Juntas)",
       "lecciones": "0",
       "rige": "07/09/2026",
       "vence": "11/12/2026"
@@ -207,16 +217,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544008",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Cindea Buenos Aires",
-      "lecciones": "33",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544231",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -225,6 +225,16 @@
       "lecciones": "35",
       "rige": "24/09/2026",
       "vence": "04/12/2026"
+    },
+    {
+      "vacante": "1544008",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Cindea Buenos Aires",
+      "lecciones": "33",
+      "rige": "14/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1539968",
@@ -237,16 +247,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544045",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Rita (Rita)",
-      "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "31/07/2029"
-    },
-    {
       "vacante": "1513133",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)",
@@ -257,16 +257,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543962",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Ctp Las Palmitas",
-      "lecciones": "44",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544013",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -274,6 +264,16 @@
       "institucion": "Col. Noct. De Pocora",
       "lecciones": "3",
       "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543962",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Ctp Las Palmitas",
+      "lecciones": "44",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -327,16 +327,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544236",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Belen",
-      "lecciones": "4",
-      "rige": "09/08/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544233",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -347,14 +337,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544272",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Abanico (Peñas Blancas)",
-      "lecciones": "0",
-      "rige": "09/09/2026",
-      "vence": "31/01/2028"
+      "vacante": "1544236",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Belen",
+      "lecciones": "4",
+      "rige": "09/08/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1542712",
@@ -365,6 +355,16 @@
       "lecciones": "0",
       "rige": "08/09/2026",
       "vence": "19/10/2026"
+    },
+    {
+      "vacante": "1544272",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Abanico (Peñas Blancas)",
+      "lecciones": "0",
+      "rige": "09/09/2026",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1544067",
