@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-07T18:00:43.452Z",
-  "totalPais": 35,
+  "generado": "2026-09-07T18:20:35.949Z",
+  "totalPais": 36,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -54,21 +54,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544058",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Matapalo (Las Juntas)",
-      "lecciones": "0",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544065",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Jose Ma Cald Mayorga (Tilaran)",
+      "lecciones": "0",
+      "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544058",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Matapalo (Las Juntas)",
       "lecciones": "0",
       "rige": "07/09/2026",
       "vence": "11/12/2026"
@@ -114,16 +114,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1536732",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Proyectos De Educacion Abierta",
-      "lecciones": "15",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543997",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -131,6 +121,16 @@
       "institucion": "C.T.P. De Corredores",
       "lecciones": "44",
       "rige": "09/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1536732",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Proyectos De Educacion Abierta",
+      "lecciones": "15",
+      "rige": "07/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -234,16 +234,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544000",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Turismo Rural",
-      "institucion": "C.T.P. De Guacimo",
-      "lecciones": "40",
-      "rige": "08/09/2026",
-      "vence": "12/10/2026"
-    },
-    {
       "vacante": "1543951",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -252,6 +242,16 @@
       "lecciones": "6",
       "rige": "09/09/2026",
       "vence": "24/11/2026"
+    },
+    {
+      "vacante": "1544000",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Turismo Rural",
+      "institucion": "C.T.P. De Guacimo",
+      "lecciones": "40",
+      "rige": "08/09/2026",
+      "vence": "12/10/2026"
     },
     {
       "vacante": "1544038",
@@ -342,6 +342,16 @@
       "lecciones": "40",
       "rige": "03/09/2026",
       "vence": "30/10/2026"
+    },
+    {
+      "vacante": "1544220",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Gamolotillo (Chires)",
+      "lecciones": "0",
+      "rige": "08/09/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1543875",
