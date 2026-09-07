@@ -1,13 +1,12 @@
 {
-  "generado": "2026-09-07T17:00:41.897Z",
-  "totalPais": 34,
+  "generado": "2026-09-07T17:20:47.726Z",
+  "totalPais": 31,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Ciencias",
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Educación Para El Hogar",
-    "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
     "Español",
     "Estudios Sociales/Educación Cívica",
@@ -94,53 +93,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544022",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Bilingue Italo-Costarricense",
-      "lecciones": "0",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1544056",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1536732",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Proyectos De Educacion Abierta",
-      "lecciones": "15",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543997",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "C.T.P. De Corredores",
-      "lecciones": "44",
-      "rige": "09/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543952",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Ñeque",
-      "lecciones": "0",
-      "rige": "14/09/2026",
+      "vacante": "1542724",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Turismo Rural",
+      "institucion": "C.T.P. De Jaco",
+      "lecciones": "20",
+      "rige": "03/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -171,6 +130,16 @@
       "institucion": "Guatuso (Patarra)",
       "lecciones": "0",
       "rige": "09/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543439",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Nieborowsky (Cortes)",
+      "lecciones": "0",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -340,7 +309,7 @@
       "especialidad": "Sin Especialidad T-I",
       "institucion": "Viento Fresco",
       "lecciones": "0",
-      "rige": "07/09/2026",
+      "rige": "08/09/2026",
       "vence": "31/01/2027"
     },
     {
