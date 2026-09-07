@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-07T21:20:37.879Z",
-  "totalPais": 47,
+  "generado": "2026-09-07T21:40:41.560Z",
+  "totalPais": 49,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -14,6 +14,7 @@
     "Estudios Sociales/Educación Cívica",
     "Executive Secretarial Management",
     "Inglés",
+    "Labores Varias De Oficina",
     "Música/Instrumento De Percusión",
     "Música/Música",
     "Psicología",
@@ -47,6 +48,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1544293",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Leon Cortes Castro (Guacima)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544274",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -57,11 +68,11 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544228",
+      "vacante": "1544298",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Cajon (Bolivar)",
+      "institucion": "Jose De San Martin (San Jose)",
       "lecciones": "0",
       "rige": "09/09/2026",
       "vence": "11/12/2026"
@@ -177,16 +188,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1542503",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Ctp Braulio Odio Herrera",
-      "lecciones": "44",
-      "rige": "27/08/2026",
-      "vence": "05/12/2026"
-    },
-    {
       "vacante": "1544148",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -195,6 +196,16 @@
       "lecciones": "29",
       "rige": "09/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1542503",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Ctp Braulio Odio Herrera",
+      "lecciones": "44",
+      "rige": "27/08/2026",
+      "vence": "05/12/2026"
     },
     {
       "vacante": "1544112",
@@ -257,16 +268,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544013",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Col. Noct. De Pocora",
-      "lecciones": "3",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543962",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -274,6 +275,16 @@
       "institucion": "Ctp Las Palmitas",
       "lecciones": "44",
       "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544013",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Col. Noct. De Pocora",
+      "lecciones": "3",
+      "rige": "07/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -347,16 +358,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1542712",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ermida Blanco Gonzalez",
-      "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "19/10/2026"
-    },
-    {
       "vacante": "1544272",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Cocinero",
@@ -367,6 +368,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1542712",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Ermida Blanco Gonzalez",
+      "lecciones": "0",
+      "rige": "08/09/2026",
+      "vence": "19/10/2026"
+    },
+    {
       "vacante": "1544067",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -375,6 +386,16 @@
       "lecciones": "0",
       "rige": "09/09/2026",
       "vence": "30/06/2027"
+    },
+    {
+      "vacante": "1544296",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "C.T.P. De Piedades Sur",
+      "lecciones": "0",
+      "rige": "09/09/2026",
+      "vence": "14/10/2026"
     },
     {
       "vacante": "1544098",
