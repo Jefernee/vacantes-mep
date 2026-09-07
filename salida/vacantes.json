@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-07T19:00:37.272Z",
-  "totalPais": 40,
+  "generado": "2026-09-07T19:20:39.258Z",
+  "totalPais": 41,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -116,16 +116,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1536732",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Proyectos De Educacion Abierta",
-      "lecciones": "15",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543997",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -133,6 +123,16 @@
       "institucion": "C.T.P. De Corredores",
       "lecciones": "44",
       "rige": "09/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1536732",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Proyectos De Educacion Abierta",
+      "lecciones": "15",
+      "rige": "07/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -243,6 +243,16 @@
       "institucion": "Ctp Las Palmitas",
       "lecciones": "44",
       "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544241",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "La Union (Guapiles)",
+      "lecciones": "0",
+      "rige": "11/09/2026",
       "vence": "11/12/2026"
     },
     {
