@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-07T19:20:39.258Z",
+  "generado": "2026-09-07T19:40:40.557Z",
   "totalPais": 41,
   "calzanVT6": 1,
   "advertencias": [],
@@ -186,16 +186,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544008",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Cindea Buenos Aires",
-      "lecciones": "33",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544231",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -204,6 +194,16 @@
       "lecciones": "35",
       "rige": "24/09/2026",
       "vence": "04/12/2026"
+    },
+    {
+      "vacante": "1544008",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Cindea Buenos Aires",
+      "lecciones": "33",
+      "rige": "14/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1539968",
