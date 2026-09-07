@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 377,
+      "vecesVista": 379,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-07T12:20:34.859Z",
+      "ultimaVez": "2026-09-07T12:40:32.494Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 375,
+      "vecesVista": 376,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-07T12:20:34.859Z",
+      "ultimaVez": "2026-09-07T12:40:32.494Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -51,9 +51,9 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 157,
+      "vecesVista": 158,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-07T12:20:34.859Z",
+      "ultimaVez": "2026-09-07T12:40:32.494Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 157,
+      "vecesVista": 158,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-07T12:20:34.859Z",
+      "ultimaVez": "2026-09-07T12:40:32.494Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 150,
+      "vecesVista": 151,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-07T12:20:34.859Z",
+      "ultimaVez": "2026-09-07T12:40:32.494Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,9 +107,9 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 24,
+      "vecesVista": 25,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-07T12:20:34.859Z",
+      "ultimaVez": "2026-09-07T12:40:32.494Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -170,18 +170,18 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 154,
+      "vecesVista": 155,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-09-07T12:20:34.859Z",
+      "ultimaVez": "2026-09-07T12:40:32.494Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
       "calce": "no interesa",
-      "vecesVista": 148,
+      "vecesVista": 149,
       "primeraVez": "2026-09-04T20:00:32.268Z",
-      "ultimaVez": "2026-09-07T12:20:34.859Z",
+      "ultimaVez": "2026-09-07T12:40:32.494Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-07T12:20:34.859Z"
+  "actualizado": "2026-09-07T12:40:32.494Z"
 }
