@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-07T16:40:39.824Z",
-  "totalPais": 33,
+  "generado": "2026-09-07T17:00:41.897Z",
+  "totalPais": 34,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -114,16 +114,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543997",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "C.T.P. De Corredores",
-      "lecciones": "44",
-      "rige": "09/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1536732",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -131,6 +121,16 @@
       "institucion": "Proyectos De Educacion Abierta",
       "lecciones": "15",
       "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543997",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "C.T.P. De Corredores",
+      "lecciones": "44",
+      "rige": "09/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -144,16 +144,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1542503",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Ctp Braulio Odio Herrera",
-      "lecciones": "44",
-      "rige": "27/08/2026",
-      "vence": "05/12/2026"
-    },
-    {
       "vacante": "1544148",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -162,6 +152,16 @@
       "lecciones": "29",
       "rige": "09/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1542503",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Ctp Braulio Odio Herrera",
+      "lecciones": "44",
+      "rige": "27/08/2026",
+      "vence": "05/12/2026"
     },
     {
       "vacante": "1544112",
@@ -204,16 +204,6 @@
       "vence": "31/07/2029"
     },
     {
-      "vacante": "1543962",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Ctp Las Palmitas",
-      "lecciones": "44",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544013",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -221,6 +211,16 @@
       "institucion": "Col. Noct. De Pocora",
       "lecciones": "3",
       "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543962",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Ctp Las Palmitas",
+      "lecciones": "44",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -262,6 +262,16 @@
       "lecciones": "0",
       "rige": "09/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544067",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Lorenzo Gonzalez Arguedas",
+      "lecciones": "0",
+      "rige": "09/09/2026",
+      "vence": "30/06/2027"
     },
     {
       "vacante": "1544098",
@@ -354,14 +364,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543368",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Cindea Coronado",
-      "lecciones": "34",
-      "rige": "03/09/2026",
-      "vence": "11/12/2026"
+      "vacante": "1544100",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Filadelfia (Filadelfia)",
+      "lecciones": "0",
+      "rige": "07/09/2026",
+      "vence": "16/10/2026"
     }
   ]
 }
