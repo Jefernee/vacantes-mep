@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-07T18:20:35.949Z",
+  "generado": "2026-09-07T18:40:39.586Z",
   "totalPais": 36,
   "calzanVT6": 1,
   "advertencias": [],
@@ -54,21 +54,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544065",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jose Ma Cald Mayorga (Tilaran)",
-      "lecciones": "0",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544058",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Matapalo (Las Juntas)",
+      "lecciones": "0",
+      "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544065",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Jose Ma Cald Mayorga (Tilaran)",
       "lecciones": "0",
       "rige": "07/09/2026",
       "vence": "11/12/2026"
