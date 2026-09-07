@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-07T22:00:38.149Z",
-  "totalPais": 48,
+  "generado": "2026-09-07T22:20:43.151Z",
+  "totalPais": 50,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,6 +12,7 @@
     "Enseñanza Especial . Retardo Mental",
     "Español",
     "Estudios Sociales/Educación Cívica",
+    "Executive Secretarial Management",
     "Inglés",
     "Labores Varias De Oficina",
     "Música/Instrumento De Percusión",
@@ -57,16 +58,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544293",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Leon Cortes Castro (Guacima)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544274",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -84,6 +75,16 @@
       "institucion": "Jose De San Martin (San Jose)",
       "lecciones": "0",
       "rige": "09/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544293",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Leon Cortes Castro (Guacima)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -137,33 +138,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544065",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jose Ma Cald Mayorga (Tilaran)",
-      "lecciones": "0",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544058",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Matapalo (Las Juntas)",
-      "lecciones": "0",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544152",
-      "regional": "Direc. Regional Educacion Cañas",
+      "vacante": "1542724",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Instrumento De Percusión",
-      "institucion": "Escuelas De Musica Cañas",
-      "lecciones": "22",
-      "rige": "07/08/2026",
+      "especialidad": "Turismo Rural",
+      "institucion": "C.T.P. De Jaco",
+      "lecciones": "20",
+      "rige": "03/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -217,16 +198,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544148",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Joaquin Gutierrez Mangel",
-      "lecciones": "29",
-      "rige": "09/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1542503",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -235,6 +206,16 @@
       "lecciones": "44",
       "rige": "27/08/2026",
       "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1544148",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Joaquin Gutierrez Mangel",
+      "lecciones": "29",
+      "rige": "09/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544112",
@@ -257,16 +238,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544008",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Cindea Buenos Aires",
-      "lecciones": "33",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544231",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -277,24 +248,74 @@
       "vence": "04/12/2026"
     },
     {
-      "vacante": "1542724",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Turismo Rural",
-      "institucion": "C.T.P. De Jaco",
-      "lecciones": "20",
-      "rige": "03/09/2026",
+      "vacante": "1544008",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Cindea Buenos Aires",
+      "lecciones": "33",
+      "rige": "14/09/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544038",
-      "regional": "Direc. Regional Educacion Heredia",
+      "vacante": "1539968",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Asistente De Dirección Centro Educativo 2",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Exp. Bilingue De Pococi",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1513133",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)",
+      "especialidad": "Executive Secretarial Management",
+      "institucion": "C.T.P. De Guacimo",
+      "lecciones": "12",
+      "rige": "09/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543962",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Ctp Las Palmitas",
+      "lecciones": "44",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544013",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Col. Noct. De Pocora",
+      "lecciones": "3",
+      "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544241",
+      "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
       "especialidad": "Inglés",
-      "institucion": "Los Lagos (San Francisco)",
+      "institucion": "La Union (Guapiles)",
       "lecciones": "0",
-      "rige": "04/09/2026",
-      "vence": "16/10/2026"
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543951",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo De Cariari",
+      "lecciones": "6",
+      "rige": "09/09/2026",
+      "vence": "24/11/2026"
     },
     {
       "vacante": "1544038",
@@ -305,6 +326,16 @@
       "lecciones": "0",
       "rige": "04/09/2026",
       "vence": "16/10/2026"
+    },
+    {
+      "vacante": "1539080",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1543913",
@@ -334,106 +365,6 @@
       "institucion": "Liceo Belen",
       "lecciones": "4",
       "rige": "09/08/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544233",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Belen",
-      "lecciones": "6",
-      "rige": "09/08/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544236",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Belen",
-      "lecciones": "4",
-      "rige": "09/08/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1539080",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "31/07/2031"
-    },
-    {
-      "vacante": "1544260",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Mercedes Norte (Mercedes Sur)",
-      "lecciones": "0",
-      "rige": "03/10/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1543911",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Eloy Morua Carrillo",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "26/01/2027"
-    },
-    {
-      "vacante": "1543915",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Orientador 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Picagres De Mora",
-      "lecciones": "0",
-      "rige": "03/09/2026",
-      "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1543902",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Rural Lanas",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "30/10/2026"
-    },
-    {
-      "vacante": "1544220",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Gamolotillo (Chires)",
-      "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "31/12/2026"
-    },
-    {
-      "vacante": "1543875",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Viento Fresco",
-      "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1544160",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "C.T.P. De Santa Rosa",
-      "lecciones": "12",
-      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -515,6 +446,96 @@
       "lecciones": "0",
       "rige": "09/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544260",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Mercedes Norte (Mercedes Sur)",
+      "lecciones": "0",
+      "rige": "03/10/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1543911",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Eloy Morua Carrillo",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "26/01/2027"
+    },
+    {
+      "vacante": "1543915",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Orientador 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Picagres De Mora",
+      "lecciones": "0",
+      "rige": "03/09/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1543902",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Rural Lanas",
+      "lecciones": "40",
+      "rige": "03/09/2026",
+      "vence": "30/10/2026"
+    },
+    {
+      "vacante": "1544220",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Gamolotillo (Chires)",
+      "lecciones": "0",
+      "rige": "08/09/2026",
+      "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1543875",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Viento Fresco",
+      "lecciones": "0",
+      "rige": "08/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544160",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "12",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543368",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Cindea Coronado",
+      "lecciones": "34",
+      "rige": "03/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544100",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Filadelfia (Filadelfia)",
+      "lecciones": "0",
+      "rige": "07/09/2026",
+      "vence": "16/10/2026"
     }
   ]
 }
