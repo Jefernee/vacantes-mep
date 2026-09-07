@@ -1,11 +1,12 @@
 {
-  "generado": "2026-09-07T11:40:34.281Z",
-  "totalPais": 8,
+  "generado": "2026-09-07T12:00:32.582Z",
+  "totalPais": 9,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
     "Español",
+    "Estudios Sociales/Educación Cívica",
     "Francés",
     "Inglés",
     "Sin Especialidad T-I",
@@ -14,6 +15,16 @@
   ],
   "interesantes": [],
   "todas": [
+    {
+      "vacante": "1540391",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo De Turrucares",
+      "lecciones": "44",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
     {
       "vacante": "1543997",
       "regional": "Direc. Regional Educacion Coto",
