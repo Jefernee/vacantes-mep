@@ -1,24 +1,35 @@
 {
-  "generado": "2026-09-07T16:00:59.230Z",
-  "totalPais": 32,
-  "calzanVT6": 0,
+  "generado": "2026-09-07T16:15:30.344Z",
+  "totalPais": 33,
+  "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Ciencias",
+    "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Inglés",
-    "Música/Instrumento De Percusión",
-    "Música/Música",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
     "Turismo Rural"
   ],
-  "interesantes": [],
+  "interesantes": [
+    {
+      "vacante": "1544160",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "12",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
+    }
+  ],
   "todas": [
     {
       "vacante": "1544106",
@@ -58,26 +69,6 @@
       "institucion": "Jose Ma Cald Mayorga (Tilaran)",
       "lecciones": "0",
       "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544135",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Instrumento De Percusión",
-      "institucion": "Escuelas De Musica Cañas",
-      "lecciones": "22",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1542724",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Turismo Rural",
-      "institucion": "C.T.P. De Jaco",
-      "lecciones": "20",
-      "rige": "03/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -131,33 +122,63 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544148",
-      "regional": "Direc. Regional Educacion Desamparados",
+      "vacante": "1544022",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Bilingue Italo-Costarricense",
+      "lecciones": "0",
+      "rige": "09/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544056",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "14/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1536732",
+      "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Joaquin Gutierrez Mangel",
-      "lecciones": "29",
+      "especialidad": "Español",
+      "institucion": "Proyectos De Educacion Abierta",
+      "lecciones": "15",
+      "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543997",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "C.T.P. De Corredores",
+      "lecciones": "44",
       "rige": "09/09/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1542503",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Ctp Braulio Odio Herrera",
-      "lecciones": "44",
-      "rige": "27/08/2026",
-      "vence": "05/12/2026"
+      "vacante": "1543952",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Ñeque",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "11/12/2026"
     },
     {
-      "vacante": "1544112",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Guatuso (Patarra)",
-      "lecciones": "0",
-      "rige": "09/09/2026",
+      "vacante": "1544008",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Cindea Buenos Aires",
+      "lecciones": "33",
+      "rige": "14/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -229,16 +250,6 @@
       "lecciones": "6",
       "rige": "09/09/2026",
       "vence": "24/11/2026"
-    },
-    {
-      "vacante": "1544038",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Los Lagos (San Francisco)",
-      "lecciones": "0",
-      "rige": "04/09/2026",
-      "vence": "16/10/2026"
     },
     {
       "vacante": "1543913",
@@ -319,6 +330,16 @@
       "lecciones": "0",
       "rige": "07/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544160",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "12",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1543368",
