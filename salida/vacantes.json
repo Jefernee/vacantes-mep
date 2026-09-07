@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-07T22:43:03.789Z",
-  "totalPais": 51,
+  "generado": "2026-09-07T23:00:42.792Z",
+  "totalPais": 50,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -17,7 +17,6 @@
     "Labores Varias De Oficina",
     "Música/Instrumento De Percusión",
     "Música/Música",
-    "Psicología",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
@@ -68,7 +67,7 @@
       "vence": "25/12/2026"
     },
     {
-      "vacante": "1544274",
+      "vacante": "1544298",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -78,7 +77,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544298",
+      "vacante": "1544274",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -358,34 +357,14 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544236",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Belen",
-      "lecciones": "4",
-      "rige": "09/08/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544233",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Belen",
-      "lecciones": "6",
-      "rige": "09/08/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544272",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Abanico (Peñas Blancas)",
+      "vacante": "1543913",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Tobias Vaglio",
       "lecciones": "0",
       "rige": "09/09/2026",
-      "vence": "31/01/2028"
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1542712",
@@ -396,6 +375,16 @@
       "lecciones": "0",
       "rige": "08/09/2026",
       "vence": "19/10/2026"
+    },
+    {
+      "vacante": "1544272",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Abanico (Peñas Blancas)",
+      "lecciones": "0",
+      "rige": "09/09/2026",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1544067",
