@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-07T15:00:49.801Z",
-  "totalPais": 31,
+  "generado": "2026-09-07T15:20:43.329Z",
+  "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -11,6 +11,7 @@
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Inglés",
+    "Música/Música",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
@@ -99,16 +100,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543997",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "C.T.P. De Corredores",
-      "lecciones": "44",
-      "rige": "09/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1536732",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -116,6 +107,16 @@
       "institucion": "Proyectos De Educacion Abierta",
       "lecciones": "15",
       "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543997",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "C.T.P. De Corredores",
+      "lecciones": "44",
+      "rige": "09/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -137,6 +138,16 @@
       "lecciones": "44",
       "rige": "27/08/2026",
       "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1544112",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Guatuso (Patarra)",
+      "lecciones": "0",
+      "rige": "09/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544008",
@@ -169,16 +180,6 @@
       "vence": "31/07/2029"
     },
     {
-      "vacante": "1543962",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Ctp Las Palmitas",
-      "lecciones": "44",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544013",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -197,6 +198,16 @@
       "lecciones": "44",
       "rige": "08/09/2026",
       "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1543962",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Ctp Las Palmitas",
+      "lecciones": "44",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1543951",
