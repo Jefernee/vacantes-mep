@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-08T15:40:43.021Z",
-  "totalPais": 66,
+  "generado": "2026-09-08T16:00:54.365Z",
+  "totalPais": 71,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -22,13 +22,15 @@
     "Labores Varias De Oficina",
     "Música/Instrumento De Percusión",
     "Música/Música",
+    "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
     "Procesos Productivos E Inspección En La Industria Alimentaria",
     "Psicología",
     "Química",
     "Religión",
     "Servicios Básicos",
     "Sin Especialidad T-I",
-    "Sin Especialidad T-Ii"
+    "Sin Especialidad T-Ii",
+    "Turismo Rural"
   ],
   "interesantes": [
     {
@@ -106,7 +108,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544274",
+      "vacante": "1544298",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -116,7 +118,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544298",
+      "vacante": "1544274",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -186,13 +188,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544117",
+      "vacante": "1544136",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Eugenio Corrales Bianchini",
+      "especialidad": "Religión",
+      "institucion": "Otto Mora Perez",
       "lecciones": "0",
-      "rige": "03/09/2026",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -206,13 +208,13 @@
       "vence": "22/10/2026"
     },
     {
-      "vacante": "1544136",
+      "vacante": "1544117",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Otto Mora Perez",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Eugenio Corrales Bianchini",
       "lecciones": "0",
-      "rige": "28/09/2026",
+      "rige": "03/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -256,6 +258,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544409",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Mariposa (Canoas)",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "31/01/2031"
+    },
+    {
       "vacante": "1544181",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
@@ -264,16 +276,6 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "20/11/2026"
-    },
-    {
-      "vacante": "1544148",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Joaquin Gutierrez Mangel",
-      "lecciones": "29",
-      "rige": "09/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1543439",
@@ -346,6 +348,16 @@
       "vence": "31/07/2031"
     },
     {
+      "vacante": "1544215",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "44",
+      "rige": "09/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544334",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -386,16 +398,6 @@
       "vence": "01/11/2026"
     },
     {
-      "vacante": "1542712",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ermida Blanco Gonzalez",
-      "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "19/10/2026"
-    },
-    {
       "vacante": "1544272",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Cocinero",
@@ -406,6 +408,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1542712",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Ermida Blanco Gonzalez",
+      "lecciones": "0",
+      "rige": "08/09/2026",
+      "vence": "19/10/2026"
+    },
+    {
       "vacante": "1544067",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -414,6 +426,16 @@
       "lecciones": "0",
       "rige": "09/09/2026",
       "vence": "30/06/2027"
+    },
+    {
+      "vacante": "1544435",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "El Progreso (Angeles)",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1544296",
@@ -506,6 +528,26 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544429",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Turismo Rural",
+      "institucion": "C.T.P. De Platanares",
+      "lecciones": "28",
+      "rige": "10/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544430",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
+      "institucion": "C.T.P. De Platanares",
+      "lecciones": "12",
+      "rige": "10/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544114",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -516,16 +558,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1544125",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. De Puntarenas",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544130",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -533,6 +565,16 @@
       "institucion": "C.T.P. De Puntarenas",
       "lecciones": "12",
       "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544125",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De Puntarenas",
+      "lecciones": "40",
+      "rige": "03/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -596,6 +638,16 @@
       "vence": "31/12/2026"
     },
     {
+      "vacante": "1544414",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Director De Colegio Técnico Y Profesional 3",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "C.T.P. Nataniel Arias Murillo",
+      "lecciones": "0",
+      "rige": "16/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1544404",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -646,6 +698,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1543781",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Franklin Roosevelt",
+      "lecciones": "40",
+      "rige": "03/09/2026",
+      "vence": "15/10/2026"
+    },
+    {
       "vacante": "1544077",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -664,16 +726,6 @@
       "lecciones": "44",
       "rige": "28/09/2026",
       "vence": "09/12/2026"
-    },
-    {
-      "vacante": "1543781",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Franklin Roosevelt",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "15/10/2026"
     },
     {
       "vacante": "1543778",
