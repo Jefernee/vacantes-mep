@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-08T03:00:42.064Z",
+  "generado": "2026-09-08T03:08:17.967Z",
   "totalPais": 51,
   "calzanVT6": 1,
   "advertencias": [],
@@ -68,7 +68,7 @@
       "vence": "25/12/2026"
     },
     {
-      "vacante": "1544274",
+      "vacante": "1544298",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -78,7 +78,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544298",
+      "vacante": "1544274",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -358,22 +358,22 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544236",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Belen",
-      "lecciones": "4",
-      "rige": "09/08/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544233",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
       "institucion": "Liceo Belen",
       "lecciones": "6",
+      "rige": "09/08/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544236",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Belen",
+      "lecciones": "4",
       "rige": "09/08/2026",
       "vence": "11/12/2026"
     },
