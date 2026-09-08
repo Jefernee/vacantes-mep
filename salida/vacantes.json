@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-08T13:20:41.173Z",
-  "totalPais": 39,
+  "generado": "2026-09-08T13:40:56.969Z",
+  "totalPais": 40,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -298,16 +298,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544236",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Belen",
-      "lecciones": "4",
-      "rige": "09/08/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544233",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -318,14 +308,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544272",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Abanico (Peñas Blancas)",
-      "lecciones": "0",
-      "rige": "09/09/2026",
-      "vence": "31/01/2028"
+      "vacante": "1544236",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Belen",
+      "lecciones": "4",
+      "rige": "09/08/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1542712",
@@ -336,6 +326,16 @@
       "lecciones": "0",
       "rige": "08/09/2026",
       "vence": "19/10/2026"
+    },
+    {
+      "vacante": "1544272",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Abanico (Peñas Blancas)",
+      "lecciones": "0",
+      "rige": "09/09/2026",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1544067",
@@ -406,6 +406,16 @@
       "lecciones": "12",
       "rige": "22/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544351",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Costa Rica (Diurno)",
+      "lecciones": "0",
+      "rige": "08/09/2026",
+      "vence": "02/01/2027"
     },
     {
       "vacante": "1543368",
