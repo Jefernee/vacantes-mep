@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-08T20:20:54.040Z",
+  "generado": "2026-09-08T20:40:48.320Z",
   "totalPais": 73,
   "calzanVT6": 1,
   "advertencias": [],
@@ -75,12 +75,12 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1544511",
+      "vacante": "1544510",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
-      "institucion": "Liceo El Paraiso",
-      "lecciones": "8",
+      "institucion": "Liceo Amb. De Horquetas",
+      "lecciones": "6",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -95,12 +95,12 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1544510",
+      "vacante": "1544511",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
-      "institucion": "Liceo Amb. De Horquetas",
-      "lecciones": "6",
+      "institucion": "Liceo El Paraiso",
+      "lecciones": "8",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -135,13 +135,13 @@
       "vence": "25/12/2026"
     },
     {
-      "vacante": "1544274",
+      "vacante": "1544293",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jose De San Martin (San Jose)",
+      "institucion": "Leon Cortes Castro (Guacima)",
       "lecciones": "0",
-      "rige": "09/09/2026",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -155,13 +155,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544293",
+      "vacante": "1544274",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Leon Cortes Castro (Guacima)",
+      "institucion": "Jose De San Martin (San Jose)",
       "lecciones": "0",
-      "rige": "01/10/2026",
+      "rige": "09/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -215,16 +215,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544117",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Eugenio Corrales Bianchini",
-      "lecciones": "0",
-      "rige": "03/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544136",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -245,22 +235,22 @@
       "vence": "22/10/2026"
     },
     {
+      "vacante": "1544117",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Eugenio Corrales Bianchini",
+      "lecciones": "0",
+      "rige": "03/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544155",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Inglés",
       "institucion": "Liceo Francisca Carrasco",
       "lecciones": "44",
-      "rige": "03/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544102",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
-      "institucion": "Liceo Braulio Carrillo",
-      "lecciones": "40",
       "rige": "03/09/2026",
       "vence": "11/12/2026"
     },
@@ -273,6 +263,16 @@
       "lecciones": "40",
       "rige": "07/09/2026",
       "vence": "24/11/2026"
+    },
+    {
+      "vacante": "1544102",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
+      "institucion": "Liceo Braulio Carrillo",
+      "lecciones": "40",
+      "rige": "03/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544184",
@@ -303,6 +303,16 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544549",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "El Encanto",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "17/12/2026"
     },
     {
       "vacante": "1544062",
@@ -425,14 +435,14 @@
       "vence": "01/11/2026"
     },
     {
-      "vacante": "1544272",
+      "vacante": "1544435",
       "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Cocinero",
+      "clasePuesto": "Conserje De Centro Educativo",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "Abanico (Peñas Blancas)",
+      "institucion": "El Progreso (Angeles)",
       "lecciones": "0",
-      "rige": "09/09/2026",
-      "vence": "31/01/2028"
+      "rige": "10/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1544067",
@@ -443,16 +453,6 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "30/06/2027"
-    },
-    {
-      "vacante": "1544435",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "El Progreso (Angeles)",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1544412",
@@ -495,6 +495,26 @@
       "vence": "19/11/2026"
     },
     {
+      "vacante": "1544099",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Colegio Academico Tambor De Cobano",
+      "lecciones": "6",
+      "rige": "08/09/2026",
+      "vence": "27/11/2026"
+    },
+    {
+      "vacante": "1544097",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "Colegio Academico Tambor De Cobano",
+      "lecciones": "6",
+      "rige": "08/09/2026",
+      "vence": "27/11/2026"
+    },
+    {
       "vacante": "1544156",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -522,26 +542,6 @@
       "institucion": "Cindea Paquera",
       "lecciones": "4",
       "rige": "02/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1544097",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Colegio Academico Tambor De Cobano",
-      "lecciones": "6",
-      "rige": "08/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1544099",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Colegio Academico Tambor De Cobano",
-      "lecciones": "6",
-      "rige": "08/09/2026",
       "vence": "27/11/2026"
     },
     {
