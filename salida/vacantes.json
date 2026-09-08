@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-08T15:20:42.512Z",
-  "totalPais": 63,
+  "generado": "2026-09-08T15:40:43.021Z",
+  "totalPais": 66,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -106,7 +106,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544298",
+      "vacante": "1544274",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -116,7 +116,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544274",
+      "vacante": "1544298",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -196,16 +196,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544136",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Otto Mora Perez",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544104",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -214,6 +204,16 @@
       "lecciones": "0",
       "rige": "02/09/2026",
       "vence": "22/10/2026"
+    },
+    {
+      "vacante": "1544136",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Otto Mora Perez",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544155",
@@ -304,6 +304,26 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "23/12/2026"
+    },
+    {
+      "vacante": "1544424",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Suerre (Jimenez)",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1544418",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Balsaville (Rio Jimenez)",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1544241",
@@ -584,6 +604,16 @@
       "lecciones": "0",
       "rige": "14/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544420",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Sonafluca",
+      "lecciones": "11",
+      "rige": "08/09/2026",
+      "vence": "30/10/2026"
     },
     {
       "vacante": "1544160",
