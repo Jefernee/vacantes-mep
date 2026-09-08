@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-08T11:20:42.806Z",
+  "generado": "2026-09-08T11:40:40.150Z",
   "totalPais": 51,
   "calzanVT6": 1,
   "advertencias": [],
@@ -68,7 +68,7 @@
       "vence": "25/12/2026"
     },
     {
-      "vacante": "1544274",
+      "vacante": "1544298",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -78,7 +78,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544298",
+      "vacante": "1544274",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -208,16 +208,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544148",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Joaquin Gutierrez Mangel",
-      "lecciones": "29",
-      "rige": "09/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1542503",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -226,6 +216,16 @@
       "lecciones": "44",
       "rige": "27/08/2026",
       "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1544148",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Joaquin Gutierrez Mangel",
+      "lecciones": "29",
+      "rige": "09/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544112",
@@ -248,16 +248,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544008",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Cindea Buenos Aires",
-      "lecciones": "33",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544231",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -266,6 +256,16 @@
       "lecciones": "35",
       "rige": "24/09/2026",
       "vence": "04/12/2026"
+    },
+    {
+      "vacante": "1544008",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Cindea Buenos Aires",
+      "lecciones": "33",
+      "rige": "14/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1539968",
