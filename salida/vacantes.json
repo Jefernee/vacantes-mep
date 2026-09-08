@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-08T15:00:45.062Z",
-  "totalPais": 62,
+  "generado": "2026-09-08T15:20:42.512Z",
+  "totalPais": 63,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -196,16 +196,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544104",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ricardo Jimenez Oreamuno",
-      "lecciones": "0",
-      "rige": "02/09/2026",
-      "vence": "22/10/2026"
-    },
-    {
       "vacante": "1544136",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -214,6 +204,16 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544104",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Ricardo Jimenez Oreamuno",
+      "lecciones": "0",
+      "rige": "02/09/2026",
+      "vence": "22/10/2026"
     },
     {
       "vacante": "1544155",
@@ -256,14 +256,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544184",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Tarcoles (Jaco)",
+      "vacante": "1544181",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Jorge Volio Jimenez",
       "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "11/12/2026"
+      "rige": "10/09/2026",
+      "vence": "20/11/2026"
     },
     {
       "vacante": "1544148",
@@ -366,16 +366,6 @@
       "vence": "01/11/2026"
     },
     {
-      "vacante": "1544272",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Abanico (Peñas Blancas)",
-      "lecciones": "0",
-      "rige": "09/09/2026",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1542712",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Cocinero",
@@ -384,6 +374,16 @@
       "lecciones": "0",
       "rige": "08/09/2026",
       "vence": "19/10/2026"
+    },
+    {
+      "vacante": "1544272",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Abanico (Peñas Blancas)",
+      "lecciones": "0",
+      "rige": "09/09/2026",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1544067",
@@ -446,20 +446,20 @@
       "vence": "27/11/2026"
     },
     {
-      "vacante": "1544099",
+      "vacante": "1544097",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Física",
       "institucion": "Colegio Academico Tambor De Cobano",
       "lecciones": "6",
       "rige": "08/09/2026",
       "vence": "27/11/2026"
     },
     {
-      "vacante": "1544097",
+      "vacante": "1544099",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
+      "especialidad": "Química",
       "institucion": "Colegio Academico Tambor De Cobano",
       "lecciones": "6",
       "rige": "08/09/2026",
@@ -576,6 +576,16 @@
       "vence": "31/12/2026"
     },
     {
+      "vacante": "1544404",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Martin (Quesada)",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544160",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -606,16 +616,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1543781",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Franklin Roosevelt",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "15/10/2026"
-    },
-    {
       "vacante": "1544077",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -634,6 +634,16 @@
       "lecciones": "44",
       "rige": "28/09/2026",
       "vence": "09/12/2026"
+    },
+    {
+      "vacante": "1543781",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Franklin Roosevelt",
+      "lecciones": "40",
+      "rige": "03/09/2026",
+      "vence": "15/10/2026"
     },
     {
       "vacante": "1543778",
