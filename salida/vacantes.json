@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-08T12:21:18.568Z",
+  "generado": "2026-09-08T12:40:39.647Z",
   "totalPais": 50,
   "calzanVT6": 1,
   "advertencias": [],
@@ -68,16 +68,6 @@
       "vence": "25/12/2026"
     },
     {
-      "vacante": "1544293",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Leon Cortes Castro (Guacima)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544274",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -95,6 +85,16 @@
       "institucion": "Jose De San Martin (San Jose)",
       "lecciones": "0",
       "rige": "09/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544293",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Leon Cortes Castro (Guacima)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -198,16 +198,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1542503",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Ctp Braulio Odio Herrera",
-      "lecciones": "44",
-      "rige": "27/08/2026",
-      "vence": "05/12/2026"
-    },
-    {
       "vacante": "1544148",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -216,6 +206,16 @@
       "lecciones": "29",
       "rige": "09/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1542503",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Ctp Braulio Odio Herrera",
+      "lecciones": "44",
+      "rige": "27/08/2026",
+      "vence": "05/12/2026"
     },
     {
       "vacante": "1544112",
@@ -238,16 +238,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544008",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Cindea Buenos Aires",
-      "lecciones": "33",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544231",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -256,6 +246,16 @@
       "lecciones": "35",
       "rige": "24/09/2026",
       "vence": "04/12/2026"
+    },
+    {
+      "vacante": "1544008",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Cindea Buenos Aires",
+      "lecciones": "33",
+      "rige": "14/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1539968",
@@ -348,22 +348,22 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544233",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Belen",
-      "lecciones": "6",
-      "rige": "09/08/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544236",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Religión",
       "institucion": "Liceo Belen",
       "lecciones": "4",
+      "rige": "09/08/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544233",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Belen",
+      "lecciones": "6",
       "rige": "09/08/2026",
       "vence": "11/12/2026"
     },
