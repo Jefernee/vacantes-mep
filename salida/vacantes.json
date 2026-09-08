@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-08T11:00:48.209Z",
+  "generado": "2026-09-08T11:20:42.806Z",
   "totalPais": 51,
   "calzanVT6": 1,
   "advertencias": [],
@@ -68,7 +68,7 @@
       "vence": "25/12/2026"
     },
     {
-      "vacante": "1544298",
+      "vacante": "1544274",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -78,7 +78,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544274",
+      "vacante": "1544298",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -378,16 +378,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1542712",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ermida Blanco Gonzalez",
-      "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "19/10/2026"
-    },
-    {
       "vacante": "1544272",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Cocinero",
@@ -396,6 +386,16 @@
       "lecciones": "0",
       "rige": "09/09/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1542712",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Ermida Blanco Gonzalez",
+      "lecciones": "0",
+      "rige": "08/09/2026",
+      "vence": "19/10/2026"
     },
     {
       "vacante": "1544067",
