@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-07T23:40:37.237Z",
+  "generado": "2026-09-08T00:00:44.204Z",
   "totalPais": 51,
   "calzanVT6": 1,
   "advertencias": [],
@@ -208,16 +208,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1542503",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Ctp Braulio Odio Herrera",
-      "lecciones": "44",
-      "rige": "27/08/2026",
-      "vence": "05/12/2026"
-    },
-    {
       "vacante": "1544148",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -226,6 +216,16 @@
       "lecciones": "29",
       "rige": "09/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1542503",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Ctp Braulio Odio Herrera",
+      "lecciones": "44",
+      "rige": "27/08/2026",
+      "vence": "05/12/2026"
     },
     {
       "vacante": "1544112",
