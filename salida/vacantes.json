@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-08T00:40:36.687Z",
+  "generado": "2026-09-08T00:52:39.211Z",
   "totalPais": 51,
   "calzanVT6": 1,
   "advertencias": [],
@@ -208,16 +208,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544148",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Joaquin Gutierrez Mangel",
-      "lecciones": "29",
-      "rige": "09/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1542503",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -226,6 +216,16 @@
       "lecciones": "44",
       "rige": "27/08/2026",
       "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1544148",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Joaquin Gutierrez Mangel",
+      "lecciones": "29",
+      "rige": "09/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544112",
@@ -248,16 +248,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544231",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Concepcion",
-      "lecciones": "35",
-      "rige": "24/09/2026",
-      "vence": "04/12/2026"
-    },
-    {
       "vacante": "1544008",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -266,6 +256,16 @@
       "lecciones": "33",
       "rige": "14/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544231",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Concepcion",
+      "lecciones": "35",
+      "rige": "24/09/2026",
+      "vence": "04/12/2026"
     },
     {
       "vacante": "1539968",
@@ -288,16 +288,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544013",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Col. Noct. De Pocora",
-      "lecciones": "3",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543962",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -305,6 +295,16 @@
       "institucion": "Ctp Las Palmitas",
       "lecciones": "44",
       "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544013",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Col. Noct. De Pocora",
+      "lecciones": "3",
+      "rige": "07/09/2026",
       "vence": "11/12/2026"
     },
     {
