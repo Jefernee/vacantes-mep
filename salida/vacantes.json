@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-08T21:20:45.024Z",
-  "totalPais": 69,
+  "generado": "2026-09-08T21:40:42.445Z",
+  "totalPais": 68,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -17,7 +17,6 @@
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Informática En Programación",
     "Inglés",
-    "Labores Varias De Oficina",
     "Música/Música",
     "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
     "Orientación",
@@ -65,26 +64,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1544505",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo La Virgen",
-      "lecciones": "9",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
-      "vacante": "1544508",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Diurno De Rio Frio",
-      "lecciones": "21",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
       "vacante": "1544511",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -101,6 +80,26 @@
       "especialidad": "Psicología",
       "institucion": "Liceo Amb. De Horquetas",
       "lecciones": "6",
+      "rige": "09/09/2026",
+      "vence": "17/11/2026"
+    },
+    {
+      "vacante": "1544505",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo La Virgen",
+      "lecciones": "9",
+      "rige": "09/09/2026",
+      "vence": "17/11/2026"
+    },
+    {
+      "vacante": "1544508",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Diurno De Rio Frio",
+      "lecciones": "21",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -165,16 +164,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544104",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ricardo Jimenez Oreamuno",
-      "lecciones": "0",
-      "rige": "02/09/2026",
-      "vence": "22/10/2026"
-    },
-    {
       "vacante": "1544117",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -183,6 +172,16 @@
       "lecciones": "0",
       "rige": "03/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544104",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Ricardo Jimenez Oreamuno",
+      "lecciones": "0",
+      "rige": "02/09/2026",
+      "vence": "22/10/2026"
     },
     {
       "vacante": "1544155",
@@ -195,16 +194,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544129",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Dibujo Técnico",
-      "institucion": "C.T.P. Fernando Volio Jimenez",
-      "lecciones": "40",
-      "rige": "07/09/2026",
-      "vence": "24/11/2026"
-    },
-    {
       "vacante": "1544102",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -213,6 +202,16 @@
       "lecciones": "40",
       "rige": "03/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544129",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Dibujo Técnico",
+      "institucion": "C.T.P. Fernando Volio Jimenez",
+      "lecciones": "40",
+      "rige": "07/09/2026",
+      "vence": "24/11/2026"
     },
     {
       "vacante": "1544184",
@@ -255,16 +254,6 @@
       "vence": "17/12/2026"
     },
     {
-      "vacante": "1544062",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Manuel Maria Gutierrez Z.",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "23/12/2026"
-    },
-    {
       "vacante": "1544424",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -273,6 +262,16 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1544062",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Manuel Maria Gutierrez Z.",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "23/12/2026"
     },
     {
       "vacante": "1544418",
@@ -395,16 +394,6 @@
       "vence": "01/11/2026"
     },
     {
-      "vacante": "1544067",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Lorenzo Gonzalez Arguedas",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "30/06/2027"
-    },
-    {
       "vacante": "1544435",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -415,6 +404,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1544067",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Lorenzo Gonzalez Arguedas",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "30/06/2027"
+    },
+    {
       "vacante": "1544412",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
@@ -423,16 +422,6 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1544296",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "C.T.P. De Piedades Sur",
-      "lecciones": "0",
-      "rige": "09/09/2026",
-      "vence": "14/10/2026"
     },
     {
       "vacante": "1544486",
@@ -665,6 +654,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1543781",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Franklin Roosevelt",
+      "lecciones": "40",
+      "rige": "03/09/2026",
+      "vence": "15/10/2026"
+    },
+    {
       "vacante": "1544077",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -683,16 +682,6 @@
       "lecciones": "44",
       "rige": "28/09/2026",
       "vence": "09/12/2026"
-    },
-    {
-      "vacante": "1543781",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Franklin Roosevelt",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "15/10/2026"
     },
     {
       "vacante": "1543778",
