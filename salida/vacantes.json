@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-08T12:40:39.647Z",
-  "totalPais": 50,
+  "generado": "2026-09-08T13:00:46.832Z",
+  "totalPais": 39,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -68,7 +68,7 @@
       "vence": "25/12/2026"
     },
     {
-      "vacante": "1544274",
+      "vacante": "1544298",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -78,7 +78,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544298",
+      "vacante": "1544274",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -108,6 +108,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544058",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Matapalo (Las Juntas)",
+      "lecciones": "0",
+      "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544065",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -118,12 +128,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544058",
+      "vacante": "1544265",
       "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Matapalo (Las Juntas)",
-      "lecciones": "0",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "I.P.E.C. De Cañas",
+      "lecciones": "6",
       "rige": "07/09/2026",
       "vence": "11/12/2026"
     },
@@ -146,16 +156,6 @@
       "lecciones": "20",
       "rige": "03/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544022",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Bilingue Italo-Costarricense",
-      "lecciones": "0",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1544181",
@@ -188,14 +188,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543952",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Ñeque",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
+      "vacante": "1542503",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Ctp Braulio Odio Herrera",
+      "lecciones": "44",
+      "rige": "27/08/2026",
+      "vence": "05/12/2026"
     },
     {
       "vacante": "1544148",
@@ -206,16 +206,6 @@
       "lecciones": "29",
       "rige": "09/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1542503",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Ctp Braulio Odio Herrera",
-      "lecciones": "44",
-      "rige": "27/08/2026",
-      "vence": "05/12/2026"
     },
     {
       "vacante": "1544112",
@@ -248,26 +238,6 @@
       "vence": "04/12/2026"
     },
     {
-      "vacante": "1544008",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Cindea Buenos Aires",
-      "lecciones": "33",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1539968",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Asistente De Dirección Centro Educativo 2",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Exp. Bilingue De Pococi",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1513133",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)",
@@ -275,26 +245,6 @@
       "institucion": "C.T.P. De Guacimo",
       "lecciones": "12",
       "rige": "09/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544013",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Col. Noct. De Pocora",
-      "lecciones": "3",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543962",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Ctp Las Palmitas",
-      "lecciones": "44",
-      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -338,24 +288,14 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1543913",
+      "vacante": "1544334",
       "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Tobias Vaglio",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Clemente (Limon)",
       "lecciones": "0",
-      "rige": "09/09/2026",
+      "rige": "10/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1544236",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Belen",
-      "lecciones": "4",
-      "rige": "09/08/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1544233",
@@ -368,14 +308,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1542712",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ermida Blanco Gonzalez",
-      "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "19/10/2026"
+      "vacante": "1544236",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Belen",
+      "lecciones": "4",
+      "rige": "09/08/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544272",
@@ -386,6 +326,16 @@
       "lecciones": "0",
       "rige": "09/09/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1542712",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Ermida Blanco Gonzalez",
+      "lecciones": "0",
+      "rige": "08/09/2026",
+      "vence": "19/10/2026"
     },
     {
       "vacante": "1544067",
@@ -418,26 +368,6 @@
       "vence": "02/11/2026"
     },
     {
-      "vacante": "1542849",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "17",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1542560",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Sagrada Familia",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544230",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -458,36 +388,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1543911",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Eloy Morua Carrillo",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "26/01/2027"
-    },
-    {
-      "vacante": "1543915",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Orientador 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Picagres De Mora",
-      "lecciones": "0",
-      "rige": "03/09/2026",
-      "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1543902",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Rural Lanas",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "30/10/2026"
-    },
-    {
       "vacante": "1544220",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
@@ -496,16 +396,6 @@
       "lecciones": "0",
       "rige": "08/09/2026",
       "vence": "31/12/2026"
-    },
-    {
-      "vacante": "1543875",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Viento Fresco",
-      "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1544160",
