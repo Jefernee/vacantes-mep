@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-08T02:00:39.291Z",
+  "generado": "2026-09-08T02:20:44.850Z",
   "totalPais": 51,
   "calzanVT6": 1,
   "advertencias": [],
@@ -248,16 +248,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544231",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Concepcion",
-      "lecciones": "35",
-      "rige": "24/09/2026",
-      "vence": "04/12/2026"
-    },
-    {
       "vacante": "1544008",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -266,6 +256,16 @@
       "lecciones": "33",
       "rige": "14/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544231",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Concepcion",
+      "lecciones": "35",
+      "rige": "24/09/2026",
+      "vence": "04/12/2026"
     },
     {
       "vacante": "1539968",
@@ -288,16 +288,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543962",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Ctp Las Palmitas",
-      "lecciones": "44",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544013",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -305,6 +295,16 @@
       "institucion": "Col. Noct. De Pocora",
       "lecciones": "3",
       "rige": "07/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543962",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Ctp Las Palmitas",
+      "lecciones": "44",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -378,16 +378,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1542712",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ermida Blanco Gonzalez",
-      "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "19/10/2026"
-    },
-    {
       "vacante": "1544272",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Cocinero",
@@ -396,6 +386,16 @@
       "lecciones": "0",
       "rige": "09/09/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1542712",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Ermida Blanco Gonzalez",
+      "lecciones": "0",
+      "rige": "08/09/2026",
+      "vence": "19/10/2026"
     },
     {
       "vacante": "1544067",
