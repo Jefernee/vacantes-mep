@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-08T14:00:49.919Z",
-  "totalPais": 68,
+  "generado": "2026-09-08T14:20:47.564Z",
+  "totalPais": 69,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,6 +9,7 @@
     "Dibujo Técnico",
     "Educación Física",
     "Educación Para El Hogar",
+    "Electromecánica",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
     "Español",
@@ -96,7 +97,7 @@
       "vence": "25/12/2026"
     },
     {
-      "vacante": "1544298",
+      "vacante": "1544274",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -106,7 +107,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544274",
+      "vacante": "1544298",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -186,6 +187,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544117",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Eugenio Corrales Bianchini",
+      "lecciones": "0",
+      "rige": "03/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544136",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -206,22 +217,22 @@
       "vence": "22/10/2026"
     },
     {
-      "vacante": "1544117",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Eugenio Corrales Bianchini",
-      "lecciones": "0",
-      "rige": "03/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544155",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Inglés",
       "institucion": "Liceo Francisca Carrasco",
       "lecciones": "44",
+      "rige": "03/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544102",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
+      "institucion": "Liceo Braulio Carrillo",
+      "lecciones": "40",
       "rige": "03/09/2026",
       "vence": "11/12/2026"
     },
@@ -234,16 +245,6 @@
       "lecciones": "40",
       "rige": "07/09/2026",
       "vence": "24/11/2026"
-    },
-    {
-      "vacante": "1544102",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
-      "institucion": "Liceo Braulio Carrillo",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1544184",
@@ -286,16 +287,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544148",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Joaquin Gutierrez Mangel",
-      "lecciones": "29",
-      "rige": "09/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1542503",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -304,6 +295,16 @@
       "lecciones": "44",
       "rige": "27/08/2026",
       "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1544148",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Joaquin Gutierrez Mangel",
+      "lecciones": "29",
+      "rige": "09/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544112",
@@ -386,6 +387,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1544233",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Belen",
+      "lecciones": "6",
+      "rige": "09/08/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544236",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -396,14 +407,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544233",
+      "vacante": "1544376",
       "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Belen",
-      "lecciones": "6",
-      "rige": "09/08/2026",
-      "vence": "11/12/2026"
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Electromecánica",
+      "institucion": "C.T.P. De Corralillo",
+      "lecciones": "16",
+      "rige": "10/09/2026",
+      "vence": "01/11/2026"
     },
     {
       "vacante": "1544272",
@@ -496,20 +507,20 @@
       "vence": "27/11/2026"
     },
     {
-      "vacante": "1544133",
+      "vacante": "1544134",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
+      "especialidad": "Química",
       "institucion": "Cindea Paquera",
       "lecciones": "4",
       "rige": "02/09/2026",
       "vence": "27/11/2026"
     },
     {
-      "vacante": "1544134",
+      "vacante": "1544133",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Física",
       "institucion": "Cindea Paquera",
       "lecciones": "4",
       "rige": "02/09/2026",
