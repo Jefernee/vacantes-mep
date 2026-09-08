@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-08T17:00:47.173Z",
-  "totalPais": 67,
+  "generado": "2026-09-08T17:20:47.292Z",
+  "totalPais": 68,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -164,16 +164,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544136",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Otto Mora Perez",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544117",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -181,6 +171,16 @@
       "institucion": "Eugenio Corrales Bianchini",
       "lecciones": "0",
       "rige": "03/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544136",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Otto Mora Perez",
+      "lecciones": "0",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -204,16 +204,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544129",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Dibujo Técnico",
-      "institucion": "C.T.P. Fernando Volio Jimenez",
-      "lecciones": "40",
-      "rige": "07/09/2026",
-      "vence": "24/11/2026"
-    },
-    {
       "vacante": "1544102",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -224,14 +214,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544184",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Tarcoles (Jaco)",
-      "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "11/12/2026"
+      "vacante": "1544129",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Dibujo Técnico",
+      "institucion": "C.T.P. Fernando Volio Jimenez",
+      "lecciones": "40",
+      "rige": "07/09/2026",
+      "vence": "24/11/2026"
     },
     {
       "vacante": "1544184",
@@ -244,14 +234,24 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544184",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Tarcoles (Jaco)",
+      "vacante": "1544409",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Mariposa (Canoas)",
       "lecciones": "0",
-      "rige": "08/09/2026",
-      "vence": "11/12/2026"
+      "rige": "17/09/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1544181",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Jorge Volio Jimenez",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "20/11/2026"
     },
     {
       "vacante": "1513133",
@@ -384,6 +384,16 @@
       "vence": "19/10/2026"
     },
     {
+      "vacante": "1544067",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Lorenzo Gonzalez Arguedas",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "30/06/2027"
+    },
+    {
       "vacante": "1544435",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -424,6 +434,36 @@
       "vence": "19/11/2026"
     },
     {
+      "vacante": "1544156",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P. De Paquera",
+      "lecciones": "12",
+      "rige": "07/09/2026",
+      "vence": "27/11/2026"
+    },
+    {
+      "vacante": "1544134",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Cindea Paquera",
+      "lecciones": "4",
+      "rige": "02/09/2026",
+      "vence": "27/11/2026"
+    },
+    {
+      "vacante": "1544133",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "Cindea Paquera",
+      "lecciones": "4",
+      "rige": "02/09/2026",
+      "vence": "27/11/2026"
+    },
+    {
       "vacante": "1544097",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -441,36 +481,6 @@
       "institucion": "Colegio Academico Tambor De Cobano",
       "lecciones": "6",
       "rige": "08/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1544156",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "C.T.P. De Paquera",
-      "lecciones": "12",
-      "rige": "07/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1544133",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Cindea Paquera",
-      "lecciones": "4",
-      "rige": "02/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1544134",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Cindea Paquera",
-      "lecciones": "4",
-      "rige": "02/09/2026",
       "vence": "27/11/2026"
     },
     {
@@ -514,16 +524,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1544130",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. De Puntarenas",
-      "lecciones": "12",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544125",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -531,6 +531,16 @@
       "institucion": "C.T.P. De Puntarenas",
       "lecciones": "40",
       "rige": "03/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544130",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De Puntarenas",
+      "lecciones": "12",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -644,6 +654,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1543781",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Franklin Roosevelt",
+      "lecciones": "40",
+      "rige": "03/09/2026",
+      "vence": "15/10/2026"
+    },
+    {
       "vacante": "1544077",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -662,16 +682,6 @@
       "lecciones": "44",
       "rige": "28/09/2026",
       "vence": "09/12/2026"
-    },
-    {
-      "vacante": "1543781",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Franklin Roosevelt",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "15/10/2026"
     },
     {
       "vacante": "1543778",
