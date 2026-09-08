@@ -1,10 +1,9 @@
 {
-  "generado": "2026-09-08T16:00:54.365Z",
+  "generado": "2026-09-08T16:20:52.813Z",
   "totalPais": 71,
-  "calzanVT6": 2,
+  "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
-    "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Dibujo Técnico",
     "Educación Física",
     "Educación Para El Hogar",
@@ -42,17 +41,6 @@
       "lecciones": "44",
       "rige": "04/09/2026",
       "vence": "16/10/2026",
-      "calce": "exacta"
-    },
-    {
-      "vacante": "1544160",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "C.T.P. De Santa Rosa",
-      "lecciones": "12",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026",
       "calce": "exacta"
     }
   ],
@@ -98,16 +86,6 @@
       "vence": "25/12/2026"
     },
     {
-      "vacante": "1544293",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Leon Cortes Castro (Guacima)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544298",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -125,6 +103,16 @@
       "institucion": "Jose De San Martin (San Jose)",
       "lecciones": "0",
       "rige": "09/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544293",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Leon Cortes Castro (Guacima)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -188,13 +176,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544136",
+      "vacante": "1544117",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Otto Mora Perez",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Eugenio Corrales Bianchini",
       "lecciones": "0",
-      "rige": "28/09/2026",
+      "rige": "03/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -208,13 +196,13 @@
       "vence": "22/10/2026"
     },
     {
-      "vacante": "1544117",
+      "vacante": "1544136",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Eugenio Corrales Bianchini",
+      "especialidad": "Religión",
+      "institucion": "Otto Mora Perez",
       "lecciones": "0",
-      "rige": "03/09/2026",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -368,6 +356,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1544446",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Francisco (Bejuco)",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1544233",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -458,6 +456,26 @@
       "vence": "19/11/2026"
     },
     {
+      "vacante": "1544097",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "Colegio Academico Tambor De Cobano",
+      "lecciones": "6",
+      "rige": "08/09/2026",
+      "vence": "27/11/2026"
+    },
+    {
+      "vacante": "1544099",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Colegio Academico Tambor De Cobano",
+      "lecciones": "6",
+      "rige": "08/09/2026",
+      "vence": "27/11/2026"
+    },
+    {
       "vacante": "1544156",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -485,26 +503,6 @@
       "institucion": "Cindea Paquera",
       "lecciones": "4",
       "rige": "02/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1544097",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Colegio Academico Tambor De Cobano",
-      "lecciones": "6",
-      "rige": "08/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1544099",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Colegio Academico Tambor De Cobano",
-      "lecciones": "6",
-      "rige": "08/09/2026",
       "vence": "27/11/2026"
     },
     {
@@ -558,16 +556,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1544130",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. De Puntarenas",
-      "lecciones": "12",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544125",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -575,6 +563,16 @@
       "institucion": "C.T.P. De Puntarenas",
       "lecciones": "40",
       "rige": "03/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544130",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De Puntarenas",
+      "lecciones": "12",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -666,16 +664,6 @@
       "lecciones": "11",
       "rige": "08/09/2026",
       "vence": "30/10/2026"
-    },
-    {
-      "vacante": "1544160",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "C.T.P. De Santa Rosa",
-      "lecciones": "12",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1544351",
