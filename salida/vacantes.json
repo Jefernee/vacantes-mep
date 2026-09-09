@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T21:09:14.872Z",
+  "generado": "2026-09-09T21:20:45.636Z",
   "totalPais": 43,
   "calzanVT6": 0,
   "advertencias": [],
@@ -23,22 +23,22 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1544731",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
-      "institucion": "C.T.P. Puerto Viejo",
-      "lecciones": "24",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544733",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Secretariado Ejecutivo",
       "institucion": "C.T.P. Puerto Viejo",
       "lecciones": "12",
+      "rige": "09/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544731",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
+      "institucion": "C.T.P. Puerto Viejo",
+      "lecciones": "24",
       "rige": "09/09/2026",
       "vence": "31/01/2027"
     },
@@ -183,11 +183,11 @@
       "vence": "31/01/2029"
     },
     {
-      "vacante": "1544779",
+      "vacante": "1544774",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Hojancha (Cariari)",
+      "institucion": "El Carmen",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
@@ -203,11 +203,11 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544774",
+      "vacante": "1544779",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Carmen",
+      "institucion": "Hojancha (Cariari)",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
