@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T23:18:44.439Z",
+  "generado": "2026-09-09T23:20:43.528Z",
   "totalPais": 46,
   "calzanVT6": 0,
   "advertencias": [],
@@ -274,16 +274,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544582",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "15",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544158",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -300,6 +290,16 @@
       "especialidad": "Inglés",
       "institucion": "C.T.P. De Liberia",
       "lecciones": "35",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544582",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "15",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
