@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-09T14:40:41.626Z",
-  "totalPais": 43,
+  "generado": "2026-09-09T14:59:55.966Z",
+  "totalPais": 42,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -23,22 +23,12 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1544399",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asistente De Asesoría Y Supervisión",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Dirección Regional De Educación San Carlos",
-      "lecciones": "0",
-      "rige": "07/10/2026",
-      "vence": "31/01/2030"
-    },
-    {
-      "vacante": "1544508",
+      "vacante": "1544510",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
-      "institucion": "Liceo Diurno De Rio Frio",
-      "lecciones": "21",
+      "institucion": "Liceo Amb. De Horquetas",
+      "lecciones": "6",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -53,12 +43,12 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1544510",
+      "vacante": "1544508",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
-      "institucion": "Liceo Amb. De Horquetas",
-      "lecciones": "6",
+      "institucion": "Liceo Diurno De Rio Frio",
+      "lecciones": "21",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -313,16 +303,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544067",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Lorenzo Gonzalez Arguedas",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "30/06/2027"
-    },
-    {
       "vacante": "1544435",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -331,6 +311,16 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1544067",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Lorenzo Gonzalez Arguedas",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "30/06/2027"
     },
     {
       "vacante": "1544412",
@@ -353,22 +343,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544429",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Turismo Rural",
-      "institucion": "C.T.P. De Platanares",
-      "lecciones": "28",
-      "rige": "10/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544430",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
       "institucion": "C.T.P. De Platanares",
       "lecciones": "12",
+      "rige": "10/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544429",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Turismo Rural",
+      "institucion": "C.T.P. De Platanares",
+      "lecciones": "28",
       "rige": "10/09/2026",
       "vence": "11/12/2026"
     },
