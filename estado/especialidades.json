@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 2031,
+      "vecesVista": 2045,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-09T15:40:45.059Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 1737,
+      "vecesVista": 1743,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-09T15:40:45.059Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 102,
+      "vecesVista": 103,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-09T15:40:45.059Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 184,
+      "vecesVista": 185,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-09T15:40:45.059Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 462,
+      "vecesVista": 463,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-09T15:40:45.059Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,30 +93,30 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 680,
+      "vecesVista": 681,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-09T15:40:45.059Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 228,
+      "vecesVista": 229,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-09T15:00:44.782Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 320,
+      "vecesVista": 322,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-09T15:40:45.059Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 11,
+      "vecesVista": 12,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-09T15:40:45.059Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -135,9 +135,9 @@
     },
     "Contabilidad": {
       "calce": "no interesa",
-      "vecesVista": 60,
+      "vecesVista": 61,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-05T16:00:30.817Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     },
     "Informática En Desarrollo Del Software": {
@@ -219,9 +219,9 @@
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 255,
+      "vecesVista": 259,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-09-09T15:40:45.059Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -289,18 +289,18 @@
     },
     "Orientación": {
       "calce": "no interesa",
-      "vecesVista": 46,
+      "vecesVista": 47,
       "primeraVez": "2026-09-08T19:40:48.642Z",
-      "ultimaVez": "2026-09-09T15:40:45.059Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Discapacidad Múltiple": {
       "calce": "no interesa",
-      "vecesVista": 10,
+      "vecesVista": 11,
       "primeraVez": "2026-09-09T13:00:47.467Z",
-      "ultimaVez": "2026-09-09T15:40:45.059Z",
+      "ultimaVez": "2026-09-09T16:00:39.113Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-09T15:40:45.059Z"
+  "actualizado": "2026-09-09T16:00:39.113Z"
 }
