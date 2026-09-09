@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T20:20:51.352Z",
+  "generado": "2026-09-09T20:40:46.655Z",
   "totalPais": 41,
   "calzanVT6": 0,
   "advertencias": [],
@@ -23,22 +23,22 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1544733",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. Puerto Viejo",
-      "lecciones": "12",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544731",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
       "institucion": "C.T.P. Puerto Viejo",
       "lecciones": "24",
+      "rige": "09/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544733",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. Puerto Viejo",
+      "lecciones": "12",
       "rige": "09/09/2026",
       "vence": "31/01/2027"
     },
@@ -161,16 +161,6 @@
       "lecciones": "35",
       "rige": "24/09/2026",
       "vence": "04/12/2026"
-    },
-    {
-      "vacante": "1544549",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "El Encanto",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "17/12/2026"
     },
     {
       "vacante": "1544037",
@@ -351,6 +341,16 @@
       "lecciones": "20",
       "rige": "11/09/2026",
       "vence": "25/10/2026"
+    },
+    {
+      "vacante": "1544813",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Colegio Nocturno De Sinai",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "02/11/2026"
     },
     {
       "vacante": "1544714",
