@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-09T12:41:09.380Z",
-  "totalPais": 68,
+  "generado": "2026-09-09T13:00:47.466Z",
+  "totalPais": 74,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,6 +8,7 @@
     "Educación Física",
     "Educación Para El Hogar",
     "Electromecánica",
+    "Enseñanza Especial . Discapacidad Múltiple",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
     "Español",
@@ -17,6 +18,7 @@
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Informática En Programación",
     "Inglés",
+    "Labores Varias De Oficina",
     "Música/Música",
     "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
     "Orientación",
@@ -64,26 +66,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1544505",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo La Virgen",
-      "lecciones": "9",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
-      "vacante": "1544510",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Amb. De Horquetas",
-      "lecciones": "6",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
       "vacante": "1544511",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -104,6 +86,26 @@
       "vence": "17/11/2026"
     },
     {
+      "vacante": "1544510",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Amb. De Horquetas",
+      "lecciones": "6",
+      "rige": "09/09/2026",
+      "vence": "17/11/2026"
+    },
+    {
+      "vacante": "1544505",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo La Virgen",
+      "lecciones": "9",
+      "rige": "09/09/2026",
+      "vence": "17/11/2026"
+    },
+    {
       "vacante": "1544507",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Auxiliar Administrativo",
@@ -112,16 +114,6 @@
       "lecciones": "0",
       "rige": "08/09/2026",
       "vence": "01/11/2026"
-    },
-    {
-      "vacante": "1544265",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "I.P.E.C. De Cañas",
-      "lecciones": "6",
-      "rige": "07/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1544069",
@@ -154,6 +146,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544136",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Otto Mora Perez",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544104",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -174,22 +176,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544136",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Otto Mora Perez",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544155",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Inglés",
       "institucion": "Liceo Francisca Carrasco",
       "lecciones": "44",
+      "rige": "03/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544102",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
+      "institucion": "Liceo Braulio Carrillo",
+      "lecciones": "40",
       "rige": "03/09/2026",
       "vence": "11/12/2026"
     },
@@ -202,16 +204,6 @@
       "lecciones": "40",
       "rige": "07/09/2026",
       "vence": "24/11/2026"
-    },
-    {
-      "vacante": "1544102",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
-      "institucion": "Liceo Braulio Carrillo",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1544184",
@@ -234,6 +226,16 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1544603",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Rio Claro (Guaycara)",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "18/11/2026"
+    },
+    {
       "vacante": "1544494",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -242,6 +244,26 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544601",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Las Vegas (Sabanillas)",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544231",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo De Concepcion",
+      "lecciones": "35",
+      "rige": "24/09/2026",
+      "vence": "04/12/2026"
     },
     {
       "vacante": "1544549",
@@ -354,14 +376,24 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544334",
+      "vacante": "1544606",
       "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Clemente (Limon)",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "El Cruce",
       "lecciones": "0",
-      "rige": "10/09/2026",
+      "rige": "14/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544607",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Justo A. Facio (Siquirres)",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544525",
@@ -372,6 +404,16 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544610",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Director De Colegio Técnico Y Profesional 3",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "C.T.P. De San Pablo De Leon C.",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1544446",
@@ -394,16 +436,6 @@
       "vence": "01/11/2026"
     },
     {
-      "vacante": "1544435",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "El Progreso (Angeles)",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1544067",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -412,6 +444,16 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "30/06/2027"
+    },
+    {
+      "vacante": "1544435",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "El Progreso (Angeles)",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1544412",
@@ -454,20 +496,20 @@
       "vence": "27/11/2026"
     },
     {
-      "vacante": "1544133",
+      "vacante": "1544134",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
+      "especialidad": "Química",
       "institucion": "Cindea Paquera",
       "lecciones": "4",
       "rige": "02/09/2026",
       "vence": "27/11/2026"
     },
     {
-      "vacante": "1544134",
+      "vacante": "1544133",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Física",
       "institucion": "Cindea Paquera",
       "lecciones": "4",
       "rige": "02/09/2026",
@@ -534,16 +576,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1544130",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. De Puntarenas",
-      "lecciones": "12",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544125",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -551,6 +583,16 @@
       "institucion": "C.T.P. De Puntarenas",
       "lecciones": "40",
       "rige": "03/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544130",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De Puntarenas",
+      "lecciones": "12",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -701,6 +743,26 @@
       "institucion": "San Rafael",
       "lecciones": "0",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544608",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Discapacidad Múltiple",
+      "institucion": "Centro Educ. Esp. Santa Ana",
+      "lecciones": "40",
+      "rige": "14/09/2026",
+      "vence": "23/10/2026"
+    },
+    {
+      "vacante": "1544605",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Juan Xxiii",
+      "lecciones": "0",
+      "rige": "14/09/2026",
       "vence": "11/12/2026"
     },
     {
