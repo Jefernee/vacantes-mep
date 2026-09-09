@@ -1,10 +1,9 @@
 {
-  "generado": "2026-09-09T21:40:55.756Z",
-  "totalPais": 45,
+  "generado": "2026-09-09T22:00:41.054Z",
+  "totalPais": 40,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Contabilidad",
     "Ejecutivo Comercial Y De Servicio Al Cliente",
     "Electromecánica",
     "Enseñanza Especial . Discapacidad Múltiple",
@@ -15,7 +14,6 @@
     "Francés",
     "Inglés",
     "Labores Varias De Oficina",
-    "Música/Música",
     "Religión",
     "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
@@ -23,16 +21,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1544733",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. Puerto Viejo",
-      "lecciones": "12",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
-    },
     {
       "vacante": "1544731",
       "regional": "Direc. Regional Educacion De Sarapiqui",
@@ -44,33 +32,23 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544713",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ermida Blanco Gonzalez",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544762",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo Ambientalista El Roble",
-      "lecciones": "13",
-      "rige": "18/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1540107",
-      "regional": "Direc. Regional Educacion Alajuela",
+      "vacante": "1544733",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Colegio Ambientalista El Roble",
-      "lecciones": "8",
-      "rige": "16/09/2026",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. Puerto Viejo",
+      "lecciones": "12",
+      "rige": "09/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544624",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "C.T.P. De Jaco",
+      "lecciones": "44",
+      "rige": "02/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -134,36 +112,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544691",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "C.T.P. Dos Cercas",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "14/03/2028"
-    },
-    {
-      "vacante": "1544601",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Las Vegas (Sabanillas)",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544670",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. Jose Figueres Ferrer",
-      "lecciones": "40",
-      "rige": "10/09/2026",
-      "vence": "30/06/2027"
-    },
-    {
       "vacante": "1544629",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -204,16 +152,6 @@
       "vence": "31/01/2029"
     },
     {
-      "vacante": "1544771",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "El Nuevo Amanecer",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544774",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -229,6 +167,16 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Hojancha (Cariari)",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544771",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "El Nuevo Amanecer",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
@@ -274,16 +222,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544582",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "15",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544158",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -300,6 +238,16 @@
       "especialidad": "Inglés",
       "institucion": "C.T.P. De Liberia",
       "lecciones": "35",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544582",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "15",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
@@ -354,7 +302,7 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1544422",
+      "vacante": "1544421",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Electromecánica",
@@ -364,7 +312,7 @@
       "vence": "25/10/2026"
     },
     {
-      "vacante": "1544421",
+      "vacante": "1544422",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Electromecánica",
