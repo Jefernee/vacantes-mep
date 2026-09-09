@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-09T18:00:47.609Z",
-  "totalPais": 34,
+  "generado": "2026-09-09T18:20:49.370Z",
+  "totalPais": 33,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -15,7 +15,6 @@
     "Labores Varias De Oficina",
     "Música/Música",
     "Orientación",
-    "Psicología",
     "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -23,24 +22,14 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1544511",
+      "vacante": "1544731",
       "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo El Paraiso",
-      "lecciones": "8",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
+      "institucion": "C.T.P. Puerto Viejo",
+      "lecciones": "24",
       "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
-      "vacante": "1544510",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Amb. De Horquetas",
-      "lecciones": "6",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1544733",
@@ -53,16 +42,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544731",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
-      "institucion": "C.T.P. Puerto Viejo",
-      "lecciones": "24",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544713",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -83,23 +62,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544713",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ermida Blanco Gonzalez",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1540107",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Colegio Ambientalista El Roble",
-      "lecciones": "8",
-      "rige": "16/09/2026",
+      "vacante": "1544624",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "C.T.P. De Jaco",
+      "lecciones": "44",
+      "rige": "02/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -233,44 +202,64 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544606",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "El Cruce",
+      "vacante": "1544146",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Barrio Irvin",
       "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "31/01/2027"
+      "rige": "09/09/2026",
+      "vence": "03/03/2028"
     },
     {
-      "vacante": "1544607",
-      "regional": "Direc. Regional Educacion Limon",
+      "vacante": "1544518",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Ida La Falconiana",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1544554",
+      "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Justo A. Facio (Siquirres)",
+      "institucion": "La Garita (La Garita)",
       "lecciones": "0",
-      "rige": "14/09/2026",
+      "rige": "10/09/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544525",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cultivez (Pacuarito)",
+      "vacante": "1544146",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Barrio Irvin",
       "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
+      "rige": "09/09/2026",
+      "vence": "03/03/2028"
     },
     {
-      "vacante": "1544610",
-      "regional": "Direc. Regional Educacion Los Santos",
-      "clasePuesto": "Director De Colegio Técnico Y Profesional 3",
+      "vacante": "1544518",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "C.T.P. De San Pablo De Leon C.",
+      "institucion": "Ida La Falconiana",
       "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "31/07/2030"
+      "rige": "10/09/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1544554",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Garita (La Garita)",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544678",
