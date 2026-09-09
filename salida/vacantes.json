@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-09T19:20:48.325Z",
-  "totalPais": 32,
+  "generado": "2026-09-09T19:40:38.905Z",
+  "totalPais": 38,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,12 +9,13 @@
     "Electromecánica",
     "Enseñanza Especial . Discapacidad Múltiple",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+    "Español",
     "Estudios Sociales/Educación Cívica",
     "Francés",
     "Inglés",
     "Labores Varias De Oficina",
     "Música/Música",
-    "Orientación",
+    "Religión",
     "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -22,22 +23,22 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1544733",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. Puerto Viejo",
-      "lecciones": "12",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544731",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
       "institucion": "C.T.P. Puerto Viejo",
       "lecciones": "24",
+      "rige": "09/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544733",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. Puerto Viejo",
+      "lecciones": "12",
       "rige": "09/09/2026",
       "vence": "31/01/2027"
     },
@@ -162,6 +163,46 @@
       "vence": "31/01/2029"
     },
     {
+      "vacante": "1544774",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Carmen",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544771",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "El Nuevo Amanecer",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544779",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Hojancha (Cariari)",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544769",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo De Jimenez",
+      "lecciones": "4",
+      "rige": "10/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544685",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
@@ -282,6 +323,16 @@
       "vence": "25/10/2026"
     },
     {
+      "vacante": "1544422",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Electromecánica",
+      "institucion": "C.T.P Santo Cristo De Esquipulas",
+      "lecciones": "20",
+      "rige": "11/09/2026",
+      "vence": "25/10/2026"
+    },
+    {
       "vacante": "1544714",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -302,14 +353,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544527",
+      "vacante": "1544780",
       "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Orientación",
-      "institucion": "Juan Chaves Rojas (Quesada)",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Gonzalo Monge B. (Pital)",
       "lecciones": "0",
-      "rige": "09/09/2026",
-      "vence": "06/02/2028"
+      "rige": "10/09/2026",
+      "vence": "06/11/2026"
     },
     {
       "vacante": "1544619",
@@ -339,6 +390,16 @@
       "institucion": "Juan Xxiii",
       "lecciones": "0",
       "rige": "14/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544776",
+      "regional": "Direc. Regional Educacion Sulá",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Cindea De Bribri",
+      "lecciones": "15",
+      "rige": "11/09/2026",
       "vence": "11/12/2026"
     }
   ]
