@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T13:00:47.466Z",
+  "generado": "2026-09-09T13:20:49.477Z",
   "totalPais": 74,
   "calzanVT6": 1,
   "advertencias": [],
@@ -66,12 +66,12 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1544511",
+      "vacante": "1544505",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
-      "institucion": "Liceo El Paraiso",
-      "lecciones": "8",
+      "institucion": "Liceo La Virgen",
+      "lecciones": "9",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -96,12 +96,12 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1544505",
+      "vacante": "1544511",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
-      "institucion": "Liceo La Virgen",
-      "lecciones": "9",
+      "institucion": "Liceo El Paraiso",
+      "lecciones": "8",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -516,20 +516,20 @@
       "vence": "27/11/2026"
     },
     {
-      "vacante": "1544099",
+      "vacante": "1544097",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Física",
       "institucion": "Colegio Academico Tambor De Cobano",
       "lecciones": "6",
       "rige": "08/09/2026",
       "vence": "27/11/2026"
     },
     {
-      "vacante": "1544097",
+      "vacante": "1544099",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
+      "especialidad": "Química",
       "institucion": "Colegio Academico Tambor De Cobano",
       "lecciones": "6",
       "rige": "08/09/2026",
@@ -576,16 +576,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1544125",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. De Puntarenas",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544130",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -593,6 +583,16 @@
       "institucion": "C.T.P. De Puntarenas",
       "lecciones": "12",
       "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544125",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De Puntarenas",
+      "lecciones": "40",
+      "rige": "03/09/2026",
       "vence": "11/12/2026"
     },
     {
