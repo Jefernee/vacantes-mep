@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T08:14:48.256Z",
+  "generado": "2026-09-09T11:01:00.001Z",
   "totalPais": 68,
   "calzanVT6": 1,
   "advertencias": [],
@@ -84,22 +84,22 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1544510",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Amb. De Horquetas",
-      "lecciones": "6",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
       "vacante": "1544508",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
       "institucion": "Liceo Diurno De Rio Frio",
       "lecciones": "21",
+      "rige": "09/09/2026",
+      "vence": "17/11/2026"
+    },
+    {
+      "vacante": "1544510",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Amb. De Horquetas",
+      "lecciones": "6",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -164,16 +164,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544136",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Otto Mora Perez",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544104",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -182,6 +172,16 @@
       "lecciones": "0",
       "rige": "02/09/2026",
       "vence": "22/10/2026"
+    },
+    {
+      "vacante": "1544136",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Otto Mora Perez",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544155",
@@ -254,16 +254,6 @@
       "vence": "17/12/2026"
     },
     {
-      "vacante": "1544424",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Suerre (Jimenez)",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1544062",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -272,6 +262,16 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "23/12/2026"
+    },
+    {
+      "vacante": "1544424",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Suerre (Jimenez)",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1544418",
@@ -444,6 +444,36 @@
       "vence": "19/11/2026"
     },
     {
+      "vacante": "1544156",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P. De Paquera",
+      "lecciones": "12",
+      "rige": "07/09/2026",
+      "vence": "27/11/2026"
+    },
+    {
+      "vacante": "1544134",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Cindea Paquera",
+      "lecciones": "4",
+      "rige": "02/09/2026",
+      "vence": "27/11/2026"
+    },
+    {
+      "vacante": "1544133",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "Cindea Paquera",
+      "lecciones": "4",
+      "rige": "02/09/2026",
+      "vence": "27/11/2026"
+    },
+    {
       "vacante": "1544099",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -461,36 +491,6 @@
       "institucion": "Colegio Academico Tambor De Cobano",
       "lecciones": "6",
       "rige": "08/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1544156",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "C.T.P. De Paquera",
-      "lecciones": "12",
-      "rige": "07/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1544133",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Cindea Paquera",
-      "lecciones": "4",
-      "rige": "02/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1544134",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Cindea Paquera",
-      "lecciones": "4",
-      "rige": "02/09/2026",
       "vence": "27/11/2026"
     },
     {
