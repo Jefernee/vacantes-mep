@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T18:40:42.438Z",
+  "generado": "2026-09-09T19:00:39.617Z",
   "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
@@ -22,22 +22,22 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1544733",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. Puerto Viejo",
-      "lecciones": "12",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544731",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
       "institucion": "C.T.P. Puerto Viejo",
       "lecciones": "24",
+      "rige": "09/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544733",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. Puerto Viejo",
+      "lecciones": "12",
       "rige": "09/09/2026",
       "vence": "31/01/2027"
     },
@@ -80,6 +80,16 @@
       "lecciones": "0",
       "rige": "14/09/2026",
       "vence": "18/11/2026"
+    },
+    {
+      "vacante": "1539532",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Cindea San Vito",
+      "lecciones": "44",
+      "rige": "18/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544691",
@@ -162,16 +172,6 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1544568",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "España (San Antonio)",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544754",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -179,6 +179,16 @@
       "institucion": "Los Lagos (San Francisco)",
       "lecciones": "0",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544568",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "España (San Antonio)",
+      "lecciones": "0",
+      "rige": "18/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -190,16 +200,6 @@
       "lecciones": "0",
       "rige": "09/09/2026",
       "vence": "03/03/2028"
-    },
-    {
-      "vacante": "1544518",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ida La Falconiana",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1544554",
@@ -222,16 +222,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544525",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cultivez (Pacuarito)",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544607",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -239,6 +229,16 @@
       "institucion": "Justo A. Facio (Siquirres)",
       "lecciones": "0",
       "rige": "14/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544525",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cultivez (Pacuarito)",
+      "lecciones": "0",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
