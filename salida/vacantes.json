@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-09T16:00:39.112Z",
-  "totalPais": 35,
+  "generado": "2026-09-09T16:20:41.428Z",
+  "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -41,22 +41,22 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1544510",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Amb. De Horquetas",
-      "lecciones": "6",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
       "vacante": "1544511",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
       "institucion": "Liceo El Paraiso",
       "lecciones": "8",
+      "rige": "09/09/2026",
+      "vence": "17/11/2026"
+    },
+    {
+      "vacante": "1544510",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Amb. De Horquetas",
+      "lecciones": "6",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -99,6 +99,16 @@
       "lecciones": "0",
       "rige": "14/09/2026",
       "vence": "18/11/2026"
+    },
+    {
+      "vacante": "1544691",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "C.T.P. Dos Cercas",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "14/03/2028"
     },
     {
       "vacante": "1544494",
@@ -241,16 +251,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544525",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cultivez (Pacuarito)",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544607",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -258,6 +258,16 @@
       "institucion": "Justo A. Facio (Siquirres)",
       "lecciones": "0",
       "rige": "14/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544525",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cultivez (Pacuarito)",
+      "lecciones": "0",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -269,16 +279,6 @@
       "lecciones": "0",
       "rige": "14/09/2026",
       "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1544446",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Francisco (Bejuco)",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1544678",
@@ -299,6 +299,16 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "30/06/2027"
+    },
+    {
+      "vacante": "1544689",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Director De Colegio 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Laguna",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1544412",
