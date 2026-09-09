@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-09T18:20:49.370Z",
-  "totalPais": 33,
+  "generado": "2026-09-09T18:24:07.599Z",
+  "totalPais": 31,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -22,22 +22,22 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1544731",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
-      "institucion": "C.T.P. Puerto Viejo",
-      "lecciones": "24",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544733",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Secretariado Ejecutivo",
       "institucion": "C.T.P. Puerto Viejo",
       "lecciones": "12",
+      "rige": "09/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544731",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
+      "institucion": "C.T.P. Puerto Viejo",
+      "lecciones": "24",
       "rige": "09/09/2026",
       "vence": "31/01/2027"
     },
@@ -202,64 +202,44 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544146",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Barrio Irvin",
+      "vacante": "1544606",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "El Cruce",
       "lecciones": "0",
-      "rige": "09/09/2026",
-      "vence": "03/03/2028"
+      "rige": "14/09/2026",
+      "vence": "31/01/2027"
     },
     {
-      "vacante": "1544518",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ida La Falconiana",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1544554",
-      "regional": "Direc. Regional Educacion Liberia",
+      "vacante": "1544607",
+      "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "La Garita (La Garita)",
+      "institucion": "Justo A. Facio (Siquirres)",
       "lecciones": "0",
-      "rige": "10/09/2026",
+      "rige": "14/09/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544146",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Barrio Irvin",
-      "lecciones": "0",
-      "rige": "09/09/2026",
-      "vence": "03/03/2028"
-    },
-    {
-      "vacante": "1544518",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ida La Falconiana",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1544554",
-      "regional": "Direc. Regional Educacion Liberia",
+      "vacante": "1544525",
+      "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "La Garita (La Garita)",
+      "institucion": "Cultivez (Pacuarito)",
       "lecciones": "0",
-      "rige": "10/09/2026",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544610",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Director De Colegio Técnico Y Profesional 3",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "C.T.P. De San Pablo De Leon C.",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1544678",
