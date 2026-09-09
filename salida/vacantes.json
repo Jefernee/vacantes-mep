@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T17:00:49.074Z",
+  "generado": "2026-09-09T17:20:53.250Z",
   "totalPais": 37,
   "calzanVT6": 0,
   "advertencias": [],
@@ -11,6 +11,7 @@
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
     "Estudios Sociales/Educación Cívica",
+    "Francés",
     "Inglés",
     "Labores Varias De Oficina",
     "Música/Música",
@@ -21,6 +22,16 @@
   ],
   "interesantes": [],
   "todas": [
+    {
+      "vacante": "1544511",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo El Paraiso",
+      "lecciones": "8",
+      "rige": "09/09/2026",
+      "vence": "17/11/2026"
+    },
     {
       "vacante": "1544508",
       "regional": "Direc. Regional Educacion De Sarapiqui",
@@ -38,16 +49,6 @@
       "especialidad": "Psicología",
       "institucion": "Liceo Amb. De Horquetas",
       "lecciones": "6",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
-      "vacante": "1544511",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo El Paraiso",
-      "lecciones": "8",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -262,16 +263,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544525",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cultivez (Pacuarito)",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544607",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -279,6 +270,16 @@
       "institucion": "Justo A. Facio (Siquirres)",
       "lecciones": "0",
       "rige": "14/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544525",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cultivez (Pacuarito)",
+      "lecciones": "0",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -300,16 +301,6 @@
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544067",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Lorenzo Gonzalez Arguedas",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "30/06/2027"
     },
     {
       "vacante": "1544689",
@@ -340,6 +331,16 @@
       "lecciones": "20",
       "rige": "11/09/2026",
       "vence": "25/10/2026"
+    },
+    {
+      "vacante": "1544714",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Iii Ciclo Jose Breinderhoff",
+      "lecciones": "11",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544615",
