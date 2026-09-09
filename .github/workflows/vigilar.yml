@@ -57,8 +57,34 @@ jobs:
 
       - run: npm install
 
+      # `--with-deps` corre por dentro un `apt-get update`, y eso consulta TODAS
+      # las fuentes del runner, incluida la de Google Chrome, que este vigilante
+      # no usa para nada: Playwright se trae su propio Chromium. El 09/09/2026
+      # esa fuente ajena devolvió un índice corrupto ("Hash Sum mismatch"), apt
+      # se rindió con código 100 y la corrida murió sin llegar a mirar el MEP.
+      # Borrarla no cuesta nada: el runner se destruye al terminar.
+      - name: Quitar las fuentes de apt que no usamos
+        run: sudo rm -f /etc/apt/sources.list.d/*google*
+
+      # Aun sin Google, cualquier espejo de Ubuntu puede fallar un rato. Antes
+      # un tropiezo así mandaba el WhatsApp de "se rompió" por algo que se
+      # arregla solo, así que ahora se reintenta. Entre intentos hay que borrar
+      # el índice ya bajado: si quedó a medias, repetir sin limpiarlo vuelve a
+      # leer el mismo archivo malo y falla igual.
+      #
       # Si el navegador ya vino de la caché, esto no descarga nada: solo verifica.
-      - run: npx playwright install --with-deps chromium
+      - name: Instalar Chromium
+        run: |
+          for intento in 1 2 3; do
+            if npx playwright install --with-deps chromium; then
+              exit 0
+            fi
+            echo "Intento $intento sin exito; limpiando el indice de apt y reintentando..."
+            sudo rm -rf /var/lib/apt/lists/*
+            sleep 15
+          done
+          echo "::error::No se pudo instalar Chromium despues de 3 intentos."
+          exit 1
 
       - name: Revisar las vacantes
         env:

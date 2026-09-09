@@ -30,8 +30,26 @@ jobs:
 
       # --with-deps instala también las librerías de sistema que Chromium
       # necesita en Ubuntu. Sin eso el navegador no arranca en el runner.
+      #
+      # Ese paso corre un `apt-get update`, que consulta todas las fuentes del
+      # runner incluida la de Google Chrome, que no usamos (Playwright trae su
+      # propio Chromium) y que ya tumbó una corrida del vigilante por devolver
+      # un índice corrupto. Mismo blindaje que en vigilar.yml.
+      - name: Quitar las fuentes de apt que no usamos
+        run: sudo rm -f /etc/apt/sources.list.d/*google*
+
       - name: Instalar Chromium
-        run: npx playwright install --with-deps chromium
+        run: |
+          for intento in 1 2 3; do
+            if npx playwright install --with-deps chromium; then
+              exit 0
+            fi
+            echo "Intento $intento sin exito; limpiando el indice de apt y reintentando..."
+            sudo rm -rf /var/lib/apt/lists/*
+            sleep 15
+          done
+          echo "::error::No se pudo instalar Chromium despues de 3 intentos."
+          exit 1
 
       - name: Explorar
         run: node explorar.mjs
