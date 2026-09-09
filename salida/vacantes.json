@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-09T18:24:07.599Z",
-  "totalPais": 31,
+  "generado": "2026-09-09T18:40:42.438Z",
+  "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -172,6 +172,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544754",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Los Lagos (San Francisco)",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544146",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -212,16 +222,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544607",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Justo A. Facio (Siquirres)",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544525",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -229,6 +229,16 @@
       "institucion": "Cultivez (Pacuarito)",
       "lecciones": "0",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544607",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Justo A. Facio (Siquirres)",
+      "lecciones": "0",
+      "rige": "14/09/2026",
       "vence": "11/12/2026"
     },
     {
