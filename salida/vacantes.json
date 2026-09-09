@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T23:00:39.807Z",
+  "generado": "2026-09-09T23:18:44.439Z",
   "totalPais": 46,
   "calzanVT6": 0,
   "advertencias": [],
@@ -214,21 +214,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544774",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Carmen",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544771",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
       "institucion": "El Nuevo Amanecer",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544774",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Carmen",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
@@ -274,6 +274,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544582",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "15",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544158",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -290,16 +300,6 @@
       "especialidad": "Inglés",
       "institucion": "C.T.P. De Liberia",
       "lecciones": "35",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544582",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "15",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
@@ -364,7 +364,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544421",
+      "vacante": "1544422",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Electromecánica",
@@ -374,7 +374,7 @@
       "vence": "25/10/2026"
     },
     {
-      "vacante": "1544422",
+      "vacante": "1544421",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Electromecánica",
