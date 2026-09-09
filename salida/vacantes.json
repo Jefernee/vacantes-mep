@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T01:20:45.269Z",
+  "generado": "2026-09-09T01:30:15.809Z",
   "totalPais": 68,
   "calzanVT6": 1,
   "advertencias": [],
@@ -74,16 +74,6 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1544508",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Diurno De Rio Frio",
-      "lecciones": "21",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
       "vacante": "1544505",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -100,6 +90,16 @@
       "especialidad": "Psicología",
       "institucion": "Liceo Amb. De Horquetas",
       "lecciones": "6",
+      "rige": "09/09/2026",
+      "vence": "17/11/2026"
+    },
+    {
+      "vacante": "1544508",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Diurno De Rio Frio",
+      "lecciones": "21",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -154,6 +154,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544104",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Ricardo Jimenez Oreamuno",
+      "lecciones": "0",
+      "rige": "02/09/2026",
+      "vence": "22/10/2026"
+    },
+    {
       "vacante": "1544117",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -172,16 +182,6 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544104",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ricardo Jimenez Oreamuno",
-      "lecciones": "0",
-      "rige": "02/09/2026",
-      "vence": "22/10/2026"
     },
     {
       "vacante": "1544155",
@@ -394,16 +394,6 @@
       "vence": "01/11/2026"
     },
     {
-      "vacante": "1544067",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Lorenzo Gonzalez Arguedas",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "30/06/2027"
-    },
-    {
       "vacante": "1544435",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -412,6 +402,16 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1544067",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Lorenzo Gonzalez Arguedas",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "30/06/2027"
     },
     {
       "vacante": "1544412",
@@ -474,20 +474,20 @@
       "vence": "27/11/2026"
     },
     {
-      "vacante": "1544134",
+      "vacante": "1544133",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Física",
       "institucion": "Cindea Paquera",
       "lecciones": "4",
       "rige": "02/09/2026",
       "vence": "27/11/2026"
     },
     {
-      "vacante": "1544133",
+      "vacante": "1544134",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
+      "especialidad": "Química",
       "institucion": "Cindea Paquera",
       "lecciones": "4",
       "rige": "02/09/2026",
@@ -504,22 +504,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544430",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
-      "institucion": "C.T.P. De Platanares",
-      "lecciones": "12",
-      "rige": "10/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544429",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Turismo Rural",
       "institucion": "C.T.P. De Platanares",
       "lecciones": "28",
+      "rige": "10/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544430",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
+      "institucion": "C.T.P. De Platanares",
+      "lecciones": "12",
       "rige": "10/09/2026",
       "vence": "11/12/2026"
     },
@@ -564,16 +564,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543971",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "Liceo Emiliano Odio Madrigal",
-      "lecciones": "44",
-      "rige": "04/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
       "vacante": "1544145",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -592,6 +582,16 @@
       "lecciones": "5",
       "rige": "20/07/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543971",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "Liceo Emiliano Odio Madrigal",
+      "lecciones": "44",
+      "rige": "04/09/2026",
+      "vence": "27/11/2026"
     },
     {
       "vacante": "1544414",
