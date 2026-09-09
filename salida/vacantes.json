@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-09T15:20:39.326Z",
-  "totalPais": 39,
+  "generado": "2026-09-09T15:40:45.058Z",
+  "totalPais": 38,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -14,7 +14,6 @@
     "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
     "Orientación",
     "Psicología",
-    "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
     "Turismo Rural"
@@ -32,22 +31,22 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1544511",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo El Paraiso",
-      "lecciones": "8",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
       "vacante": "1544505",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
       "institucion": "Liceo La Virgen",
       "lecciones": "9",
+      "rige": "09/09/2026",
+      "vence": "17/11/2026"
+    },
+    {
+      "vacante": "1544511",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo El Paraiso",
+      "lecciones": "8",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -162,16 +161,6 @@
       "vence": "31/01/2029"
     },
     {
-      "vacante": "1544424",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Suerre (Jimenez)",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1544568",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -252,16 +241,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544607",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Justo A. Facio (Siquirres)",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544525",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -269,6 +248,16 @@
       "institucion": "Cultivez (Pacuarito)",
       "lecciones": "0",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544607",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Justo A. Facio (Siquirres)",
+      "lecciones": "0",
+      "rige": "14/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -292,16 +281,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1544067",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Lorenzo Gonzalez Arguedas",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "30/06/2027"
-    },
-    {
       "vacante": "1544435",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -310,6 +289,16 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1544067",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Lorenzo Gonzalez Arguedas",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "30/06/2027"
     },
     {
       "vacante": "1544412",
@@ -332,22 +321,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544430",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
-      "institucion": "C.T.P. De Platanares",
-      "lecciones": "12",
-      "rige": "10/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544429",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Turismo Rural",
       "institucion": "C.T.P. De Platanares",
       "lecciones": "28",
+      "rige": "10/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544430",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
+      "institucion": "C.T.P. De Platanares",
+      "lecciones": "12",
       "rige": "10/09/2026",
       "vence": "11/12/2026"
     },
