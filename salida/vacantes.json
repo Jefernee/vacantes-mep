@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T02:20:45.546Z",
+  "generado": "2026-09-09T02:40:39.891Z",
   "totalPais": 68,
   "calzanVT6": 1,
   "advertencias": [],
@@ -64,6 +64,26 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1544508",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Diurno De Rio Frio",
+      "lecciones": "21",
+      "rige": "09/09/2026",
+      "vence": "17/11/2026"
+    },
+    {
+      "vacante": "1544511",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo El Paraiso",
+      "lecciones": "8",
+      "rige": "09/09/2026",
+      "vence": "17/11/2026"
+    },
+    {
       "vacante": "1544505",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -80,26 +100,6 @@
       "especialidad": "Psicología",
       "institucion": "Liceo Amb. De Horquetas",
       "lecciones": "6",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
-      "vacante": "1544511",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo El Paraiso",
-      "lecciones": "8",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
-      "vacante": "1544508",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Diurno De Rio Frio",
-      "lecciones": "21",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -154,6 +154,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544136",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Otto Mora Perez",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544117",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -174,22 +184,22 @@
       "vence": "22/10/2026"
     },
     {
-      "vacante": "1544136",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Otto Mora Perez",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544155",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Inglés",
       "institucion": "Liceo Francisca Carrasco",
       "lecciones": "44",
+      "rige": "03/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544102",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
+      "institucion": "Liceo Braulio Carrillo",
+      "lecciones": "40",
       "rige": "03/09/2026",
       "vence": "11/12/2026"
     },
@@ -202,16 +212,6 @@
       "lecciones": "40",
       "rige": "07/09/2026",
       "vence": "24/11/2026"
-    },
-    {
-      "vacante": "1544102",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
-      "institucion": "Liceo Braulio Carrillo",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1544184",
@@ -394,16 +394,6 @@
       "vence": "01/11/2026"
     },
     {
-      "vacante": "1544435",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "El Progreso (Angeles)",
-      "lecciones": "0",
-      "rige": "10/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1544067",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -412,6 +402,16 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "30/06/2027"
+    },
+    {
+      "vacante": "1544435",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "El Progreso (Angeles)",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1544412",
@@ -504,22 +504,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544429",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Turismo Rural",
-      "institucion": "C.T.P. De Platanares",
-      "lecciones": "28",
-      "rige": "10/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544430",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
       "institucion": "C.T.P. De Platanares",
       "lecciones": "12",
+      "rige": "10/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544429",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Turismo Rural",
+      "institucion": "C.T.P. De Platanares",
+      "lecciones": "28",
       "rige": "10/09/2026",
       "vence": "11/12/2026"
     },
@@ -534,16 +534,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1544130",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. De Puntarenas",
-      "lecciones": "12",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544125",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -551,6 +541,16 @@
       "institucion": "C.T.P. De Puntarenas",
       "lecciones": "40",
       "rige": "03/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544130",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De Puntarenas",
+      "lecciones": "12",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -574,16 +574,6 @@
       "vence": "16/10/2026"
     },
     {
-      "vacante": "1543971",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "Liceo Emiliano Odio Madrigal",
-      "lecciones": "44",
-      "rige": "04/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
       "vacante": "1544164",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -592,6 +582,16 @@
       "lecciones": "5",
       "rige": "20/07/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543971",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "Liceo Emiliano Odio Madrigal",
+      "lecciones": "44",
+      "rige": "04/09/2026",
+      "vence": "27/11/2026"
     },
     {
       "vacante": "1544414",
