@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T03:10:25.300Z",
+  "generado": "2026-09-09T03:20:40.207Z",
   "totalPais": 68,
   "calzanVT6": 1,
   "advertencias": [],
@@ -64,16 +64,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1544508",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Diurno De Rio Frio",
-      "lecciones": "21",
-      "rige": "09/09/2026",
-      "vence": "17/11/2026"
-    },
-    {
       "vacante": "1544505",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -90,6 +80,16 @@
       "especialidad": "Psicología",
       "institucion": "Liceo Amb. De Horquetas",
       "lecciones": "6",
+      "rige": "09/09/2026",
+      "vence": "17/11/2026"
+    },
+    {
+      "vacante": "1544508",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Diurno De Rio Frio",
+      "lecciones": "21",
       "rige": "09/09/2026",
       "vence": "17/11/2026"
     },
@@ -154,16 +154,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544104",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ricardo Jimenez Oreamuno",
-      "lecciones": "0",
-      "rige": "02/09/2026",
-      "vence": "22/10/2026"
-    },
-    {
       "vacante": "1544117",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -184,12 +174,32 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544104",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Ricardo Jimenez Oreamuno",
+      "lecciones": "0",
+      "rige": "02/09/2026",
+      "vence": "22/10/2026"
+    },
+    {
       "vacante": "1544155",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Inglés",
       "institucion": "Liceo Francisca Carrasco",
       "lecciones": "44",
+      "rige": "03/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544102",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
+      "institucion": "Liceo Braulio Carrillo",
+      "lecciones": "40",
       "rige": "03/09/2026",
       "vence": "11/12/2026"
     },
@@ -202,16 +212,6 @@
       "lecciones": "40",
       "rige": "07/09/2026",
       "vence": "24/11/2026"
-    },
-    {
-      "vacante": "1544102",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
-      "institucion": "Liceo Braulio Carrillo",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1544184",
@@ -444,6 +444,26 @@
       "vence": "19/11/2026"
     },
     {
+      "vacante": "1544097",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "Colegio Academico Tambor De Cobano",
+      "lecciones": "6",
+      "rige": "08/09/2026",
+      "vence": "27/11/2026"
+    },
+    {
+      "vacante": "1544099",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Colegio Academico Tambor De Cobano",
+      "lecciones": "6",
+      "rige": "08/09/2026",
+      "vence": "27/11/2026"
+    },
+    {
       "vacante": "1544156",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -474,26 +494,6 @@
       "vence": "27/11/2026"
     },
     {
-      "vacante": "1544099",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Colegio Academico Tambor De Cobano",
-      "lecciones": "6",
-      "rige": "08/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1544097",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Colegio Academico Tambor De Cobano",
-      "lecciones": "6",
-      "rige": "08/09/2026",
-      "vence": "27/11/2026"
-    },
-    {
       "vacante": "1544138",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -504,22 +504,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544429",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Turismo Rural",
-      "institucion": "C.T.P. De Platanares",
-      "lecciones": "28",
-      "rige": "10/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544430",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
       "institucion": "C.T.P. De Platanares",
       "lecciones": "12",
+      "rige": "10/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544429",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Turismo Rural",
+      "institucion": "C.T.P. De Platanares",
+      "lecciones": "28",
       "rige": "10/09/2026",
       "vence": "11/12/2026"
     },
@@ -564,16 +564,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544145",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Programación",
-      "institucion": "I.P.E.C. De Puntarenas",
-      "lecciones": "44",
-      "rige": "04/09/2026",
-      "vence": "16/10/2026"
-    },
-    {
       "vacante": "1543971",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -582,6 +572,16 @@
       "lecciones": "44",
       "rige": "04/09/2026",
       "vence": "27/11/2026"
+    },
+    {
+      "vacante": "1544145",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática En Programación",
+      "institucion": "I.P.E.C. De Puntarenas",
+      "lecciones": "44",
+      "rige": "04/09/2026",
+      "vence": "16/10/2026"
     },
     {
       "vacante": "1544164",
@@ -654,6 +654,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1543781",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Franklin Roosevelt",
+      "lecciones": "40",
+      "rige": "03/09/2026",
+      "vence": "15/10/2026"
+    },
+    {
       "vacante": "1544077",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -672,16 +682,6 @@
       "lecciones": "44",
       "rige": "28/09/2026",
       "vence": "09/12/2026"
-    },
-    {
-      "vacante": "1543781",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Franklin Roosevelt",
-      "lecciones": "40",
-      "rige": "03/09/2026",
-      "vence": "15/10/2026"
     },
     {
       "vacante": "1543778",
