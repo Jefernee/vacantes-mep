@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-10T19:00:53.199Z",
+  "generado": "2026-09-10T19:20:49.656Z",
   "totalPais": 43,
   "calzanVT6": 0,
   "advertencias": [],
@@ -152,6 +152,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544779",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Hojancha (Cariari)",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544774",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -167,16 +177,6 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
       "institucion": "El Nuevo Amanecer",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544779",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Hojancha (Cariari)",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
@@ -312,16 +312,6 @@
       "vence": "25/10/2026"
     },
     {
-      "vacante": "1544974",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Carlos Luis Valverde Vega",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544813",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -330,6 +320,16 @@
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "02/11/2026"
+    },
+    {
+      "vacante": "1544974",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Carlos Luis Valverde Vega",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1544965",
