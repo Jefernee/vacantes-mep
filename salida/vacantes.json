@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-10T15:20:53.735Z",
+  "generado": "2026-09-10T15:40:51.959Z",
   "totalPais": 46,
   "calzanVT6": 0,
   "advertencias": [],
@@ -23,22 +23,22 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1544731",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
-      "institucion": "C.T.P. Puerto Viejo",
-      "lecciones": "24",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544733",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Secretariado Ejecutivo",
       "institucion": "C.T.P. Puerto Viejo",
       "lecciones": "12",
+      "rige": "09/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544731",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
+      "institucion": "C.T.P. Puerto Viejo",
+      "lecciones": "24",
       "rige": "09/09/2026",
       "vence": "31/01/2027"
     },
@@ -93,22 +93,22 @@
       "vence": "12/11/2026"
     },
     {
-      "vacante": "1544866",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "C.T.P. De Guaycara",
-      "lecciones": "15",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544251",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Español",
       "institucion": "Col. Noct. La Cuesta",
       "lecciones": "30",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544866",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "C.T.P. De Guaycara",
+      "lecciones": "15",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
@@ -173,16 +173,6 @@
       "vence": "31/12/2027"
     },
     {
-      "vacante": "1544835",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Veracruz",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544441",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -191,6 +181,16 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "04/01/2027"
+    },
+    {
+      "vacante": "1544835",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Veracruz",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544774",
@@ -203,21 +203,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544771",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "El Nuevo Amanecer",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544779",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Hojancha (Cariari)",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544771",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "El Nuevo Amanecer",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
