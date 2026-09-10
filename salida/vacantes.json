@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-10T11:40:37.804Z",
+  "generado": "2026-09-10T12:01:17.105Z",
   "totalPais": 46,
   "calzanVT6": 0,
   "advertencias": [],
@@ -94,16 +94,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544787",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "La Union (Sabalito)",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "12/11/2026"
-    },
-    {
       "vacante": "1544603",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -112,6 +102,16 @@
       "lecciones": "0",
       "rige": "14/09/2026",
       "vence": "18/11/2026"
+    },
+    {
+      "vacante": "1544787",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Union (Sabalito)",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "12/11/2026"
     },
     {
       "vacante": "1539532",
@@ -204,6 +204,16 @@
       "vence": "31/01/2029"
     },
     {
+      "vacante": "1544774",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Carmen",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544771",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -219,16 +229,6 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Hojancha (Cariari)",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544774",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Carmen",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
