@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-10T18:20:39.440Z",
-  "totalPais": 45,
+  "generado": "2026-09-10T18:40:43.141Z",
+  "totalPais": 44,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -151,21 +151,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544774",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Carmen",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544779",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Hojancha (Cariari)",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544774",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Carmen",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
@@ -198,16 +198,6 @@
       "institucion": "Esc. Puente Salas",
       "lecciones": "40",
       "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544754",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Lagos (San Francisco)",
-      "lecciones": "0",
-      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
