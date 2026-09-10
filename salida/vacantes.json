@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-10T17:40:48.359Z",
+  "generado": "2026-09-10T17:59:59.325Z",
   "totalPais": 43,
   "calzanVT6": 0,
   "advertencias": [],
@@ -121,6 +121,16 @@
       "vence": "31/12/2027"
     },
     {
+      "vacante": "1544441",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Los Angeles (Volcan)",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "04/01/2027"
+    },
+    {
       "vacante": "1544835",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -131,14 +141,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544441",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "vacante": "1544774",
+      "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Angeles (Volcan)",
+      "institucion": "El Carmen",
       "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "04/01/2027"
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544771",
@@ -156,16 +166,6 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Hojancha (Cariari)",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544774",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Carmen",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
@@ -221,16 +221,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544582",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "15",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544158",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -247,6 +237,16 @@
       "especialidad": "Inglés",
       "institucion": "C.T.P. De Liberia",
       "lecciones": "35",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544582",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "15",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
