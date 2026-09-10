@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-10T00:40:42.797Z",
+  "generado": "2026-09-10T01:00:38.089Z",
   "totalPais": 46,
   "calzanVT6": 0,
   "advertencias": [],
@@ -214,21 +214,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544771",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "El Nuevo Amanecer",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544779",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Hojancha (Cariari)",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544771",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "El Nuevo Amanecer",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
