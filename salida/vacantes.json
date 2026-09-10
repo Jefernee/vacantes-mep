@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-10T22:20:41.867Z",
-  "totalPais": 33,
+  "generado": "2026-09-10T22:40:53.575Z",
+  "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -44,22 +44,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544866",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "C.T.P. De Guaycara",
-      "lecciones": "15",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544251",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Español",
       "institucion": "Col. Noct. La Cuesta",
       "lecciones": "30",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544866",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "C.T.P. De Guaycara",
+      "lecciones": "15",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
@@ -212,16 +212,6 @@
       "lecciones": "0",
       "rige": "14/09/2026",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1544860",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1543097",
