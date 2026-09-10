@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-10T17:00:38.823Z",
-  "totalPais": 45,
+  "generado": "2026-09-10T17:20:39.837Z",
+  "totalPais": 46,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -33,22 +33,22 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1544733",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. Puerto Viejo",
-      "lecciones": "12",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544731",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
       "institucion": "C.T.P. Puerto Viejo",
       "lecciones": "24",
+      "rige": "09/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544733",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. Puerto Viejo",
+      "lecciones": "12",
       "rige": "09/09/2026",
       "vence": "31/01/2027"
     },
@@ -153,16 +153,6 @@
       "vence": "31/12/2027"
     },
     {
-      "vacante": "1544835",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Veracruz",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544441",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -173,11 +163,11 @@
       "vence": "04/01/2027"
     },
     {
-      "vacante": "1544771",
-      "regional": "Direc. Regional Educacion Guapiles",
+      "vacante": "1544835",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "El Nuevo Amanecer",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Veracruz",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
@@ -188,6 +178,16 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Hojancha (Cariari)",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544771",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "El Nuevo Amanecer",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
@@ -253,16 +253,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544582",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "15",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544158",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -279,6 +269,16 @@
       "especialidad": "Inglés",
       "institucion": "C.T.P. De Liberia",
       "lecciones": "35",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544582",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "15",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
@@ -301,6 +301,16 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "06/11/2026"
+    },
+    {
+      "vacante": "1544975",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "La Guaria (San Francisco)",
+      "lecciones": "0",
+      "rige": "16/09/2026",
+      "vence": "20/11/2026"
     },
     {
       "vacante": "1544860",
@@ -343,6 +353,16 @@
       "vence": "25/10/2026"
     },
     {
+      "vacante": "1544974",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Carlos Luis Valverde Vega",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1544813",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -370,16 +390,6 @@
       "institucion": "Liceo La Uvita",
       "lecciones": "5",
       "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544714",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Iii Ciclo Jose Breinderhoff",
-      "lecciones": "11",
-      "rige": "11/09/2026",
       "vence": "11/12/2026"
     },
     {
