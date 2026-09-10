@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-10T18:00:46.723Z",
-  "totalPais": 44,
+  "generado": "2026-09-10T18:20:39.440Z",
+  "totalPais": 45,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -135,10 +135,10 @@
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Carmen",
+      "institucion": "Los Angeles (Volcan)",
       "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
+      "rige": "17/09/2026",
+      "vence": "04/01/2027"
     },
     {
       "vacante": "1544835",
@@ -146,16 +146,6 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Veracruz",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544771",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "El Nuevo Amanecer",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
@@ -176,6 +166,16 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Hojancha (Cariari)",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544771",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "El Nuevo Amanecer",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
@@ -331,16 +331,6 @@
       "vence": "25/10/2026"
     },
     {
-      "vacante": "1544974",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Carlos Luis Valverde Vega",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544813",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -349,6 +339,16 @@
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "02/11/2026"
+    },
+    {
+      "vacante": "1544974",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Carlos Luis Valverde Vega",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1544965",
@@ -399,6 +399,16 @@
       "lecciones": "0",
       "rige": "16/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544990",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "43",
+      "rige": "10/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544959",
