@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-10T14:00:51.081Z",
+  "generado": "2026-09-10T14:20:41.936Z",
   "totalPais": 45,
   "calzanVT6": 0,
   "advertencias": [],
@@ -93,22 +93,22 @@
       "vence": "12/11/2026"
     },
     {
-      "vacante": "1544251",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Col. Noct. La Cuesta",
-      "lecciones": "30",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544866",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Español",
       "institucion": "C.T.P. De Guaycara",
       "lecciones": "15",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544251",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Col. Noct. La Cuesta",
+      "lecciones": "30",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
