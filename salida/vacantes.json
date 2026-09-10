@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-10T13:40:45.216Z",
-  "totalPais": 48,
+  "generado": "2026-09-10T14:00:51.081Z",
+  "totalPais": 45,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -23,22 +23,22 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1544733",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. Puerto Viejo",
-      "lecciones": "12",
-      "rige": "09/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544731",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
       "institucion": "C.T.P. Puerto Viejo",
       "lecciones": "24",
+      "rige": "09/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544733",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. Puerto Viejo",
+      "lecciones": "12",
       "rige": "09/09/2026",
       "vence": "31/01/2027"
     },
@@ -73,16 +73,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544624",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "C.T.P. De Jaco",
-      "lecciones": "44",
-      "rige": "02/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544844",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -103,22 +93,22 @@
       "vence": "12/11/2026"
     },
     {
-      "vacante": "1544866",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "C.T.P. De Guaycara",
-      "lecciones": "15",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544251",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Español",
       "institucion": "Col. Noct. La Cuesta",
       "lecciones": "30",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544866",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "C.T.P. De Guaycara",
+      "lecciones": "15",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
@@ -173,16 +163,6 @@
       "vence": "30/06/2027"
     },
     {
-      "vacante": "1544629",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Rural Boca De Sierpe",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "16/10/2026"
-    },
-    {
       "vacante": "1544697",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Orientador Asistente",
@@ -191,6 +171,16 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "31/12/2027"
+    },
+    {
+      "vacante": "1544441",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Los Angeles (Volcan)",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "04/01/2027"
     },
     {
       "vacante": "1544835",
@@ -203,14 +193,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544037",
+      "vacante": "1544774",
       "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Esc. Manuel Maria Gutierrez",
-      "lecciones": "32",
-      "rige": "05/10/2026",
-      "vence": "31/01/2029"
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Carmen",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544771",
@@ -228,16 +218,6 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Hojancha (Cariari)",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544774",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Carmen",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
@@ -373,7 +353,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544422",
+      "vacante": "1544421",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Electromecánica",
@@ -383,7 +363,7 @@
       "vence": "25/10/2026"
     },
     {
-      "vacante": "1544421",
+      "vacante": "1544422",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Electromecánica",
@@ -403,16 +383,6 @@
       "vence": "02/11/2026"
     },
     {
-      "vacante": "1544765",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo La Uvita",
-      "lecciones": "5",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544714",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -423,13 +393,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544615",
-      "regional": "Direc. Regional Educacion Puntarenas",
+      "vacante": "1544765",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Miramar",
-      "lecciones": "2",
-      "rige": "08/09/2026",
+      "especialidad": "Inglés",
+      "institucion": "Liceo La Uvita",
+      "lecciones": "5",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
