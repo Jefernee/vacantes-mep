@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-10T19:40:36.782Z",
-  "totalPais": 38,
+  "generado": "2026-09-10T20:00:37.466Z",
+  "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -32,16 +32,6 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1544762",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo Ambientalista El Roble",
-      "lecciones": "13",
-      "rige": "18/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545003",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -62,14 +52,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544787",
+      "vacante": "1544251",
       "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "La Union (Sabalito)",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "12/11/2026"
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Col. Noct. La Cuesta",
+      "lecciones": "30",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544866",
@@ -78,16 +68,6 @@
       "especialidad": "Español",
       "institucion": "C.T.P. De Guaycara",
       "lecciones": "15",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544251",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Col. Noct. La Cuesta",
-      "lecciones": "30",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
@@ -172,6 +152,16 @@
       "vence": "21/10/2026"
     },
     {
+      "vacante": "1544582",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "15",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544158",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -188,16 +178,6 @@
       "especialidad": "Inglés",
       "institucion": "C.T.P. De Liberia",
       "lecciones": "35",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544582",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "15",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
@@ -262,6 +242,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544694",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Nautilio Acosta Piepper",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "31/01/2031"
+    },
+    {
       "vacante": "1544566",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -282,16 +272,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544974",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Carlos Luis Valverde Vega",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544813",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -300,6 +280,16 @@
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "02/11/2026"
+    },
+    {
+      "vacante": "1544974",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Carlos Luis Valverde Vega",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1544965",
@@ -330,16 +320,6 @@
       "lecciones": "0",
       "rige": "16/09/2026",
       "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1544783",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Saino (Pital)",
-      "lecciones": "0",
-      "rige": "16/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1544990",
