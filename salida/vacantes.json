@@ -1,9 +1,10 @@
 {
-  "generado": "2026-09-10T18:40:43.141Z",
-  "totalPais": 44,
+  "generado": "2026-09-10T19:00:53.199Z",
+  "totalPais": 43,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Administración Y Operación Aduanera",
     "Educación Para El Hogar",
     "Electromecánica",
     "Enseñanza Especial . Retardo Mental",
@@ -38,6 +39,16 @@
       "institucion": "Liceo Ambientalista El Roble",
       "lecciones": "13",
       "rige": "18/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545003",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Administración Y Operación Aduanera",
+      "institucion": "C.T.P. Invu Las Cañas",
+      "lecciones": "40",
+      "rige": "14/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -78,16 +89,6 @@
       "institucion": "Col. Noct. La Cuesta",
       "lecciones": "30",
       "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1539532",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Cindea San Vito",
-      "lecciones": "44",
-      "rige": "18/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -151,16 +152,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544779",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Hojancha (Cariari)",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544774",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -176,6 +167,16 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
       "institucion": "El Nuevo Amanecer",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544779",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Hojancha (Cariari)",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
@@ -211,13 +212,13 @@
       "vence": "21/10/2026"
     },
     {
-      "vacante": "1544760",
+      "vacante": "1544582",
       "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Guayabo (Mogote)",
-      "lecciones": "0",
-      "rige": "10/09/2026",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "15",
+      "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -237,16 +238,6 @@
       "especialidad": "Inglés",
       "institucion": "C.T.P. De Liberia",
       "lecciones": "35",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544582",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "15",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
@@ -321,16 +312,6 @@
       "vence": "25/10/2026"
     },
     {
-      "vacante": "1544813",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Colegio Nocturno De Sinai",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "02/11/2026"
-    },
-    {
       "vacante": "1544974",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -339,6 +320,16 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1544813",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Colegio Nocturno De Sinai",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "02/11/2026"
     },
     {
       "vacante": "1544965",
