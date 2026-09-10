@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-10T13:00:43.625Z",
+  "generado": "2026-09-10T13:20:52.542Z",
   "totalPais": 49,
   "calzanVT6": 0,
   "advertencias": [],
@@ -213,6 +213,16 @@
       "vence": "31/01/2029"
     },
     {
+      "vacante": "1544779",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Hojancha (Cariari)",
+      "lecciones": "0",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544774",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -228,16 +238,6 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
       "institucion": "El Nuevo Amanecer",
-      "lecciones": "0",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544779",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Hojancha (Cariari)",
       "lecciones": "0",
       "rige": "11/09/2026",
       "vence": "11/12/2026"
