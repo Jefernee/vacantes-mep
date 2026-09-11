@@ -1,20 +1,18 @@
 {
-  "generado": "2026-09-11T12:41:13.214Z",
-  "totalPais": 32,
+  "generado": "2026-09-11T13:00:38.528Z",
+  "totalPais": 23,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Administración Y Operación Aduanera",
     "Ciencias",
     "Educación Para El Hogar",
-    "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
     "Estudios Sociales/Educación Cívica",
-    "Francés",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
-    "Música/Música",
+    "Labores Varias De Oficina",
     "Producción Agrícola Y Pecuaria",
     "Religión",
     "Secretariado Ejecutivo",
@@ -44,23 +42,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544866",
+      "vacante": "1544952",
       "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "C.T.P. De Guaycara",
-      "lecciones": "15",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544251",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Col. Noct. La Cuesta",
-      "lecciones": "30",
-      "rige": "21/09/2026",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Guayabi (Corredor)",
+      "lecciones": "0",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -72,26 +60,6 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1544863",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "C.T.P. De Acosta",
-      "lecciones": "42",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544697",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Orientador Asistente",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "C.T.P. De Osa",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "31/12/2027"
     },
     {
       "vacante": "1544441",
@@ -144,16 +112,6 @@
       "vence": "21/10/2026"
     },
     {
-      "vacante": "1543482",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De Liberia",
-      "lecciones": "20",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543484",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -164,24 +122,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544862",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Auxiliar Administrativo",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "I.E.G.B. Paraiso",
-      "lecciones": "0",
-      "rige": "21/09/2026",
+      "vacante": "1543482",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "20",
+      "rige": "16/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544865",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Penshurt (Limon)",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "06/11/2026"
     },
     {
       "vacante": "1544975",
@@ -214,16 +162,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1543097",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Federico Salas C. (San Juan)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544694",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -232,16 +170,6 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1545015",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Magallanes",
-      "lecciones": "5",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1544566",
@@ -254,6 +182,16 @@
       "vence": "01/11/2026"
     },
     {
+      "vacante": "1545015",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Magallanes",
+      "lecciones": "5",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1544974",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -264,6 +202,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1544700",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "C.T.P. General Viejo",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1544965",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -272,26 +220,6 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544765",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo La Uvita",
-      "lecciones": "5",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544857",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Adela Rodriguez Venegas",
-      "lecciones": "0",
-      "rige": "16/09/2026",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1544990",
@@ -322,26 +250,6 @@
       "lecciones": "0",
       "rige": "14/09/2026",
       "vence": "21/10/2026"
-    },
-    {
-      "vacante": "1544814",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cecilio Lindo M. (Juan Viñas)",
-      "lecciones": "0",
-      "rige": "16/09/2026",
-      "vence": "19/10/2026"
-    },
-    {
-      "vacante": "1544821",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
     }
   ]
 }
