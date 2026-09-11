@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-11T17:40:40.253Z",
-  "totalPais": 23,
+  "generado": "2026-09-11T18:00:55.307Z",
+  "totalPais": 21,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -83,16 +83,6 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544986",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Valencia (San Rafael Abajo)",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1545042",
@@ -252,16 +242,6 @@
       "institucion": "C.T.P. De Puntarenas",
       "lecciones": "40",
       "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544990",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. De La Fortuna",
-      "lecciones": "43",
-      "rige": "10/09/2026",
       "vence": "11/12/2026"
     },
     {
