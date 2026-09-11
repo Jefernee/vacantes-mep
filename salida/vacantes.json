@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-11T23:00:33.447Z",
+  "generado": "2026-09-11T23:18:44.047Z",
   "totalPais": 21,
   "calzanVT6": 2,
   "advertencias": [],
@@ -205,16 +205,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1545294",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Nocturno De Sinai",
-      "lecciones": "8",
-      "rige": "17/09/2026",
-      "vence": "21/10/2026"
-    },
-    {
       "vacante": "1545285",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -223,6 +213,16 @@
       "lecciones": "21",
       "rige": "29/09/2026",
       "vence": "07/11/2026"
+    },
+    {
+      "vacante": "1545294",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Nocturno De Sinai",
+      "lecciones": "8",
+      "rige": "17/09/2026",
+      "vence": "21/10/2026"
     },
     {
       "vacante": "1544955",
