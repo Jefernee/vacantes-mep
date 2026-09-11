@@ -1,7 +1,7 @@
 {
-  "generado": "2026-09-11T17:00:41.326Z",
+  "generado": "2026-09-11T17:20:46.417Z",
   "totalPais": 22,
-  "calzanVT6": 1,
+  "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
     "Administración Y Operación Aduanera",
@@ -9,10 +9,11 @@
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Educación Para El Hogar",
     "Estudios Sociales/Educación Cívica",
+    "Francés",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
+    "Informática Empresarial",
     "Inglés",
     "Labores Varias De Oficina",
-    "Religión",
     "Salud Ocupacional",
     "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
@@ -29,9 +30,30 @@
       "rige": "22/09/2026",
       "vence": "11/12/2026",
       "calce": "exacta"
+    },
+    {
+      "vacante": "1545215",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Empresarial",
+      "institucion": "Liceo Los Lagos",
+      "lecciones": "4",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
     }
   ],
   "todas": [
+    {
+      "vacante": "1545210",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "C.T.P Atenas",
+      "lecciones": "3",
+      "rige": "14/09/2026",
+      "vence": "11/12/2026"
+    },
     {
       "vacante": "1545003",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -103,13 +125,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543482",
-      "regional": "Direc. Regional Educacion Liberia",
+      "vacante": "1545215",
+      "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De Liberia",
-      "lecciones": "20",
-      "rige": "16/09/2026",
+      "especialidad": "Informática Empresarial",
+      "institucion": "Liceo Los Lagos",
+      "lecciones": "4",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -123,6 +145,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1543482",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "20",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545163",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -131,16 +163,6 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1544975",
-      "regional": "Direc. Regional Educacion Los Santos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "La Guaria (San Francisco)",
-      "lecciones": "0",
-      "rige": "16/09/2026",
-      "vence": "20/11/2026"
     },
     {
       "vacante": "1545040",
@@ -181,16 +203,6 @@
       "lecciones": "5",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544974",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Carlos Luis Valverde Vega",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1545190",
