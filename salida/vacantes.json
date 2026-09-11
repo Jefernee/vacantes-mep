@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-11T00:40:42.278Z",
+  "generado": "2026-09-11T00:47:25.273Z",
   "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
@@ -44,22 +44,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544866",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "C.T.P. De Guaycara",
-      "lecciones": "15",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544251",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Español",
       "institucion": "Col. Noct. La Cuesta",
       "lecciones": "30",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544866",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "C.T.P. De Guaycara",
+      "lecciones": "15",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
@@ -144,22 +144,22 @@
       "vence": "21/10/2026"
     },
     {
-      "vacante": "1543482",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De Liberia",
-      "lecciones": "20",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543484",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Secretariado Ejecutivo",
       "institucion": "C.T.P. De Liberia",
       "lecciones": "4",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543482",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "20",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
@@ -214,16 +214,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1544694",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Nautilio Acosta Piepper",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1543097",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -232,6 +222,16 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544694",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Nautilio Acosta Piepper",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1544566",
