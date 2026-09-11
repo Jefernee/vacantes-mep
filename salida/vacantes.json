@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-11T20:20:34.476Z",
-  "totalPais": 22,
+  "generado": "2026-09-11T20:40:45.044Z",
+  "totalPais": 20,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,7 +9,6 @@
     "Enseñanza Especial . Retardo Mental",
     "Filosofía",
     "Francés",
-    "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Informática Empresarial",
     "Inglés",
     "Labores Varias De Oficina",
@@ -20,23 +19,23 @@
   ],
   "interesantes": [
     {
-      "vacante": "1545208",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "Ctp Santo Domingo",
-      "lecciones": "8",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026",
-      "calce": "exacta"
-    },
-    {
       "vacante": "1545215",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Informática Empresarial",
       "institucion": "Liceo Los Lagos",
       "lecciones": "4",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
+    },
+    {
+      "vacante": "1545208",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "Ctp Santo Domingo",
+      "lecciones": "8",
       "rige": "22/09/2026",
       "vence": "11/12/2026",
       "calce": "exacta"
@@ -124,26 +123,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545048",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo De Cariari",
-      "lecciones": "39",
-      "rige": "14/09/2026",
-      "vence": "24/11/2026"
-    },
-    {
-      "vacante": "1545208",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "Ctp Santo Domingo",
-      "lecciones": "8",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545215",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -154,13 +133,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543482",
-      "regional": "Direc. Regional Educacion Liberia",
+      "vacante": "1545208",
+      "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De Liberia",
-      "lecciones": "20",
-      "rige": "16/09/2026",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "Ctp Santo Domingo",
+      "lecciones": "8",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -174,6 +153,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1543482",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "20",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545163",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -182,16 +171,6 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1545040",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Jose Martin Carrillo Castrillo",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "03/12/2026"
     },
     {
       "vacante": "1545190",
@@ -214,16 +193,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1545285",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Fernando Volio Jimenez",
-      "lecciones": "21",
-      "rige": "29/09/2026",
-      "vence": "07/11/2026"
-    },
-    {
       "vacante": "1545294",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -232,6 +201,16 @@
       "lecciones": "8",
       "rige": "17/09/2026",
       "vence": "21/10/2026"
+    },
+    {
+      "vacante": "1545285",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Liceo Fernando Volio Jimenez",
+      "lecciones": "21",
+      "rige": "29/09/2026",
+      "vence": "07/11/2026"
     },
     {
       "vacante": "1544955",

@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 3425,
+      "vecesVista": 3428,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-11T20:20:34.478Z",
+      "ultimaVez": "2026-09-11T20:40:45.046Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 2259,
+      "vecesVista": 2262,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-11T20:20:34.478Z",
+      "ultimaVez": "2026-09-11T20:40:45.046Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 239,
+      "vecesVista": 241,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-11T20:20:34.478Z",
+      "ultimaVez": "2026-09-11T20:40:45.046Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 320,
+      "vecesVista": 321,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-11T20:20:34.478Z",
+      "ultimaVez": "2026-09-11T20:40:45.046Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -86,16 +86,16 @@
     },
     "Secretariado Ejecutivo": {
       "calce": "no interesa",
-      "vecesVista": 191,
+      "vecesVista": 194,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-11T20:20:34.478Z",
+      "ultimaVez": "2026-09-11T20:40:45.046Z",
       "avisadaComoNueva": true
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 1137,
+      "vecesVista": 1139,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-11T20:20:34.478Z",
+      "ultimaVez": "2026-09-11T20:40:45.046Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 52,
+      "vecesVista": 53,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-09-11T20:20:34.478Z",
+      "ultimaVez": "2026-09-11T20:40:45.046Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 335,
+      "vecesVista": 336,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-09-11T20:20:34.478Z",
+      "ultimaVez": "2026-09-11T20:40:45.046Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 285,
+      "vecesVista": 286,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-09-11T20:20:34.478Z",
+      "ultimaVez": "2026-09-11T20:40:45.046Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -212,9 +212,9 @@
     },
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos": {
       "calce": "exacta",
-      "vecesVista": 69,
+      "vecesVista": 70,
       "primeraVez": "2026-09-07T16:15:30.346Z",
-      "ultimaVez": "2026-09-11T20:20:34.478Z",
+      "ultimaVez": "2026-09-11T20:40:45.046Z",
       "avisadaComoNueva": true
     },
     "Psicología": {
@@ -324,18 +324,18 @@
     },
     "Salud Ocupacional": {
       "calce": "no interesa",
-      "vecesVista": 12,
+      "vecesVista": 13,
       "primeraVez": "2026-09-11T17:00:41.327Z",
-      "ultimaVez": "2026-09-11T20:20:34.478Z",
+      "ultimaVez": "2026-09-11T20:40:45.046Z",
       "avisadaComoNueva": true
     },
     "Informática Empresarial": {
       "calce": "exacta",
-      "vecesVista": 11,
+      "vecesVista": 12,
       "primeraVez": "2026-09-11T17:20:46.418Z",
-      "ultimaVez": "2026-09-11T20:20:34.478Z",
+      "ultimaVez": "2026-09-11T20:40:45.046Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-11T20:20:34.478Z"
+  "actualizado": "2026-09-11T20:40:45.046Z"
 }
