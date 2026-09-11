@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-10T23:40:41.440Z",
-  "totalPais": 31,
+  "generado": "2026-09-11T00:20:45.660Z",
+  "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -15,6 +15,7 @@
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
     "Música/Música",
+    "Producción Agrícola Y Pecuaria",
     "Religión",
     "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
@@ -233,16 +234,6 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1545015",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Magallanes",
-      "lecciones": "5",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544566",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -251,6 +242,16 @@
       "lecciones": "44",
       "rige": "17/09/2026",
       "vence": "01/11/2026"
+    },
+    {
+      "vacante": "1545015",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Magallanes",
+      "lecciones": "5",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544974",
@@ -293,14 +294,24 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1544857",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Adela Rodriguez Venegas",
-      "lecciones": "0",
-      "rige": "16/09/2026",
-      "vence": "31/01/2031"
+      "vacante": "1544990",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "43",
+      "rige": "10/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544959",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Producción Agrícola Y Pecuaria",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "8",
+      "rige": "07/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1544916",
