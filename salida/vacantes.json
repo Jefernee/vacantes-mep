@@ -1,10 +1,9 @@
 {
-  "generado": "2026-09-11T19:20:54.235Z",
-  "totalPais": 21,
+  "generado": "2026-09-11T19:40:40.827Z",
+  "totalPais": 20,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
-    "Ciencias",
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Educación Para El Hogar",
     "Estudios Sociales/Educación Cívica",
@@ -20,23 +19,23 @@
   ],
   "interesantes": [
     {
-      "vacante": "1545208",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "Ctp Santo Domingo",
-      "lecciones": "8",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026",
-      "calce": "exacta"
-    },
-    {
       "vacante": "1545215",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Informática Empresarial",
       "institucion": "Liceo Los Lagos",
       "lecciones": "4",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
+    },
+    {
+      "vacante": "1545208",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "Ctp Santo Domingo",
+      "lecciones": "8",
       "rige": "22/09/2026",
       "vence": "11/12/2026",
       "calce": "exacta"
@@ -84,6 +83,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1545270",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Agua Blanca (San Ignacio)",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545042",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -114,22 +123,22 @@
       "vence": "24/11/2026"
     },
     {
-      "vacante": "1545208",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "Ctp Santo Domingo",
-      "lecciones": "8",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545215",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Informática Empresarial",
       "institucion": "Liceo Los Lagos",
       "lecciones": "4",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545208",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "Ctp Santo Domingo",
+      "lecciones": "8",
       "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
@@ -174,16 +183,6 @@
       "vence": "03/12/2026"
     },
     {
-      "vacante": "1545016",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Carmen L. Castro Rodriguez",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1544694",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -192,16 +191,6 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1545015",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Magallanes",
-      "lecciones": "5",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1545190",
