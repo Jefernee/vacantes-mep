@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-11T17:20:46.417Z",
-  "totalPais": 22,
+  "generado": "2026-09-11T17:40:40.253Z",
+  "totalPais": 23,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -44,6 +44,16 @@
     }
   ],
   "todas": [
+    {
+      "vacante": "1545225",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Carlos Ml Rojas Quiros",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "01/11/2026"
+    },
     {
       "vacante": "1545210",
       "regional": "Direc. Regional Educacion Alajuela",
