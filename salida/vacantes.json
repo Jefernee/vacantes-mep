@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-11T20:40:45.044Z",
+  "generado": "2026-09-11T21:00:35.550Z",
   "totalPais": 20,
   "calzanVT6": 2,
   "advertencias": [],
@@ -9,6 +9,7 @@
     "Enseñanza Especial . Retardo Mental",
     "Filosofía",
     "Francés",
+    "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Empresarial",
     "Inglés",
     "Labores Varias De Oficina",
@@ -19,23 +20,23 @@
   ],
   "interesantes": [
     {
-      "vacante": "1545215",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Empresarial",
-      "institucion": "Liceo Los Lagos",
-      "lecciones": "4",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026",
-      "calce": "exacta"
-    },
-    {
       "vacante": "1545208",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
       "institucion": "Ctp Santo Domingo",
       "lecciones": "8",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
+    },
+    {
+      "vacante": "1545215",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Empresarial",
+      "institucion": "Liceo Los Lagos",
+      "lecciones": "4",
       "rige": "22/09/2026",
       "vence": "11/12/2026",
       "calce": "exacta"
@@ -123,13 +124,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545215",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Empresarial",
-      "institucion": "Liceo Los Lagos",
-      "lecciones": "4",
-      "rige": "22/09/2026",
+      "vacante": "1545334",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Jorge",
+      "lecciones": "0",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -143,23 +144,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543484",
-      "regional": "Direc. Regional Educacion Liberia",
+      "vacante": "1545215",
+      "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De Liberia",
+      "especialidad": "Informática Empresarial",
+      "institucion": "Liceo Los Lagos",
       "lecciones": "4",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543482",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De Liberia",
-      "lecciones": "20",
-      "rige": "16/09/2026",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -171,6 +162,16 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1545325",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "Liceo De Tarrazu",
+      "lecciones": "38",
+      "rige": "21/09/2026",
+      "vence": "13/11/2026"
     },
     {
       "vacante": "1545190",
@@ -193,16 +194,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1545294",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Nocturno De Sinai",
-      "lecciones": "8",
-      "rige": "17/09/2026",
-      "vence": "21/10/2026"
-    },
-    {
       "vacante": "1545285",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -211,6 +202,16 @@
       "lecciones": "21",
       "rige": "29/09/2026",
       "vence": "07/11/2026"
+    },
+    {
+      "vacante": "1545294",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Nocturno De Sinai",
+      "lecciones": "8",
+      "rige": "17/09/2026",
+      "vence": "21/10/2026"
     },
     {
       "vacante": "1544955",
