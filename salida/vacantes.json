@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-11T18:06:56.146Z",
+  "generado": "2026-09-11T18:20:38.775Z",
   "totalPais": 21,
   "calzanVT6": 2,
   "advertencias": [],
@@ -135,22 +135,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543482",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De Liberia",
-      "lecciones": "20",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543484",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Secretariado Ejecutivo",
       "institucion": "C.T.P. De Liberia",
       "lecciones": "4",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543482",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "20",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
