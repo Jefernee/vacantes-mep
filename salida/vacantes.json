@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-11T14:48:57.315Z",
-  "totalPais": 22,
+  "generado": "2026-09-11T15:00:53.202Z",
+  "totalPais": 23,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -69,6 +69,16 @@
       "institucion": "Colegio Santa Eduviges",
       "lecciones": "7",
       "rige": "14/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545154",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Santa Marta (Volcan)",
+      "lecciones": "0",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -162,16 +172,6 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1544566",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo De Palmares",
-      "lecciones": "44",
-      "rige": "17/09/2026",
-      "vence": "01/11/2026"
-    },
-    {
       "vacante": "1545015",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -180,6 +180,16 @@
       "lecciones": "5",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544566",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo De Palmares",
+      "lecciones": "44",
+      "rige": "17/09/2026",
+      "vence": "01/11/2026"
     },
     {
       "vacante": "1544974",
@@ -212,6 +222,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544955",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "San Pablo (Platanares)",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1544990",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -230,16 +250,6 @@
       "lecciones": "8",
       "rige": "07/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544916",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Lomas Del Rio",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "21/10/2026"
     }
   ]
 }
