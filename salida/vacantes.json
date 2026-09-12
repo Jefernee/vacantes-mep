@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-12T14:40:52.455Z",
-  "totalPais": 19,
+  "generado": "2026-09-12T15:00:38.170Z",
+  "totalPais": 18,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -155,16 +155,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545163",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Maravilla (Carrandi)",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1545325",
       "regional": "Direc. Regional Educacion Los Santos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -185,16 +175,6 @@
       "vence": "31/07/2029"
     },
     {
-      "vacante": "1545294",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Nocturno De Sinai",
-      "lecciones": "8",
-      "rige": "17/09/2026",
-      "vence": "21/10/2026"
-    },
-    {
       "vacante": "1545285",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -203,6 +183,16 @@
       "lecciones": "21",
       "rige": "29/09/2026",
       "vence": "07/11/2026"
+    },
+    {
+      "vacante": "1545294",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Nocturno De Sinai",
+      "lecciones": "8",
+      "rige": "17/09/2026",
+      "vence": "21/10/2026"
     },
     {
       "vacante": "1544955",
