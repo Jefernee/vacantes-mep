@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-12T18:40:34.528Z",
-  "totalPais": 15,
+  "generado": "2026-09-12T18:54:23.807Z",
+  "totalPais": 14,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -14,21 +14,9 @@
     "Inglés",
     "Salud Ocupacional",
     "Secretariado Ejecutivo",
-    "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [
-    {
-      "vacante": "1545215",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Empresarial",
-      "institucion": "Liceo Los Lagos",
-      "lecciones": "4",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026",
-      "calce": "exacta"
-    },
     {
       "vacante": "1545208",
       "regional": "Direc. Regional Educacion Heredia",
@@ -36,6 +24,17 @@
       "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
       "institucion": "Ctp Santo Domingo",
       "lecciones": "8",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
+    },
+    {
+      "vacante": "1545215",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Empresarial",
+      "institucion": "Liceo Los Lagos",
+      "lecciones": "4",
       "rige": "22/09/2026",
       "vence": "11/12/2026",
       "calce": "exacta"
@@ -51,16 +50,6 @@
       "lecciones": "0",
       "rige": "16/09/2026",
       "vence": "05/11/2026"
-    },
-    {
-      "vacante": "1545250",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Centro Ens.Esp.Lenin Salazar Q",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "31/01/2028"
     },
     {
       "vacante": "1545299",
@@ -113,22 +102,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545215",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Empresarial",
-      "institucion": "Liceo Los Lagos",
-      "lecciones": "4",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545208",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
       "institucion": "Ctp Santo Domingo",
       "lecciones": "8",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545215",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Empresarial",
+      "institucion": "Liceo Los Lagos",
+      "lecciones": "4",
       "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
@@ -143,16 +132,6 @@
       "vence": "13/11/2026"
     },
     {
-      "vacante": "1545285",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Fernando Volio Jimenez",
-      "lecciones": "21",
-      "rige": "29/09/2026",
-      "vence": "07/11/2026"
-    },
-    {
       "vacante": "1545294",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -161,6 +140,16 @@
       "lecciones": "8",
       "rige": "17/09/2026",
       "vence": "21/10/2026"
+    },
+    {
+      "vacante": "1545285",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Liceo Fernando Volio Jimenez",
+      "lecciones": "21",
+      "rige": "29/09/2026",
+      "vence": "07/11/2026"
     },
     {
       "vacante": "1544955",
