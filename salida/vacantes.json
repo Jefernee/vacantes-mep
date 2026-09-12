@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-12T21:40:31.588Z",
+  "generado": "2026-09-12T22:00:31.929Z",
   "totalPais": 11,
   "calzanVT6": 2,
   "advertencias": [],
@@ -101,16 +101,6 @@
       "vence": "13/11/2026"
     },
     {
-      "vacante": "1545285",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Fernando Volio Jimenez",
-      "lecciones": "21",
-      "rige": "29/09/2026",
-      "vence": "07/11/2026"
-    },
-    {
       "vacante": "1545294",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -119,6 +109,16 @@
       "lecciones": "8",
       "rige": "17/09/2026",
       "vence": "21/10/2026"
+    },
+    {
+      "vacante": "1545285",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Liceo Fernando Volio Jimenez",
+      "lecciones": "21",
+      "rige": "29/09/2026",
+      "vence": "07/11/2026"
     },
     {
       "vacante": "1544955",
