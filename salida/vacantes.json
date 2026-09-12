@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-12T17:20:42.223Z",
-  "totalPais": 16,
+  "generado": "2026-09-12T17:40:43.217Z",
+  "totalPais": 15,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,7 +12,6 @@
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Informática Empresarial",
     "Inglés",
-    "Labores Varias De Oficina",
     "Salud Ocupacional",
     "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
@@ -43,16 +42,6 @@
     }
   ],
   "todas": [
-    {
-      "vacante": "1545225",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Carlos Ml Rojas Quiros",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "01/11/2026"
-    },
     {
       "vacante": "1545257",
       "regional": "Direc. Regional Educacion Desamparados",
