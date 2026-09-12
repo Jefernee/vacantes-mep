@@ -1,12 +1,11 @@
 {
-  "generado": "2026-09-12T19:40:30.758Z",
-  "totalPais": 13,
+  "generado": "2026-09-12T20:00:35.359Z",
+  "totalPais": 11,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Educación Para El Hogar",
-    "Enseñanza Especial . Retardo Mental",
     "Filosofía",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
@@ -41,26 +40,6 @@
     }
   ],
   "todas": [
-    {
-      "vacante": "1545257",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Auxiliar Administrativo",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "C.T.P. De San Juan Sur",
-      "lecciones": "0",
-      "rige": "16/09/2026",
-      "vence": "05/11/2026"
-    },
-    {
-      "vacante": "1545299",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Liceo San Miguel",
-      "lecciones": "44",
-      "rige": "21/09/2026",
-      "vence": "10/12/2026"
-    },
     {
       "vacante": "1545347",
       "regional": "Direc. Regional Educacion Desamparados",
