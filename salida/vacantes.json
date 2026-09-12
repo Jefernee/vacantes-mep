@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-12T19:21:21.507Z",
-  "totalPais": 14,
+  "generado": "2026-09-12T19:40:30.758Z",
+  "totalPais": 13,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -18,23 +18,23 @@
   ],
   "interesantes": [
     {
-      "vacante": "1545215",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Empresarial",
-      "institucion": "Liceo Los Lagos",
-      "lecciones": "4",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026",
-      "calce": "exacta"
-    },
-    {
       "vacante": "1545208",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
       "institucion": "Ctp Santo Domingo",
       "lecciones": "8",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
+    },
+    {
+      "vacante": "1545215",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Empresarial",
+      "institucion": "Liceo Los Lagos",
+      "lecciones": "4",
       "rige": "22/09/2026",
       "vence": "11/12/2026",
       "calce": "exacta"
@@ -60,16 +60,6 @@
       "lecciones": "44",
       "rige": "21/09/2026",
       "vence": "10/12/2026"
-    },
-    {
-      "vacante": "1545270",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Agua Blanca (San Ignacio)",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1545347",
@@ -102,22 +92,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545215",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Empresarial",
-      "institucion": "Liceo Los Lagos",
-      "lecciones": "4",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545208",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
       "institucion": "Ctp Santo Domingo",
       "lecciones": "8",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545215",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Empresarial",
+      "institucion": "Liceo Los Lagos",
+      "lecciones": "4",
       "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
