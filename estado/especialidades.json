@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 3805,
+      "vecesVista": 3812,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 2408,
+      "vecesVista": 2409,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 703,
+      "vecesVista": 704,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 1458,
+      "vecesVista": 1460,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 332,
+      "vecesVista": 333,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 213,
+      "vecesVista": 214,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 407,
+      "vecesVista": 409,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -212,9 +212,9 @@
     },
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos": {
       "calce": "exacta",
-      "vecesVista": 230,
+      "vecesVista": 231,
       "primeraVez": "2026-09-07T16:15:30.346Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Psicología": {
@@ -247,9 +247,9 @@
     },
     "Procesos Productivos E Inspección En La Industria Alimentaria": {
       "calce": "no interesa",
-      "vecesVista": 70,
+      "vecesVista": 71,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Química": {
@@ -261,9 +261,9 @@
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 218,
+      "vecesVista": 219,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -331,46 +331,46 @@
     },
     "Informática Empresarial": {
       "calce": "exacta",
-      "vecesVista": 172,
+      "vecesVista": 173,
       "primeraVez": "2026-09-11T17:20:46.418Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Preescolar": {
       "calce": "no interesa",
-      "vecesVista": 12,
+      "vecesVista": 14,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Diseño De Productos Industriales Textiles": {
       "calce": "no interesa",
-      "vecesVista": 12,
+      "vecesVista": 13,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Construcción Civil": {
       "calce": "no interesa",
-      "vecesVista": 12,
+      "vecesVista": 13,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Contabilidad Y Finanzas": {
       "calce": "no interesa",
-      "vecesVista": 12,
+      "vecesVista": 13,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 12,
+      "vecesVista": 13,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T16:40:51.181Z",
+      "ultimaVez": "2026-09-14T16:44:53.554Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-14T16:40:51.181Z"
+  "actualizado": "2026-09-14T16:44:53.554Z"
 }
