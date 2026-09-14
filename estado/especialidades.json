@@ -2,9 +2,9 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 3720,
+      "vecesVista": 3721,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T12:20:36.942Z",
+      "ultimaVez": "2026-09-14T12:40:56.500Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 468,
+      "vecesVista": 469,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T12:20:36.942Z",
+      "ultimaVez": "2026-09-14T12:40:56.500Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -86,16 +86,16 @@
     },
     "Secretariado Ejecutivo": {
       "calce": "no interesa",
-      "vecesVista": 341,
+      "vecesVista": 342,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T12:20:36.942Z",
+      "ultimaVez": "2026-09-14T12:40:56.500Z",
       "avisadaComoNueva": true
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 1432,
+      "vecesVista": 1434,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T12:20:36.942Z",
+      "ultimaVez": "2026-09-14T12:40:56.500Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 319,
+      "vecesVista": 320,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T12:20:36.942Z",
+      "ultimaVez": "2026-09-14T12:40:56.500Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 200,
+      "vecesVista": 201,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-09-14T12:20:36.942Z",
+      "ultimaVez": "2026-09-14T12:40:56.500Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -212,9 +212,9 @@
     },
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos": {
       "calce": "exacta",
-      "vecesVista": 217,
+      "vecesVista": 218,
       "primeraVez": "2026-09-07T16:15:30.346Z",
-      "ultimaVez": "2026-09-14T12:20:36.942Z",
+      "ultimaVez": "2026-09-14T12:40:56.500Z",
       "avisadaComoNueva": true
     },
     "Psicología": {
@@ -261,9 +261,9 @@
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 205,
+      "vecesVista": 206,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-09-14T12:20:36.942Z",
+      "ultimaVez": "2026-09-14T12:40:56.500Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -324,18 +324,18 @@
     },
     "Salud Ocupacional": {
       "calce": "no interesa",
-      "vecesVista": 160,
+      "vecesVista": 161,
       "primeraVez": "2026-09-11T17:00:41.327Z",
-      "ultimaVez": "2026-09-14T12:20:36.942Z",
+      "ultimaVez": "2026-09-14T12:40:56.500Z",
       "avisadaComoNueva": true
     },
     "Informática Empresarial": {
       "calce": "exacta",
-      "vecesVista": 159,
+      "vecesVista": 160,
       "primeraVez": "2026-09-11T17:20:46.418Z",
-      "ultimaVez": "2026-09-14T12:20:36.942Z",
+      "ultimaVez": "2026-09-14T12:40:56.500Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-14T12:20:36.942Z"
+  "actualizado": "2026-09-14T12:40:56.500Z"
 }
