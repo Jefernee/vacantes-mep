@@ -1,7 +1,7 @@
 {
-  "generado": "2026-09-14T17:00:44.690Z",
-  "totalPais": 23,
-  "calzanVT6": 1,
+  "generado": "2026-09-14T17:20:44.826Z",
+  "totalPais": 22,
+  "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
@@ -14,25 +14,12 @@
     "Francés",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
-    "Informática Empresarial",
     "Inglés",
     "Procesos Productivos E Inspección En La Industria Alimentaria",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
-  "interesantes": [
-    {
-      "vacante": "1545215",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Empresarial",
-      "institucion": "Liceo Los Lagos",
-      "lecciones": "4",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026",
-      "calce": "exacta"
-    }
-  ],
+  "interesantes": [],
   "todas": [
     {
       "vacante": "1545358",
@@ -135,13 +122,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545215",
-      "regional": "Direc. Regional Educacion Heredia",
+      "vacante": "1540374",
+      "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Empresarial",
-      "institucion": "Liceo Los Lagos",
-      "lecciones": "4",
-      "rige": "22/09/2026",
+      "especialidad": "Diseño De Productos Industriales Textiles",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "24",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -151,16 +138,6 @@
       "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
       "institucion": "C.T.P. De La Fortuna",
       "lecciones": "16",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1540374",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Diseño De Productos Industriales Textiles",
-      "institucion": "C.T.P. De La Fortuna",
-      "lecciones": "24",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
@@ -185,6 +162,16 @@
       "vence": "13/11/2026"
     },
     {
+      "vacante": "1545285",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Liceo Fernando Volio Jimenez",
+      "lecciones": "21",
+      "rige": "29/09/2026",
+      "vence": "07/11/2026"
+    },
+    {
       "vacante": "1545220",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -203,16 +190,6 @@
       "lecciones": "8",
       "rige": "17/09/2026",
       "vence": "21/10/2026"
-    },
-    {
-      "vacante": "1545285",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Fernando Volio Jimenez",
-      "lecciones": "21",
-      "rige": "29/09/2026",
-      "vence": "07/11/2026"
     },
     {
       "vacante": "1545224",
