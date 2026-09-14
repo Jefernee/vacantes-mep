@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-14T14:41:08.068Z",
-  "totalPais": 27,
+  "generado": "2026-09-14T15:00:37.343Z",
+  "totalPais": 26,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,7 +9,6 @@
     "Construcción Civil",
     "Contabilidad Y Finanzas",
     "Diseño De Productos Industriales Textiles",
-    "Educación Para El Hogar",
     "Enseñanza Preescolar",
     "Español",
     "Filosofía",
@@ -26,23 +25,23 @@
   ],
   "interesantes": [
     {
-      "vacante": "1545208",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "Ctp Santo Domingo",
-      "lecciones": "8",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026",
-      "calce": "exacta"
-    },
-    {
       "vacante": "1545215",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Informática Empresarial",
       "institucion": "Liceo Los Lagos",
       "lecciones": "4",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
+    },
+    {
+      "vacante": "1545208",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "Ctp Santo Domingo",
+      "lecciones": "8",
       "rige": "22/09/2026",
       "vence": "11/12/2026",
       "calce": "exacta"
@@ -150,22 +149,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545208",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "Ctp Santo Domingo",
-      "lecciones": "8",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545215",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Informática Empresarial",
       "institucion": "Liceo Los Lagos",
       "lecciones": "4",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545208",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "Ctp Santo Domingo",
+      "lecciones": "8",
       "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
@@ -238,16 +237,6 @@
       "lecciones": "21",
       "rige": "29/09/2026",
       "vence": "07/11/2026"
-    },
-    {
-      "vacante": "1544955",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "San Pablo (Platanares)",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1545224",
