@@ -1,18 +1,27 @@
 {
-  "generado": "2026-09-14T12:40:56.394Z",
-  "totalPais": 11,
+  "generado": "2026-09-14T13:00:44.122Z",
+  "totalPais": 27,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
+    "Artes Industriales",
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+    "Construcción Civil",
+    "Contabilidad Y Finanzas",
+    "Diseño De Productos Industriales Textiles",
     "Educación Para El Hogar",
+    "Enseñanza Preescolar",
+    "Español",
     "Filosofía",
+    "Francés",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Informática Empresarial",
     "Inglés",
+    "Procesos Productivos E Inspección En La Industria Alimentaria",
     "Salud Ocupacional",
     "Secretariado Ejecutivo",
+    "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [
@@ -41,6 +50,66 @@
   ],
   "todas": [
     {
+      "vacante": "1545358",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Enseñanza Preescolar",
+      "institucion": "Dirección Regional De Educación De Los Santos",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "15/11/2026"
+    },
+    {
+      "vacante": "1545256",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Supervisor De Educación",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Dirección Regional De Educación San José- Central",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/01/2030"
+    },
+    {
+      "vacante": "1545166",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Auxiliar Administrativo",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "C.T.P. Carrizal",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1545202",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Luis Wachong Lee",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1545200",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Francisco Gamboa Mora(Rio Azul",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545308",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Sotero Gonzalez Barquero",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545347",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -51,23 +120,33 @@
       "vence": "25/11/2026"
     },
     {
-      "vacante": "1545154",
+      "vacante": "1545226",
       "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Santa Marta (Volcan)",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Cindea Buenos Aires",
+      "lecciones": "12",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545222",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Los Geranios",
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545334",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Jorge",
-      "lecciones": "0",
-      "rige": "17/09/2026",
+      "vacante": "1545331",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Liceo San Jose De La Montaña",
+      "lecciones": "21",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -91,6 +170,36 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1540374",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Diseño De Productos Industriales Textiles",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "24",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1540371",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "16",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1538043",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Trabajador Calificado De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Construcción Civil",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "0",
+      "rige": "10/08/2026",
+      "vence": "31/07/2031"
+    },
+    {
       "vacante": "1545325",
       "regional": "Direc. Regional Educacion Los Santos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -109,6 +218,16 @@
       "lecciones": "21",
       "rige": "29/09/2026",
       "vence": "07/11/2026"
+    },
+    {
+      "vacante": "1545220",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Col. Concepcion Daniel Flores",
+      "lecciones": "6",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1545294",
@@ -131,6 +250,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1545224",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad Y Finanzas",
+      "institucion": "C.T.P. De San Isidro De El Gen",
+      "lecciones": "44",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545171",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -138,6 +267,46 @@
       "institucion": "C.T.P. De Puntarenas",
       "lecciones": "40",
       "rige": "14/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544995",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Central San Sebastian",
+      "lecciones": "0",
+      "rige": "22/09/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1545326",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Rincon Grande",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545316",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "I.E.G.B. Yanuario Quesada",
+      "lecciones": "9",
+      "rige": "23/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545355",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Industriales",
+      "institucion": "Liceo De Pavas",
+      "lecciones": "44",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
