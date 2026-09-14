@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 3938,
+      "vecesVista": 3945,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T22:20:36.437Z",
+      "ultimaVez": "2026-09-14T22:40:34.653Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 2427,
+      "vecesVista": 2428,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T22:20:36.437Z",
+      "ultimaVez": "2026-09-14T22:40:34.653Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 539,
+      "vecesVista": 540,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T22:20:36.437Z",
+      "ultimaVez": "2026-09-14T22:40:34.653Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 722,
+      "vecesVista": 723,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T22:20:36.437Z",
+      "ultimaVez": "2026-09-14T22:40:34.653Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 1488,
+      "vecesVista": 1489,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T22:20:36.437Z",
+      "ultimaVez": "2026-09-14T22:40:34.653Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 445,
+      "vecesVista": 447,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-09-14T22:20:36.437Z",
+      "ultimaVez": "2026-09-14T22:40:34.653Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -247,9 +247,9 @@
     },
     "Procesos Productivos E Inspección En La Industria Alimentaria": {
       "calce": "no interesa",
-      "vecesVista": 89,
+      "vecesVista": 90,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-09-14T22:20:36.437Z",
+      "ultimaVez": "2026-09-14T22:40:34.653Z",
       "avisadaComoNueva": true
     },
     "Química": {
@@ -338,39 +338,39 @@
     },
     "Enseñanza Preescolar": {
       "calce": "no interesa",
-      "vecesVista": 32,
+      "vecesVista": 33,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T22:20:36.437Z",
+      "ultimaVez": "2026-09-14T22:40:34.653Z",
       "avisadaComoNueva": true
     },
     "Diseño De Productos Industriales Textiles": {
       "calce": "no interesa",
-      "vecesVista": 31,
+      "vecesVista": 32,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T22:20:36.437Z",
+      "ultimaVez": "2026-09-14T22:40:34.653Z",
       "avisadaComoNueva": true
     },
     "Construcción Civil": {
       "calce": "no interesa",
-      "vecesVista": 31,
+      "vecesVista": 32,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T22:20:36.437Z",
+      "ultimaVez": "2026-09-14T22:40:34.653Z",
       "avisadaComoNueva": true
     },
     "Contabilidad Y Finanzas": {
       "calce": "no interesa",
-      "vecesVista": 31,
+      "vecesVista": 32,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T22:20:36.437Z",
+      "ultimaVez": "2026-09-14T22:40:34.653Z",
       "avisadaComoNueva": true
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 31,
+      "vecesVista": 32,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T22:20:36.437Z",
+      "ultimaVez": "2026-09-14T22:40:34.653Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-14T22:20:36.437Z"
+  "actualizado": "2026-09-14T22:40:34.653Z"
 }
