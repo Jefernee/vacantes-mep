@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-14T20:20:36.295Z",
+  "generado": "2026-09-14T20:40:42.815Z",
   "totalPais": 21,
   "calzanVT6": 0,
   "advertencias": [],
@@ -72,16 +72,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545200",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Francisco Gamboa Mora(Rio Azul",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545308",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -89,6 +79,16 @@
       "institucion": "Sotero Gonzalez Barquero",
       "lecciones": "0",
       "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545200",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Francisco Gamboa Mora(Rio Azul",
+      "lecciones": "0",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
