@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 3742,
+      "vecesVista": 3749,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 2399,
+      "vecesVista": 2400,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 472,
+      "vecesVista": 473,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 694,
+      "vecesVista": 695,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -86,16 +86,16 @@
     },
     "Secretariado Ejecutivo": {
       "calce": "no interesa",
-      "vecesVista": 345,
+      "vecesVista": 346,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 1440,
+      "vecesVista": 1442,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 323,
+      "vecesVista": 324,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 204,
+      "vecesVista": 205,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 389,
+      "vecesVista": 391,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -212,9 +212,9 @@
     },
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos": {
       "calce": "exacta",
-      "vecesVista": 221,
+      "vecesVista": 222,
       "primeraVez": "2026-09-07T16:15:30.346Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Psicología": {
@@ -247,9 +247,9 @@
     },
     "Procesos Productivos E Inspección En La Industria Alimentaria": {
       "calce": "no interesa",
-      "vecesVista": 61,
+      "vecesVista": 62,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Química": {
@@ -261,9 +261,9 @@
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 209,
+      "vecesVista": 210,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -324,53 +324,53 @@
     },
     "Salud Ocupacional": {
       "calce": "no interesa",
-      "vecesVista": 164,
+      "vecesVista": 165,
       "primeraVez": "2026-09-11T17:00:41.327Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Informática Empresarial": {
       "calce": "exacta",
-      "vecesVista": 163,
+      "vecesVista": 164,
       "primeraVez": "2026-09-11T17:20:46.418Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Preescolar": {
       "calce": "no interesa",
-      "vecesVista": 3,
+      "vecesVista": 4,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Diseño De Productos Industriales Textiles": {
       "calce": "no interesa",
-      "vecesVista": 3,
+      "vecesVista": 4,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Construcción Civil": {
       "calce": "no interesa",
-      "vecesVista": 3,
+      "vecesVista": 4,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Contabilidad Y Finanzas": {
       "calce": "no interesa",
-      "vecesVista": 3,
+      "vecesVista": 4,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 3,
+      "vecesVista": 4,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-14T13:40:45.827Z",
+      "ultimaVez": "2026-09-14T14:00:46.645Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-14T13:40:45.827Z"
+  "actualizado": "2026-09-14T14:00:46.645Z"
 }
