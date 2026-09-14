@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-14T20:40:42.815Z",
+  "generado": "2026-09-14T20:43:39.887Z",
   "totalPais": 21,
   "calzanVT6": 0,
   "advertencias": [],
@@ -132,22 +132,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1540371",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
-      "institucion": "C.T.P. De La Fortuna",
-      "lecciones": "16",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1540374",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Diseño De Productos Industriales Textiles",
       "institucion": "C.T.P. De La Fortuna",
       "lecciones": "24",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1540371",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "16",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
