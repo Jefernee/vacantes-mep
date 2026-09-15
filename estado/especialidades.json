@@ -2,9 +2,9 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 4146,
+      "vecesVista": 4147,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-15T22:40:33.657Z",
+      "ultimaVez": "2026-09-15T23:00:36.817Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
@@ -16,9 +16,9 @@
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 597,
+      "vecesVista": 598,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-15T22:40:33.657Z",
+      "ultimaVez": "2026-09-15T23:00:36.817Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 780,
+      "vecesVista": 781,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-15T22:40:33.657Z",
+      "ultimaVez": "2026-09-15T23:00:36.817Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 1546,
+      "vecesVista": 1547,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-15T22:40:33.657Z",
+      "ultimaVez": "2026-09-15T23:00:36.817Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -359,9 +359,9 @@
     },
     "Contabilidad Y Finanzas": {
       "calce": "no interesa",
-      "vecesVista": 89,
+      "vecesVista": 90,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-15T22:40:33.657Z",
+      "ultimaVez": "2026-09-15T23:00:36.817Z",
       "avisadaComoNueva": true
     },
     "Artes Industriales": {
@@ -372,5 +372,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-15T22:40:33.657Z"
+  "actualizado": "2026-09-15T23:00:36.817Z"
 }
