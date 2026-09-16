@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 4172,
+      "vecesVista": 4173,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-16T13:20:30.913Z",
+      "ultimaVez": "2026-09-16T13:40:33.658Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 2454,
+      "vecesVista": 2455,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-16T13:20:30.913Z",
+      "ultimaVez": "2026-09-16T13:40:33.658Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 623,
+      "vecesVista": 624,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-16T13:20:30.913Z",
+      "ultimaVez": "2026-09-16T13:40:33.658Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -86,16 +86,16 @@
     },
     "Secretariado Ejecutivo": {
       "calce": "no interesa",
-      "vecesVista": 352,
+      "vecesVista": 353,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-16T13:20:30.913Z",
+      "ultimaVez": "2026-09-16T13:40:33.658Z",
       "avisadaComoNueva": true
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 1574,
+      "vecesVista": 1576,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-16T13:20:30.913Z",
+      "ultimaVez": "2026-09-16T13:40:33.658Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -212,16 +212,16 @@
     },
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos": {
       "calce": "exacta",
-      "vecesVista": 233,
+      "vecesVista": 234,
       "primeraVez": "2026-09-07T16:15:30.346Z",
-      "ultimaVez": "2026-09-16T13:20:30.913Z",
+      "ultimaVez": "2026-09-16T13:40:33.658Z",
       "avisadaComoNueva": true
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 283,
+      "vecesVista": 284,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-09-16T13:20:30.913Z",
+      "ultimaVez": "2026-09-16T13:40:33.658Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -303,9 +303,9 @@
     },
     "Ejecutivo Comercial Y De Servicio Al Cliente": {
       "calce": "no interesa",
-      "vecesVista": 59,
+      "vecesVista": 60,
       "primeraVez": "2026-09-09T17:51:25.439Z",
-      "ultimaVez": "2026-09-16T13:20:30.913Z",
+      "ultimaVez": "2026-09-16T13:40:33.658Z",
       "avisadaComoNueva": true
     },
     "Producción Agrícola Y Pecuaria": {
@@ -366,18 +366,18 @@
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 58,
+      "vecesVista": 59,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-16T13:20:30.913Z",
+      "ultimaVez": "2026-09-16T13:40:33.658Z",
       "avisadaComoNueva": true
     },
     "Rehabilitación / Ocupacional": {
       "calce": "no interesa",
-      "vecesVista": 2,
+      "vecesVista": 3,
       "primeraVez": "2026-09-16T13:00:34.738Z",
-      "ultimaVez": "2026-09-16T13:20:30.913Z",
+      "ultimaVez": "2026-09-16T13:40:33.658Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-16T13:20:30.913Z"
+  "actualizado": "2026-09-16T13:40:33.658Z"
 }
