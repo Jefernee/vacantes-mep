@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-16T17:00:39.252Z",
-  "totalPais": 26,
+  "generado": "2026-09-16T17:20:42.443Z",
+  "totalPais": 27,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -241,6 +241,16 @@
       "institucion": "C.T.P. De Santa Rosa",
       "lecciones": "8",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545655",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Costa Rica",
+      "lecciones": "0",
+      "rige": "18/09/2026",
       "vence": "11/12/2026"
     },
     {
