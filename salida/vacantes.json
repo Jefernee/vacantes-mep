@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-16T14:40:47.140Z",
-  "totalPais": 18,
+  "generado": "2026-09-16T15:00:34.074Z",
+  "totalPais": 20,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -52,6 +52,26 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545603",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Cindea Abangares",
+      "lecciones": "0",
+      "rige": "16/09/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1545538",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Mons Luis Leipold H. (Cañas)",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1545470",
@@ -134,6 +154,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1545396",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "8",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545597",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -151,16 +181,6 @@
       "institucion": "C.T.P. Nataniel Arias Murillo",
       "lecciones": "4",
       "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545396",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "C.T.P. De Santa Rosa",
-      "lecciones": "8",
-      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
