@@ -1,17 +1,44 @@
 {
-  "generado": "2026-09-16T12:40:32.649Z",
-  "totalPais": 5,
-  "calzanVT6": 0,
+  "generado": "2026-09-16T13:00:34.736Z",
+  "totalPais": 11,
+  "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
-    "Contabilidad Y Finanzas",
-    "Español",
+    "Artes Industriales",
+    "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+    "Ejecutivo Comercial Y De Servicio Al Cliente",
     "Inglés",
+    "Psicología",
+    "Rehabilitación / Ocupacional",
     "Religión",
+    "Secretariado Ejecutivo",
+    "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
-  "interesantes": [],
+  "interesantes": [
+    {
+      "vacante": "1545396",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "8",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
+    }
+  ],
   "todas": [
+    {
+      "vacante": "1545481",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Enrique Pinto Fernandez",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
     {
       "vacante": "1545470",
       "regional": "Direc. Regional Educacion Coto",
@@ -23,43 +50,93 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545226",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Cindea Buenos Aires",
-      "lecciones": "12",
-      "rige": "17/09/2026",
+      "vacante": "1545471",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. De Nicoya",
+      "lecciones": "4",
+      "rige": "18/09/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545222",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Geranios",
+      "vacante": "1545380",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Union (Palmera)",
+      "lecciones": "0",
+      "rige": "16/09/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1545539",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Inglés",
+      "institucion": "Bella Vista (Cutris)",
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545220",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "vacante": "1545369",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
       "especialidad": "Inglés",
-      "institucion": "Col. Concepcion Daniel Flores",
-      "lecciones": "6",
-      "rige": "21/09/2026",
+      "institucion": "Tres Esquinas (Fortuna)",
+      "lecciones": "0",
+      "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545224",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "vacante": "1545396",
+      "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad Y Finanzas",
-      "institucion": "C.T.P. De San Isidro De El Gen",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "8",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1513146",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Rehabilitación / Ocupacional",
+      "institucion": "Servicio Tiin. Ens. Especial",
+      "lecciones": "0",
+      "rige": "08/04/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1545497",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Cindea Santa Cruz",
+      "lecciones": "2",
+      "rige": "02/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545480",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
+      "institucion": "C.T.P. De Sardinal",
+      "lecciones": "40",
+      "rige": "14/09/2026",
+      "vence": "25/11/2026"
+    },
+    {
+      "vacante": "1545464",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Industriales",
+      "institucion": "C.T.P. Carrillo",
       "lecciones": "44",
-      "rige": "17/09/2026",
+      "rige": "07/10/2026",
       "vence": "11/12/2026"
     }
   ]
