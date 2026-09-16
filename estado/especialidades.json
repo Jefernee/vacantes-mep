@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 4189,
+      "vecesVista": 4194,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-16T16:00:34.396Z",
+      "ultimaVez": "2026-09-16T16:20:34.624Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 2473,
+      "vecesVista": 2477,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-16T16:00:34.396Z",
+      "ultimaVez": "2026-09-16T16:20:34.624Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 632,
+      "vecesVista": 633,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-16T16:00:34.396Z",
+      "ultimaVez": "2026-09-16T16:20:34.624Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -58,16 +58,16 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 128,
+      "vecesVista": 131,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-16T16:00:34.396Z",
+      "ultimaVez": "2026-09-16T16:20:34.624Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 28,
+      "vecesVista": 29,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-16T16:00:34.396Z",
+      "ultimaVez": "2026-09-16T16:20:34.624Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -93,16 +93,16 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 1592,
+      "vecesVista": 1594,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-16T16:00:34.396Z",
+      "ultimaVez": "2026-09-16T16:20:34.624Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 358,
+      "vecesVista": 361,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-16T16:00:34.396Z",
+      "ultimaVez": "2026-09-16T16:20:34.624Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -212,9 +212,9 @@
     },
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos": {
       "calce": "exacta",
-      "vecesVista": 242,
+      "vecesVista": 243,
       "primeraVez": "2026-09-07T16:15:30.346Z",
-      "ultimaVez": "2026-09-16T16:00:34.396Z",
+      "ultimaVez": "2026-09-16T16:20:34.624Z",
       "avisadaComoNueva": true
     },
     "Psicología": {
@@ -366,9 +366,9 @@
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 68,
+      "vecesVista": 69,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-16T16:00:34.396Z",
+      "ultimaVez": "2026-09-16T16:20:34.624Z",
       "avisadaComoNueva": true
     },
     "Rehabilitación / Ocupacional": {
@@ -379,5 +379,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-16T16:00:34.396Z"
+  "actualizado": "2026-09-16T16:20:34.624Z"
 }
