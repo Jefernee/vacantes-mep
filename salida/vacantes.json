@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-16T17:40:37.536Z",
-  "totalPais": 30,
+  "generado": "2026-09-16T18:00:37.868Z",
+  "totalPais": 31,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,6 +8,7 @@
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Educación Física",
     "Ejecutivo Comercial Y De Servicio Al Cliente",
+    "Español",
     "Física",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Inglés",
@@ -15,7 +16,6 @@
     "Música/Música",
     "Psicología",
     "Rehabilitación / Ocupacional",
-    "Religión",
     "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -35,14 +35,14 @@
   ],
   "todas": [
     {
-      "vacante": "1545481",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Enrique Pinto Fernandez",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
+      "vacante": "1545666",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Rural Union Del Toro",
+      "lecciones": "40",
+      "rige": "17/09/2026",
+      "vence": "14/12/2026"
     },
     {
       "vacante": "1545610",
@@ -52,6 +52,16 @@
       "institucion": "Maurilio Soto Alfaro",
       "lecciones": "0",
       "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545481",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Enrique Pinto Fernandez",
+      "lecciones": "0",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -75,16 +85,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1545470",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "La Fuente (Corredor)",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545647",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Cocinero",
@@ -103,6 +103,16 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1545668",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo De Heredia",
+      "lecciones": "7",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1545562",
