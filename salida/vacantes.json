@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-16T14:00:30.460Z",
-  "totalPais": 15,
+  "generado": "2026-09-16T14:20:33.561Z",
+  "totalPais": 16,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,6 +9,7 @@
     "Educación Física",
     "Ejecutivo Comercial Y De Servicio Al Cliente",
     "Inglés",
+    "Matemáticas",
     "Música/Música",
     "Psicología",
     "Rehabilitación / Ocupacional",
@@ -90,6 +91,16 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545600",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "C.T.P. Nataniel Arias Murillo",
+      "lecciones": "44",
+      "rige": "21/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1545369",
