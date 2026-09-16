@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-16T16:40:31.918Z",
+  "generado": "2026-09-16T17:00:39.252Z",
   "totalPais": 26,
   "calzanVT6": 1,
   "advertencias": [],
@@ -14,6 +14,7 @@
     "Música/Música",
     "Psicología",
     "Rehabilitación / Ocupacional",
+    "Religión",
     "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -73,24 +74,24 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1545603",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cindea Abangares",
-      "lecciones": "0",
-      "rige": "16/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1545538",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Mons Luis Leipold H. (Cañas)",
+      "vacante": "1545470",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "La Fuente (Corredor)",
       "lecciones": "0",
       "rige": "21/09/2026",
-      "vence": "31/01/2027"
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545647",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo San Miguel",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "20/12/2026"
     },
     {
       "vacante": "1545631",
@@ -213,13 +214,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545396",
+      "vacante": "1545597",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "C.T.P. De Santa Rosa",
-      "lecciones": "8",
-      "rige": "22/09/2026",
+      "especialidad": "Música/Música",
+      "institucion": "C.T.P. Nataniel Arias Murillo",
+      "lecciones": "14",
+      "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -233,13 +234,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545597",
+      "vacante": "1545396",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "C.T.P. Nataniel Arias Murillo",
-      "lecciones": "14",
-      "rige": "16/09/2026",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "8",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
