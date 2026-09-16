@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-16T15:40:34.231Z",
-  "totalPais": 21,
+  "generado": "2026-09-16T16:00:34.394Z",
+  "totalPais": 22,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -34,16 +34,6 @@
   ],
   "todas": [
     {
-      "vacante": "1545481",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Enrique Pinto Fernandez",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545610",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -51,6 +41,16 @@
       "institucion": "Maurilio Soto Alfaro",
       "lecciones": "0",
       "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545481",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Enrique Pinto Fernandez",
+      "lecciones": "0",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -81,6 +81,16 @@
       "institucion": "La Fuente (Corredor)",
       "lecciones": "0",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545562",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Industriales",
+      "institucion": "Liceo El Roble",
+      "lecciones": "44",
+      "rige": "01/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -164,13 +174,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545597",
+      "vacante": "1545396",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "C.T.P. Nataniel Arias Murillo",
-      "lecciones": "14",
-      "rige": "16/09/2026",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "8",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -184,13 +194,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545396",
+      "vacante": "1545597",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "C.T.P. De Santa Rosa",
-      "lecciones": "8",
-      "rige": "22/09/2026",
+      "especialidad": "Música/Música",
+      "institucion": "C.T.P. Nataniel Arias Murillo",
+      "lecciones": "14",
+      "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
     {
