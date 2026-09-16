@@ -1,10 +1,11 @@
 {
-  "generado": "2026-09-16T18:00:37.868Z",
-  "totalPais": 31,
+  "generado": "2026-09-16T18:20:42.370Z",
+  "totalPais": 33,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
+    "Biología",
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Educación Física",
     "Ejecutivo Comercial Y De Servicio Al Cliente",
@@ -103,6 +104,26 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1545672",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "Liceo De Heredia",
+      "lecciones": "18",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545670",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo De Heredia",
+      "lecciones": "22",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1545668",
