@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-16T14:20:33.561Z",
-  "totalPais": 16,
+  "generado": "2026-09-16T14:40:47.140Z",
+  "totalPais": 18,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,6 +8,7 @@
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Educación Física",
     "Ejecutivo Comercial Y De Servicio Al Cliente",
+    "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Inglés",
     "Matemáticas",
     "Música/Música",
@@ -43,6 +44,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1545610",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Maurilio Soto Alfaro",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545470",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -71,6 +82,16 @@
       "lecciones": "4",
       "rige": "18/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545611",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "C.T.P. De Corrlillo",
+      "lecciones": "6",
+      "rige": "18/09/2026",
+      "vence": "31/10/2026"
     },
     {
       "vacante": "1545380",
@@ -113,16 +134,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545396",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "C.T.P. De Santa Rosa",
-      "lecciones": "8",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545597",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -140,6 +151,16 @@
       "institucion": "C.T.P. Nataniel Arias Murillo",
       "lecciones": "4",
       "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545396",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "8",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
