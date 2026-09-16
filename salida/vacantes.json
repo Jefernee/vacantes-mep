@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-16T15:20:38.416Z",
-  "totalPais": 20,
+  "generado": "2026-09-16T15:40:34.231Z",
+  "totalPais": 21,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -34,16 +34,6 @@
   ],
   "todas": [
     {
-      "vacante": "1545610",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Maurilio Soto Alfaro",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545481",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -51,6 +41,16 @@
       "institucion": "Enrique Pinto Fernandez",
       "lecciones": "0",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545610",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Maurilio Soto Alfaro",
+      "lecciones": "0",
+      "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -132,6 +132,16 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545621",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Campo (Quesada)",
+      "lecciones": "0",
+      "rige": "16/09/2026",
+      "vence": "08/12/2026"
     },
     {
       "vacante": "1545600",
