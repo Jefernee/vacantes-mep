@@ -1,16 +1,20 @@
 {
-  "generado": "2026-09-16T16:20:34.622Z",
-  "totalPais": 21,
+  "generado": "2026-09-16T16:40:31.918Z",
+  "totalPais": 26,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Educación Física",
+    "Ejecutivo Comercial Y De Servicio Al Cliente",
+    "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Inglés",
     "Matemáticas",
     "Música/Música",
-    "Religión",
+    "Psicología",
+    "Rehabilitación / Ocupacional",
+    "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -69,14 +73,24 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1545470",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "La Fuente (Corredor)",
+      "vacante": "1545603",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Cindea Abangares",
+      "lecciones": "0",
+      "rige": "16/09/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1545538",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Mons Luis Leipold H. (Cañas)",
       "lecciones": "0",
       "rige": "21/09/2026",
-      "vence": "11/12/2026"
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1545631",
@@ -109,14 +123,24 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545596",
-      "regional": "Direc. Regional Educacion Limon",
+      "vacante": "1545471",
+      "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Liceo Nuevo De Limon",
-      "lecciones": "15",
-      "rige": "21/09/2026",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. De Nicoya",
+      "lecciones": "4",
+      "rige": "18/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545611",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "C.T.P. De Corrlillo",
+      "lecciones": "6",
+      "rige": "18/09/2026",
+      "vence": "31/10/2026"
     },
     {
       "vacante": "1545380",
@@ -189,6 +213,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1545396",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "8",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545598",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -209,34 +243,54 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545396",
-      "regional": "Direc. Regional Educacion San Carlos",
+      "vacante": "1544521",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "C.T.P. De Santa Rosa",
-      "lecciones": "8",
-      "rige": "22/09/2026",
+      "especialidad": "Educación Física",
+      "institucion": "Fund. Jovenes Y Ad. Con Pci",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "21/01/2027"
+    },
+    {
+      "vacante": "1513146",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Rehabilitación / Ocupacional",
+      "institucion": "Servicio Tiin. Ens. Especial",
+      "lecciones": "0",
+      "rige": "08/04/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1545497",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Cindea Santa Cruz",
+      "lecciones": "2",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544521",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "vacante": "1545480",
+      "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Fund. Jovenes Y Ad. Con Pci",
+      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
+      "institucion": "C.T.P. De Sardinal",
       "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "21/01/2027"
+      "rige": "14/09/2026",
+      "vence": "25/11/2026"
     },
     {
-      "vacante": "1544521",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "vacante": "1545464",
+      "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Fund. Jovenes Y Ad. Con Pci",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "21/01/2027"
+      "especialidad": "Artes Industriales",
+      "institucion": "C.T.P. Carrillo",
+      "lecciones": "44",
+      "rige": "07/10/2026",
+      "vence": "11/12/2026"
     }
   ]
 }
