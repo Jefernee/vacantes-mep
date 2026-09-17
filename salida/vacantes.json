@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-17T14:40:41.110Z",
-  "totalPais": 60,
+  "generado": "2026-09-17T15:00:43.854Z",
+  "totalPais": 58,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -94,16 +94,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1542840",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración De Recursos Humanos",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "15/01/2027"
-    },
-    {
       "vacante": "1545656",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -112,6 +102,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1542840",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Administración De Recursos Humanos",
+      "institucion": "Departamento De Dotacion Del Talento Humano",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "15/01/2027"
     },
     {
       "vacante": "1538876",
@@ -164,14 +164,14 @@
       "vence": "14/12/2026"
     },
     {
-      "vacante": "1545727",
+      "vacante": "1545482",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Pradera",
+      "institucion": "Jose Miguel Zumbado Soto (Carr",
       "lecciones": "0",
-      "rige": "20/09/2026",
-      "vence": "31/07/2031"
+      "rige": "18/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1545685",
@@ -184,6 +184,16 @@
       "vence": "30/11/2026"
     },
     {
+      "vacante": "1545727",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Pradera",
+      "lecciones": "0",
+      "rige": "20/09/2026",
+      "vence": "31/07/2031"
+    },
+    {
       "vacante": "1545718",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -192,16 +202,6 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1545482",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Jose Miguel Zumbado Soto (Carr",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1545691",
@@ -264,24 +264,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545603",
+      "vacante": "1545708",
       "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Cindea Abangares",
-      "lecciones": "0",
+      "lecciones": "14",
       "rige": "16/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1545538",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Mons Luis Leipold H. (Cañas)",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "31/01/2027"
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1545705",
@@ -290,16 +280,6 @@
       "especialidad": "Inglés",
       "institucion": "Cindea Bebedero",
       "lecciones": "16",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545708",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Abangares",
-      "lecciones": "14",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
@@ -554,6 +534,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1545743",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Bijagua",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "31/01/2031"
+    },
+    {
       "vacante": "1545745",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -572,16 +562,6 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545743",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Bijagua",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1542613",
