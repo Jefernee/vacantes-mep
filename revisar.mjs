@@ -40,6 +40,10 @@ if (process.env.SIMULAR_FALLO === '1') {
 const advertencias = [];
 const advertir = (m) => { advertencias.push(m); console.error('ADVERTENCIA: ' + m); };
 
+// Los errores de Playwright traen un "Call log" de veinte líneas debajo del
+// mensaje. Para el WhatsApp solo sirve la primera.
+const primeraLinea = (t) => String(t).split(/\r?\n/)[0].trim();
+
 // ── El filtro: grupo profesional VT6 ──────────────────────────────────────
 // Tal como aparecen en la constancia de grupos profesionales. Se comparan sin
 // tildes y en mayúsculas, porque el MEP no es consistente con los acentos
@@ -165,21 +169,63 @@ const siguientePagina = async (pagina) => {
   return true;
 };
 
+// El texto del menú y el de la tabla no calzan letra por letra: el menú dice
+// "Regional Educación Alajuela" y la tabla "Direc. Regional Educacion Alajuela".
+// Se comparan sin tildes, sin espacios y sin puntuación, y alcanza con que el de
+// la tabla contenga al del menú.
+const comoClave = (t) => normalizar(t).replace(/[^A-Z0-9]/g, '');
+
 const leerRegional = async (pagina, regional) => {
   await pagina.selectOption('#regionalSelect', regional.valor);
 
-  await pagina
+  // HAY QUE ESPERAR A LA TABLA CORRECTA, no a que haya tabla.
+  //
+  // Blazor deja en pantalla la tabla de la regional anterior mientras trae la
+  // nueva, y a partir de cierto punto la app se atora y deja de cambiarla del
+  // todo. La espera vieja solo pedía "que haya filas y que no diga Seleccione
+  // una Dirección Regional", y eso se cumple al instante con la tabla VIEJA: se
+  // leía la regional anterior y se contaban sus vacantes como si fueran de esta.
+  //
+  // No daba error nunca. Medido el 17/09/2026: una corrida trajo 57 filas de las
+  // que solo 30 eran distintas, y 14 de las 22 regionales no se llegaron a leer.
+  // Para un vigilante cuyo único trabajo es no perderse una vacante, ese es el
+  // fallo peor: el silencioso.
+  //
+  // OJO CON LA FIRMA: waitForFunction(fn, argumento, opciones). El timeout va en
+  // el TERCER parámetro. Cuando iba en el segundo, Playwright lo tomaba como el
+  // argumento de la función y la espera corría con el default de 30 s: los
+  // números que decía el código nunca fueron los que se aplicaban.
+  const llego = await pagina
     .waitForFunction(
-      () => {
+      (objetivo) => {
+        const limpiar = (t) =>
+          (t || '')
+            .normalize('NFD')
+            .replace(/\p{Diacritic}/gu, '')
+            .toUpperCase()
+            .replace(/[^A-Z0-9]/g, '');
         const filas = document.querySelectorAll('table tbody tr');
         if (!filas.length) return false;
-        return !/seleccione una direcci/i.test(filas[0].innerText || '');
+        const celdas = filas[0].cells;
+        // "Cargando.." ocupa una sola celda mientras la tabla se rehace.
+        if (celdas.length < 8) return false;
+        return limpiar(celdas[1].innerText).includes(objetivo);
       },
+      comoClave(regional.texto),
       { timeout: 20000 }
     )
-    .catch(() => {});
+    .then(() => true)
+    .catch(() => false);
 
-  await pagina.waitForTimeout(700);
+  if (!llego) {
+    // Quien llama recarga la app y reintenta ESTA regional. Rendirse en silencio
+    // sería volver a contar las vacantes de la regional anterior.
+    throw new Error('la tabla nunca cambió a ' + regional.texto);
+  }
+
+  // La primera fila ya es de esta regional, pero las demás pueden estar todavía
+  // dibujándose. Un respiro corto sale más barato que releer mal.
+  await pagina.waitForTimeout(400);
 
   const filas = [];
   const vistas = new Set();
@@ -206,16 +252,49 @@ const leerRegional = async (pagina, regional) => {
   return filas;
 };
 
+// ── Abrir la app y esperar a que dibuje el menú ───────────────────────────
+//
+// Blazor conecta el WebSocket y recién ahí dibuja el menú. Se espera a que el
+// menú tenga opciones de verdad, no solo el "Seleccione una..." inicial.
+// Devuelve true si quedó lista para usar; no tira excepción, porque quien la
+// llama decide si recarga o se rinde.
+const abrirApp = async (pagina, timeout = 25000) => {
+  await pagina.goto(DIRECCION, { waitUntil: 'domcontentloaded', timeout: 90000 });
+  return pagina
+    .waitForFunction(
+      () => document.querySelectorAll('#regionalSelect option, select option').length > 3,
+      null,
+      { timeout }
+    )
+    .then(() => true)
+    .catch(() => false);
+};
+
+// Recargar hasta que la app dibuje, con una pausa de por medio. Una sola
+// recarga no siempre alcanza: medido el 17/09/2026, cuando el circuito se cae a
+// media lectura la primera recarga puede volver a nacer muerta.
+const abrirAppReintentando = async (pagina, intentos = 3) => {
+  for (let intento = 1; intento <= intentos; intento++) {
+    if (await abrirApp(pagina)) return true;
+    console.log('  la app no dibujó (intento ' + intento + ' de ' + intentos + ').');
+    if (intento < intentos) await pagina.waitForTimeout(3000);
+  }
+  return false;
+};
+
 // ── Recorrer todas las regionales ─────────────────────────────────────────
 const recolectar = async (pagina) => {
-  await pagina.goto(DIRECCION, { waitUntil: 'domcontentloaded', timeout: 90000 });
-
-  // Blazor conecta el WebSocket y recién ahí dibuja el menú. Esperamos a que el
-  // menú tenga opciones de verdad, no solo el "Seleccione una..." inicial.
-  await pagina.waitForFunction(
-    () => document.querySelectorAll('#regionalSelect option, select option').length > 3,
-    { timeout: 60000 }
-  );
+  // El circuito de Blazor a veces nace muerto: el WebSocket conecta, la página
+  // responde, pero la lista de regionales nunca se dibuja y ahí se queda — no
+  // se recupera sola ni esperando 90 segundos (medido el 17/09/2026: pasó en 1
+  // de cada 6 cargas). Recargar sí la arregla.
+  //
+  // Antes acá había una sola espera: una carga mala tumbaba la corrida entera y
+  // disparaba el WhatsApp de "se rompió" por algo que se arregla con un F5.
+  // Cinco de los ocho fallos de las primeras dos semanas fueron exactamente eso.
+  if (!(await abrirAppReintentando(pagina))) {
+    throw new Error('La lista de regionales no cargó en 3 intentos: la app del MEP no está dibujando.');
+  }
 
   const regionales = await pagina.$$eval('#regionalSelect option', (opciones) =>
     opciones
@@ -231,44 +310,79 @@ const recolectar = async (pagina) => {
   const todas = [];
   let htmlDeMuestra = null;
 
+  let appPerdida = false;
+
   for (const regional of regionales) {
-    try {
-      const filas = await leerRegional(pagina, regional);
+    let filas = null;
+    let ultimoError = null;
 
-      // Guardamos el HTML de la primera regional con datos: sirve para revisar
-      // cómo viene la tabla si algo cambia.
-      if (!htmlDeMuestra && filas.length) {
-        htmlDeMuestra = { regional: regional.texto, html: await pagina.content() };
+    // Dos pasadas por regional. Antes, si una fallaba, se daba por perdida y la
+    // corrida terminaba avisando "puede haber vacantes que no se vieron" — justo
+    // lo que este vigilante existe para evitar. Ahora se recarga la app y se
+    // vuelve a intentar ESA regional antes de rendirse.
+    for (let intento = 1; intento <= 2; intento++) {
+      try {
+        filas = await leerRegional(pagina, regional);
+      } catch (e) {
+        ultimoError = e;
+        filas = null;
       }
 
-      for (const c of filas) {
-        todas.push({
-          vacante: c[0],
-          regional: c[1] || regional.texto,
-          clasePuesto: c[2],
-          especialidad: c[3],
-          institucion: c[4],
-          lecciones: c[5],
-          rige: c[6],
-          vence: c[7],
-        });
-      }
+      // Blazor muestra su propio cartel cuando se le cae el circuito. Si queda
+      // caído, TODAS las regionales que siguen darían cero vacantes y parecería
+      // que no hay ninguna: es el peor fallo posible acá, porque es silencioso.
+      const caido = await pagina.locator('#blazor-error-ui').isVisible().catch(() => false);
+      if (!caido && filas !== null) break;
 
-      console.log('  ' + regional.texto + ': ' + filas.length);
-    } catch (e) {
-      advertir(regional.texto + ': no se pudo leer — ' + e.message);
+      if (!(await abrirAppReintentando(pagina))) {
+        appPerdida = true;
+        break;
+      }
+      // La lectura sí sirvió: la recarga era solo para dejar la app sana para la
+      // regional siguiente, no hay que repetir esta.
+      if (filas !== null) break;
+      console.log('  ' + regional.texto + ': no se pudo leer; se reintenta tras recargar.');
     }
 
-    // Blazor muestra su propio cartel cuando se le cae el circuito. Si eso pasa,
-    // TODAS las regionales que siguen darían cero vacantes y parecería que no
-    // hay ninguna: es el peor fallo posible acá, porque es silencioso.
-    const reventado = await pagina.locator('#blazor-error-ui').isVisible().catch(() => false);
-    if (reventado) {
-      advertir('La app mostró su cartel de error. Se recarga y se sigue.');
-      await pagina.goto(DIRECCION, { waitUntil: 'domcontentloaded', timeout: 90000 });
-      await pagina
-        .waitForFunction(() => document.querySelectorAll('#regionalSelect option').length > 3, { timeout: 60000 })
-        .catch(() => {});
+    if (filas === null) {
+      advertir(regional.texto + ': no se pudo leer — ' + (ultimoError ? primeraLinea(ultimoError.message) : 'sin detalle'));
+    } else {
+      try {
+        // Guardamos el HTML de la primera regional con datos: sirve para revisar
+        // cómo viene la tabla si algo cambia.
+        if (!htmlDeMuestra && filas.length) {
+          htmlDeMuestra = { regional: regional.texto, html: await pagina.content() };
+        }
+
+        for (const c of filas) {
+          todas.push({
+            vacante: c[0],
+            regional: c[1] || regional.texto,
+            clasePuesto: c[2],
+            especialidad: c[3],
+            institucion: c[4],
+            lecciones: c[5],
+            rige: c[6],
+            vence: c[7],
+          });
+        }
+
+        console.log('  ' + regional.texto + ': ' + filas.length);
+      } catch (e) {
+        advertir(regional.texto + ': se leyó pero no se pudo anotar — ' + primeraLinea(e.message));
+      }
+    }
+
+    if (appPerdida) {
+      // Sin app no hay nada que leer: seguir con las regionales que faltan es
+      // gastar dos minutos en cada una para traer cero filas, y encima acercarse
+      // al límite de 20 minutos del job. Se corta acá con lo que sí se alcanzó a
+      // ver; la corrida de dentro de 20 minutos vuelve a intentar desde cero.
+      advertir(
+        'La app del MEP dejó de dibujar y no volvió tras varias recargas. Se cortó en ' +
+        regional.texto + ': quedaron regionales sin revisar.'
+      );
+      break;
     }
   }
 

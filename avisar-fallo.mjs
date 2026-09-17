@@ -12,15 +12,24 @@
 //   node avisar-fallo.mjs fallo "motivo"   → cuando el job falla
 //   node avisar-fallo.mjs ok               → cuando el job sale bien
 //
-// EL FRENO: si el MEP se cae un fin de semana, esto correría cada 20 minutos y
-// mandaría 50 mensajes. Se avisa una vez y no se repite hasta pasadas 3 horas.
-// Un aviso que satura se termina ignorando, y entonces no sirve de nada.
+// DOS FRENOS, por la misma razón: un aviso que satura se termina ignorando, y
+// entonces no sirve de nada.
+//
+//   1. No se avisa al primer tropiezo. La app del MEP falla sola cada tanto y se
+//      arregla sola a los 20 minutos, en la corrida siguiente. Avisar de eso es
+//      mandar a revisar algo que ya se compuso. Hacen falta DOS corridas malas
+//      seguidas, o sea ~40 minutos caído, para que suene.
+//
+//   2. Si el MEP se cae un fin de semana, esto correría cada 20 minutos y
+//      mandaría 50 mensajes. Se avisa una vez y no se repite hasta pasadas 3
+//      horas.
 
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 
 const CARPETA = new URL('./', import.meta.url);
 const ARCHIVO = 'estado/fallos.json';
 const HORAS_ENTRE_AVISOS = 3;
+const FALLOS_SEGUIDOS_PARA_AVISAR = 2;
 
 const modo = (process.argv[2] || '').toLowerCase();
 const motivo = process.argv[3] || 'sin detalle';
@@ -29,7 +38,7 @@ const leer = async () => {
   try {
     return JSON.parse(await readFile(new URL(ARCHIVO, CARPETA), 'utf8'));
   } catch {
-    return { fallando: false, ultimoAviso: null, desde: null };
+    return { fallando: false, ultimoAviso: null, desde: null, seguidos: 0 };
   }
 };
 
@@ -85,18 +94,33 @@ if (modo === 'ok') {
       'https://apps.mep.go.cr/formulario'
     );
   }
-  await escribir({ fallando: false, ultimoAviso: estado.ultimoAviso, desde: null });
+  await escribir({ fallando: false, ultimoAviso: estado.ultimoAviso, desde: null, seguidos: 0 });
   process.exit(0);
 }
 
 // ── Modo fallo ────────────────────────────────────────────────────────────
+const seguidos = (estado.seguidos || 0) + 1;
+
+// Freno 1: un solo tropiezo no es una caída. Se anota y se espera a la corrida
+// siguiente. Si esa sale bien, nunca se enteró nadie — que es lo correcto.
+if (seguidos < FALLOS_SEGUIDOS_PARA_AVISAR) {
+  console.log('Fallo ' + seguidos + ' de ' + FALLOS_SEGUIDOS_PARA_AVISAR + ' seguidos: todavía no se avisa.');
+  await escribir({
+    fallando: estado.fallando || false,
+    ultimoAviso: estado.ultimoAviso,
+    desde: estado.desde || ahora.toISOString(),
+    seguidos,
+  });
+  process.exit(0);
+}
+
 const ultimo = estado.ultimoAviso ? new Date(estado.ultimoAviso) : null;
 const horasDesdeElUltimo = ultimo ? (ahora - ultimo) / 3600000 : Infinity;
 
 if (horasDesdeElUltimo < HORAS_ENTRE_AVISOS) {
   console.log('Ya se avisó hace ' + horasDesdeElUltimo.toFixed(1) + ' h. No se repite.');
   // Se mantiene el estado de "fallando" para que la recuperación sí se avise.
-  await escribir({ fallando: true, ultimoAviso: estado.ultimoAviso, desde: estado.desde || ahora.toISOString() });
+  await escribir({ fallando: true, ultimoAviso: estado.ultimoAviso, desde: estado.desde || ahora.toISOString(), seguidos });
   process.exit(0);
 }
 
@@ -113,4 +137,5 @@ await escribir({
   fallando: true,
   ultimoAviso: salio ? ahora.toISOString() : estado.ultimoAviso,
   desde: estado.desde || ahora.toISOString(),
+  seguidos,
 });

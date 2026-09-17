@@ -58,15 +58,18 @@ jobs:
       - run: npm install
 
       # `--with-deps` corre por dentro un `apt-get update`, y eso consulta TODAS
-      # las fuentes del runner, incluida la de Google Chrome, que este vigilante
-      # no usa para nada: Playwright se trae su propio Chromium. El 09/09/2026
-      # esa fuente ajena devolvió un índice corrupto ("Hash Sum mismatch"), apt
-      # se rindió con código 100 y la corrida murió sin llegar a mirar el MEP.
-      # Borrarla no cuesta nada: el runner se destruye al terminar.
+      # las fuentes del runner, incluidas las de terceros que este vigilante no
+      # usa para nada: Playwright se trae su propio Chromium. Ya tumbaron dos
+      # corridas: el 09/09/2026 el repo de Google Chrome devolvió un índice
+      # corrupto ("Hash Sum mismatch") y el 10/09/2026 packages.microsoft.com
+      # contestó 403. Ninguno de los dos hace falta acá, así que se borran todos
+      # los de terceros y queda solo el de Ubuntu (ubuntu.sources, que en 24.04
+      # vive en esa misma carpeta y SÍ se necesita).
       - name: Quitar las fuentes de apt que no usamos
-        run: sudo rm -f /etc/apt/sources.list.d/*google*
+        run: |
+          sudo find /etc/apt/sources.list.d -type f ! -name 'ubuntu*' -print -delete
 
-      # Aun sin Google, cualquier espejo de Ubuntu puede fallar un rato. Antes
+      # Aun sin esas fuentes, cualquier espejo de Ubuntu puede fallar un rato. Antes
       # un tropiezo así mandaba el WhatsApp de "se rompió" por algo que se
       # arregla solo, así que ahora se reintenta. Entre intentos hay que borrar
       # el índice ya bajado: si quedó a medias, repetir sin limpiarlo vuelve a

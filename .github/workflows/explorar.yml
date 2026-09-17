@@ -32,11 +32,12 @@ jobs:
       # necesita en Ubuntu. Sin eso el navegador no arranca en el runner.
       #
       # Ese paso corre un `apt-get update`, que consulta todas las fuentes del
-      # runner incluida la de Google Chrome, que no usamos (Playwright trae su
-      # propio Chromium) y que ya tumbó una corrida del vigilante por devolver
-      # un índice corrupto. Mismo blindaje que en vigilar.yml.
+      # runner, incluidas las de terceros que acá no se usan para nada
+      # (Playwright trae su propio Chromium) y que ya tumbaron dos corridas del
+      # vigilante. Mismo blindaje que en vigilar.yml, donde está el detalle.
       - name: Quitar las fuentes de apt que no usamos
-        run: sudo rm -f /etc/apt/sources.list.d/*google*
+        run: |
+          sudo find /etc/apt/sources.list.d -type f ! -name 'ubuntu*' -print -delete
 
       - name: Instalar Chromium
         run: |
