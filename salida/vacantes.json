@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-17T20:00:50.833Z",
-  "totalPais": 62,
+  "generado": "2026-09-17T20:20:43.881Z",
+  "totalPais": 63,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -235,16 +235,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545733",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jesus Ocaña Rojas (San Jose)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545812",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -255,13 +245,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545679",
+      "vacante": "1545733",
       "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
-      "lecciones": "40",
-      "rige": "18/09/2026",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Jesus Ocaña Rojas (San Jose)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -275,6 +265,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1545679",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
+      "lecciones": "40",
+      "rige": "18/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545796",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -285,22 +285,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545708",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Abangares",
-      "lecciones": "14",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545705",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Inglés",
       "institucion": "Cindea Bebedero",
       "lecciones": "16",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545708",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea Abangares",
+      "lecciones": "14",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
@@ -533,6 +533,16 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545923",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Ciudadelas Unidas",
+      "lecciones": "0",
+      "rige": "18/09/2026",
+      "vence": "01/03/2027"
     },
     {
       "vacante": "1545699",
