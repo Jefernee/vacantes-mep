@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-17T22:40:51.620Z",
+  "generado": "2026-09-17T23:00:41.164Z",
   "totalPais": 55,
   "calzanVT6": 2,
   "advertencias": [],
@@ -73,16 +73,6 @@
       "vence": "31/07/2027"
     },
     {
-      "vacante": "1545595",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Remuneraciones",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "07/05/2030"
-    },
-    {
       "vacante": "1539081",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
@@ -91,6 +81,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1545595",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Remuneraciones",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "07/05/2030"
     },
     {
       "vacante": "1545656",
