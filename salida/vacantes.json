@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-17T13:40:44.664Z",
-  "totalPais": 62,
+  "generado": "2026-09-17T14:00:42.731Z",
+  "totalPais": 59,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -10,7 +10,6 @@
     "Biología",
     "Ciencias",
     "Derecho",
-    "Educación Física",
     "Enseñanza Especial . Terapia Del Lenguaje",
     "Español",
     "Estudios Sociales/Educación Cívica",
@@ -96,6 +95,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1538876",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "30/01/2028"
+    },
+    {
       "vacante": "1545656",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -114,16 +123,6 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "15/01/2027"
-    },
-    {
-      "vacante": "1538876",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "30/01/2028"
     },
     {
       "vacante": "1540876",
@@ -166,14 +165,14 @@
       "vence": "14/12/2026"
     },
     {
-      "vacante": "1545727",
+      "vacante": "1545482",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Pradera",
+      "institucion": "Jose Miguel Zumbado Soto (Carr",
       "lecciones": "0",
-      "rige": "20/09/2026",
-      "vence": "31/07/2031"
+      "rige": "18/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1545685",
@@ -186,6 +185,16 @@
       "vence": "30/11/2026"
     },
     {
+      "vacante": "1545727",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Pradera",
+      "lecciones": "0",
+      "rige": "20/09/2026",
+      "vence": "31/07/2031"
+    },
+    {
       "vacante": "1545718",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -194,16 +203,6 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1545482",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Jose Miguel Zumbado Soto (Carr",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1545691",
@@ -246,13 +245,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545367",
+      "vacante": "1545733",
       "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "C.T.P San Rafael De Poas",
-      "lecciones": "18",
-      "rige": "21/09/2026",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Jesus Ocaña Rojas (San Jose)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -263,6 +262,16 @@
       "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
       "lecciones": "40",
       "rige": "18/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545367",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "C.T.P San Rafael De Poas",
+      "lecciones": "18",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -416,16 +425,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545596",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Liceo Nuevo De Limon",
-      "lecciones": "15",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545550",
       "regional": "Direc. Regional Educacion Los Santos",
       "clasePuesto": "Director De Colegio 1",
@@ -434,16 +433,6 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1545611",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "C.T.P. De Corrlillo",
-      "lecciones": "6",
-      "rige": "18/09/2026",
-      "vence": "31/10/2026"
     },
     {
       "vacante": "1545714",
@@ -456,6 +445,16 @@
       "vence": "31/10/2026"
     },
     {
+      "vacante": "1545611",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "C.T.P. De Corrlillo",
+      "lecciones": "6",
+      "rige": "18/09/2026",
+      "vence": "31/10/2026"
+    },
+    {
       "vacante": "1545723",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -464,16 +463,6 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1545659",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Rafael (Peñas Blancas)",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1545728",
@@ -544,26 +533,6 @@
       "lecciones": "44",
       "rige": "21/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1545597",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "C.T.P. Nataniel Arias Murillo",
-      "lecciones": "14",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545598",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "C.T.P. Nataniel Arias Murillo",
-      "lecciones": "4",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1545699",
