@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-17T16:00:52.084Z",
-  "totalPais": 57,
+  "generado": "2026-09-17T16:20:42.224Z",
+  "totalPais": 56,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -18,6 +18,7 @@
     "Gtic / Gestion De Infraestructura",
     "Gtic / Ingenieria De Software",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+    "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Ingeniería Industrial",
     "Inglés",
     "Labores Varias De Oficina",
@@ -104,16 +105,6 @@
       "vence": "31/12/2026"
     },
     {
-      "vacante": "1538876",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "30/01/2028"
-    },
-    {
       "vacante": "1542840",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -122,6 +113,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "15/01/2027"
+    },
+    {
+      "vacante": "1538876",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "30/01/2028"
     },
     {
       "vacante": "1540876",
@@ -184,16 +185,6 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1545727",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Pradera",
-      "lecciones": "0",
-      "rige": "20/09/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1545718",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -202,6 +193,16 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1545727",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Pradera",
+      "lecciones": "0",
+      "rige": "20/09/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1545691",
@@ -244,13 +245,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545679",
+      "vacante": "1545812",
       "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
-      "lecciones": "40",
-      "rige": "18/09/2026",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Leon Cortes Castro (Guacima)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -264,6 +265,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1545679",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
+      "lecciones": "40",
+      "rige": "18/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545796",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -274,22 +285,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545708",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Abangares",
-      "lecciones": "14",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545705",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Inglés",
       "institucion": "Cindea Bebedero",
       "lecciones": "16",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545708",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea Abangares",
+      "lecciones": "14",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
@@ -334,26 +345,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545631",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Asistente De Dirección Centro Educativo 2",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Col. Noct. Carlos Melendez Ch.",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1545675",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Heredia",
-      "lecciones": "26",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545672",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -364,22 +355,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545668",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo De Heredia",
-      "lecciones": "7",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545670",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
       "institucion": "Liceo De Heredia",
       "lecciones": "22",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545675",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Heredia",
+      "lecciones": "26",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
@@ -424,12 +415,32 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1545805",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Providencia",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545728",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
       "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
       "institucion": "Ens. Esp. San Isidro Del G",
       "lecciones": "40",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545813",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Sagrada Familia",
+      "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
@@ -444,16 +455,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1545633",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Isidro (Tigra)",
-      "lecciones": "0",
-      "rige": "16/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1545662",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Director De Colegio Técnico Y Profesional 2",
@@ -461,16 +462,6 @@
       "institucion": "Colegio Tecnico Profesional La Tigra",
       "lecciones": "0",
       "rige": "22/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1545632",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Santa Maria (Pocosol)",
-      "lecciones": "0",
-      "rige": "21/09/2026",
       "vence": "31/01/2027"
     },
     {
