@@ -25,6 +25,18 @@
 import { chromium } from 'playwright';
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 
+// Las decisiones de "a quién le interesa qué" viven aparte para poder probarlas
+// sin abrir un navegador ni mandar un WhatsApp. Ver filtro.mjs y pruebas.mjs.
+import {
+  clasificar,
+  estaExcluida,
+  esMatematicas,
+  comoClave,
+  claveVacante,
+  migrarAvisadas,
+  repartir,
+} from './filtro.mjs';
+
 const DIRECCION = 'https://apps.mep.go.cr/formulario';
 const CARPETA = new URL('./', import.meta.url);
 
@@ -43,86 +55,6 @@ const advertir = (m) => { advertencias.push(m); console.error('ADVERTENCIA: ' + 
 // Los errores de Playwright traen un "Call log" de veinte líneas debajo del
 // mensaje. Para el WhatsApp solo sirve la primera.
 const primeraLinea = (t) => String(t).split(/\r?\n/)[0].trim();
-
-// ── El filtro: grupo profesional VT6 ──────────────────────────────────────
-// Tal como aparecen en la constancia de grupos profesionales. Se comparan sin
-// tildes y en mayúsculas, porque el MEP no es consistente con los acentos
-// ("MATEMATICAS" y "MATEMÁTICAS" conviven en la misma tabla).
-const ESPECIALIDADES_VT6 = [
-  'CIBERSEGURIDAD',
-  'CONFIGURACION Y ADMINISTRACION DE SERVICIOS EN LA NUBE',
-  'CONFIGURACION Y SOPORTE A REDES DE COMUNICACION Y SISTEMAS OPERATIVOS',
-  'CONTROL DE LA CALIDAD DEL SOFTWARE',
-  'DESARROLLO DE APLICACIONES MOVILES',
-  'DESARROLLO WEB',
-  'GESTION DE DATOS PARA EL ANALISIS Y LA VISUALIZACION',
-  'INFORMATICA EMPRESARIAL',
-  'INFORMATICA EN DESARROLLO DE SOFTWARE',
-  'INFORMATICA EN PROGRAMACION',
-  'INFORMATICA EN REDES DE COMPUTADORAS',
-  'INFORMATICA EN SOPORTE',
-  'INTELIGENCIA ARTIFICIAL',
-];
-
-// Suena a informática pero NO es del grupo VT6. "Informática Educativa" es de
-// I y II ciclos (y su variante de III y IV): es otro grupo profesional y no se
-// pueden dar esas clases con esta constancia. Sin esta lista caerían siempre en
-// la red de "posibles" y llegarían avisos de vacantes a las que no se puede
-// aplicar — que es peor que no avisar, porque enseña a ignorar los mensajes.
-const EXCLUIDAS = ['INFORMATICA EDUCATIVA'];
-
-const estaExcluida = (especialidad) => {
-  const plano = normalizar(especialidad);
-  return EXCLUIDAS.some((x) => plano.includes(x));
-};
-
-// Cualquier otra cosa que hable de informática se avisa igual, marcada aparte.
-// Perderse una vacante cuesta muchísimo más que recibir un aviso de más: la
-// ventana son 24 horas hábiles y no hay segunda oportunidad.
-const PISTAS_SUELTAS = ['INFORMATIC', 'COMPUTAC', 'PROGRAMAC', 'SOFTWARE', 'REDES', 'DIGITAL'];
-
-const normalizar = (s) =>
-  (s || '')
-    .normalize('NFD')
-    .replace(/\p{Diacritic}/gu, '')  // fuera tildes
-    .toUpperCase()
-    .replace(/\s+/g, ' ')
-    .trim();
-
-// Palabras que no distinguen nada y sí rompen las comparaciones: el MEP publica
-// "Informática En Desarrollo DEL Software" y la constancia dice "DE Software".
-// Comparando palabra por palabra sin el relleno, las dos son la misma cosa.
-const RELLENO = new Set(['DE', 'DEL', 'LA', 'EL', 'LOS', 'LAS', 'Y', 'EN', 'PARA', 'A', 'CON', 'AL']);
-
-const fichas = (s) =>
-  normalizar(s)
-    .replace(/[^A-Z0-9 ]/g, ' ')
-    .split(/\s+/)
-    .filter((t) => t && !RELLENO.has(t));
-
-const contieneTodas = (grandes, chicas) => chicas.every((t) => grandes.includes(t));
-
-// Devuelve 'exacta' | 'posible' | null
-const clasificar = (especialidad) => {
-  // Antes que nada: lo excluido no se avisa ni aunque calce con las palabras.
-  if (estaExcluida(especialidad)) return null;
-
-  const propias = fichas(especialidad);
-  if (!propias.length) return null;
-
-  for (const v of ESPECIALIDADES_VT6) {
-    const suyas = fichas(v);
-    // Calce en los dos sentidos: la publicación puede ser más específica que la
-    // constancia o al revés.
-    if (contieneTodas(propias, suyas) || contieneTodas(suyas, propias)) return 'exacta';
-  }
-
-  const plano = normalizar(especialidad);
-  for (const p of PISTAS_SUELTAS) {
-    if (plano.includes(p)) return 'posible';
-  }
-  return null;
-};
 
 // ── Utilidades ────────────────────────────────────────────────────────────
 const guardar = async (ruta, contenido) => {
@@ -168,12 +100,6 @@ const siguientePagina = async (pagina) => {
   await pagina.waitForTimeout(900);
   return true;
 };
-
-// El texto del menú y el de la tabla no calzan letra por letra: el menú dice
-// "Regional Educación Alajuela" y la tabla "Direc. Regional Educacion Alajuela".
-// Se comparan sin tildes, sin espacios y sin puntuación, y alcanza con que el de
-// la tabla contenga al del menú.
-const comoClave = (t) => normalizar(t).replace(/[^A-Z0-9]/g, '');
 
 const leerRegional = async (pagina, regional) => {
   await pagina.selectOption('#regionalSelect', regional.valor);
@@ -443,11 +369,6 @@ const nombresSinAvisar = (catalogo) =>
     .filter(([, e]) => !e.avisadaComoNueva && e.calce !== 'excluida')
     .map(([nombre, e]) => ({ nombre, calce: e.calce }));
 
-// ── Matemáticas, para el segundo destinatario ─────────────────────────────
-// El MEP escribe la especialidad de varias formas ("Matemáticas", "Matematica",
-// "Matemáticas / Matemáticas"), así que se compara sin tildes y por contenido.
-const esMatematicas = (especialidad) => normalizar(especialidad).includes('MATEMATIC');
-
 // ── A quién se le avisa y de qué ──────────────────────────────────────────
 //
 // Dos destinatarios con necesidades distintas:
@@ -660,22 +581,8 @@ console.log('Especialidades conocidas hasta hoy: ' + Object.keys(catalogo.especi
 // ya recibió.
 const estado = await leerJson('estado/avisadas.json', { avisadas: {} });
 
-// El archivo nació con una sola lista plana, de cuando había un solo
-// destinatario. Se mueve bajo "principal" para no volver a avisar lo viejo.
-if (Object.values(estado.avisadas).some((v) => typeof v === 'string')) {
-  estado.avisadas = { principal: estado.avisadas };
-}
-for (const d of DESTINOS) estado.avisadas[d.id] = estado.avisadas[d.id] || {};
-
-const clave = (v) => v.regional + '|' + v.vacante;
-
-// Para cada destinatario, qué le tocaría y qué de eso todavía no ha visto.
-const reparto = DESTINOS.map((destino) => {
-  const suyas = destino.filtro
-    ? todas.filter((v) => destino.filtro(v.especialidad)).map((v) => ({ ...v, calce: 'exacta' }))
-    : interesantes;
-  return { destino, nuevas: suyas.filter((v) => !estado.avisadas[destino.id][clave(v)]) };
-});
+estado.avisadas = migrarAvisadas(estado.avisadas, DESTINOS);
+const reparto = repartir(DESTINOS, todas, interesantes, estado.avisadas);
 
 for (const { destino, nuevas } of reparto) {
   console.log(destino.id + ' (' + destino.etiqueta + '): ' + nuevas.length + ' vacantes sin avisar');
@@ -755,7 +662,7 @@ for (const { destino, nuevas } of reparto) {
   }
   algunoSalio = true;
 
-  for (const v of nuevas) estado.avisadas[destino.id][clave(v)] = ahora.toISOString();
+  for (const v of nuevas) estado.avisadas[destino.id][claveVacante(v)] = ahora.toISOString();
 
   // Los nombres nuevos ya se avisaron: no repetirlos en cada corrida. Solo los
   // marca quien de verdad los recibió.

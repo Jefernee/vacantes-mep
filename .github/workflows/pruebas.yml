@@ -1,0 +1,29 @@
+name: Pruebas
+
+# Corren en cada push y en cada pull request. Son rápidas y no tocan la red:
+# solo prueban filtro.mjs, que es donde un error no se ve. Si el navegador se
+# rompe, la corrida del vigilante sale en rojo y llega el WhatsApp; si el filtro
+# deja de calzar, no pasa nada visible y simplemente se pierde la vacante.
+#
+# A propósito NO están dentro de vigilar.yml: ese corre cada 20 minutos y no
+# tiene por qué pararse por una prueba, ni gastar tiempo en ellas 51 veces al día.
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  pruebas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+
+      # Sin `npm install`: las pruebas no usan Playwright ni ninguna dependencia,
+      # justamente para que no haya excusa para no correrlas.
+      - run: node --test pruebas.mjs

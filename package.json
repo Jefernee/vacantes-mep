@@ -5,7 +5,8 @@
   "type": "module",
   "description": "Vigilante de vacantes del MEP para el grupo profesional VT6",
   "scripts": {
-    "explorar": "node explorar.mjs"
+    "explorar": "node explorar.mjs",
+    "test": "node --test pruebas.mjs"
   },
   "dependencies": {
     "playwright": "^1.49.0"

@@ -175,3 +175,18 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vRJe_uT8v9Cd9WlRGf10ArtZmpGwkEUi
 Sale del iframe incrustado en `drea.mep.go.cr/vacantes`. De las demás regionales
 no se sabe: sus dominios `dre*.mep.go.cr` ya no existen y habría que descubrir
 una por una si publican en algún lado.
+
+## Pruebas
+
+```bash
+npm test          # o: node --test pruebas.mjs
+```
+
+Corren solas en cada push (`.github/workflows/pruebas.yml`) y no necesitan
+`npm install`: prueban `filtro.mjs`, que no usa nada de fuera.
+
+Se prueba **la parte donde un error no se ve**. Si el navegador se rompe, la
+corrida sale en rojo y llega el WhatsApp de "se cayó". Si el filtro deja de
+calzar, o una vacante se le manda al destinatario equivocado, no pasa nada
+visible: simplemente no llega el aviso, y eso se nota cuando la vacante ya
+venció. Por eso las pruebas están ahí y no en la parte del navegador.
