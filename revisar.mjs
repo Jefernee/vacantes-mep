@@ -443,20 +443,87 @@ const nombresSinAvisar = (catalogo) =>
     .filter(([, e]) => !e.avisadaComoNueva && e.calce !== 'excluida')
     .map(([nombre, e]) => ({ nombre, calce: e.calce }));
 
-// ── Mandar el WhatsApp por WAHA ───────────────────────────────────────────
-const avisar = async (nuevas, nombresNuevos = [], problemas = [], esSiembra = false) => {
+// ── Matemáticas, para el segundo destinatario ─────────────────────────────
+// El MEP escribe la especialidad de varias formas ("Matemáticas", "Matematica",
+// "Matemáticas / Matemáticas"), así que se compara sin tildes y por contenido.
+const esMatematicas = (especialidad) => normalizar(especialidad).includes('MATEMATIC');
+
+// ── A quién se le avisa y de qué ──────────────────────────────────────────
+//
+// Dos destinatarios con necesidades distintas:
+//
+//   · El principal es el dueño del vigilante. Le llega todo: las vacantes de su
+//     grupo profesional VT6, los nombres de especialidad nunca vistos (para
+//     poder afinar el filtro), las advertencias de lectura y el latido.
+//
+//   · El de matemáticas es alguien a quien solo le interesa que le avisen de una
+//     plaza. Le llegan SOLO las vacantes de matemáticas: ni catálogo de
+//     especialidades, ni advertencias, ni latido. Lo demás es mantenimiento del
+//     vigilante y para esa persona sería ruido.
+//
+// Si el chatId de un destinatario viene vacío, ese destinatario simplemente no
+// existe: así se puede dejar el de matemáticas configurado el día que haya
+// número, sin tocar el código.
+const DESTINOS = [
+  {
+    id: 'principal',
+    etiqueta: 'VT6',
+    chatId: process.env.WAHA_CHAT_ID,
+    // null = el filtro de siempre, el que ya decide clasificar().
+    filtro: null,
+    extras: true,
+  },
+  {
+    id: 'matematicas',
+    etiqueta: 'Matemáticas',
+    chatId: process.env.WAHA_CHAT_ID_MATEMATICAS,
+    filtro: esMatematicas,
+    extras: false,
+  },
+].filter((d) => d.chatId);
+
+// ── Mandar un texto por WAHA ──────────────────────────────────────────────
+// Un solo lugar que hable con WAHA: lo usan el aviso de vacantes y el latido.
+const mandarTexto = async (chatId, mensaje) => {
   const url = process.env.WAHA_URL;
   const apiKey = process.env.WAHA_API_KEY;
-  const chatId = process.env.WAHA_CHAT_ID;
 
   if (!url || !apiKey || !chatId) {
-    console.error('Faltan WAHA_URL / WAHA_API_KEY / WAHA_CHAT_ID. No se manda nada.');
+    console.error('Faltan WAHA_URL / WAHA_API_KEY / el destinatario. No se manda nada.');
     return false;
+  }
+
+  console.log('--- mensaje para ' + chatId + ' ---');
+  console.log(mensaje);
+  console.log('---------------');
+
+  const resp = await fetch(url.replace(/\/$/, '') + '/api/sendText', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'X-Api-Key': apiKey },
+    body: JSON.stringify({ session: process.env.WAHA_SESSION || 'default', chatId, text: mensaje }),
+  });
+
+  if (!resp.ok) {
+    console.error('WAHA respondió ' + resp.status + ': ' + (await resp.text()).slice(0, 300));
+    return false;
+  }
+  return true;
+};
+
+// ── El WhatsApp de las vacantes ───────────────────────────────────────────
+// `destino.extras` decide si además del listado de vacantes van los nombres de
+// especialidad nunca vistos y las advertencias de lectura. Al número de
+// matemáticas le van SOLO las vacantes: lo demás es mantenimiento del vigilante
+// y no le sirve de nada a quien solo quiere enterarse de una plaza.
+const avisar = async (destino, nuevas, nombresNuevos = [], problemas = [], esSiembra = false) => {
+  if (!destino.extras) {
+    nombresNuevos = [];
+    problemas = [];
   }
 
   const lineas = [];
   lineas.push(
-    nuevas.length ? '🎓 *Vacantes nuevas para vos* (VT6)'
+    nuevas.length ? '🎓 *Vacantes nuevas* (' + destino.etiqueta + ')'
     : problemas.length ? '⚠️ *Aviso del vigilante de vacantes*'
     : '🆕 *Aviso del vigilante de vacantes*'
   );
@@ -510,20 +577,7 @@ const avisar = async (nuevas, nombresNuevos = [], problemas = [], esSiembra = fa
     lineas.push('_Puede haber vacantes que no se vieron. Revisá el sitio a mano._');
   }
 
-  const mensaje = lineas.join('\n');
-  console.log('--- mensaje ---\n' + mensaje + '\n---------------');
-
-  const resp = await fetch(url.replace(/\/$/, '') + '/api/sendText', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json', 'X-Api-Key': apiKey },
-    body: JSON.stringify({ session: process.env.WAHA_SESSION || 'default', chatId, text: mensaje }),
-  });
-
-  if (!resp.ok) {
-    console.error('WAHA respondió ' + resp.status + ': ' + (await resp.text()).slice(0, 300));
-    return false;
-  }
-  return true;
+  return mandarTexto(destino.chatId, lineas.join('\n'));
 };
 
 // ── Programa principal ────────────────────────────────────────────────────
@@ -599,40 +653,136 @@ if (nombresNuevos.length) {
 console.log('Especialidades conocidas hasta hoy: ' + Object.keys(catalogo.especialidades).length);
 
 // ── Avisar solo lo que no se avisó antes ──────────────────────────────────
+//
+// La memoria de lo avisado es POR DESTINATARIO: la misma vacante de matemáticas
+// puede estar sin avisar para uno y ya avisada para el otro, y con una sola
+// lista compartida el segundo destinatario se perdería todo lo que el primero
+// ya recibió.
 const estado = await leerJson('estado/avisadas.json', { avisadas: {} });
 
-const nuevas = interesantes.filter((v) => !estado.avisadas[v.regional + '|' + v.vacante]);
+// El archivo nació con una sola lista plana, de cuando había un solo
+// destinatario. Se mueve bajo "principal" para no volver a avisar lo viejo.
+if (Object.values(estado.avisadas).some((v) => typeof v === 'string')) {
+  estado.avisadas = { principal: estado.avisadas };
+}
+for (const d of DESTINOS) estado.avisadas[d.id] = estado.avisadas[d.id] || {};
 
-// Un nombre nuevo se avisa aunque no haya vacantes nuevas: es justamente la
-// señal de que el filtro puede haber quedado corto.
-if (!nuevas.length && !nombresNuevos.length && !advertencias.length) {
-  console.log('Nada nuevo que avisar.');
+const clave = (v) => v.regional + '|' + v.vacante;
+
+// Para cada destinatario, qué le tocaría y qué de eso todavía no ha visto.
+const reparto = DESTINOS.map((destino) => {
+  const suyas = destino.filtro
+    ? todas.filter((v) => destino.filtro(v.especialidad)).map((v) => ({ ...v, calce: 'exacta' }))
+    : interesantes;
+  return { destino, nuevas: suyas.filter((v) => !estado.avisadas[destino.id][clave(v)]) };
+});
+
+for (const { destino, nuevas } of reparto) {
+  console.log(destino.id + ' (' + destino.etiqueta + '): ' + nuevas.length + ' vacantes sin avisar');
+}
+
+// ── El latido: "sigo acá" cada 3 horas ────────────────────────────────────
+//
+// Un vigilante sano es un vigilante callado, y desde el teléfono el silencio se
+// ve igual que estar caído. Las alarmas de la VM y de Atlas cubren el caso de
+// que deje de correr del todo, pero eso no se ve desde acá. Cada 3 horas manda
+// una línea diciendo que revisó y qué encontró, para no confiar a ciegas.
+//
+// Solo al destinatario principal: al de matemáticas se le prometió que solo le
+// llegan vacantes.
+const LATIDO_CADA_HORAS = 3;
+const latido = await leerJson('estado/latido.json', { ultimo: null, totalPais: null });
+const horasSinLatido = latido.ultimo ? (ahora - new Date(latido.ultimo)) / 3600000 : Infinity;
+const principal = DESTINOS.find((d) => d.id === 'principal');
+
+const guardarLatido = () =>
+  guardar('estado/latido.json', JSON.stringify({ ultimo: ahora.toISOString(), totalPais: todas.length }, null, 2));
+
+// Red de seguridad contra el próximo fallo silencioso, sea cual sea: si el país
+// entero pasa de decenas de vacantes a casi ninguna de un pique, es mucho más
+// probable que se haya roto la lectura a que el MEP las haya retirado todas.
+if (latido.totalPais >= 10 && todas.length < latido.totalPais / 3) {
+  advertir(
+    'El país pasó de ' + latido.totalPais + ' vacantes a ' + todas.length +
+    '. Puede que la lectura se haya roto: revisá el sitio a mano.'
+  );
+}
+
+const hayAlgoQueAvisar =
+  reparto.some((r) => r.nuevas.length) || nombresNuevos.length || advertencias.length;
+
+if (!hayAlgoQueAvisar) {
+  if (horasSinLatido < LATIDO_CADA_HORAS) {
+    console.log('Nada nuevo que avisar.');
+    process.exit(0);
+  }
+
+  const hora = ahora.toLocaleString('es-CR', {
+    timeZone: 'America/Costa_Rica',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  });
+  const salio = principal && await mandarTexto(
+    principal.chatId,
+    '🟢 *El vigilante de vacantes sigue trabajando*\n\n' +
+    'Última revisión: ' + hora + '.\n' +
+    'Vacantes publicadas hoy en todo el país: ' + todas.length + '.\n' +
+    'Para VT6: ninguna nueva.\n\n' +
+    '_Este aviso llega cada ' + LATIDO_CADA_HORAS + ' horas para que sepas que sigue vivo. El día que deje de llegar, algo pasó._\n' +
+    '👉 ' + DIRECCION
+  );
+  if (salio) await guardarLatido();
   process.exit(0);
 }
 
-console.log('Vacantes nuevas: ' + nuevas.length);
-const enviado = await avisar(nuevas, nombresNuevos, advertencias, catalogoEstabaVacio);
+// ── Mandar ────────────────────────────────────────────────────────────────
+//
+// Cada destinatario se marca por separado: si el WhatsApp de uno falla, el otro
+// igual queda avisado y solo se reintenta el que no salió.
+let algunoFallo = false;
+let algunoSalio = false;
 
-if (enviado) {
-  for (const v of nuevas) {
-    estado.avisadas[v.regional + '|' + v.vacante] = ahora.toISOString();
-  }
+for (const { destino, nuevas } of reparto) {
+  const extras = destino.extras && (nombresNuevos.length || advertencias.length);
+  if (!nuevas.length && !extras) continue;
 
-  // Los nombres nuevos ya se avisaron: no repetirlos en cada corrida.
-  for (const n of nombresNuevos) {
-    if (catalogo.especialidades[n.nombre]) catalogo.especialidades[n.nombre].avisadaComoNueva = true;
+  const enviado = await avisar(destino, nuevas, nombresNuevos, advertencias, catalogoEstabaVacio);
+  if (!enviado) {
+    console.error('El aviso a ' + destino.id + ' NO salió. Queda sin marcar para reintentar.');
+    algunoFallo = true;
+    continue;
   }
-  await guardar('estado/especialidades.json', JSON.stringify(catalogo, null, 2));
-  // Limpieza: lo de hace más de 30 días ya no puede reaparecer, y sin esto el
-  // archivo crece para siempre.
-  const limite = new Date(ahora.getTime() - 30 * 24 * 60 * 60 * 1000);
-  for (const [clave, cuando] of Object.entries(estado.avisadas)) {
-    if (new Date(cuando) < limite) delete estado.avisadas[clave];
+  algunoSalio = true;
+
+  for (const v of nuevas) estado.avisadas[destino.id][clave(v)] = ahora.toISOString();
+
+  // Los nombres nuevos ya se avisaron: no repetirlos en cada corrida. Solo los
+  // marca quien de verdad los recibió.
+  if (destino.extras) {
+    for (const n of nombresNuevos) {
+      if (catalogo.especialidades[n.nombre]) catalogo.especialidades[n.nombre].avisadaComoNueva = true;
+    }
+    await guardar('estado/especialidades.json', JSON.stringify(catalogo, null, 2));
   }
-  await guardar('estado/avisadas.json', JSON.stringify(estado, null, 2));
-  console.log('Aviso enviado y estado actualizado.');
-} else {
-  // No se marca nada: si el WhatsApp falló, la próxima corrida lo reintenta.
-  console.error('El aviso NO salió. El estado queda igual para reintentar.');
+}
+
+// Limpieza: lo de hace más de 30 días ya no puede reaparecer, y sin esto el
+// archivo crece para siempre.
+const limite = new Date(ahora.getTime() - 30 * 24 * 60 * 60 * 1000);
+for (const avisadas of Object.values(estado.avisadas)) {
+  for (const [k, cuando] of Object.entries(avisadas)) {
+    if (new Date(cuando) < limite) delete avisadas[k];
+  }
+}
+await guardar('estado/avisadas.json', JSON.stringify(estado, null, 2));
+
+// Un aviso de verdad vale como latido: no hace falta mandar además el "sigo
+// trabajando" cinco minutos después.
+if (algunoSalio) await guardarLatido();
+
+if (algunoFallo) {
+  console.error('Al menos un aviso no salió. La próxima corrida lo reintenta.');
   process.exit(1);
 }
+console.log('Avisos enviados y estado actualizado.');

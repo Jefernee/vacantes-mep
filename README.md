@@ -111,6 +111,32 @@ gh workflow run vigilar.yml -f modo=real     # manda de verdad
 Tres Secrets en GitHub: `WAHA_URL`, `WAHA_API_KEY` y `WAHA_CHAT_ID`. El envío lo
 hace la API de WAHA en la VM de Oracle, la misma que usa la sala de juegos.
 
+### Un segundo destinatario, solo para matemáticas
+
+Hay un cuarto Secret **opcional**, `WAHA_CHAT_ID_MATEMATICAS`. Si se pone un
+número ahí, a ese número le llegan **solo las vacantes de matemáticas** y nada
+más: ni los nombres de especialidad nuevos, ni las advertencias de lectura, ni
+el latido. Eso es mantenimiento del vigilante y para alguien que solo quiere
+enterarse de una plaza sería ruido.
+
+Se pone con el número en formato WAHA (código de país, sin `+`, y `@c.us`):
+
+```bash
+gh secret set WAHA_CHAT_ID_MATEMATICAS --repo Jefernee/vacantes-mep --body '506XXXXXXXX@c.us'
+```
+
+Si el Secret no existe, ese destinatario no existe y todo funciona como antes.
+La memoria de lo ya avisado es **por destinatario** (`estado/avisadas.json` tiene
+una lista por cada uno): la misma vacante puede estar avisada para uno y pendiente
+para el otro.
+
+### El latido
+
+Cada **3 horas**, si no hubo nada que avisar, el destinatario principal recibe un
+"🟢 sigo trabajando" con la hora de la última revisión y cuántas vacantes hay
+publicadas en el país. Un aviso de verdad cuenta como latido, así que no llegan
+los dos seguidos. La marca vive en `estado/latido.json`.
+
 Y dos triggers en MongoDB Atlas (Scheduled, Authentication: System), cada uno con
 su secreto pegado a mano en el panel:
 
