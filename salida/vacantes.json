@@ -1,12 +1,11 @@
 {
-  "generado": "2026-09-17T18:00:43.199Z",
-  "totalPais": 55,
+  "generado": "2026-09-17T18:20:42.885Z",
+  "totalPais": 56,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
     "Administración / Generalista",
     "Administración De Recursos Humanos",
-    "Biología",
     "Ciencias",
     "Derecho",
     "Educación Física",
@@ -165,6 +164,16 @@
       "vence": "31/12/2026"
     },
     {
+      "vacante": "1545718",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Alfredo Gomez Zamora",
+      "lecciones": "0",
+      "rige": "18/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1545727",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -183,16 +192,6 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1545718",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Alfredo Gomez Zamora",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1545685",
@@ -225,16 +224,6 @@
       "vence": "02/11/2026"
     },
     {
-      "vacante": "1545733",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jesus Ocaña Rojas (San Jose)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545812",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -242,6 +231,16 @@
       "institucion": "Leon Cortes Castro (Guacima)",
       "lecciones": "0",
       "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545733",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Jesus Ocaña Rojas (San Jose)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -255,16 +254,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545679",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
-      "lecciones": "40",
-      "rige": "18/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545367",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -272,6 +261,16 @@
       "institucion": "C.T.P San Rafael De Poas",
       "lecciones": "18",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545679",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
+      "lecciones": "40",
+      "rige": "18/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -345,6 +344,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1545869",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Liceo Pacifico Sur",
+      "lecciones": "32",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545808",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -355,26 +364,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545856",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "C.T.P. De Ulloa",
-      "lecciones": "44",
-      "rige": "18/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545672",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "Liceo De Heredia",
-      "lecciones": "18",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545675",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -382,6 +371,16 @@
       "institucion": "Liceo De Heredia",
       "lecciones": "26",
       "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545856",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "C.T.P. De Ulloa",
+      "lecciones": "44",
+      "rige": "18/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -403,6 +402,16 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1545877",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Colonia Del Valle",
+      "lecciones": "0",
+      "rige": "18/09/2026",
+      "vence": "29/10/2026"
     },
     {
       "vacante": "1545714",
