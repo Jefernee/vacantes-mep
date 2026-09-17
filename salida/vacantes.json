@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-17T13:00:56.763Z",
-  "totalPais": 60,
+  "generado": "2026-09-17T13:20:46.563Z",
+  "totalPais": 61,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -106,16 +106,6 @@
       "vence": "31/12/2026"
     },
     {
-      "vacante": "1542840",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración De Recursos Humanos",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "15/01/2027"
-    },
-    {
       "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -124,6 +114,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "30/01/2028"
+    },
+    {
+      "vacante": "1542840",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Administración De Recursos Humanos",
+      "institucion": "Departamento De Dotacion Del Talento Humano",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "15/01/2027"
     },
     {
       "vacante": "1540876",
@@ -176,16 +176,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1545685",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Turrucares",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "30/11/2026"
-    },
-    {
       "vacante": "1545718",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -194,6 +184,16 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1545685",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Turrucares",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "30/11/2026"
     },
     {
       "vacante": "1545691",
@@ -236,16 +236,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545679",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
-      "lecciones": "40",
-      "rige": "18/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545367",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -253,6 +243,16 @@
       "institucion": "C.T.P San Rafael De Poas",
       "lecciones": "18",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545679",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
+      "lecciones": "40",
+      "rige": "18/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -426,6 +426,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1545714",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "Liceo De Nicoya",
+      "lecciones": "10",
+      "rige": "18/09/2026",
+      "vence": "31/10/2026"
+    },
+    {
       "vacante": "1545611",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -436,14 +446,14 @@
       "vence": "31/10/2026"
     },
     {
-      "vacante": "1545714",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "Liceo De Nicoya",
-      "lecciones": "10",
-      "rige": "18/09/2026",
-      "vence": "31/10/2026"
+      "vacante": "1545723",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Cindea San Isidro Penas Blancas",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1545659",
