@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-17T17:20:54.741Z",
-  "totalPais": 56,
+  "generado": "2026-09-17T17:40:55.791Z",
+  "totalPais": 55,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -16,7 +16,6 @@
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Francés",
-    "Física",
     "Gtic / Gestion De Infraestructura",
     "Gtic / Ingenieria De Software",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
@@ -96,6 +95,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1545656",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Derecho",
+      "institucion": "Departamento De Asuntos Disciplinarios",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "31/12/2026"
+    },
+    {
       "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -114,16 +123,6 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "15/01/2027"
-    },
-    {
-      "vacante": "1545656",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Asuntos Disciplinarios",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "31/12/2026"
     },
     {
       "vacante": "1540876",
@@ -176,6 +175,16 @@
       "vence": "14/12/2026"
     },
     {
+      "vacante": "1545685",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Turrucares",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "30/11/2026"
+    },
+    {
       "vacante": "1545482",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -206,16 +215,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1545685",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Turrucares",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "30/11/2026"
-    },
-    {
       "vacante": "1545691",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
@@ -234,6 +233,16 @@
       "lecciones": "40",
       "rige": "18/09/2026",
       "vence": "02/11/2026"
+    },
+    {
+      "vacante": "1545474",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Pacto Del Jocote (San Jose)",
+      "lecciones": "0",
+      "rige": "25/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1545733",
@@ -256,13 +265,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545474",
+      "vacante": "1545679",
       "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Pacto Del Jocote (San Jose)",
-      "lecciones": "0",
-      "rige": "25/09/2026",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
+      "lecciones": "40",
+      "rige": "18/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -273,16 +282,6 @@
       "institucion": "C.T.P San Rafael De Poas",
       "lecciones": "18",
       "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545679",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
-      "lecciones": "40",
-      "rige": "18/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -342,6 +341,16 @@
       "especialidad": "Francés",
       "institucion": "Liceo De San Antonio",
       "lecciones": "9",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545844",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Drake (Sierpe)",
+      "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
@@ -454,26 +463,6 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545660",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P. La Gloria",
-      "lecciones": "6",
-      "rige": "09/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1545662",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Director De Colegio Técnico Y Profesional 2",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Colegio Tecnico Profesional La Tigra",
-      "lecciones": "0",
-      "rige": "22/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1545699",
