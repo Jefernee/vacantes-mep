@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-17T17:00:56.712Z",
-  "totalPais": 55,
+  "generado": "2026-09-17T17:20:54.741Z",
+  "totalPais": 56,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,6 +9,7 @@
     "Biología",
     "Ciencias",
     "Derecho",
+    "Educación Física",
     "Educación Para El Hogar",
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Terapia Del Lenguaje",
@@ -95,14 +96,14 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1545656",
+      "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Asuntos Disciplinarios",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
       "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "31/12/2026"
+      "rige": "01/10/2026",
+      "vence": "30/01/2028"
     },
     {
       "vacante": "1542840",
@@ -115,14 +116,14 @@
       "vence": "15/01/2027"
     },
     {
-      "vacante": "1538876",
+      "vacante": "1545656",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
+      "especialidad": "Derecho",
+      "institucion": "Departamento De Asuntos Disciplinarios",
       "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "30/01/2028"
+      "rige": "21/10/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1540876",
@@ -143,6 +144,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "16/01/2028"
+    },
+    {
+      "vacante": "1545838",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Dirección Regional De Educación Sarapiquí",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1542889",
@@ -175,16 +186,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1545685",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Turrucares",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "30/11/2026"
-    },
-    {
       "vacante": "1545727",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -203,6 +204,16 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1545685",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Turrucares",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "30/11/2026"
     },
     {
       "vacante": "1545691",
@@ -225,13 +236,13 @@
       "vence": "02/11/2026"
     },
     {
-      "vacante": "1545474",
+      "vacante": "1545733",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Pacto Del Jocote (San Jose)",
+      "institucion": "Jesus Ocaña Rojas (San Jose)",
       "lecciones": "0",
-      "rige": "25/09/2026",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -245,23 +256,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545733",
+      "vacante": "1545474",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jesus Ocaña Rojas (San Jose)",
+      "institucion": "Pacto Del Jocote (San Jose)",
       "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545679",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
-      "lecciones": "40",
-      "rige": "18/09/2026",
+      "rige": "25/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -275,6 +276,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1545679",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
+      "lecciones": "40",
+      "rige": "18/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545796",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -285,22 +296,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545705",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Cindea Bebedero",
-      "lecciones": "16",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545708",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Cindea Abangares",
       "lecciones": "14",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545705",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Cindea Bebedero",
+      "lecciones": "16",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
@@ -405,6 +416,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1545834",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Colonia (San Pedro)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1545805",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
@@ -463,16 +484,6 @@
       "lecciones": "0",
       "rige": "17/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1545655",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Costa Rica",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1545706",
