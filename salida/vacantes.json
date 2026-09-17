@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-17T02:40:47.810Z",
+  "generado": "2026-09-17T03:00:47.181Z",
   "totalPais": 63,
   "calzanVT6": 3,
   "advertencias": [],
@@ -109,16 +109,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1545656",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Asuntos Disciplinarios",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -137,6 +127,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "15/01/2027"
+    },
+    {
+      "vacante": "1545656",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Derecho",
+      "institucion": "Departamento De Asuntos Disciplinarios",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1540876",
@@ -189,16 +189,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1545718",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Alfredo Gomez Zamora",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1545685",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -207,6 +197,16 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "30/11/2026"
+    },
+    {
+      "vacante": "1545718",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Alfredo Gomez Zamora",
+      "lecciones": "0",
+      "rige": "18/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1545691",
@@ -399,16 +399,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545611",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "C.T.P. De Corrlillo",
-      "lecciones": "6",
-      "rige": "18/09/2026",
-      "vence": "31/10/2026"
-    },
-    {
       "vacante": "1545471",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -425,6 +415,16 @@
       "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
       "institucion": "Liceo De Nicoya",
       "lecciones": "10",
+      "rige": "18/09/2026",
+      "vence": "31/10/2026"
+    },
+    {
+      "vacante": "1545611",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "C.T.P. De Corrlillo",
+      "lecciones": "6",
       "rige": "18/09/2026",
       "vence": "31/10/2026"
     },
@@ -529,13 +529,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545396",
+      "vacante": "1545598",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "C.T.P. De Santa Rosa",
-      "lecciones": "8",
-      "rige": "22/09/2026",
+      "especialidad": "Educación Física",
+      "institucion": "C.T.P. Nataniel Arias Murillo",
+      "lecciones": "4",
+      "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -549,13 +549,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545598",
+      "vacante": "1545396",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "C.T.P. Nataniel Arias Murillo",
-      "lecciones": "4",
-      "rige": "16/09/2026",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "8",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
