@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-17T15:25:03.170Z",
-  "totalPais": 58,
+  "generado": "2026-09-17T15:40:43.000Z",
+  "totalPais": 57,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -94,16 +94,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1545656",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Asuntos Disciplinarios",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -122,6 +112,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "15/01/2027"
+    },
+    {
+      "vacante": "1545656",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Derecho",
+      "institucion": "Departamento De Asuntos Disciplinarios",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1540876",
@@ -164,26 +164,6 @@
       "vence": "14/12/2026"
     },
     {
-      "vacante": "1545482",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Jose Miguel Zumbado Soto (Carr",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1545685",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Turrucares",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "30/11/2026"
-    },
-    {
       "vacante": "1545727",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -202,6 +182,26 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1545685",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Turrucares",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "30/11/2026"
+    },
+    {
+      "vacante": "1545482",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Jose Miguel Zumbado Soto (Carr",
+      "lecciones": "0",
+      "rige": "18/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1545691",
@@ -224,16 +224,6 @@
       "vence": "02/11/2026"
     },
     {
-      "vacante": "1545474",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Pacto Del Jocote (San Jose)",
-      "lecciones": "0",
-      "rige": "25/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545733",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -241,6 +231,16 @@
       "institucion": "Jesus Ocaña Rojas (San Jose)",
       "lecciones": "0",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545474",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Pacto Del Jocote (San Jose)",
+      "lecciones": "0",
+      "rige": "25/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -264,22 +264,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545708",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Abangares",
-      "lecciones": "14",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545705",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Inglés",
       "institucion": "Cindea Bebedero",
       "lecciones": "16",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545708",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea Abangares",
+      "lecciones": "14",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
@@ -354,22 +354,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545670",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo De Heredia",
-      "lecciones": "22",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545668",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
       "institucion": "Liceo De Heredia",
       "lecciones": "7",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545670",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo De Heredia",
+      "lecciones": "22",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
@@ -472,16 +472,6 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1545621",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Campo (Quesada)",
-      "lecciones": "0",
-      "rige": "16/09/2026",
-      "vence": "08/12/2026"
     },
     {
       "vacante": "1545699",
