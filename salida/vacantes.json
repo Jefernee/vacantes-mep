@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-17T19:00:48.440Z",
+  "generado": "2026-09-17T19:14:25.735Z",
   "totalPais": 57,
   "calzanVT6": 2,
   "advertencias": [],
@@ -93,6 +93,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1538876",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "30/01/2028"
+    },
+    {
       "vacante": "1545656",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -111,16 +121,6 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "15/01/2027"
-    },
-    {
-      "vacante": "1538876",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "30/01/2028"
     },
     {
       "vacante": "1540876",
@@ -163,16 +163,6 @@
       "vence": "31/12/2026"
     },
     {
-      "vacante": "1545685",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Turrucares",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "30/11/2026"
-    },
-    {
       "vacante": "1545482",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -181,6 +171,16 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1545718",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Alfredo Gomez Zamora",
+      "lecciones": "0",
+      "rige": "18/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1545727",
@@ -193,14 +193,14 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1545718",
+      "vacante": "1545685",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "Alfredo Gomez Zamora",
+      "institucion": "Liceo De Turrucares",
       "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "31/01/2027"
+      "rige": "21/09/2026",
+      "vence": "30/11/2026"
     },
     {
       "vacante": "1545691",
@@ -223,16 +223,6 @@
       "vence": "02/11/2026"
     },
     {
-      "vacante": "1545474",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Pacto Del Jocote (San Jose)",
-      "lecciones": "0",
-      "rige": "25/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545812",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -250,6 +240,16 @@
       "institucion": "Jesus Ocaña Rojas (San Jose)",
       "lecciones": "0",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545474",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Pacto Del Jocote (San Jose)",
+      "lecciones": "0",
+      "rige": "25/09/2026",
       "vence": "11/12/2026"
     },
     {
