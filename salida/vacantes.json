@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-17T11:40:47.011Z",
+  "generado": "2026-09-17T12:00:43.522Z",
   "totalPais": 63,
   "calzanVT6": 3,
   "advertencias": [],
@@ -109,6 +109,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1545656",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Derecho",
+      "institucion": "Departamento De Asuntos Disciplinarios",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "31/12/2026"
+    },
+    {
       "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -127,16 +137,6 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "15/01/2027"
-    },
-    {
-      "vacante": "1545656",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Asuntos Disciplinarios",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "31/12/2026"
     },
     {
       "vacante": "1540876",
@@ -179,6 +179,16 @@
       "vence": "14/12/2026"
     },
     {
+      "vacante": "1545482",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Jose Miguel Zumbado Soto (Carr",
+      "lecciones": "0",
+      "rige": "18/09/2026",
+      "vence": "31/07/2030"
+    },
+    {
       "vacante": "1545718",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -197,16 +207,6 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "30/11/2026"
-    },
-    {
-      "vacante": "1545482",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Jose Miguel Zumbado Soto (Carr",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1545691",
@@ -259,16 +259,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545367",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "C.T.P San Rafael De Poas",
-      "lecciones": "18",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545679",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -276,6 +266,16 @@
       "institucion": "Colegio Tecnico Profesional San Rafael De Alajuela",
       "lecciones": "40",
       "rige": "18/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545367",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "C.T.P San Rafael De Poas",
+      "lecciones": "18",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -349,22 +349,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545668",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo De Heredia",
-      "lecciones": "7",
-      "rige": "17/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545670",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
       "institucion": "Liceo De Heredia",
       "lecciones": "22",
+      "rige": "17/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545668",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo De Heredia",
+      "lecciones": "7",
       "rige": "17/09/2026",
       "vence": "11/12/2026"
     },
@@ -409,22 +409,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545714",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "Liceo De Nicoya",
-      "lecciones": "10",
-      "rige": "18/09/2026",
-      "vence": "31/10/2026"
-    },
-    {
       "vacante": "1545611",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
       "institucion": "C.T.P. De Corrlillo",
       "lecciones": "6",
+      "rige": "18/09/2026",
+      "vence": "31/10/2026"
+    },
+    {
+      "vacante": "1545714",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "Liceo De Nicoya",
+      "lecciones": "10",
       "rige": "18/09/2026",
       "vence": "31/10/2026"
     },
@@ -529,6 +529,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1545396",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "8",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545597",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -546,16 +556,6 @@
       "institucion": "C.T.P. Nataniel Arias Murillo",
       "lecciones": "4",
       "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545396",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "C.T.P. De Santa Rosa",
-      "lecciones": "8",
-      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
