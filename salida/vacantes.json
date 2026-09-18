@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-18T18:20:50.920Z",
-  "totalPais": 45,
+  "generado": "2026-09-18T18:41:09.282Z",
+  "totalPais": 46,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -91,6 +91,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1545656",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Derecho",
+      "institucion": "Departamento De Asuntos Disciplinarios",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "31/12/2026"
+    },
+    {
       "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -109,16 +119,6 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "15/01/2027"
-    },
-    {
-      "vacante": "1545656",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Asuntos Disciplinarios",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "31/12/2026"
     },
     {
       "vacante": "1540876",
@@ -261,6 +261,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1546210",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Perlita (Pacuarito)",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1545893",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -341,16 +351,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546151",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "44",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545942",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -358,6 +358,16 @@
       "institucion": "C.T.P. De Piedades Sur",
       "lecciones": "38",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546151",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P Zarcero",
+      "lecciones": "44",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
