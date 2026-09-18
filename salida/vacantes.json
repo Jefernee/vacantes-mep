@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-18T17:00:38.556Z",
+  "generado": "2026-09-18T17:20:59.934Z",
   "totalPais": 47,
   "calzanVT6": 2,
   "advertencias": [],
@@ -72,16 +72,6 @@
       "vence": "31/07/2027"
     },
     {
-      "vacante": "1545595",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Remuneraciones",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "07/05/2030"
-    },
-    {
       "vacante": "1539081",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
@@ -90,6 +80,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1545595",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Remuneraciones",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "07/05/2030"
     },
     {
       "vacante": "1542840",
@@ -140,16 +140,6 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "16/01/2028"
-    },
-    {
-      "vacante": "1545838",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Dirección Regional De Educación Sarapiquí",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1542889",
@@ -312,6 +302,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546169",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545877",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -320,6 +320,16 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "29/10/2026"
+    },
+    {
+      "vacante": "1546181",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Pbro Manuel Bernardo Gomez S.",
+      "lecciones": "0",
+      "rige": "22/09/2026",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1545906",
@@ -390,16 +400,6 @@
       "lecciones": "44",
       "rige": "22/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545834",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "La Colonia (San Pedro)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1546059",
@@ -492,16 +492,6 @@
       "vence": "07/05/2030"
     },
     {
-      "vacante": "1540586",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
-      "especialidad": "Gtic / Gestion De Infraestructura",
-      "institucion": "Departamento De Gestión Y Control Informático",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "23/02/2028"
-    },
-    {
       "vacante": "1541343",
       "regional": "Tecnologia Informatica Para La Gestion",
       "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
@@ -510,6 +500,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/03/2028"
+    },
+    {
+      "vacante": "1540586",
+      "regional": "Tecnologia Informatica Para La Gestion",
+      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
+      "especialidad": "Gtic / Gestion De Infraestructura",
+      "institucion": "Departamento De Gestión Y Control Informático",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "23/02/2028"
     },
     {
       "vacante": "1545653",
