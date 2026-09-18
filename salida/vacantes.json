@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-18T12:40:46.823Z",
-  "totalPais": 55,
+  "generado": "2026-09-18T13:00:54.425Z",
+  "totalPais": 50,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -14,7 +14,6 @@
     "Enseñanza Especial . Terapia Del Lenguaje",
     "Equipos Interdisciplinarios / Orientación",
     "Estudios Sociales/Educación Cívica",
-    "Francés",
     "Gtic / Gestion De Infraestructura",
     "Gtic / Ingenieria De Software",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
@@ -22,7 +21,6 @@
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
-    "Música/Música",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
     "Turismo Generalista"
@@ -103,16 +101,6 @@
       "vence": "31/12/2026"
     },
     {
-      "vacante": "1542840",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración De Recursos Humanos",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "15/01/2027"
-    },
-    {
       "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -121,6 +109,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "30/01/2028"
+    },
+    {
+      "vacante": "1542840",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Administración De Recursos Humanos",
+      "institucion": "Departamento De Dotacion Del Talento Humano",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "15/01/2027"
     },
     {
       "vacante": "1540876",
@@ -163,16 +161,6 @@
       "vence": "31/12/2026"
     },
     {
-      "vacante": "1545727",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Pradera",
-      "lecciones": "0",
-      "rige": "20/09/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1545812",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -183,16 +171,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545733",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jesus Ocaña Rojas (San Jose)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545796",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -200,36 +178,6 @@
       "institucion": "Prev Ens Esp Liceo San Jose",
       "lecciones": "10",
       "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545708",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Abangares",
-      "lecciones": "14",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545705",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Cindea Bebedero",
-      "lecciones": "16",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544064",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Antonio Obando Espinoza(Cañas)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -253,6 +201,26 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546017",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Alberto Echandi Montero",
+      "lecciones": "0",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546020",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo De Ciudad Neilly",
+      "lecciones": "44",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1545885",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -260,16 +228,6 @@
       "institucion": "Juan Lara Alfaro (Corredor)",
       "lecciones": "0",
       "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1541923",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De San Antonio",
-      "lecciones": "9",
-      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -351,16 +309,6 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545550",
-      "regional": "Direc. Regional Educacion Los Santos",
-      "clasePuesto": "Director De Colegio 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Llano Bonito",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1545877",
@@ -473,23 +421,23 @@
       "vence": "01/03/2027"
     },
     {
-      "vacante": "1545706",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cecilio Lindo M. (Juan Viñas)",
+      "vacante": "1544631",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Quince De Agosto",
       "lecciones": "0",
       "rige": "22/09/2026",
-      "vence": "31/01/2031"
+      "vence": "22/03/2027"
     },
     {
-      "vacante": "1545703",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Cindea Jenaro Bonilla Aguilar",
-      "lecciones": "5",
-      "rige": "16/10/2026",
+      "vacante": "1546027",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Rincon Grande",
+      "lecciones": "0",
+      "rige": "23/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -501,6 +449,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1545743",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Bijagua",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1545745",
@@ -521,16 +479,6 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545743",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Bijagua",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1542613",
