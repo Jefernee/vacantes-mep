@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-18T19:00:37.817Z",
+  "generado": "2026-09-18T19:20:46.945Z",
   "totalPais": 45,
   "calzanVT6": 2,
   "advertencias": [],
@@ -90,14 +90,14 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1545656",
+      "vacante": "1542840",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Asuntos Disciplinarios",
+      "especialidad": "Administración De Recursos Humanos",
+      "institucion": "Departamento De Dotacion Del Talento Humano",
       "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "31/12/2026"
+      "rige": "01/10/2026",
+      "vence": "15/01/2027"
     },
     {
       "vacante": "1538876",
@@ -110,14 +110,14 @@
       "vence": "30/01/2028"
     },
     {
-      "vacante": "1542840",
+      "vacante": "1545656",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración De Recursos Humanos",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
+      "especialidad": "Derecho",
+      "institucion": "Departamento De Asuntos Disciplinarios",
       "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "15/01/2027"
+      "rige": "21/10/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1540876",
@@ -320,16 +320,6 @@
       "vence": "15/11/2026"
     },
     {
-      "vacante": "1545909",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Abraham Paniagua Nuñez",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545913",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -337,6 +327,16 @@
       "institucion": "Alberto M.L Brenes (San Juan)",
       "lecciones": "0",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545909",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Abraham Paniagua Nuñez",
+      "lecciones": "0",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -400,16 +400,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544631",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Quince De Agosto",
-      "lecciones": "0",
-      "rige": "22/09/2026",
-      "vence": "22/03/2027"
-    },
-    {
       "vacante": "1545923",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -418,6 +408,16 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "01/03/2027"
+    },
+    {
+      "vacante": "1544631",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Quince De Agosto",
+      "lecciones": "0",
+      "rige": "22/09/2026",
+      "vence": "22/03/2027"
     },
     {
       "vacante": "1546027",
