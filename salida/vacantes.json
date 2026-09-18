@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-18T03:00:38.970Z",
+  "generado": "2026-09-18T03:16:23.570Z",
   "totalPais": 55,
   "calzanVT6": 2,
   "advertencias": [],
@@ -73,16 +73,6 @@
       "vence": "31/07/2027"
     },
     {
-      "vacante": "1545595",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Remuneraciones",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "07/05/2030"
-    },
-    {
       "vacante": "1539081",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
@@ -93,14 +83,24 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1542840",
+      "vacante": "1545595",
       "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración De Recursos Humanos",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Remuneraciones",
       "lecciones": "0",
       "rige": "01/10/2026",
-      "vence": "15/01/2027"
+      "vence": "07/05/2030"
+    },
+    {
+      "vacante": "1545656",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Derecho",
+      "institucion": "Departamento De Asuntos Disciplinarios",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1538876",
@@ -113,14 +113,14 @@
       "vence": "30/01/2028"
     },
     {
-      "vacante": "1545656",
+      "vacante": "1542840",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Asuntos Disciplinarios",
+      "especialidad": "Administración De Recursos Humanos",
+      "institucion": "Departamento De Dotacion Del Talento Humano",
       "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "31/12/2026"
+      "rige": "01/10/2026",
+      "vence": "15/01/2027"
     },
     {
       "vacante": "1540876",
@@ -203,22 +203,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545705",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Cindea Bebedero",
-      "lecciones": "16",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545708",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Cindea Abangares",
       "lecciones": "14",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545705",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Cindea Bebedero",
+      "lecciones": "16",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
