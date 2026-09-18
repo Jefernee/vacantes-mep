@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-18T18:00:46.095Z",
+  "generado": "2026-09-18T18:01:33.630Z",
   "totalPais": 47,
   "calzanVT6": 2,
   "advertencias": [],
@@ -171,7 +171,7 @@
       "vence": "12/11/2026"
     },
     {
-      "vacante": "1546017",
+      "vacante": "1545929",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -181,7 +181,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545929",
+      "vacante": "1546017",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -321,16 +321,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546198",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Esc. Sarchi Norte",
-      "lecciones": "40",
-      "rige": "22/09/2026",
-      "vence": "15/11/2026"
-    },
-    {
       "vacante": "1546035",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -339,6 +329,16 @@
       "lecciones": "40",
       "rige": "22/09/2026",
       "vence": "29/10/2026"
+    },
+    {
+      "vacante": "1546198",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Esc. Sarchi Norte",
+      "lecciones": "40",
+      "rige": "22/09/2026",
+      "vence": "15/11/2026"
     },
     {
       "vacante": "1545913",
@@ -491,16 +491,6 @@
       "vence": "07/05/2030"
     },
     {
-      "vacante": "1540586",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
-      "especialidad": "Gtic / Gestion De Infraestructura",
-      "institucion": "Departamento De Gestión Y Control Informático",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "23/02/2028"
-    },
-    {
       "vacante": "1541343",
       "regional": "Tecnologia Informatica Para La Gestion",
       "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
@@ -509,6 +499,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/03/2028"
+    },
+    {
+      "vacante": "1540586",
+      "regional": "Tecnologia Informatica Para La Gestion",
+      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
+      "especialidad": "Gtic / Gestion De Infraestructura",
+      "institucion": "Departamento De Gestión Y Control Informático",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "23/02/2028"
     },
     {
       "vacante": "1545653",
