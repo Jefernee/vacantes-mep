@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-18T18:41:09.282Z",
-  "totalPais": 46,
+  "generado": "2026-09-18T19:00:37.817Z",
+  "totalPais": 45,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,7 +8,6 @@
     "Administración De Recursos Humanos",
     "Contabilidad Y Finanzas",
     "Derecho",
-    "Educación Física",
     "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
@@ -211,16 +210,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545885",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Juan Lara Alfaro (Corredor)",
-      "lecciones": "0",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546034",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -311,16 +300,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546198",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Esc. Sarchi Norte",
-      "lecciones": "40",
-      "rige": "22/09/2026",
-      "vence": "15/11/2026"
-    },
-    {
       "vacante": "1546035",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -331,14 +310,14 @@
       "vence": "29/10/2026"
     },
     {
-      "vacante": "1545913",
+      "vacante": "1546198",
       "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alberto M.L Brenes (San Juan)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Esc. Sarchi Norte",
+      "lecciones": "40",
+      "rige": "22/09/2026",
+      "vence": "15/11/2026"
     },
     {
       "vacante": "1545909",
@@ -348,6 +327,16 @@
       "institucion": "Abraham Paniagua Nuñez",
       "lecciones": "0",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545913",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Alberto M.L Brenes (San Juan)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -411,16 +400,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545923",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Ciudadelas Unidas",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "01/03/2027"
-    },
-    {
       "vacante": "1544631",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -429,6 +408,16 @@
       "lecciones": "0",
       "rige": "22/09/2026",
       "vence": "22/03/2027"
+    },
+    {
+      "vacante": "1545923",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Ciudadelas Unidas",
+      "lecciones": "0",
+      "rige": "18/09/2026",
+      "vence": "01/03/2027"
     },
     {
       "vacante": "1546027",
@@ -481,16 +470,6 @@
       "vence": "07/05/2030"
     },
     {
-      "vacante": "1540586",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
-      "especialidad": "Gtic / Gestion De Infraestructura",
-      "institucion": "Departamento De Gestión Y Control Informático",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "23/02/2028"
-    },
-    {
       "vacante": "1541343",
       "regional": "Tecnologia Informatica Para La Gestion",
       "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
@@ -499,6 +478,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/03/2028"
+    },
+    {
+      "vacante": "1540586",
+      "regional": "Tecnologia Informatica Para La Gestion",
+      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
+      "especialidad": "Gtic / Gestion De Infraestructura",
+      "institucion": "Departamento De Gestión Y Control Informático",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "23/02/2028"
     },
     {
       "vacante": "1545653",
