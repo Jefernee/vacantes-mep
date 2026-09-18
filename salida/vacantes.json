@@ -1,153 +1,22 @@
 {
-  "generado": "2026-09-18T19:40:34.571Z",
-  "totalPais": 43,
-  "calzanVT6": 2,
+  "generado": "2026-09-18T20:00:36.779Z",
+  "totalPais": 22,
+  "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Administración / Generalista",
-    "Administración De Recursos Humanos",
-    "Derecho",
     "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
-    "Equipos Interdisciplinarios / Orientación",
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Física",
-    "Gtic / Gestion De Infraestructura",
-    "Gtic / Ingenieria De Software",
-    "Ingeniería Industrial",
     "Inglés",
     "Labores Varias De Oficina",
     "Sin Especialidad T-I",
-    "Sin Especialidad T-Ii",
-    "Turismo Generalista"
+    "Sin Especialidad T-Ii"
   ],
-  "interesantes": [
-    {
-      "vacante": "1541509",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Profesional En Informática 2 (G.De E.)",
-      "especialidad": "Gtic / Ingenieria De Software",
-      "institucion": "Departamento De Sistemas De Información",
-      "lecciones": "0",
-      "rige": "24/08/2026",
-      "vence": "07/05/2030",
-      "calce": "posible"
-    },
-    {
-      "vacante": "1541343",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
-      "especialidad": "Gtic / Ingenieria De Software",
-      "institucion": "Departamento De Sistemas De Información",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/03/2028",
-      "calce": "posible"
-    }
-  ],
+  "interesantes": [],
   "todas": [
-    {
-      "vacante": "1543031",
-      "regional": "Acceso Y Equidad De La Educacion",
-      "clasePuesto": "Profesional De Servicio Civil 3 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Supervisión Y Control",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "15/03/2028"
-    },
-    {
-      "vacante": "1538531",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Oficinista De Servicio Civil 2 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/07/2027"
-    },
-    {
-      "vacante": "1545595",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Remuneraciones",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "07/05/2030"
-    },
-    {
-      "vacante": "1539081",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1538876",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "30/01/2028"
-    },
-    {
-      "vacante": "1542840",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración De Recursos Humanos",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "15/01/2027"
-    },
-    {
-      "vacante": "1545656",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Asuntos Disciplinarios",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "31/12/2026"
-    },
-    {
-      "vacante": "1540876",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 3 (G.De E.)",
-      "especialidad": "Ingeniería Industrial",
-      "institucion": "Departamento De Sistemas De Control Gerencial E Innovacion",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/12/2027"
-    },
-    {
-      "vacante": "1540165",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Técnico De Servicio Civil 3 (G. De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "16/01/2028"
-    },
-    {
-      "vacante": "1542889",
-      "regional": "Cumplimiento De Los Derechos",
-      "clasePuesto": "Oficinista De Servicio Civil 2 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Departamento De Participación Estudiantil",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/12/2026"
-    },
     {
       "vacante": "1546081",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -269,16 +138,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1545906",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Equipos Interdisciplinarios / Orientación",
-      "institucion": "Arnulfo Arias Madrid (Tapezco)",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1546198",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -299,23 +158,13 @@
       "vence": "29/10/2026"
     },
     {
-      "vacante": "1545913",
+      "vacante": "1546151",
       "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alberto M.L Brenes (San Juan)",
-      "lecciones": "0",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P Zarcero",
+      "lecciones": "44",
       "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545909",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Abraham Paniagua Nuñez",
-      "lecciones": "0",
-      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -326,16 +175,6 @@
       "institucion": "C.T.P. De Piedades Sur",
       "lecciones": "38",
       "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546151",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "44",
-      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -379,16 +218,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545923",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Ciudadelas Unidas",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "01/03/2027"
-    },
-    {
       "vacante": "1544631",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -407,76 +236,6 @@
       "lecciones": "0",
       "rige": "23/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1542613",
-      "regional": "Ejecucion Presupuestaria",
-      "clasePuesto": "Profesional Jefe De Servicio Civil 2 ( G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Contabilidad",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "07/05/2030"
-    },
-    {
-      "vacante": "1539953",
-      "regional": "Fundamentac. Legal Para Toma Decisiones",
-      "clasePuesto": "Profesional Jefe De Servicio Civil 3 ( G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Contratación Y Coordinación Interinstitucion",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "07/05/2030"
-    },
-    {
-      "vacante": "1540100",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Profesional En Informática 1 B ( G.De E.)",
-      "especialidad": "Gtic / Gestion De Infraestructura",
-      "institucion": "Departamento De Adquisición Tecnológica",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "16/01/2028"
-    },
-    {
-      "vacante": "1541509",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Profesional En Informática 2 (G.De E.)",
-      "especialidad": "Gtic / Ingenieria De Software",
-      "institucion": "Departamento De Sistemas De Información",
-      "lecciones": "0",
-      "rige": "24/08/2026",
-      "vence": "07/05/2030"
-    },
-    {
-      "vacante": "1541343",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
-      "especialidad": "Gtic / Ingenieria De Software",
-      "institucion": "Departamento De Sistemas De Información",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/03/2028"
-    },
-    {
-      "vacante": "1540586",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
-      "especialidad": "Gtic / Gestion De Infraestructura",
-      "institucion": "Departamento De Gestión Y Control Informático",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "23/02/2028"
-    },
-    {
-      "vacante": "1545653",
-      "regional": "Vinculo Al Trabajo",
-      "clasePuesto": "Asesor Nacional (G. De E.)",
-      "especialidad": "Turismo Generalista",
-      "institucion": "Departamento De Especialidades Técnicas",
-      "lecciones": "0",
-      "rige": "23/09/2026",
-      "vence": "29/09/2026"
     }
   ]
 }
