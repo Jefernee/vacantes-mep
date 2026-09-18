@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-18T17:20:59.934Z",
+  "generado": "2026-09-18T17:41:00.305Z",
   "totalPais": 47,
   "calzanVT6": 2,
   "advertencias": [],
@@ -102,16 +102,6 @@
       "vence": "15/01/2027"
     },
     {
-      "vacante": "1545656",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Asuntos Disciplinarios",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -120,6 +110,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "30/01/2028"
+    },
+    {
+      "vacante": "1545656",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Derecho",
+      "institucion": "Departamento De Asuntos Disciplinarios",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1540876",
@@ -220,16 +220,6 @@
       "lecciones": "0",
       "rige": "22/09/2026",
       "vence": "30/06/2027"
-    },
-    {
-      "vacante": "1545844",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Drake (Sierpe)",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1545869",
@@ -352,16 +342,6 @@
       "vence": "29/10/2026"
     },
     {
-      "vacante": "1545909",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Abraham Paniagua Nuñez",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545913",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -372,13 +352,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546151",
+      "vacante": "1545909",
       "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "44",
-      "rige": "28/09/2026",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Abraham Paniagua Nuñez",
+      "lecciones": "0",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -392,6 +372,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546151",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P Zarcero",
+      "lecciones": "44",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1546096",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -400,6 +390,16 @@
       "lecciones": "44",
       "rige": "22/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546183",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Orientador 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Academico San Antonio Pe",
+      "lecciones": "0",
+      "rige": "22/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1546059",
@@ -422,16 +422,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544631",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Quince De Agosto",
-      "lecciones": "0",
-      "rige": "22/09/2026",
-      "vence": "22/03/2027"
-    },
-    {
       "vacante": "1545923",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -440,6 +430,16 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "01/03/2027"
+    },
+    {
+      "vacante": "1544631",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Quince De Agosto",
+      "lecciones": "0",
+      "rige": "22/09/2026",
+      "vence": "22/03/2027"
     },
     {
       "vacante": "1546027",
@@ -492,16 +492,6 @@
       "vence": "07/05/2030"
     },
     {
-      "vacante": "1541343",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
-      "especialidad": "Gtic / Ingenieria De Software",
-      "institucion": "Departamento De Sistemas De Información",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/03/2028"
-    },
-    {
       "vacante": "1540586",
       "regional": "Tecnologia Informatica Para La Gestion",
       "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
@@ -510,6 +500,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "23/02/2028"
+    },
+    {
+      "vacante": "1541343",
+      "regional": "Tecnologia Informatica Para La Gestion",
+      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
+      "especialidad": "Gtic / Ingenieria De Software",
+      "institucion": "Departamento De Sistemas De Información",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/03/2028"
     },
     {
       "vacante": "1545653",
