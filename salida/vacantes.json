@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-18T21:40:36.306Z",
+  "generado": "2026-09-18T22:00:43.875Z",
   "totalPais": 21,
   "calzanVT6": 0,
   "advertencias": [],
@@ -128,16 +128,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1546198",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Esc. Sarchi Norte",
-      "lecciones": "40",
-      "rige": "22/09/2026",
-      "vence": "15/11/2026"
-    },
-    {
       "vacante": "1546035",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -146,6 +136,16 @@
       "lecciones": "40",
       "rige": "22/09/2026",
       "vence": "29/10/2026"
+    },
+    {
+      "vacante": "1546198",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Esc. Sarchi Norte",
+      "lecciones": "40",
+      "rige": "22/09/2026",
+      "vence": "15/11/2026"
     },
     {
       "vacante": "1546151",
