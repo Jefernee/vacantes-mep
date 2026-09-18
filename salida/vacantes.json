@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-18T16:40:39.153Z",
-  "totalPais": 48,
+  "generado": "2026-09-18T17:00:38.556Z",
+  "totalPais": 47,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -92,14 +92,14 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1538876",
+      "vacante": "1542840",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
+      "especialidad": "Administración De Recursos Humanos",
+      "institucion": "Departamento De Dotacion Del Talento Humano",
       "lecciones": "0",
       "rige": "01/10/2026",
-      "vence": "30/01/2028"
+      "vence": "15/01/2027"
     },
     {
       "vacante": "1545656",
@@ -112,14 +112,14 @@
       "vence": "31/12/2026"
     },
     {
-      "vacante": "1542840",
+      "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración De Recursos Humanos",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
       "lecciones": "0",
       "rige": "01/10/2026",
-      "vence": "15/01/2027"
+      "vence": "30/01/2028"
     },
     {
       "vacante": "1540876",
@@ -182,7 +182,7 @@
       "vence": "12/11/2026"
     },
     {
-      "vacante": "1545929",
+      "vacante": "1546017",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -192,7 +192,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546017",
+      "vacante": "1545929",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -247,16 +247,6 @@
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
       "especialidad": "Enseñanza Especial . Retardo Mental",
       "institucion": "Liceo Pacifico Sur",
-      "lecciones": "32",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545808",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Esc. Pocora",
       "lecciones": "32",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
@@ -352,16 +342,6 @@
       "vence": "29/10/2026"
     },
     {
-      "vacante": "1545913",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alberto M.L Brenes (San Juan)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545909",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -372,13 +352,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545942",
+      "vacante": "1545913",
       "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. De Piedades Sur",
-      "lecciones": "38",
-      "rige": "21/09/2026",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Alberto M.L Brenes (San Juan)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -389,6 +369,16 @@
       "institucion": "C.T.P Zarcero",
       "lecciones": "44",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545942",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De Piedades Sur",
+      "lecciones": "38",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -432,16 +422,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545923",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Ciudadelas Unidas",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "01/03/2027"
-    },
-    {
       "vacante": "1544631",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -450,6 +430,16 @@
       "lecciones": "0",
       "rige": "22/09/2026",
       "vence": "22/03/2027"
+    },
+    {
+      "vacante": "1545923",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Ciudadelas Unidas",
+      "lecciones": "0",
+      "rige": "18/09/2026",
+      "vence": "01/03/2027"
     },
     {
       "vacante": "1546027",
