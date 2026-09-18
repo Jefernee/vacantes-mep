@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-18T08:21:54.489Z",
+  "generado": "2026-09-18T11:00:47.229Z",
   "totalPais": 55,
   "calzanVT6": 2,
   "advertencias": [],
@@ -93,6 +93,16 @@
       "vence": "07/05/2030"
     },
     {
+      "vacante": "1542840",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Administración De Recursos Humanos",
+      "institucion": "Departamento De Dotacion Del Talento Humano",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "15/01/2027"
+    },
+    {
       "vacante": "1545656",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -111,16 +121,6 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "30/01/2028"
-    },
-    {
-      "vacante": "1542840",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración De Recursos Humanos",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "15/01/2027"
     },
     {
       "vacante": "1540876",
