@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-18T14:45:23.985Z",
-  "totalPais": 48,
+  "generado": "2026-09-18T15:00:46.838Z",
+  "totalPais": 49,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -15,6 +15,7 @@
     "Equipos Interdisciplinarios / Orientación",
     "Español",
     "Estudios Sociales/Educación Cívica",
+    "Física",
     "Gtic / Gestion De Infraestructura",
     "Gtic / Ingenieria De Software",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
@@ -92,14 +93,14 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1538876",
+      "vacante": "1542840",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
+      "especialidad": "Administración De Recursos Humanos",
+      "institucion": "Departamento De Dotacion Del Talento Humano",
       "lecciones": "0",
       "rige": "01/10/2026",
-      "vence": "30/01/2028"
+      "vence": "15/01/2027"
     },
     {
       "vacante": "1545656",
@@ -112,14 +113,14 @@
       "vence": "31/12/2026"
     },
     {
-      "vacante": "1542840",
+      "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración De Recursos Humanos",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
       "lecciones": "0",
       "rige": "01/10/2026",
-      "vence": "15/01/2027"
+      "vence": "30/01/2028"
     },
     {
       "vacante": "1540876",
@@ -172,6 +173,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546081",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "Liceo De Tambor",
+      "lecciones": "9",
+      "rige": "23/09/2026",
+      "vence": "27/10/2026"
+    },
+    {
       "vacante": "1545796",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -192,7 +203,7 @@
       "vence": "12/11/2026"
     },
     {
-      "vacante": "1546017",
+      "vacante": "1545929",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -202,7 +213,7 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545929",
+      "vacante": "1546017",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
@@ -352,16 +363,6 @@
       "vence": "29/10/2026"
     },
     {
-      "vacante": "1545909",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Abraham Paniagua Nuñez",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545913",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -369,6 +370,16 @@
       "institucion": "Alberto M.L Brenes (San Juan)",
       "lecciones": "0",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545909",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Abraham Paniagua Nuñez",
+      "lecciones": "0",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
