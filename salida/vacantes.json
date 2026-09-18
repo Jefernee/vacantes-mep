@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-18T13:00:54.425Z",
+  "generado": "2026-09-18T13:20:41.763Z",
   "totalPais": 50,
   "calzanVT6": 2,
   "advertencias": [],
@@ -101,16 +101,6 @@
       "vence": "31/12/2026"
     },
     {
-      "vacante": "1538876",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "30/01/2028"
-    },
-    {
       "vacante": "1542840",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -119,6 +109,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "15/01/2027"
+    },
+    {
+      "vacante": "1538876",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "30/01/2028"
     },
     {
       "vacante": "1540876",
@@ -231,6 +231,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546034",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Colegio Santa Eduviges",
+      "lecciones": "0",
+      "rige": "22/09/2026",
+      "vence": "30/06/2027"
+    },
+    {
       "vacante": "1545844",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -321,16 +331,6 @@
       "vence": "29/10/2026"
     },
     {
-      "vacante": "1545723",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cindea San Isidro Penas Blancas",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1545906",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
@@ -341,16 +341,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1545913",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alberto M.L Brenes (San Juan)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545909",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -358,6 +348,16 @@
       "institucion": "Abraham Paniagua Nuñez",
       "lecciones": "0",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545913",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Alberto M.L Brenes (San Juan)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -411,16 +411,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545923",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Ciudadelas Unidas",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "01/03/2027"
-    },
-    {
       "vacante": "1544631",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -429,6 +419,16 @@
       "lecciones": "0",
       "rige": "22/09/2026",
       "vence": "22/03/2027"
+    },
+    {
+      "vacante": "1545923",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Ciudadelas Unidas",
+      "lecciones": "0",
+      "rige": "18/09/2026",
+      "vence": "01/03/2027"
     },
     {
       "vacante": "1546027",
@@ -451,16 +451,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1545743",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Bijagua",
-      "lecciones": "0",
-      "rige": "14/09/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1545745",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -479,6 +469,16 @@
       "lecciones": "0",
       "rige": "10/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545743",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Bijagua",
+      "lecciones": "0",
+      "rige": "14/09/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1542613",
@@ -521,16 +521,6 @@
       "vence": "07/05/2030"
     },
     {
-      "vacante": "1541343",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
-      "especialidad": "Gtic / Ingenieria De Software",
-      "institucion": "Departamento De Sistemas De Información",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/03/2028"
-    },
-    {
       "vacante": "1540586",
       "regional": "Tecnologia Informatica Para La Gestion",
       "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
@@ -539,6 +529,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "23/02/2028"
+    },
+    {
+      "vacante": "1541343",
+      "regional": "Tecnologia Informatica Para La Gestion",
+      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
+      "especialidad": "Gtic / Ingenieria De Software",
+      "institucion": "Departamento De Sistemas De Información",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/03/2028"
     },
     {
       "vacante": "1545653",
