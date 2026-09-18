@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-18T17:41:00.305Z",
+  "generado": "2026-09-18T18:00:46.095Z",
   "totalPais": 47,
   "calzanVT6": 2,
   "advertencias": [],
@@ -21,7 +21,6 @@
     "Ingeniería Industrial",
     "Inglés",
     "Labores Varias De Oficina",
-    "Matemáticas",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
     "Turismo Generalista"
@@ -92,16 +91,6 @@
       "vence": "07/05/2030"
     },
     {
-      "vacante": "1542840",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración De Recursos Humanos",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "15/01/2027"
-    },
-    {
       "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -110,6 +99,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "30/01/2028"
+    },
+    {
+      "vacante": "1542840",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Administración De Recursos Humanos",
+      "institucion": "Departamento De Dotacion Del Talento Humano",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "15/01/2027"
     },
     {
       "vacante": "1545656",
@@ -252,16 +251,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545856",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "C.T.P. De Ulloa",
-      "lecciones": "44",
-      "rige": "18/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545897",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -332,6 +321,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1546198",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Esc. Sarchi Norte",
+      "lecciones": "40",
+      "rige": "22/09/2026",
+      "vence": "15/11/2026"
+    },
+    {
       "vacante": "1546035",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -362,16 +361,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545942",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. De Piedades Sur",
-      "lecciones": "38",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546151",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -379,6 +368,16 @@
       "institucion": "C.T.P Zarcero",
       "lecciones": "44",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545942",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De Piedades Sur",
+      "lecciones": "38",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -422,16 +421,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545923",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Ciudadelas Unidas",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "01/03/2027"
-    },
-    {
       "vacante": "1544631",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -440,6 +429,16 @@
       "lecciones": "0",
       "rige": "22/09/2026",
       "vence": "22/03/2027"
+    },
+    {
+      "vacante": "1545923",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Ciudadelas Unidas",
+      "lecciones": "0",
+      "rige": "18/09/2026",
+      "vence": "01/03/2027"
     },
     {
       "vacante": "1546027",
