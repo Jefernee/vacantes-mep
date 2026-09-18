@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-18T20:57:07.014Z",
-  "totalPais": 23,
+  "generado": "2026-09-18T21:00:33.606Z",
+  "totalPais": 21,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -58,16 +58,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545929",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alberto Echandi Montero",
-      "lecciones": "0",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546020",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -106,16 +96,6 @@
       "lecciones": "0",
       "rige": "22/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543124",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Director De Colegio 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Rural La Garita",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1546210",
