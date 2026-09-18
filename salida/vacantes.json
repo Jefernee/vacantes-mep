@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-18T11:40:59.804Z",
+  "generado": "2026-09-18T12:00:48.858Z",
   "totalPais": 55,
   "calzanVT6": 2,
   "advertencias": [],
@@ -203,22 +203,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545705",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Cindea Bebedero",
-      "lecciones": "16",
-      "rige": "16/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545708",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Cindea Abangares",
       "lecciones": "14",
+      "rige": "16/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545705",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Cindea Bebedero",
+      "lecciones": "16",
       "rige": "16/09/2026",
       "vence": "11/12/2026"
     },
