@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-18T18:01:33.630Z",
-  "totalPais": 47,
+  "generado": "2026-09-18T18:20:50.920Z",
+  "totalPais": 45,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -71,16 +71,6 @@
       "vence": "31/07/2027"
     },
     {
-      "vacante": "1539081",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1545595",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
@@ -89,6 +79,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "07/05/2030"
+    },
+    {
+      "vacante": "1539081",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1538876",
@@ -171,6 +171,16 @@
       "vence": "12/11/2026"
     },
     {
+      "vacante": "1546206",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Sabanillas",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1545929",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -221,16 +231,6 @@
       "vence": "30/06/2027"
     },
     {
-      "vacante": "1545869",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Liceo Pacifico Sur",
-      "lecciones": "32",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546099",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -238,16 +238,6 @@
       "institucion": "El Limbo (Duacari)",
       "lecciones": "0",
       "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545878",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Finca Formosa",
-      "lecciones": "0",
-      "rige": "18/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -291,16 +281,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545877",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Colonia Del Valle",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "29/10/2026"
-    },
-    {
       "vacante": "1546181",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
@@ -321,16 +301,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546035",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Sector Angeles (Peñas Blancas)",
-      "lecciones": "40",
-      "rige": "22/09/2026",
-      "vence": "29/10/2026"
-    },
-    {
       "vacante": "1546198",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -339,6 +309,16 @@
       "lecciones": "40",
       "rige": "22/09/2026",
       "vence": "15/11/2026"
+    },
+    {
+      "vacante": "1546035",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Sector Angeles (Peñas Blancas)",
+      "lecciones": "40",
+      "rige": "22/09/2026",
+      "vence": "29/10/2026"
     },
     {
       "vacante": "1545913",
@@ -421,16 +401,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544631",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Quince De Agosto",
-      "lecciones": "0",
-      "rige": "22/09/2026",
-      "vence": "22/03/2027"
-    },
-    {
       "vacante": "1545923",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -439,6 +409,16 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "01/03/2027"
+    },
+    {
+      "vacante": "1544631",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Quince De Agosto",
+      "lecciones": "0",
+      "rige": "22/09/2026",
+      "vence": "22/03/2027"
     },
     {
       "vacante": "1546027",
@@ -491,16 +471,6 @@
       "vence": "07/05/2030"
     },
     {
-      "vacante": "1541343",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
-      "especialidad": "Gtic / Ingenieria De Software",
-      "institucion": "Departamento De Sistemas De Información",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/03/2028"
-    },
-    {
       "vacante": "1540586",
       "regional": "Tecnologia Informatica Para La Gestion",
       "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
@@ -509,6 +479,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "23/02/2028"
+    },
+    {
+      "vacante": "1541343",
+      "regional": "Tecnologia Informatica Para La Gestion",
+      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
+      "especialidad": "Gtic / Ingenieria De Software",
+      "institucion": "Departamento De Sistemas De Información",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/03/2028"
     },
     {
       "vacante": "1545653",
