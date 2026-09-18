@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-18T13:20:41.763Z",
-  "totalPais": 50,
+  "generado": "2026-09-18T13:40:49.991Z",
+  "totalPais": 51,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -10,8 +10,8 @@
     "Derecho",
     "Educación Física",
     "Educación Para El Hogar",
+    "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
-    "Enseñanza Especial . Terapia Del Lenguaje",
     "Equipos Interdisciplinarios / Orientación",
     "Estudios Sociales/Educación Cívica",
     "Gtic / Gestion De Infraestructura",
@@ -71,16 +71,6 @@
       "vence": "31/07/2027"
     },
     {
-      "vacante": "1545595",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Remuneraciones",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "07/05/2030"
-    },
-    {
       "vacante": "1539081",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
@@ -89,6 +79,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1545595",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Remuneraciones",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "07/05/2030"
     },
     {
       "vacante": "1545656",
@@ -101,16 +101,6 @@
       "vence": "31/12/2026"
     },
     {
-      "vacante": "1542840",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración De Recursos Humanos",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "15/01/2027"
-    },
-    {
       "vacante": "1538876",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
@@ -119,6 +109,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "30/01/2028"
+    },
+    {
+      "vacante": "1542840",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Administración De Recursos Humanos",
+      "institucion": "Departamento De Dotacion Del Talento Humano",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "15/01/2027"
     },
     {
       "vacante": "1540876",
@@ -341,6 +341,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1546035",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Sector Angeles (Peñas Blancas)",
+      "lecciones": "40",
+      "rige": "22/09/2026",
+      "vence": "29/10/2026"
+    },
+    {
       "vacante": "1545909",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -391,16 +401,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545728",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
-      "institucion": "Ens. Esp. San Isidro Del G",
-      "lecciones": "40",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545813",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -408,6 +408,16 @@
       "institucion": "Sagrada Familia",
       "lecciones": "0",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546039",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Paramo (El Paramo)",
+      "lecciones": "0",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -521,16 +531,6 @@
       "vence": "07/05/2030"
     },
     {
-      "vacante": "1540586",
-      "regional": "Tecnologia Informatica Para La Gestion",
-      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
-      "especialidad": "Gtic / Gestion De Infraestructura",
-      "institucion": "Departamento De Gestión Y Control Informático",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "23/02/2028"
-    },
-    {
       "vacante": "1541343",
       "regional": "Tecnologia Informatica Para La Gestion",
       "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
@@ -539,6 +539,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/03/2028"
+    },
+    {
+      "vacante": "1540586",
+      "regional": "Tecnologia Informatica Para La Gestion",
+      "clasePuesto": "Técnico En Informática 2 ( G.De E.)",
+      "especialidad": "Gtic / Gestion De Infraestructura",
+      "institucion": "Departamento De Gestión Y Control Informático",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "23/02/2028"
     },
     {
       "vacante": "1545653",
