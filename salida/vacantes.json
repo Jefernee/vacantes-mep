@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-18T15:40:44.064Z",
-  "totalPais": 51,
+  "generado": "2026-09-18T16:00:37.702Z",
+  "totalPais": 49,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -73,16 +73,6 @@
       "vence": "31/07/2027"
     },
     {
-      "vacante": "1539081",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1545595",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
@@ -93,14 +83,24 @@
       "vence": "07/05/2030"
     },
     {
-      "vacante": "1545656",
+      "vacante": "1539081",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Departamento De Prestaciones De Servicios Y Expediente Labo",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1542840",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Asuntos Disciplinarios",
+      "especialidad": "Administración De Recursos Humanos",
+      "institucion": "Departamento De Dotacion Del Talento Humano",
       "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "31/12/2026"
+      "rige": "01/10/2026",
+      "vence": "15/01/2027"
     },
     {
       "vacante": "1538876",
@@ -113,14 +113,14 @@
       "vence": "30/01/2028"
     },
     {
-      "vacante": "1542840",
+      "vacante": "1545656",
       "regional": "Administracion De Recursos Humanos",
       "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración De Recursos Humanos",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
+      "especialidad": "Derecho",
+      "institucion": "Departamento De Asuntos Disciplinarios",
       "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "15/01/2027"
+      "rige": "21/10/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1540876",
@@ -163,16 +163,6 @@
       "vence": "31/12/2026"
     },
     {
-      "vacante": "1545812",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Leon Cortes Castro (Guacima)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546081",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -181,16 +171,6 @@
       "lecciones": "9",
       "rige": "23/09/2026",
       "vence": "27/10/2026"
-    },
-    {
-      "vacante": "1545796",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Prev Ens Esp Liceo San Jose",
-      "lecciones": "10",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1546005",
