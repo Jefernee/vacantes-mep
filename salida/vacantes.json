@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-19T13:00:33.766Z",
-  "totalPais": 16,
+  "generado": "2026-09-19T13:20:36.764Z",
+  "totalPais": 14,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -34,16 +34,6 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1546034",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Colegio Santa Eduviges",
-      "lecciones": "0",
-      "rige": "22/09/2026",
-      "vence": "30/06/2027"
     },
     {
       "vacante": "1546260",
@@ -104,16 +94,6 @@
       "lecciones": "40",
       "rige": "22/09/2026",
       "vence": "15/11/2026"
-    },
-    {
-      "vacante": "1546035",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Sector Angeles (Peñas Blancas)",
-      "lecciones": "40",
-      "rige": "22/09/2026",
-      "vence": "29/10/2026"
     },
     {
       "vacante": "1546151",
