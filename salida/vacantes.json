@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-19T18:00:36.864Z",
-  "totalPais": 10,
+  "generado": "2026-09-19T18:20:30.188Z",
+  "totalPais": 9,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -13,16 +13,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1546206",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Sabanillas",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/01/2027"
-    },
     {
       "vacante": "1546260",
       "regional": "Direc. Regional Educacion Grande De Terraba",
