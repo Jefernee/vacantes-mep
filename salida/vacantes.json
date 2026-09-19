@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-19T12:40:36.260Z",
-  "totalPais": 20,
+  "generado": "2026-09-19T13:00:33.766Z",
+  "totalPais": 16,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,10 +8,8 @@
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
     "Español",
-    "Estudios Sociales/Educación Cívica",
     "Física",
     "Inglés",
-    "Labores Varias De Oficina",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -36,26 +34,6 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1546017",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alberto Echandi Montero",
-      "lecciones": "0",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546020",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo De Ciudad Neilly",
-      "lecciones": "44",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1546034",
@@ -195,26 +173,6 @@
       "institucion": "El Paramo (El Paramo)",
       "lecciones": "0",
       "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1544631",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Quince De Agosto",
-      "lecciones": "0",
-      "rige": "22/09/2026",
-      "vence": "22/03/2027"
-    },
-    {
-      "vacante": "1546027",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Rincon Grande",
-      "lecciones": "0",
-      "rige": "23/09/2026",
       "vence": "11/12/2026"
     }
   ]
