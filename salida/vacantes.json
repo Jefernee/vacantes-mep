@@ -1,29 +1,18 @@
 {
-  "generado": "2026-09-19T14:40:32.023Z",
-  "totalPais": 12,
+  "generado": "2026-09-19T15:00:32.355Z",
+  "totalPais": 11,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
-    "Física",
     "Inglés",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1546081",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Liceo De Tambor",
-      "lecciones": "9",
-      "rige": "23/09/2026",
-      "vence": "27/10/2026"
-    },
     {
       "vacante": "1546206",
       "regional": "Direc. Regional Educacion Coto",
