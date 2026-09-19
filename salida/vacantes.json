@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-19T13:20:36.764Z",
-  "totalPais": 14,
+  "generado": "2026-09-19T13:40:30.465Z",
+  "totalPais": 13,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -142,16 +142,6 @@
       "especialidad": "Español",
       "institucion": "Cindea Pejibaye",
       "lecciones": "33",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546039",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Paramo (El Paramo)",
-      "lecciones": "0",
       "rige": "22/09/2026",
       "vence": "11/12/2026"
     }
