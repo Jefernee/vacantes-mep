@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-19T01:13:58.030Z",
+  "generado": "2026-09-19T01:20:32.276Z",
   "totalPais": 20,
   "calzanVT6": 0,
   "advertencias": [],
@@ -118,16 +118,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1546035",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Sector Angeles (Peñas Blancas)",
-      "lecciones": "40",
-      "rige": "22/09/2026",
-      "vence": "29/10/2026"
-    },
-    {
       "vacante": "1546198",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -136,6 +126,16 @@
       "lecciones": "40",
       "rige": "22/09/2026",
       "vence": "15/11/2026"
+    },
+    {
+      "vacante": "1546035",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Sector Angeles (Peñas Blancas)",
+      "lecciones": "40",
+      "rige": "22/09/2026",
+      "vence": "29/10/2026"
     },
     {
       "vacante": "1546151",
