@@ -1,13 +1,12 @@
 {
-  "generado": "2026-09-19T14:00:36.497Z",
-  "totalPais": 13,
+  "generado": "2026-09-19T14:07:16.555Z",
+  "totalPais": 12,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
-    "Español",
     "Física",
     "Inglés",
     "Sin Especialidad T-I",
@@ -134,16 +133,6 @@
       "lecciones": "0",
       "rige": "22/09/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1546059",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Cindea Pejibaye",
-      "lecciones": "33",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
     }
   ]
 }
