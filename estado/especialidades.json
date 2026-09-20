@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 6281,
+      "vecesVista": 6284,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-20T00:20:34.447Z",
+      "ultimaVez": "2026-09-20T00:40:38.064Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 3292,
+      "vecesVista": 3293,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-20T00:20:34.447Z",
+      "ultimaVez": "2026-09-20T00:40:38.064Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 622,
+      "vecesVista": 623,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-20T00:20:34.447Z",
+      "ultimaVez": "2026-09-20T00:40:38.064Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 2037,
+      "vecesVista": 2038,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-20T00:20:34.447Z",
+      "ultimaVez": "2026-09-20T00:40:38.064Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -191,16 +191,16 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 540,
+      "vecesVista": 541,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-09-20T00:20:34.447Z",
+      "ultimaVez": "2026-09-20T00:40:38.064Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 256,
+      "vecesVista": 257,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-09-20T00:20:34.447Z",
+      "ultimaVez": "2026-09-20T00:40:38.064Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -435,5 +435,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-20T00:20:34.447Z"
+  "actualizado": "2026-09-20T00:40:38.064Z"
 }
