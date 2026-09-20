@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-20T22:00:29.921Z",
-  "totalPais": 8,
+  "generado": "2026-09-20T22:07:34.306Z",
+  "totalPais": 7,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -70,16 +70,6 @@
       "especialidad": "Educación Para El Hogar",
       "institucion": "Col.Exp.Bilingue Sarchi Sur",
       "lecciones": "44",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546258",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Unesco",
-      "lecciones": "0",
       "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
