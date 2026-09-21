@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-21T17:20:37.997Z",
-  "totalPais": 50,
+  "generado": "2026-09-21T17:40:37.782Z",
+  "totalPais": 52,
   "calzanVT6": 3,
   "advertencias": [],
   "especialidadesVistas": [
@@ -13,6 +13,7 @@
     "Diseño Y Desarrollo Digital",
     "Educación Física",
     "Estudios Sociales/Educación Cívica",
+    "Filosofía",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Inglés",
     "Labores Varias De Oficina",
@@ -25,17 +26,6 @@
   ],
   "interesantes": [
     {
-      "vacante": "1546358",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "C.T.P. De Ulloa",
-      "lecciones": "16",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026",
-      "calce": "exacta"
-    },
-    {
       "vacante": "1546361",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -45,6 +35,17 @@
       "rige": "21/09/2026",
       "vence": "11/12/2026",
       "calce": "posible"
+    },
+    {
+      "vacante": "1546358",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Ulloa",
+      "lecciones": "16",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
     },
     {
       "vacante": "1546044",
@@ -150,6 +151,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546512",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Cindea San Vito",
+      "lecciones": "10",
+      "rige": "23/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1546262",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -240,13 +251,13 @@
       "vence": "31/10/2026"
     },
     {
-      "vacante": "1546358",
+      "vacante": "1546383",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "C.T.P. De Ulloa",
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P San Pedro De Barva",
       "lecciones": "16",
-      "rige": "21/09/2026",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -260,13 +271,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546383",
+      "vacante": "1546358",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P San Pedro De Barva",
+      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
+      "institucion": "C.T.P. De Ulloa",
       "lecciones": "16",
-      "rige": "01/10/2026",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -447,6 +458,16 @@
       "institucion": "Cindea Florencia",
       "lecciones": "30",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546525",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "4",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
