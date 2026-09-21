@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T13:20:39.671Z",
+  "generado": "2026-09-21T13:40:38.783Z",
   "totalPais": 18,
   "calzanVT6": 0,
   "advertencias": [],
@@ -63,6 +63,16 @@
       "institucion": "Llano Bonito (Roxana)",
       "lecciones": "0",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546321",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Balsaville (Rio Jimenez)",
+      "lecciones": "0",
+      "rige": "23/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -154,16 +164,6 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546050",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Auxiliar Administrativo",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Republica De Mexico",
-      "lecciones": "0",
-      "rige": "26/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1546272",
