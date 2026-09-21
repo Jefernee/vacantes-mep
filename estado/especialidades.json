@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 6597,
+      "vecesVista": 6610,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 3441,
+      "vecesVista": 3449,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 690,
+      "vecesVista": 691,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-17T20:40:55.845Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 679,
+      "vecesVista": 681,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 134,
+      "vecesVista": 136,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -93,23 +93,23 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 2139,
+      "vecesVista": 2141,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 513,
+      "vecesVista": 514,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 710,
+      "vecesVista": 711,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -135,9 +135,9 @@
     },
     "Contabilidad": {
       "calce": "no interesa",
-      "vecesVista": 121,
+      "vecesVista": 122,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Informática En Desarrollo Del Software": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 219,
+      "vecesVista": 220,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -198,9 +198,9 @@
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 343,
+      "vecesVista": 344,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -212,16 +212,16 @@
     },
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos": {
       "calce": "exacta",
-      "vecesVista": 295,
+      "vecesVista": 296,
       "primeraVez": "2026-09-07T16:15:30.346Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 442,
+      "vecesVista": 443,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -261,9 +261,9 @@
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 346,
+      "vecesVista": 347,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -366,9 +366,9 @@
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 178,
+      "vecesVista": 180,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Rehabilitación / Ocupacional": {
@@ -380,9 +380,9 @@
     },
     "Biología": {
       "calce": "no interesa",
-      "vecesVista": 64,
+      "vecesVista": 65,
       "primeraVez": "2026-09-16T18:20:42.372Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Derecho": {
@@ -436,18 +436,18 @@
     },
     "Desarrollo De Aplicaciones Moviles": {
       "calce": "exacta",
-      "vecesVista": 8,
+      "vecesVista": 9,
       "primeraVez": "2026-09-21T14:00:39.826Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     },
     "Diseño Y Desarrollo Digital": {
       "calce": "posible",
-      "vecesVista": 6,
+      "vecesVista": 7,
       "primeraVez": "2026-09-21T14:41:12.342Z",
-      "ultimaVez": "2026-09-21T16:20:40.442Z",
+      "ultimaVez": "2026-09-21T16:40:42.102Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-21T16:20:40.442Z"
+  "actualizado": "2026-09-21T16:40:42.102Z"
 }
