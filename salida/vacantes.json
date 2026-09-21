@@ -1,10 +1,11 @@
 {
-  "generado": "2026-09-21T13:40:38.783Z",
-  "totalPais": 18,
-  "calzanVT6": 0,
+  "generado": "2026-09-21T14:00:39.824Z",
+  "totalPais": 26,
+  "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
+    "Desarrollo De Aplicaciones Moviles",
     "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Inglés",
@@ -13,7 +14,19 @@
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
-  "interesantes": [],
+  "interesantes": [
+    {
+      "vacante": "1546044",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Desarrollo De Aplicaciones Moviles",
+      "institucion": "Coned (Esparza)",
+      "lecciones": "6",
+      "rige": "09/09/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
+    }
+  ],
   "todas": [
     {
       "vacante": "1544057",
@@ -24,6 +37,36 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1546071",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Ricardo Jimenez Oreamuno",
+      "lecciones": "0",
+      "rige": "16/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1546065",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Monseñor Sanabria (San Rafael)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546054",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Nocturno De La Julieta",
+      "lecciones": "33",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1546290",
@@ -66,16 +109,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546321",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Balsaville (Rio Jimenez)",
-      "lecciones": "0",
-      "rige": "23/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546099",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -93,6 +126,16 @@
       "institucion": "El Molino (Jimenez)",
       "lecciones": "0",
       "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546321",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Balsaville (Rio Jimenez)",
+      "lecciones": "0",
+      "rige": "23/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -136,6 +179,36 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1546223",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Rio Barranca (Puntarenas)",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1546052",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Acapulco",
+      "lecciones": "0",
+      "rige": "10/09/2026",
+      "vence": "31/10/2026"
+    },
+    {
+      "vacante": "1546044",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Desarrollo De Aplicaciones Moviles",
+      "institucion": "Coned (Esparza)",
+      "lecciones": "6",
+      "rige": "09/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1546244",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Asistente De Dirección Centro Educativo 2",
@@ -166,6 +239,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546050",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Republica De Mexico",
+      "lecciones": "0",
+      "rige": "26/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1546272",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -194,6 +277,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546036",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Cuatro Bocas",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "31/01/2027"
     }
   ]
 }
