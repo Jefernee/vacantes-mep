@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-21T18:21:08.145Z",
-  "totalPais": 57,
+  "generado": "2026-09-21T18:40:37.965Z",
+  "totalPais": 58,
   "calzanVT6": 3,
   "advertencias": [],
   "especialidadesVistas": [
@@ -17,6 +17,7 @@
     "Filosofía",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Inglés",
+    "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
     "Labores Varias De Oficina",
     "Matemáticas",
     "Música/Música",
@@ -292,6 +293,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546559",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
+      "institucion": "C.T.P. De Heredia",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1546383",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -432,16 +443,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546360",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Finca Zeta 13 (Fortuna)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546541",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -452,43 +453,13 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546392",
+      "vacante": "1546360",
       "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Cindea Boca Arenal",
-      "lecciones": "7",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546388",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Cindea Boca Arenal",
-      "lecciones": "6",
-      "rige": "18/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546384",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Boca Arenal",
-      "lecciones": "17",
-      "rige": "18/09/2026",
-      "vence": "30/10/2026"
-    },
-    {
-      "vacante": "1546525",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "C.T.P. De La Fortuna",
-      "lecciones": "4",
-      "rige": "21/09/2026",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Finca Zeta 13 (Fortuna)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -512,6 +483,36 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546392",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Cindea Boca Arenal",
+      "lecciones": "7",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546384",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea Boca Arenal",
+      "lecciones": "17",
+      "rige": "18/09/2026",
+      "vence": "30/10/2026"
+    },
+    {
+      "vacante": "1546388",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Cindea Boca Arenal",
+      "lecciones": "6",
+      "rige": "18/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1546538",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -519,6 +520,16 @@
       "institucion": "Liceo De San Carlos",
       "lecciones": "44",
       "rige": "02/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546525",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "4",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
