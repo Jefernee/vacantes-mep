@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-21T20:20:43.034Z",
-  "totalPais": 65,
+  "generado": "2026-09-21T20:40:49.771Z",
+  "totalPais": 66,
   "calzanVT6": 4,
   "advertencias": [],
   "especialidadesVistas": [
@@ -14,6 +14,7 @@
     "Diseño Y Desarrollo Digital",
     "Educación Física",
     "Enseñanza Especial . Problemas De Aprendizaje",
+    "Español",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
     "Francés",
@@ -107,13 +108,13 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1546556",
+      "vacante": "1519655",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "I.P.E.C. De Poas",
-      "lecciones": "6",
-      "rige": "21/09/2026",
+      "especialidad": "Alemán",
+      "institucion": "Liceo De Poas",
+      "lecciones": "20",
+      "rige": "08/05/2026",
       "vence": "11/12/2026"
     },
     {
@@ -127,13 +128,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1519655",
+      "vacante": "1546556",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Alemán",
-      "institucion": "Liceo De Poas",
-      "lecciones": "20",
-      "rige": "08/05/2026",
+      "especialidad": "Matemáticas",
+      "institucion": "I.P.E.C. De Poas",
+      "lecciones": "6",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -527,6 +528,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546541",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Rafael (Pocosol)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1546360",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -537,14 +548,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546541",
+      "vacante": "1546525",
       "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Rafael (Pocosol)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/01/2027"
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "4",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1546456",
@@ -567,6 +578,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546538",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo De San Carlos",
+      "lecciones": "44",
+      "rige": "02/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1546392",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -574,16 +595,6 @@
       "institucion": "Cindea Boca Arenal",
       "lecciones": "7",
       "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546388",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Cindea Boca Arenal",
-      "lecciones": "6",
-      "rige": "18/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -597,23 +608,13 @@
       "vence": "30/10/2026"
     },
     {
-      "vacante": "1546525",
+      "vacante": "1546388",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "C.T.P. De La Fortuna",
-      "lecciones": "4",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546538",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo De San Carlos",
-      "lecciones": "44",
-      "rige": "02/10/2026",
+      "especialidad": "Psicología",
+      "institucion": "Cindea Boca Arenal",
+      "lecciones": "6",
+      "rige": "18/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -647,16 +648,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546272",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Buenaventura Corrales Bermudez",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1546087",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -665,6 +656,16 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1546272",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Buenaventura Corrales Bermudez",
+      "lecciones": "0",
+      "rige": "18/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1546433",
@@ -704,6 +705,16 @@
       "institucion": "Prog.Itin.Seg.Leng.I Y Ii Cic.",
       "lecciones": "0",
       "rige": "23/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546536",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo De Escazu",
+      "lecciones": "35",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
