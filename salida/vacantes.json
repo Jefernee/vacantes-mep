@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-21T20:45:30.480Z",
-  "totalPais": 66,
+  "generado": "2026-09-21T21:00:56.597Z",
+  "totalPais": 71,
   "calzanVT6": 4,
   "advertencias": [],
   "especialidadesVistas": [
@@ -14,6 +14,7 @@
     "Diseño Y Desarrollo Digital",
     "Educación Física",
     "Enseñanza Especial . Problemas De Aprendizaje",
+    "Enseñanza Especial . Terapia Del Lenguaje",
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
@@ -98,6 +99,16 @@
       "vence": "02/11/2026"
     },
     {
+      "vacante": "1546573",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "11 De Abril (Guacima)",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1543362",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Director De Colegio 1",
@@ -106,6 +117,36 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1546563",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Parcelas Del Itco (Ceiba)",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546556",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "I.P.E.C. De Poas",
+      "lecciones": "6",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546569",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo San Jose De Alajuela",
+      "lecciones": "44",
+      "rige": "24/09/2026",
+      "vence": "15/11/2026"
     },
     {
       "vacante": "1519658",
@@ -128,16 +169,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546556",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "I.P.E.C. De Poas",
-      "lecciones": "6",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546463",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -156,6 +187,16 @@
       "lecciones": "5",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546588",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Industriales",
+      "institucion": "Ens. Esp. Reh. Alajuela",
+      "lecciones": "44",
+      "rige": "28/09/2026",
+      "vence": "10/12/2026"
     },
     {
       "vacante": "1546554",
@@ -328,16 +369,6 @@
       "vence": "31/07/2028"
     },
     {
-      "vacante": "1546469",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Ing Manuel Benavides R.",
-      "lecciones": "3",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546518",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -348,13 +379,13 @@
       "vence": "31/10/2026"
     },
     {
-      "vacante": "1546559",
+      "vacante": "1546469",
       "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
-      "institucion": "C.T.P. De Heredia",
-      "lecciones": "40",
-      "rige": "01/10/2026",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Ing Manuel Benavides R.",
+      "lecciones": "3",
+      "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -385,6 +416,26 @@
       "institucion": "C.T.P. De Ulloa",
       "lecciones": "16",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546559",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
+      "institucion": "C.T.P. De Heredia",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1545328",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
+      "institucion": "Esc. Salvador V.",
+      "lecciones": "40",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -528,16 +579,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546541",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Rafael (Pocosol)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1546360",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -548,14 +589,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546538",
+      "vacante": "1546541",
       "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo De San Carlos",
-      "lecciones": "44",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Rafael (Pocosol)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1546525",
@@ -566,36 +607,6 @@
       "lecciones": "4",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546392",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Cindea Boca Arenal",
-      "lecciones": "7",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546388",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Cindea Boca Arenal",
-      "lecciones": "6",
-      "rige": "18/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546384",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Boca Arenal",
-      "lecciones": "17",
-      "rige": "18/09/2026",
-      "vence": "30/10/2026"
     },
     {
       "vacante": "1546456",
@@ -615,6 +626,46 @@
       "institucion": "Cindea Florencia",
       "lecciones": "30",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546392",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Cindea Boca Arenal",
+      "lecciones": "7",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546384",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea Boca Arenal",
+      "lecciones": "17",
+      "rige": "18/09/2026",
+      "vence": "30/10/2026"
+    },
+    {
+      "vacante": "1546388",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Cindea Boca Arenal",
+      "lecciones": "6",
+      "rige": "18/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546538",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo De San Carlos",
+      "lecciones": "44",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -668,16 +719,6 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1546433",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Marcelino Garcia Flamenco",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546449",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -685,6 +726,16 @@
       "institucion": "Ciudadelas Unidas",
       "lecciones": "0",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546433",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Marcelino Garcia Flamenco",
+      "lecciones": "0",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
