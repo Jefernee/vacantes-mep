@@ -1,13 +1,14 @@
 {
-  "generado": "2026-09-21T14:20:56.564Z",
-  "totalPais": 29,
-  "calzanVT6": 2,
+  "generado": "2026-09-21T14:41:12.340Z",
+  "totalPais": 31,
+  "calzanVT6": 3,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
     "Biología",
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Desarrollo De Aplicaciones Moviles",
+    "Diseño Y Desarrollo Digital",
     "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Inglés",
@@ -17,6 +18,17 @@
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [
+    {
+      "vacante": "1546361",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Diseño Y Desarrollo Digital",
+      "institucion": "C.T.P. De Ulloa",
+      "lecciones": "12",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026",
+      "calce": "posible"
+    },
     {
       "vacante": "1546358",
       "regional": "Direc. Regional Educacion Heredia",
@@ -122,13 +134,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546099",
+      "vacante": "1546321",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Limbo (Duacari)",
+      "institucion": "Balsaville (Rio Jimenez)",
       "lecciones": "0",
-      "rige": "22/09/2026",
+      "rige": "23/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -142,13 +154,23 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546321",
+      "vacante": "1546099",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Balsaville (Rio Jimenez)",
+      "institucion": "El Limbo (Duacari)",
       "lecciones": "0",
-      "rige": "23/09/2026",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546361",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Diseño Y Desarrollo Digital",
+      "institucion": "C.T.P. De Ulloa",
+      "lecciones": "12",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -272,6 +294,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546360",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Finca Zeta 13 (Fortuna)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1546050",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -279,6 +311,16 @@
       "institucion": "Liceo Republica De Mexico",
       "lecciones": "0",
       "rige": "26/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1546272",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Buenaventura Corrales Bermudez",
+      "lecciones": "0",
+      "rige": "18/09/2026",
       "vence": "31/01/2027"
     },
     {
@@ -290,16 +332,6 @@
       "lecciones": "0",
       "rige": "18/09/2026",
       "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1546272",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Buenaventura Corrales Bermudez",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1546349",
