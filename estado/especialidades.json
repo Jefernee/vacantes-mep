@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 6517,
+      "vecesVista": 6528,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T14:00:39.826Z",
+      "ultimaVez": "2026-09-21T14:20:56.565Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 3387,
+      "vecesVista": 3394,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T14:00:39.826Z",
+      "ultimaVez": "2026-09-21T14:20:56.565Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 667,
+      "vecesVista": 668,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T14:00:39.826Z",
+      "ultimaVez": "2026-09-21T14:20:56.565Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 702,
+      "vecesVista": 703,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T14:00:39.826Z",
+      "ultimaVez": "2026-09-21T14:20:56.565Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -93,16 +93,16 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 2118,
+      "vecesVista": 2121,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T14:00:39.826Z",
+      "ultimaVez": "2026-09-21T14:20:56.565Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 506,
+      "vecesVista": 507,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-21T14:00:39.826Z",
+      "ultimaVez": "2026-09-21T14:20:56.565Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -198,9 +198,9 @@
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 336,
+      "vecesVista": 337,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-09-21T14:00:39.826Z",
+      "ultimaVez": "2026-09-21T14:20:56.565Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -212,9 +212,9 @@
     },
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos": {
       "calce": "exacta",
-      "vecesVista": 288,
+      "vecesVista": 289,
       "primeraVez": "2026-09-07T16:15:30.346Z",
-      "ultimaVez": "2026-09-17T12:40:49.541Z",
+      "ultimaVez": "2026-09-21T14:20:56.565Z",
       "avisadaComoNueva": true
     },
     "Psicología": {
@@ -366,9 +366,9 @@
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 168,
+      "vecesVista": 169,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-09-21T14:00:39.826Z",
+      "ultimaVez": "2026-09-21T14:20:56.565Z",
       "avisadaComoNueva": true
     },
     "Rehabilitación / Ocupacional": {
@@ -380,9 +380,9 @@
     },
     "Biología": {
       "calce": "no interesa",
-      "vecesVista": 57,
+      "vecesVista": 58,
       "primeraVez": "2026-09-16T18:20:42.372Z",
-      "ultimaVez": "2026-09-17T18:00:43.201Z",
+      "ultimaVez": "2026-09-21T14:20:56.565Z",
       "avisadaComoNueva": true
     },
     "Derecho": {
@@ -436,11 +436,11 @@
     },
     "Desarrollo De Aplicaciones Moviles": {
       "calce": "exacta",
-      "vecesVista": 1,
+      "vecesVista": 2,
       "primeraVez": "2026-09-21T14:00:39.826Z",
-      "ultimaVez": "2026-09-21T14:00:39.826Z",
+      "ultimaVez": "2026-09-21T14:20:56.565Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-21T14:00:39.826Z"
+  "actualizado": "2026-09-21T14:20:56.565Z"
 }
