@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T23:46:57.349Z",
+  "generado": "2026-09-22T00:01:17.670Z",
   "totalPais": 72,
   "calzanVT6": 4,
   "advertencias": [],
@@ -139,22 +139,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1519655",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Alemán",
-      "institucion": "Liceo De Poas",
-      "lecciones": "20",
-      "rige": "08/05/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1519658",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Alemán",
       "institucion": "Liceo De Poas",
       "lecciones": "36",
+      "rige": "08/05/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1519655",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Alemán",
+      "institucion": "Liceo De Poas",
+      "lecciones": "20",
       "rige": "08/05/2026",
       "vence": "11/12/2026"
     },
@@ -409,16 +409,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546383",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P San Pedro De Barva",
-      "lecciones": "16",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546361",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -436,6 +426,16 @@
       "institucion": "C.T.P. De Ulloa",
       "lecciones": "16",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546383",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P San Pedro De Barva",
+      "lecciones": "16",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -489,22 +489,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546499",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "C.T.P. De Platanares",
-      "lecciones": "44",
-      "rige": "23/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546503",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Educación Física",
       "institucion": "C.T.P. Platanares",
       "lecciones": "2",
+      "rige": "23/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546499",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "C.T.P. De Platanares",
+      "lecciones": "44",
       "rige": "23/09/2026",
       "vence": "11/12/2026"
     },
@@ -589,16 +589,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546541",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Rafael (Pocosol)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1546360",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -609,6 +599,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546541",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Rafael (Pocosol)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1546538",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -616,16 +616,6 @@
       "institucion": "Liceo De San Carlos",
       "lecciones": "44",
       "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546525",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "C.T.P. De La Fortuna",
-      "lecciones": "4",
-      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -677,6 +667,16 @@
       "lecciones": "17",
       "rige": "18/09/2026",
       "vence": "30/10/2026"
+    },
+    {
+      "vacante": "1546525",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "4",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1546395",
