@@ -1,7 +1,7 @@
 {
-  "generado": "2026-09-22T18:40:50.958Z",
-  "totalPais": 74,
-  "calzanVT6": 1,
+  "generado": "2026-09-22T19:00:47.138Z",
+  "totalPais": 73,
+  "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
@@ -21,7 +21,6 @@
     "Francés",
     "Física",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-    "Informática En Desarrollo Del Software",
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
@@ -32,19 +31,7 @@
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
-  "interesantes": [
-    {
-      "vacante": "1546558",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "I.P.E.C. De Poas",
-      "lecciones": "5",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026",
-      "calce": "exacta"
-    }
-  ],
+  "interesantes": [],
   "todas": [
     {
       "vacante": "1546584",
@@ -87,16 +74,6 @@
       "vence": "15/11/2026"
     },
     {
-      "vacante": "1546556",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "I.P.E.C. De Poas",
-      "lecciones": "6",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545373",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -104,26 +81,6 @@
       "institucion": "Liceo Martha Mirambell Umaña",
       "lecciones": "8",
       "rige": "09/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546588",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Industriales",
-      "institucion": "Ens. Esp. Reh. Alajuela",
-      "lecciones": "44",
-      "rige": "28/09/2026",
-      "vence": "10/12/2026"
-    },
-    {
-      "vacante": "1546558",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "I.P.E.C. De Poas",
-      "lecciones": "5",
-      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -137,6 +94,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546588",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Industriales",
+      "institucion": "Ens. Esp. Reh. Alajuela",
+      "lecciones": "44",
+      "rige": "28/09/2026",
+      "vence": "10/12/2026"
+    },
+    {
       "vacante": "1543698",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -145,16 +112,6 @@
       "lecciones": "12",
       "rige": "02/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546554",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Rosita Chaves De Cabezas",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1546739",
@@ -257,13 +214,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546644",
+      "vacante": "1546710",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "Liceo De Corralillo",
-      "lecciones": "36",
-      "rige": "22/09/2026",
+      "especialidad": "Contabilidad",
+      "institucion": "Ctp Santa Lucia",
+      "lecciones": "20",
+      "rige": "24/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -277,13 +234,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546710",
+      "vacante": "1546644",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "Ctp Santa Lucia",
-      "lecciones": "20",
-      "rige": "24/09/2026",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "Liceo De Corralillo",
+      "lecciones": "36",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -294,6 +251,16 @@
       "institucion": "Porton De Naranjo (Savegre)",
       "lecciones": "0",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546881",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Luis Aguilar",
+      "lecciones": "0",
+      "rige": "24/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -327,16 +294,6 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1546841",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Primavera (Rita)",
-      "lecciones": "0",
-      "rige": "23/09/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1546849",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -345,6 +302,16 @@
       "lecciones": "0",
       "rige": "24/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1546841",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Primavera (Rita)",
+      "lecciones": "0",
+      "rige": "23/09/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1546846",
@@ -587,14 +554,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546478",
+      "vacante": "1546546",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Cindea Judas",
-      "lecciones": "11",
-      "rige": "01/09/2026",
-      "vence": "11/12/2026"
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Rural Cedral",
+      "lecciones": "40",
+      "rige": "17/09/2026",
+      "vence": "05/12/2026"
     },
     {
       "vacante": "1546483",
@@ -607,13 +574,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546428",
+      "vacante": "1546478",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Español",
-      "institucion": "Proyectos De Educacion Abierta",
-      "lecciones": "3",
-      "rige": "22/09/2026",
+      "institucion": "Cindea Judas",
+      "lecciones": "11",
+      "rige": "01/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -627,14 +594,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546546",
+      "vacante": "1546428",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Rural Cedral",
-      "lecciones": "40",
-      "rige": "17/09/2026",
-      "vence": "05/12/2026"
+      "especialidad": "Español",
+      "institucion": "Proyectos De Educacion Abierta",
+      "lecciones": "3",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1546448",
@@ -697,20 +664,20 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546864",
+      "vacante": "1546858",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Química",
       "institucion": "San Francisco De La Palmera",
       "lecciones": "6",
       "rige": "30/09/2026",
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1546858",
+      "vacante": "1546864",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Biología",
       "institucion": "San Francisco De La Palmera",
       "lecciones": "6",
       "rige": "30/09/2026",
@@ -765,6 +732,16 @@
       "lecciones": "0",
       "rige": "25/09/2026",
       "vence": "26/11/2026"
+    },
+    {
+      "vacante": "1546878",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Ezequiel Morales Aguilar",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "19/11/2026"
     },
     {
       "vacante": "1546536",
