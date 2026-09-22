@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-22T14:40:45.329Z",
-  "totalPais": 78,
+  "generado": "2026-09-22T15:00:43.991Z",
+  "totalPais": 75,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -24,7 +24,6 @@
     "Labores Varias De Oficina",
     "Matemáticas",
     "Producción Agrícola Y Pecuaria",
-    "Psicología",
     "Religión",
     "Salud Ocupacional",
     "Sin Especialidad T-I",
@@ -95,6 +94,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546556",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "I.P.E.C. De Poas",
+      "lecciones": "6",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1519655",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -125,16 +134,6 @@
       "vence": "15/11/2026"
     },
     {
-      "vacante": "1546556",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "I.P.E.C. De Poas",
-      "lecciones": "6",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546463",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -142,6 +141,16 @@
       "institucion": "Arturo Quiros Carranza",
       "lecciones": "0",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546558",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática En Desarrollo Del Software",
+      "institucion": "I.P.E.C. De Poas",
+      "lecciones": "5",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -155,16 +164,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1546558",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "I.P.E.C. De Poas",
-      "lecciones": "5",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546554",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -173,6 +172,36 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1546739",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "28/09/2026",
+      "vence": "13/11/2026"
+    },
+    {
+      "vacante": "1546733",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "C.T.P. De Abangares",
+      "lecciones": "40",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546737",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "C.T.P. Abangares",
+      "lecciones": "4",
+      "rige": "29/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1546520",
@@ -345,16 +374,6 @@
       "vence": "12/11/2026"
     },
     {
-      "vacante": "1546394",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Liceo Mario Vindas S.",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/07/2028"
-    },
-    {
       "vacante": "1546689",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -362,16 +381,6 @@
       "institucion": "San Luis Gonzaga (Para)",
       "lecciones": "0",
       "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546469",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Ing Manuel Benavides R.",
-      "lecciones": "3",
-      "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -385,22 +394,22 @@
       "vence": "31/10/2026"
     },
     {
+      "vacante": "1546469",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Ing Manuel Benavides R.",
+      "lecciones": "3",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1546559",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
       "institucion": "C.T.P. De Heredia",
       "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546383",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P San Pedro De Barva",
-      "lecciones": "16",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
@@ -413,16 +422,6 @@
       "lecciones": "40",
       "rige": "22/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546141",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Jorge Washington (San Ramon)",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1546240",
@@ -555,16 +554,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546435",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Proyectos De Educacion Abierta",
-      "lecciones": "5",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546428",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -575,13 +564,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546483",
+      "vacante": "1546435",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Cindea Judas",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Proyectos De Educacion Abierta",
       "lecciones": "5",
-      "rige": "01/09/2026",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -591,6 +580,16 @@
       "especialidad": "Español",
       "institucion": "Cindea Judas",
       "lecciones": "11",
+      "rige": "01/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546483",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Cindea Judas",
+      "lecciones": "5",
       "rige": "01/09/2026",
       "vence": "11/12/2026"
     },
@@ -695,36 +694,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546384",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Boca Arenal",
-      "lecciones": "17",
-      "rige": "18/09/2026",
-      "vence": "30/10/2026"
-    },
-    {
-      "vacante": "1546388",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Cindea Boca Arenal",
-      "lecciones": "6",
-      "rige": "18/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546392",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Cindea Boca Arenal",
-      "lecciones": "7",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546456",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -755,16 +724,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546395",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "C.T.P. Santa Rosa",
-      "lecciones": "6",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546426",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Asistente De Servicios De Educacion Especial",
@@ -772,6 +731,16 @@
       "institucion": "Santa Marta",
       "lecciones": "0",
       "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546449",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Ciudadelas Unidas",
+      "lecciones": "0",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -783,16 +752,6 @@
       "lecciones": "0",
       "rige": "22/09/2026",
       "vence": "27/10/2026"
-    },
-    {
-      "vacante": "1546449",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ciudadelas Unidas",
-      "lecciones": "0",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1546433",
@@ -823,6 +782,16 @@
       "lecciones": "35",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546759",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Gloria (Juan Viñas)",
+      "lecciones": "0",
+      "rige": "25/09/2026",
+      "vence": "01/11/2026"
     }
   ]
 }
