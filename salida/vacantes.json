@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-22T13:21:19.646Z",
-  "totalPais": 61,
+  "generado": "2026-09-22T13:41:20.197Z",
+  "totalPais": 60,
   "calzanVT6": 4,
   "advertencias": [],
   "especialidadesVistas": [
@@ -128,6 +128,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546556",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "I.P.E.C. De Poas",
+      "lecciones": "6",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1519655",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -156,16 +166,6 @@
       "lecciones": "44",
       "rige": "24/09/2026",
       "vence": "15/11/2026"
-    },
-    {
-      "vacante": "1546556",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "I.P.E.C. De Poas",
-      "lecciones": "6",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1546463",
@@ -268,16 +268,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546321",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Balsaville (Rio Jimenez)",
-      "lecciones": "0",
-      "rige": "23/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546582",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -348,6 +338,16 @@
       "vence": "31/10/2026"
     },
     {
+      "vacante": "1546559",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
+      "institucion": "C.T.P. De Heredia",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1546361",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -374,16 +374,6 @@
       "especialidad": "Contabilidad",
       "institucion": "C.T.P San Pedro De Barva",
       "lecciones": "16",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546559",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
-      "institucion": "C.T.P. De Heredia",
-      "lecciones": "40",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
@@ -508,16 +498,6 @@
       "vence": "31/03/2027"
     },
     {
-      "vacante": "1546360",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Finca Zeta 13 (Fortuna)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546541",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -526,6 +506,16 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1546360",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Finca Zeta 13 (Fortuna)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1546538",
@@ -568,16 +558,6 @@
       "vence": "30/10/2026"
     },
     {
-      "vacante": "1546525",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "C.T.P. De La Fortuna",
-      "lecciones": "4",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546456",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -595,6 +575,16 @@
       "institucion": "Cindea Florencia",
       "lecciones": "30",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546525",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "4",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
