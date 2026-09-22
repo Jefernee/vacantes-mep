@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-22T18:20:51.248Z",
+  "generado": "2026-09-22T18:40:50.958Z",
   "totalPais": 74,
   "calzanVT6": 1,
   "advertencias": [],
@@ -23,7 +23,6 @@
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática En Desarrollo Del Software",
     "Inglés",
-    "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
     "Labores Varias De Oficina",
     "Matemáticas",
     "Música/Música",
@@ -118,13 +117,13 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1543698",
+      "vacante": "1546558",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Diseño Publicitario",
-      "institucion": "Liceo Ambientalista El Roble",
-      "lecciones": "12",
-      "rige": "02/10/2026",
+      "especialidad": "Informática En Desarrollo Del Software",
+      "institucion": "I.P.E.C. De Poas",
+      "lecciones": "5",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -138,13 +137,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546558",
+      "vacante": "1543698",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "I.P.E.C. De Poas",
-      "lecciones": "5",
-      "rige": "21/09/2026",
+      "especialidad": "Diseño Publicitario",
+      "institucion": "Liceo Ambientalista El Roble",
+      "lecciones": "12",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -268,16 +267,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546710",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "Ctp Santa Lucia",
-      "lecciones": "20",
-      "rige": "24/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546648",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -285,6 +274,16 @@
       "institucion": "Liceo De Corralillo",
       "lecciones": "2",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546710",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "Ctp Santa Lucia",
+      "lecciones": "20",
+      "rige": "24/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -408,16 +407,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546559",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
-      "institucion": "C.T.P. De Heredia",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1545328",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -498,16 +487,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546407",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Cindea Cobano",
-      "lecciones": "4",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546454",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -515,6 +494,16 @@
       "institucion": "Colegio De Lepanto",
       "lecciones": "44",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546407",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Cindea Cobano",
+      "lecciones": "4",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -708,20 +697,20 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546858",
+      "vacante": "1546864",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Biología",
       "institucion": "San Francisco De La Palmera",
       "lecciones": "6",
       "rige": "30/09/2026",
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1546864",
+      "vacante": "1546858",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Química",
       "institucion": "San Francisco De La Palmera",
       "lecciones": "6",
       "rige": "30/09/2026",
@@ -766,6 +755,16 @@
       "lecciones": "5",
       "rige": "23/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546867",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Asistente De Servicios De Educacion Especial",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Rehabilitacion La Pitahaya",
+      "lecciones": "0",
+      "rige": "25/09/2026",
+      "vence": "26/11/2026"
     },
     {
       "vacante": "1546536",
