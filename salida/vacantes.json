@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-22T15:21:04.278Z",
+  "generado": "2026-09-22T15:21:52.606Z",
   "totalPais": 74,
   "calzanVT6": 1,
   "advertencias": [],
@@ -184,16 +184,6 @@
       "vence": "13/11/2026"
     },
     {
-      "vacante": "1546733",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "C.T.P. De Abangares",
-      "lecciones": "40",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546737",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -201,6 +191,16 @@
       "institucion": "C.T.P. Abangares",
       "lecciones": "4",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546733",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "C.T.P. De Abangares",
+      "lecciones": "40",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -684,16 +684,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546525",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "C.T.P. De La Fortuna",
-      "lecciones": "4",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546456",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -714,31 +704,21 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546525",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "4",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1546426",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Asistente De Servicios De Educacion Especial",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Santa Marta",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546718",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Republic De Haiti(S.Sebastian)",
-      "lecciones": "0",
-      "rige": "22/09/2026",
-      "vence": "27/10/2026"
-    },
-    {
-      "vacante": "1546433",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Marcelino Garcia Flamenco",
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "11/12/2026"
@@ -752,6 +732,26 @@
       "lecciones": "0",
       "rige": "22/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546433",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Marcelino Garcia Flamenco",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546718",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Republic De Haiti(S.Sebastian)",
+      "lecciones": "0",
+      "rige": "22/09/2026",
+      "vence": "27/10/2026"
     },
     {
       "vacante": "1546404",
