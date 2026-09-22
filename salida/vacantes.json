@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-22T16:20:48.891Z",
-  "totalPais": 79,
+  "generado": "2026-09-22T16:40:43.152Z",
+  "totalPais": 78,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -106,26 +106,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546569",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo San Jose De Alajuela",
-      "lecciones": "44",
-      "rige": "24/09/2026",
-      "vence": "15/11/2026"
-    },
-    {
-      "vacante": "1545373",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo Martha Mirambell Umaña",
-      "lecciones": "8",
-      "rige": "09/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1519655",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -146,6 +126,26 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1546569",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo San Jose De Alajuela",
+      "lecciones": "44",
+      "rige": "24/09/2026",
+      "vence": "15/11/2026"
+    },
+    {
+      "vacante": "1545373",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo Martha Mirambell Umaña",
+      "lecciones": "8",
+      "rige": "09/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1546463",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -153,16 +153,6 @@
       "institucion": "Arturo Quiros Carranza",
       "lecciones": "0",
       "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546558",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "I.P.E.C. De Poas",
-      "lecciones": "5",
-      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -183,6 +173,16 @@
       "institucion": "I.P.E.C. Maria Pacheco",
       "lecciones": "44",
       "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546558",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática En Desarrollo Del Software",
+      "institucion": "I.P.E.C. De Poas",
+      "lecciones": "5",
+      "rige": "21/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -426,16 +426,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546469",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Ing Manuel Benavides R.",
-      "lecciones": "3",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546518",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -526,16 +516,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546407",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Cindea Cobano",
-      "lecciones": "4",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546454",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -543,6 +523,16 @@
       "institucion": "Colegio De Lepanto",
       "lecciones": "44",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546407",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Cindea Cobano",
+      "lecciones": "4",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -636,22 +626,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546478",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Cindea Judas",
-      "lecciones": "11",
-      "rige": "01/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546483",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Español",
       "institucion": "Cindea Judas",
       "lecciones": "5",
+      "rige": "01/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546478",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Cindea Judas",
+      "lecciones": "11",
       "rige": "01/09/2026",
       "vence": "11/12/2026"
     },
@@ -706,16 +696,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546515",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Salud Ocupacional",
-      "institucion": "Cindea Judas",
-      "lecciones": "10",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546500",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -723,6 +703,16 @@
       "institucion": "Cindea Judas",
       "lecciones": "10",
       "rige": "01/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546515",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Salud Ocupacional",
+      "institucion": "Cindea Judas",
+      "lecciones": "10",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
