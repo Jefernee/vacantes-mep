@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-23T19:00:45.370Z",
-  "totalPais": 64,
+  "generado": "2026-09-23T19:06:17.596Z",
+  "totalPais": 63,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -166,16 +166,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546999",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Colegio Academico La Palma",
-      "lecciones": "9",
-      "rige": "28/09/2026",
-      "vence": "20/11/2026"
-    },
-    {
       "vacante": "1546908",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -183,6 +173,16 @@
       "institucion": "Cindea Puerto Jimenez",
       "lecciones": "35",
       "rige": "25/09/2026",
+      "vence": "20/11/2026"
+    },
+    {
+      "vacante": "1546999",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Colegio Academico La Palma",
+      "lecciones": "9",
+      "rige": "28/09/2026",
       "vence": "20/11/2026"
     },
     {
@@ -236,16 +236,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1547177",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Santa Barbara",
-      "lecciones": "44",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546945",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -253,6 +243,16 @@
       "institucion": "Liceo Ing Manuel Benavides R.",
       "lecciones": "20",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547177",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Santa Barbara",
+      "lecciones": "44",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -286,22 +286,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546958",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Matina",
-      "lecciones": "6",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546974",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Física",
       "institucion": "Liceo De Matina",
       "lecciones": "15",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546958",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Matina",
+      "lecciones": "6",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -356,16 +356,6 @@
       "vence": "23/03/2028"
     },
     {
-      "vacante": "1546886",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Rafael (Naranjo)",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "30/10/2026"
-    },
-    {
       "vacante": "1546995",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -406,6 +396,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547061",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo De Chachagua",
+      "lecciones": "18",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547114",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -434,16 +434,6 @@
       "lecciones": "20",
       "rige": "30/09/2026",
       "vence": "09/12/2026"
-    },
-    {
-      "vacante": "1547061",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Chachagua",
-      "lecciones": "18",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1546994",
