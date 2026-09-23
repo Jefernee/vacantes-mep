@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-23T20:40:52.716Z",
-  "totalPais": 63,
+  "generado": "2026-09-23T21:00:46.506Z",
+  "totalPais": 59,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -175,16 +175,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546999",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Colegio Academico La Palma",
-      "lecciones": "9",
-      "rige": "28/09/2026",
-      "vence": "20/11/2026"
-    },
-    {
       "vacante": "1546908",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -192,6 +182,16 @@
       "institucion": "Cindea Puerto Jimenez",
       "lecciones": "35",
       "rige": "25/09/2026",
+      "vence": "20/11/2026"
+    },
+    {
+      "vacante": "1546999",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Colegio Academico La Palma",
+      "lecciones": "9",
+      "rige": "28/09/2026",
       "vence": "20/11/2026"
     },
     {
@@ -235,16 +235,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546945",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo Ing Manuel Benavides R.",
-      "lecciones": "20",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546951",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -252,16 +242,6 @@
       "institucion": "Liceo Nuevo De Santo Domingo",
       "lecciones": "44",
       "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546159",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alba Ocampo Alvarado (Liberia)",
-      "lecciones": "0",
-      "rige": "25/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -275,26 +255,6 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1546974",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Liceo De Matina",
-      "lecciones": "15",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546958",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Matina",
-      "lecciones": "6",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546986",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -305,12 +265,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546956",
+      "vacante": "1546974",
       "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Industriales",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
       "institucion": "Liceo De Matina",
-      "lecciones": "8",
+      "lecciones": "15",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -385,24 +345,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547082",
+      "vacante": "1547001",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Ctp Calle Zamora",
-      "lecciones": "40",
-      "rige": "24/09/2026",
+      "especialidad": "Psicología",
+      "institucion": "Cindea San Isidro Penas Blancas",
+      "lecciones": "4",
+      "rige": "25/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547114",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Ctp Calle Zamora",
-      "lecciones": "17",
-      "rige": "24/09/2026",
-      "vence": "15/11/2026"
     },
     {
       "vacante": "1547025",
@@ -415,13 +365,23 @@
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1547001",
+      "vacante": "1547114",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Cindea San Isidro Penas Blancas",
-      "lecciones": "4",
-      "rige": "25/09/2026",
+      "especialidad": "Religión",
+      "institucion": "Ctp Calle Zamora",
+      "lecciones": "17",
+      "rige": "24/09/2026",
+      "vence": "15/11/2026"
+    },
+    {
+      "vacante": "1547082",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Ctp Calle Zamora",
+      "lecciones": "40",
+      "rige": "24/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -595,16 +555,6 @@
       "vence": "02/12/2026"
     },
     {
-      "vacante": "1547210",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo De Santa Cruz",
-      "lecciones": "44",
-      "rige": "23/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547105",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -613,6 +563,16 @@
       "lecciones": "12",
       "rige": "23/09/2026",
       "vence": "31/10/2026"
+    },
+    {
+      "vacante": "1547210",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo De Santa Cruz",
+      "lecciones": "44",
+      "rige": "23/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547116",
