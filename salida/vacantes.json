@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-23T22:01:06.740Z",
-  "totalPais": 53,
+  "generado": "2026-09-23T22:20:52.896Z",
+  "totalPais": 51,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -182,16 +182,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546999",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Colegio Academico La Palma",
-      "lecciones": "9",
-      "rige": "28/09/2026",
-      "vence": "20/11/2026"
-    },
-    {
       "vacante": "1546908",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -292,6 +282,26 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547114",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Ctp Calle Zamora",
+      "lecciones": "17",
+      "rige": "24/09/2026",
+      "vence": "15/11/2026"
+    },
+    {
+      "vacante": "1547082",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Ctp Calle Zamora",
+      "lecciones": "40",
+      "rige": "24/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547001",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -310,26 +320,6 @@
       "lecciones": "18",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547082",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Ctp Calle Zamora",
-      "lecciones": "40",
-      "rige": "24/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547114",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Ctp Calle Zamora",
-      "lecciones": "17",
-      "rige": "24/09/2026",
-      "vence": "15/11/2026"
     },
     {
       "vacante": "1547025",
@@ -360,16 +350,6 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "24/03/2027"
-    },
-    {
-      "vacante": "1546996",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Colegio Nocturno De Palmares",
-      "lecciones": "0",
-      "rige": "25/09/2026",
-      "vence": "19/03/2027"
     },
     {
       "vacante": "1547178",
@@ -492,16 +472,6 @@
       "vence": "02/12/2026"
     },
     {
-      "vacante": "1547210",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo De Santa Cruz",
-      "lecciones": "44",
-      "rige": "23/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547105",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -510,6 +480,16 @@
       "lecciones": "12",
       "rige": "23/09/2026",
       "vence": "31/10/2026"
+    },
+    {
+      "vacante": "1547210",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo De Santa Cruz",
+      "lecciones": "44",
+      "rige": "23/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547116",
