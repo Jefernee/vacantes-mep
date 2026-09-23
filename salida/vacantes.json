@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-23T21:40:57.721Z",
-  "totalPais": 54,
+  "generado": "2026-09-23T22:01:06.740Z",
+  "totalPais": 53,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,7 +12,6 @@
     "Enseñanza Especial . Audición Y Lenguaje",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
-    "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Estudios Sociales/Educación Cívica",
     "Executive Secretarial Management",
     "Filosofía",
@@ -163,6 +162,16 @@
       "vence": "20/01/2027"
     },
     {
+      "vacante": "1547286",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "05/10/2026",
+      "vence": "14/11/2026"
+    },
+    {
       "vacante": "1544609",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -273,16 +282,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546995",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Dr. Ricardo Moreno Cañas",
-      "lecciones": "40",
-      "rige": "25/09/2026",
-      "vence": "01/11/2026"
-    },
-    {
       "vacante": "1547176",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -293,23 +292,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547114",
+      "vacante": "1547001",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Ctp Calle Zamora",
-      "lecciones": "17",
-      "rige": "24/09/2026",
-      "vence": "15/11/2026"
-    },
-    {
-      "vacante": "1547082",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Ctp Calle Zamora",
-      "lecciones": "40",
-      "rige": "24/09/2026",
+      "especialidad": "Psicología",
+      "institucion": "Cindea San Isidro Penas Blancas",
+      "lecciones": "4",
+      "rige": "25/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -323,6 +312,26 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547082",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Ctp Calle Zamora",
+      "lecciones": "40",
+      "rige": "24/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547114",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Ctp Calle Zamora",
+      "lecciones": "17",
+      "rige": "24/09/2026",
+      "vence": "15/11/2026"
+    },
+    {
       "vacante": "1547025",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -331,26 +340,6 @@
       "lecciones": "20",
       "rige": "30/09/2026",
       "vence": "09/12/2026"
-    },
-    {
-      "vacante": "1547001",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Cindea San Isidro Penas Blancas",
-      "lecciones": "4",
-      "rige": "25/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546994",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Rep. De Ecuador (San Juan)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1546656",
@@ -503,16 +492,6 @@
       "vence": "02/12/2026"
     },
     {
-      "vacante": "1547105",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "C.T.P. De Santa Cruz",
-      "lecciones": "12",
-      "rige": "23/09/2026",
-      "vence": "31/10/2026"
-    },
-    {
       "vacante": "1547210",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -521,6 +500,16 @@
       "lecciones": "44",
       "rige": "23/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547105",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "C.T.P. De Santa Cruz",
+      "lecciones": "12",
+      "rige": "23/09/2026",
+      "vence": "31/10/2026"
     },
     {
       "vacante": "1547116",
@@ -553,6 +542,16 @@
       "vence": "31/01/2029"
     },
     {
+      "vacante": "1546725",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Rural Medio Queso",
+      "lecciones": "40",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1541670",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -570,16 +569,6 @@
       "institucion": "Liceo De Brasilia",
       "lecciones": "6",
       "rige": "22/04/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546725",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Rural Medio Queso",
-      "lecciones": "40",
-      "rige": "11/09/2026",
       "vence": "11/12/2026"
     }
   ]
