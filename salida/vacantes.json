@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-23T13:20:38.732Z",
-  "totalPais": 91,
+  "generado": "2026-09-23T13:40:49.275Z",
+  "totalPais": 92,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -176,16 +176,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546710",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "Ctp Santa Lucia",
-      "lecciones": "20",
-      "rige": "24/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546644",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -193,6 +183,16 @@
       "institucion": "Liceo De Corralillo",
       "lecciones": "36",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546710",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "Ctp Santa Lucia",
+      "lecciones": "20",
+      "rige": "24/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -226,16 +226,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546999",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Colegio Academico La Palma",
-      "lecciones": "9",
-      "rige": "28/09/2026",
-      "vence": "20/11/2026"
-    },
-    {
       "vacante": "1546908",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -243,6 +233,16 @@
       "institucion": "Cindea Puerto Jimenez",
       "lecciones": "35",
       "rige": "25/09/2026",
+      "vence": "20/11/2026"
+    },
+    {
+      "vacante": "1546999",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Colegio Academico La Palma",
+      "lecciones": "9",
+      "rige": "28/09/2026",
       "vence": "20/11/2026"
     },
     {
@@ -396,22 +396,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546974",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Liceo De Matina",
-      "lecciones": "15",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546958",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
       "institucion": "Liceo De Matina",
       "lecciones": "6",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546974",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "Liceo De Matina",
+      "lecciones": "15",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -566,16 +566,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546407",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Cindea Cobano",
-      "lecciones": "4",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546454",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -583,6 +573,16 @@
       "institucion": "Colegio De Lepanto",
       "lecciones": "44",
       "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546407",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Cindea Cobano",
+      "lecciones": "4",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -626,16 +626,6 @@
       "vence": "19/03/2027"
     },
     {
-      "vacante": "1546782",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Corralillo",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546382",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
@@ -644,6 +634,16 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1546782",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Corralillo",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1546839",
@@ -676,26 +676,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546435",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Proyectos De Educacion Abierta",
-      "lecciones": "5",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546428",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Proyectos De Educacion Abierta",
-      "lecciones": "3",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546478",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -713,6 +693,26 @@
       "institucion": "Cindea Judas",
       "lecciones": "5",
       "rige": "01/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546428",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Proyectos De Educacion Abierta",
+      "lecciones": "3",
+      "rige": "22/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546435",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Proyectos De Educacion Abierta",
+      "lecciones": "5",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -836,6 +836,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1547013",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Concepcion",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1546979",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
@@ -896,16 +906,6 @@
       "vence": "26/11/2026"
     },
     {
-      "vacante": "1546904",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Juan Rafael Mora Porras",
-      "lecciones": "0",
-      "rige": "25/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1546878",
       "regional": "Direc. Regional Educacion San Jose - Oeste",
       "clasePuesto": "Cocinero",
@@ -914,6 +914,16 @@
       "lecciones": "0",
       "rige": "24/09/2026",
       "vence": "19/11/2026"
+    },
+    {
+      "vacante": "1546904",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Juan Rafael Mora Porras",
+      "lecciones": "0",
+      "rige": "25/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1546932",
