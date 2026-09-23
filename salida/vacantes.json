@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-23T21:00:46.506Z",
-  "totalPais": 59,
+  "generado": "2026-09-23T21:20:46.948Z",
+  "totalPais": 58,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -215,6 +215,16 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1513133",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)",
+      "especialidad": "Executive Secretarial Management",
+      "institucion": "C.T.P. De Guacimo",
+      "lecciones": "12",
+      "rige": "09/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547045",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
@@ -295,16 +305,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546965",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Asistente De Servicios De Educacion Especial",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Pablo Alvarado Vargas",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "23/03/2028"
-    },
-    {
       "vacante": "1546995",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -315,32 +315,12 @@
       "vence": "01/11/2026"
     },
     {
-      "vacante": "1546959",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Dr. Ricardo Moreno Cañas",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547176",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "San Miguel Oeste (San Miguel)",
       "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547061",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Chachagua",
-      "lecciones": "18",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -365,14 +345,14 @@
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1547114",
+      "vacante": "1547061",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Ctp Calle Zamora",
-      "lecciones": "17",
-      "rige": "24/09/2026",
-      "vence": "15/11/2026"
+      "especialidad": "Química",
+      "institucion": "Liceo De Chachagua",
+      "lecciones": "18",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547082",
@@ -383,6 +363,16 @@
       "lecciones": "40",
       "rige": "24/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547114",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Ctp Calle Zamora",
+      "lecciones": "17",
+      "rige": "24/09/2026",
+      "vence": "15/11/2026"
     },
     {
       "vacante": "1546994",
@@ -605,13 +595,13 @@
       "vence": "31/01/2029"
     },
     {
-      "vacante": "1516510",
+      "vacante": "1541670",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Francés",
-      "institucion": "Liceo De Brasilia",
-      "lecciones": "6",
-      "rige": "22/04/2026",
+      "institucion": "C.T.P. Los Chiles",
+      "lecciones": "9",
+      "rige": "08/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -625,13 +615,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1541670",
+      "vacante": "1516510",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Francés",
-      "institucion": "C.T.P. Los Chiles",
-      "lecciones": "9",
-      "rige": "08/09/2026",
+      "institucion": "Liceo De Brasilia",
+      "lecciones": "6",
+      "rige": "22/04/2026",
       "vence": "11/12/2026"
     }
   ]
