@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-23T14:40:53.741Z",
-  "totalPais": 74,
+  "generado": "2026-09-23T15:00:45.020Z",
+  "totalPais": 73,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -64,16 +64,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546393",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "I.P.E.C. Maria Pacheco",
-      "lecciones": "44",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543698",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -84,33 +74,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546739",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Servicio Itinerante Ens. Esp.",
+      "vacante": "1546393",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "I.P.E.C. Maria Pacheco",
       "lecciones": "44",
-      "rige": "28/09/2026",
-      "vence": "13/11/2026"
-    },
-    {
-      "vacante": "1546737",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "C.T.P. Abangares",
-      "lecciones": "4",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546733",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "C.T.P. De Abangares",
-      "lecciones": "40",
-      "rige": "28/09/2026",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -154,16 +124,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546908",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Cindea Puerto Jimenez",
-      "lecciones": "35",
-      "rige": "25/09/2026",
-      "vence": "20/11/2026"
-    },
-    {
       "vacante": "1546999",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -171,6 +131,16 @@
       "institucion": "Colegio Academico La Palma",
       "lecciones": "9",
       "rige": "28/09/2026",
+      "vence": "20/11/2026"
+    },
+    {
+      "vacante": "1546908",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Cindea Puerto Jimenez",
+      "lecciones": "35",
+      "rige": "25/09/2026",
       "vence": "20/11/2026"
     },
     {
@@ -284,6 +254,16 @@
       "vence": "12/12/2026"
     },
     {
+      "vacante": "1547045",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Joaquin Lizano Gutierrez",
+      "lecciones": "0",
+      "rige": "23/09/2026",
+      "vence": "31/07/2030"
+    },
+    {
       "vacante": "1546945",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -334,20 +314,20 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546986",
+      "vacante": "1546974",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Física",
       "institucion": "Liceo De Matina",
       "lecciones": "15",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546974",
+      "vacante": "1546986",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
+      "especialidad": "Química",
       "institucion": "Liceo De Matina",
       "lecciones": "15",
       "rige": "28/09/2026",
@@ -504,6 +484,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1547046",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Union (San Pedro)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "24/03/2027"
+    },
+    {
       "vacante": "1546996",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -521,6 +511,16 @@
       "institucion": "Corralillo",
       "lecciones": "0",
       "rige": "24/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547042",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Peñas Blancas",
+      "lecciones": "0",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -564,20 +564,20 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546864",
+      "vacante": "1546858",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Química",
       "institucion": "San Francisco De La Palmera",
       "lecciones": "6",
       "rige": "30/09/2026",
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1546858",
+      "vacante": "1546864",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Biología",
       "institucion": "San Francisco De La Palmera",
       "lecciones": "6",
       "rige": "30/09/2026",
@@ -712,16 +712,6 @@
       "lecciones": "22",
       "rige": "25/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546759",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Gloria (Juan Viñas)",
-      "lecciones": "0",
-      "rige": "25/09/2026",
-      "vence": "01/11/2026"
     },
     {
       "vacante": "1546941",
