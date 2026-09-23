@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-23T18:41:04.468Z",
-  "totalPais": 65,
+  "generado": "2026-09-23T19:00:45.370Z",
+  "totalPais": 64,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -166,16 +166,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546908",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Cindea Puerto Jimenez",
-      "lecciones": "35",
-      "rige": "25/09/2026",
-      "vence": "20/11/2026"
-    },
-    {
       "vacante": "1546999",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -186,14 +176,14 @@
       "vence": "20/11/2026"
     },
     {
-      "vacante": "1546913",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Republic De Honduras(S.Miguel)",
-      "lecciones": "0",
+      "vacante": "1546908",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Cindea Puerto Jimenez",
+      "lecciones": "35",
       "rige": "25/09/2026",
-      "vence": "11/12/2026"
+      "vence": "20/11/2026"
     },
     {
       "vacante": "1546934",
@@ -206,6 +196,16 @@
       "vence": "22/11/2026"
     },
     {
+      "vacante": "1546913",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Republic De Honduras(S.Miguel)",
+      "lecciones": "0",
+      "rige": "25/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1546918",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -214,16 +214,6 @@
       "lecciones": "0",
       "rige": "02/10/2026",
       "vence": "06/11/2026"
-    },
-    {
-      "vacante": "1546881",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Luis Aguilar",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1547138",
@@ -296,22 +286,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546974",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Liceo De Matina",
-      "lecciones": "15",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546958",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
       "institucion": "Liceo De Matina",
       "lecciones": "6",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546974",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "Liceo De Matina",
+      "lecciones": "15",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -406,23 +396,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547025",
+      "vacante": "1547001",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Alfaro Ruiz",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "09/12/2026"
-    },
-    {
-      "vacante": "1547061",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Chachagua",
-      "lecciones": "18",
-      "rige": "05/10/2026",
+      "especialidad": "Psicología",
+      "institucion": "Cindea San Isidro Penas Blancas",
+      "lecciones": "4",
+      "rige": "25/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -446,13 +426,23 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547001",
+      "vacante": "1547025",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Cindea San Isidro Penas Blancas",
-      "lecciones": "4",
-      "rige": "25/09/2026",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Alfaro Ruiz",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "09/12/2026"
+    },
+    {
+      "vacante": "1547061",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo De Chachagua",
+      "lecciones": "18",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -524,6 +514,16 @@
       "lecciones": "20",
       "rige": "18/08/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547185",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "El Jardin (Pital)",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1545619",
@@ -606,16 +606,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546878",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ezequiel Morales Aguilar",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "19/11/2026"
-    },
-    {
       "vacante": "1546932",
       "regional": "Direc. Regional Educacion San Jose - Oeste",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -676,16 +666,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546725",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Rural Medio Queso",
-      "lecciones": "40",
-      "rige": "11/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1516510",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -693,6 +673,16 @@
       "institucion": "Liceo De Brasilia",
       "lecciones": "6",
       "rige": "22/04/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546725",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Rural Medio Queso",
+      "lecciones": "40",
+      "rige": "11/09/2026",
       "vence": "11/12/2026"
     }
   ]
