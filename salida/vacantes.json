@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-23T16:00:45.871Z",
-  "totalPais": 70,
+  "generado": "2026-09-23T16:20:49.949Z",
+  "totalPais": 69,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -134,16 +134,6 @@
       "vence": "20/11/2026"
     },
     {
-      "vacante": "1546934",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "La Trinidad (Rosario)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "22/11/2026"
-    },
-    {
       "vacante": "1546913",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -152,6 +142,16 @@
       "lecciones": "0",
       "rige": "25/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546934",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Trinidad (Rosario)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "22/11/2026"
     },
     {
       "vacante": "1546918",
@@ -184,16 +184,6 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1546841",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Primavera (Rita)",
-      "lecciones": "0",
-      "rige": "23/09/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1546849",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -202,6 +192,16 @@
       "lecciones": "0",
       "rige": "24/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1546841",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Primavera (Rita)",
+      "lecciones": "0",
+      "rige": "23/09/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1546846",
@@ -284,16 +284,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546958",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Matina",
-      "lecciones": "6",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546974",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -310,6 +300,16 @@
       "especialidad": "Química",
       "institucion": "Liceo De Matina",
       "lecciones": "15",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546958",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Matina",
+      "lecciones": "6",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -404,6 +404,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547025",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Alfaro Ruiz",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "09/12/2026"
+    },
+    {
       "vacante": "1547082",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -422,16 +432,6 @@
       "lecciones": "18",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547025",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Alfaro Ruiz",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "09/12/2026"
     },
     {
       "vacante": "1547001",
@@ -522,16 +522,6 @@
       "lecciones": "40",
       "rige": "22/09/2026",
       "vence": "31/10/2026"
-    },
-    {
-      "vacante": "1546547",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Colegio Tecnico Profesional La Tigra",
-      "lecciones": "44",
-      "rige": "05/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1546864",
@@ -654,16 +644,6 @@
       "vence": "26/11/2026"
     },
     {
-      "vacante": "1546878",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ezequiel Morales Aguilar",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "19/11/2026"
-    },
-    {
       "vacante": "1546904",
       "regional": "Direc. Regional Educacion San Jose - Oeste",
       "clasePuesto": "Cocinero",
@@ -672,6 +652,16 @@
       "lecciones": "0",
       "rige": "25/09/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1546878",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Ezequiel Morales Aguilar",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "19/11/2026"
     },
     {
       "vacante": "1546932",
@@ -704,16 +694,6 @@
       "vence": "31/01/2029"
     },
     {
-      "vacante": "1541670",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "C.T.P. Los Chiles",
-      "lecciones": "9",
-      "rige": "08/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1516510",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -721,6 +701,16 @@
       "institucion": "Liceo De Brasilia",
       "lecciones": "6",
       "rige": "22/04/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1541670",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "C.T.P. Los Chiles",
+      "lecciones": "9",
+      "rige": "08/09/2026",
       "vence": "11/12/2026"
     },
     {
