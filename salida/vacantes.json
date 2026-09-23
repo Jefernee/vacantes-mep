@@ -1,11 +1,10 @@
 {
-  "generado": "2026-09-23T20:00:47.127Z",
-  "totalPais": 66,
+  "generado": "2026-09-23T20:40:52.716Z",
+  "totalPais": 63,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
-    "Biología",
     "Ciencias",
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Diseño De Productos Industriales Textiles",
@@ -176,16 +175,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546908",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Cindea Puerto Jimenez",
-      "lecciones": "35",
-      "rige": "25/09/2026",
-      "vence": "20/11/2026"
-    },
-    {
       "vacante": "1546999",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -196,14 +185,14 @@
       "vence": "20/11/2026"
     },
     {
-      "vacante": "1546934",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "La Trinidad (Rosario)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "22/11/2026"
+      "vacante": "1546908",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Cindea Puerto Jimenez",
+      "lecciones": "35",
+      "rige": "25/09/2026",
+      "vence": "20/11/2026"
     },
     {
       "vacante": "1546918",
@@ -284,16 +273,6 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1546926",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "Liceo De Matina",
-      "lecciones": "9",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1546974",
@@ -526,16 +505,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1545619",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "San Juan",
-      "lecciones": "40",
-      "rige": "22/09/2026",
-      "vence": "31/10/2026"
-    },
-    {
       "vacante": "1547221",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -676,16 +645,6 @@
       "vence": "31/01/2029"
     },
     {
-      "vacante": "1541670",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "C.T.P. Los Chiles",
-      "lecciones": "9",
-      "rige": "08/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1516510",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -703,6 +662,16 @@
       "institucion": "Liceo Rural Medio Queso",
       "lecciones": "40",
       "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1541670",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "C.T.P. Los Chiles",
+      "lecciones": "9",
+      "rige": "08/09/2026",
       "vence": "11/12/2026"
     }
   ]
