@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-23T15:15:59.566Z",
+  "generado": "2026-09-23T15:20:45.278Z",
   "totalPais": 74,
   "calzanVT6": 0,
   "advertencias": [],
@@ -64,16 +64,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546393",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "I.P.E.C. Maria Pacheco",
-      "lecciones": "44",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1543698",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -81,6 +71,16 @@
       "institucion": "Liceo Ambientalista El Roble",
       "lecciones": "12",
       "rige": "02/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546393",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "I.P.E.C. Maria Pacheco",
+      "lecciones": "44",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -124,16 +124,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546999",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Colegio Academico La Palma",
-      "lecciones": "9",
-      "rige": "28/09/2026",
-      "vence": "20/11/2026"
-    },
-    {
       "vacante": "1546908",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -141,6 +131,16 @@
       "institucion": "Cindea Puerto Jimenez",
       "lecciones": "35",
       "rige": "25/09/2026",
+      "vence": "20/11/2026"
+    },
+    {
+      "vacante": "1546999",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Colegio Academico La Palma",
+      "lecciones": "9",
+      "rige": "28/09/2026",
       "vence": "20/11/2026"
     },
     {
@@ -434,16 +434,6 @@
       "vence": "01/11/2026"
     },
     {
-      "vacante": "1547025",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Alfaro Ruiz",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "09/12/2026"
-    },
-    {
       "vacante": "1546785",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -454,14 +444,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547061",
+      "vacante": "1547025",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Chachagua",
-      "lecciones": "18",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Alfaro Ruiz",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "09/12/2026"
     },
     {
       "vacante": "1547001",
@@ -471,6 +461,16 @@
       "institucion": "Cindea San Isidro Penas Blancas",
       "lecciones": "4",
       "rige": "25/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547061",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo De Chachagua",
+      "lecciones": "18",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -574,20 +574,20 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546858",
+      "vacante": "1546864",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Biología",
       "institucion": "San Francisco De La Palmera",
       "lecciones": "6",
       "rige": "30/09/2026",
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1546864",
+      "vacante": "1546858",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Química",
       "institucion": "San Francisco De La Palmera",
       "lecciones": "6",
       "rige": "30/09/2026",
@@ -744,6 +744,16 @@
       "vence": "31/01/2029"
     },
     {
+      "vacante": "1546725",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Rural Medio Queso",
+      "lecciones": "40",
+      "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1541670",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -761,16 +771,6 @@
       "institucion": "Liceo De Brasilia",
       "lecciones": "6",
       "rige": "22/04/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546725",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Rural Medio Queso",
-      "lecciones": "40",
-      "rige": "11/09/2026",
       "vence": "11/12/2026"
     }
   ]
