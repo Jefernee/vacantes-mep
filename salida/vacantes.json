@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-23T22:20:52.896Z",
+  "generado": "2026-09-23T22:21:33.762Z",
   "totalPais": 51,
   "calzanVT6": 1,
   "advertencias": [],
@@ -282,6 +282,26 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547025",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Alfaro Ruiz",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "09/12/2026"
+    },
+    {
+      "vacante": "1547001",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Cindea San Isidro Penas Blancas",
+      "lecciones": "4",
+      "rige": "25/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547114",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -302,16 +322,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547001",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Cindea San Isidro Penas Blancas",
-      "lecciones": "4",
-      "rige": "25/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547061",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -320,16 +330,6 @@
       "lecciones": "18",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547025",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Alfaro Ruiz",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "09/12/2026"
     },
     {
       "vacante": "1546656",
@@ -532,16 +532,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1541670",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "C.T.P. Los Chiles",
-      "lecciones": "9",
-      "rige": "08/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1516510",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -549,6 +539,16 @@
       "institucion": "Liceo De Brasilia",
       "lecciones": "6",
       "rige": "22/04/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1541670",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "C.T.P. Los Chiles",
+      "lecciones": "9",
+      "rige": "08/09/2026",
       "vence": "11/12/2026"
     }
   ]
