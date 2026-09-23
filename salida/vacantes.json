@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-23T16:20:49.949Z",
-  "totalPais": 69,
+  "generado": "2026-09-23T16:40:38.647Z",
+  "totalPais": 70,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -184,16 +184,6 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1546849",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Los Geranios",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1546841",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -202,6 +192,16 @@
       "lecciones": "0",
       "rige": "23/09/2026",
       "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1546849",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Los Geranios",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1546846",
@@ -274,12 +274,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546926",
+      "vacante": "1546958",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Ciencias",
       "institucion": "Liceo De Matina",
-      "lecciones": "9",
+      "lecciones": "6",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -304,12 +304,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546958",
+      "vacante": "1546926",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
+      "especialidad": "Biología",
       "institucion": "Liceo De Matina",
-      "lecciones": "6",
+      "lecciones": "9",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -404,6 +404,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547061",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo De Chachagua",
+      "lecciones": "18",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547025",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -414,6 +424,16 @@
       "vence": "09/12/2026"
     },
     {
+      "vacante": "1547114",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Ctp Calle Zamora",
+      "lecciones": "17",
+      "rige": "24/09/2026",
+      "vence": "15/11/2026"
+    },
+    {
       "vacante": "1547082",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -421,16 +441,6 @@
       "institucion": "Ctp Calle Zamora",
       "lecciones": "40",
       "rige": "24/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547061",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Chachagua",
-      "lecciones": "18",
-      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -524,20 +534,20 @@
       "vence": "31/10/2026"
     },
     {
-      "vacante": "1546864",
+      "vacante": "1546858",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Química",
       "institucion": "San Francisco De La Palmera",
       "lecciones": "6",
       "rige": "30/09/2026",
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1546858",
+      "vacante": "1546864",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Biología",
       "institucion": "San Francisco De La Palmera",
       "lecciones": "6",
       "rige": "30/09/2026",
@@ -694,13 +704,13 @@
       "vence": "31/01/2029"
     },
     {
-      "vacante": "1516510",
+      "vacante": "1546725",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Brasilia",
-      "lecciones": "6",
-      "rige": "22/04/2026",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Rural Medio Queso",
+      "lecciones": "40",
+      "rige": "11/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -714,13 +724,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546725",
+      "vacante": "1516510",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Rural Medio Queso",
-      "lecciones": "40",
-      "rige": "11/09/2026",
+      "especialidad": "Francés",
+      "institucion": "Liceo De Brasilia",
+      "lecciones": "6",
+      "rige": "22/04/2026",
       "vence": "11/12/2026"
     }
   ]
