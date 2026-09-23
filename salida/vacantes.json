@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-23T14:00:48.558Z",
-  "totalPais": 75,
+  "generado": "2026-09-23T14:21:02.708Z",
+  "totalPais": 74,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -64,16 +64,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543698",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Diseño Publicitario",
-      "institucion": "Liceo Ambientalista El Roble",
-      "lecciones": "12",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546393",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -81,6 +71,16 @@
       "institucion": "I.P.E.C. Maria Pacheco",
       "lecciones": "44",
       "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1543698",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Diseño Publicitario",
+      "institucion": "Liceo Ambientalista El Roble",
+      "lecciones": "12",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -94,16 +94,6 @@
       "vence": "13/11/2026"
     },
     {
-      "vacante": "1546737",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "C.T.P. Abangares",
-      "lecciones": "4",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546733",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -111,6 +101,16 @@
       "institucion": "C.T.P. De Abangares",
       "lecciones": "40",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546737",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "C.T.P. Abangares",
+      "lecciones": "4",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -174,16 +174,6 @@
       "vence": "20/11/2026"
     },
     {
-      "vacante": "1546913",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Republic De Honduras(S.Miguel)",
-      "lecciones": "0",
-      "rige": "25/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546934",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -192,6 +182,16 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "22/11/2026"
+    },
+    {
+      "vacante": "1546913",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Republic De Honduras(S.Miguel)",
+      "lecciones": "0",
+      "rige": "25/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1546918",
@@ -314,20 +314,20 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546974",
+      "vacante": "1546926",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
+      "especialidad": "Biología",
       "institucion": "Liceo De Matina",
-      "lecciones": "15",
+      "lecciones": "9",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546986",
+      "vacante": "1546974",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Física",
       "institucion": "Liceo De Matina",
       "lecciones": "15",
       "rige": "28/09/2026",
@@ -344,12 +344,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546926",
+      "vacante": "1546986",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Química",
       "institucion": "Liceo De Matina",
-      "lecciones": "9",
+      "lecciones": "15",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -359,7 +359,7 @@
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Artes Industriales",
       "institucion": "Liceo De Matina",
-      "lecciones": "4",
+      "lecciones": "8",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -464,16 +464,6 @@
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1547001",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Cindea San Isidro Penas Blancas",
-      "lecciones": "4",
-      "rige": "25/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546785",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -481,6 +471,16 @@
       "institucion": "Liceo De Magallanes",
       "lecciones": "6",
       "rige": "24/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547001",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Cindea San Isidro Penas Blancas",
+      "lecciones": "4",
+      "rige": "25/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -544,16 +544,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546729",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Junquillo Abajo (Santiago)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1545619",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -574,20 +564,20 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1546858",
+      "vacante": "1546864",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Biología",
       "institucion": "San Francisco De La Palmera",
       "lecciones": "6",
       "rige": "30/09/2026",
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1546864",
+      "vacante": "1546858",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Química",
       "institucion": "San Francisco De La Palmera",
       "lecciones": "6",
       "rige": "30/09/2026",
