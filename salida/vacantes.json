@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T01:40:41.746Z",
+  "generado": "2026-09-24T02:00:47.461Z",
   "totalPais": 50,
   "calzanVT6": 1,
   "advertencias": [],
@@ -281,14 +281,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547061",
+      "vacante": "1547025",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Chachagua",
-      "lecciones": "18",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Alfaro Ruiz",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "09/12/2026"
     },
     {
       "vacante": "1547114",
@@ -311,14 +311,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547025",
+      "vacante": "1547061",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Alfaro Ruiz",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "09/12/2026"
+      "especialidad": "Química",
+      "institucion": "Liceo De Chachagua",
+      "lecciones": "18",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1546656",
@@ -461,16 +461,6 @@
       "vence": "02/12/2026"
     },
     {
-      "vacante": "1547105",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "C.T.P. De Santa Cruz",
-      "lecciones": "12",
-      "rige": "23/09/2026",
-      "vence": "31/10/2026"
-    },
-    {
       "vacante": "1547210",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -479,6 +469,16 @@
       "lecciones": "44",
       "rige": "23/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547105",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "C.T.P. De Santa Cruz",
+      "lecciones": "12",
+      "rige": "23/09/2026",
+      "vence": "31/10/2026"
     },
     {
       "vacante": "1547116",
@@ -511,13 +511,13 @@
       "vence": "31/01/2029"
     },
     {
-      "vacante": "1546725",
+      "vacante": "1541670",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Rural Medio Queso",
-      "lecciones": "40",
-      "rige": "11/09/2026",
+      "especialidad": "Francés",
+      "institucion": "C.T.P. Los Chiles",
+      "lecciones": "9",
+      "rige": "08/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -531,13 +531,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1541670",
+      "vacante": "1546725",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "C.T.P. Los Chiles",
-      "lecciones": "9",
-      "rige": "08/09/2026",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Rural Medio Queso",
+      "lecciones": "40",
+      "rige": "11/09/2026",
       "vence": "11/12/2026"
     }
   ]
