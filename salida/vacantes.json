@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-24T14:20:55.899Z",
-  "totalPais": 45,
+  "generado": "2026-09-24T14:40:42.639Z",
+  "totalPais": 46,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -358,6 +358,16 @@
       "lecciones": "0",
       "rige": "23/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547341",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "J.N. Concepcion",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "02/11/2026"
     },
     {
       "vacante": "1547330",
