@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T11:20:47.263Z",
+  "generado": "2026-09-24T11:40:45.918Z",
   "totalPais": 50,
   "calzanVT6": 1,
   "advertencias": [],
@@ -291,6 +291,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547025",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Alfaro Ruiz",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "09/12/2026"
+    },
+    {
       "vacante": "1547114",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -309,16 +319,6 @@
       "lecciones": "40",
       "rige": "24/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547025",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Alfaro Ruiz",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "09/12/2026"
     },
     {
       "vacante": "1546656",
@@ -461,16 +461,6 @@
       "vence": "02/12/2026"
     },
     {
-      "vacante": "1547210",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo De Santa Cruz",
-      "lecciones": "44",
-      "rige": "23/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547105",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -479,6 +469,16 @@
       "lecciones": "12",
       "rige": "23/09/2026",
       "vence": "31/10/2026"
+    },
+    {
+      "vacante": "1547210",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo De Santa Cruz",
+      "lecciones": "44",
+      "rige": "23/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547116",
