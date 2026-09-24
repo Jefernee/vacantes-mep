@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-24T15:00:50.766Z",
-  "totalPais": 47,
+  "generado": "2026-09-24T15:20:49.788Z",
+  "totalPais": 52,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,6 +12,7 @@
     "Educación Física",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
+    "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Equipos Interdisciplinarios / Social",
     "Español",
     "Estudios Sociales/Educación Cívica",
@@ -22,7 +23,6 @@
     "Inglés",
     "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
     "Matemáticas",
-    "Química",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -212,6 +212,16 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1547359",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Olivia (Bratsi)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547352",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -232,16 +242,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547082",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Ctp Calle Zamora",
-      "lecciones": "40",
-      "rige": "24/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547114",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -252,13 +252,13 @@
       "vence": "15/11/2026"
     },
     {
-      "vacante": "1547061",
+      "vacante": "1547082",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Chachagua",
-      "lecciones": "18",
-      "rige": "05/10/2026",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Ctp Calle Zamora",
+      "lecciones": "40",
+      "rige": "24/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -342,6 +342,16 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1547366",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cedral (Quesada)",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "08/01/2027"
+    },
+    {
       "vacante": "1547221",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -350,6 +360,16 @@
       "lecciones": "0",
       "rige": "23/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547357",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "El Carmen (Quesada)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1547341",
@@ -366,6 +386,16 @@
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
       "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Pacifica Fernandez Oreamuno",
+      "lecciones": "40",
+      "rige": "24/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547371",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
       "institucion": "Pacifica Fernandez Oreamuno",
       "lecciones": "40",
       "rige": "24/09/2026",
@@ -462,6 +492,16 @@
       "vence": "31/10/2026"
     },
     {
+      "vacante": "1547361",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Liceo De Belen",
+      "lecciones": "15",
+      "rige": "24/09/2026",
+      "vence": "31/10/2026"
+    },
+    {
       "vacante": "1547210",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -480,6 +520,16 @@
       "lecciones": "40",
       "rige": "29/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547367",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Bijagua",
+      "lecciones": "0",
+      "rige": "23/09/2026",
+      "vence": "01/12/2026"
     },
     {
       "vacante": "1547342",
