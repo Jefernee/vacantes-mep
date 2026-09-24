@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-24T14:40:42.639Z",
-  "totalPais": 46,
+  "generado": "2026-09-24T15:00:50.766Z",
+  "totalPais": 47,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,6 +9,7 @@
     "Biología",
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Diseño De Productos Industriales Textiles",
+    "Educación Física",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
     "Equipos Interdisciplinarios / Social",
@@ -19,6 +20,7 @@
     "Francés",
     "Gestion De La Calidad",
     "Inglés",
+    "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
     "Matemáticas",
     "Química",
     "Religión",
@@ -190,16 +192,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547045",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Joaquin Lizano Gutierrez",
-      "lecciones": "0",
-      "rige": "23/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1547177",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -220,6 +212,16 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1547352",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
+      "institucion": "C.T.P. De Nandayure",
+      "lecciones": "20",
+      "rige": "28/09/2026",
+      "vence": "01/11/2026"
+    },
+    {
       "vacante": "1547176",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -230,13 +232,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547061",
+      "vacante": "1547082",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Chachagua",
-      "lecciones": "18",
-      "rige": "05/10/2026",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Ctp Calle Zamora",
+      "lecciones": "40",
+      "rige": "24/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -250,13 +252,13 @@
       "vence": "15/11/2026"
     },
     {
-      "vacante": "1547082",
+      "vacante": "1547061",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Ctp Calle Zamora",
-      "lecciones": "40",
-      "rige": "24/09/2026",
+      "especialidad": "Química",
+      "institucion": "Liceo De Chachagua",
+      "lecciones": "18",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -280,16 +282,6 @@
       "vence": "15/11/2026"
     },
     {
-      "vacante": "1547046",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Union (San Pedro)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "24/03/2027"
-    },
-    {
       "vacante": "1547178",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -300,11 +292,11 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547042",
+      "vacante": "1547344",
       "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Peñas Blancas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Santiago (San Pedro)",
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
@@ -440,6 +432,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1547329",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Playa Hermosa",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "14/04/2028"
+    },
+    {
       "vacante": "1547219",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -477,6 +479,16 @@
       "institucion": "C.T.P. De Cartagena",
       "lecciones": "40",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547342",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Bijagua",
+      "lecciones": "0",
+      "rige": "22/09/2026",
       "vence": "11/12/2026"
     },
     {
