@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T00:00:49.529Z",
+  "generado": "2026-09-24T00:20:47.408Z",
   "totalPais": 50,
   "calzanVT6": 1,
   "advertencias": [],
@@ -281,16 +281,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547025",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Alfaro Ruiz",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "09/12/2026"
-    },
-    {
       "vacante": "1547114",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -319,6 +309,16 @@
       "lecciones": "18",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547025",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Alfaro Ruiz",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "09/12/2026"
     },
     {
       "vacante": "1546656",
@@ -521,16 +521,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1516510",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Brasilia",
-      "lecciones": "6",
-      "rige": "22/04/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1546725",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -538,6 +528,16 @@
       "institucion": "Liceo Rural Medio Queso",
       "lecciones": "40",
       "rige": "11/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1516510",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Liceo De Brasilia",
+      "lecciones": "6",
+      "rige": "22/04/2026",
       "vence": "11/12/2026"
     }
   ]
