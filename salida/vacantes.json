@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T14:00:58.663Z",
+  "generado": "2026-09-24T14:20:55.899Z",
   "totalPais": 45,
   "calzanVT6": 1,
   "advertencias": [],
@@ -440,16 +440,6 @@
       "vence": "02/12/2026"
     },
     {
-      "vacante": "1547210",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo De Santa Cruz",
-      "lecciones": "44",
-      "rige": "23/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547105",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -458,6 +448,16 @@
       "lecciones": "12",
       "rige": "23/09/2026",
       "vence": "31/10/2026"
+    },
+    {
+      "vacante": "1547210",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo De Santa Cruz",
+      "lecciones": "44",
+      "rige": "23/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547116",
