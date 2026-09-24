@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T19:40:40.334Z",
+  "generado": "2026-09-24T19:44:18.107Z",
   "totalPais": 51,
   "calzanVT6": 0,
   "advertencias": [],
@@ -21,6 +21,7 @@
     "Física",
     "Inglés",
     "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
+    "Producción Agrícola Y Pecuaria",
     "Química",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -218,12 +219,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547401",
+      "vacante": "1547434",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "12",
+      "especialidad": "Ciencias",
+      "institucion": "C.T.P. De Piedades Sur",
+      "lecciones": "30",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -238,21 +239,21 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547401",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P Zarcero",
+      "lecciones": "12",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547399",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
       "institucion": "C.T.P Zarcero",
-      "lecciones": "30",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547434",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "C.T.P. De Piedades Sur",
       "lecciones": "30",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
@@ -266,6 +267,16 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "21/11/2026"
+    },
+    {
+      "vacante": "1547477",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Producción Agrícola Y Pecuaria",
+      "institucion": "C.T.P. De Piedades Sur",
+      "lecciones": "24",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547303",
@@ -318,16 +329,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547322",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Joaquin (Cutris)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1547366",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -338,14 +339,14 @@
       "vence": "08/01/2027"
     },
     {
-      "vacante": "1547221",
+      "vacante": "1547322",
       "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "La Perla (Fortuna)",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Joaquin (Cutris)",
       "lecciones": "0",
-      "rige": "23/09/2026",
-      "vence": "11/12/2026"
+      "rige": "01/10/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1547357",
