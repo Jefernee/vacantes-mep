@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-24T16:20:44.628Z",
-  "totalPais": 50,
+  "generado": "2026-09-24T16:40:44.386Z",
+  "totalPais": 52,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -19,11 +19,11 @@
     "Executive Secretarial Management",
     "Filosofía",
     "Francés",
+    "Física",
     "Gestion De La Calidad",
     "Inglés",
     "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
     "Matemáticas",
-    "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -212,6 +212,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547404",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Repulica De Bolivia",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "13/11/2026"
+    },
+    {
       "vacante": "1547352",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -232,14 +242,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547114",
+      "vacante": "1547402",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Ctp Calle Zamora",
-      "lecciones": "17",
-      "rige": "24/09/2026",
-      "vence": "15/11/2026"
+      "especialidad": "Biología",
+      "institucion": "C.T.P Zarcero",
+      "lecciones": "3",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547399",
@@ -248,6 +258,16 @@
       "especialidad": "Ciencias",
       "institucion": "C.T.P Zarcero",
       "lecciones": "30",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547401",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P Zarcero",
+      "lecciones": "12",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -312,16 +332,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1547322",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Joaquin (Cutris)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1547366",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -330,6 +340,16 @@
       "lecciones": "0",
       "rige": "24/09/2026",
       "vence": "08/01/2027"
+    },
+    {
+      "vacante": "1547322",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Joaquin (Cutris)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1547221",
@@ -462,6 +482,16 @@
       "vence": "02/12/2026"
     },
     {
+      "vacante": "1547210",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo De Santa Cruz",
+      "lecciones": "44",
+      "rige": "23/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547361",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -480,16 +510,6 @@
       "lecciones": "12",
       "rige": "23/09/2026",
       "vence": "31/10/2026"
-    },
-    {
-      "vacante": "1547210",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo De Santa Cruz",
-      "lecciones": "44",
-      "rige": "23/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1547116",
