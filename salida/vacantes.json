@@ -1,15 +1,17 @@
 {
-  "generado": "2026-09-24T17:40:45.549Z",
-  "totalPais": 48,
+  "generado": "2026-09-24T18:00:44.329Z",
+  "totalPais": 52,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Agropecuario En Producción Pecuaria",
     "Artes Industriales",
     "Artes Plásticas/Artes Plásticas",
     "Biología",
     "Ciencias",
     "Educación Física",
     "Educación Para El Hogar",
+    "Electromecánica",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
@@ -18,7 +20,6 @@
     "Executive Secretarial Management",
     "Francés",
     "Física",
-    "Gestion De La Calidad",
     "Inglés",
     "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
     "Matemáticas",
@@ -36,16 +37,6 @@
       "lecciones": "0",
       "rige": "07/10/2026",
       "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1547154",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Gestion De La Calidad",
-      "institucion": "C.T.P. De San Mateo",
-      "lecciones": "20",
-      "rige": "28/09/2026",
-      "vence": "19/11/2026"
     },
     {
       "vacante": "1547223",
@@ -105,6 +96,26 @@
       "institucion": "San Francisco (Sabalito)",
       "lecciones": "0",
       "rige": "24/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547426",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Mariano Figueres Forges",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1547440",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Electromecánica",
+      "institucion": "C.T.P. Jose Figueres Ferrer",
+      "lecciones": "40",
+      "rige": "24/08/2026",
       "vence": "11/12/2026"
     },
     {
@@ -198,12 +209,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547399",
+      "vacante": "1547402",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
+      "especialidad": "Biología",
       "institucion": "C.T.P Zarcero",
-      "lecciones": "30",
+      "lecciones": "3",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -218,12 +229,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547402",
+      "vacante": "1547399",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Ciencias",
       "institucion": "C.T.P Zarcero",
-      "lecciones": "3",
+      "lecciones": "30",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547434",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "C.T.P. De Piedades Sur",
+      "lecciones": "30",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -338,6 +359,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1547435",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Agropecuario En Producción Pecuaria",
+      "institucion": "C.T.P. De La Fortuna",
+      "lecciones": "16",
+      "rige": "24/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547341",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -415,6 +446,16 @@
       "institucion": "Cindea Montes De Oca",
       "lecciones": "8",
       "rige": "09/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547422",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Republica De Francia",
+      "lecciones": "0",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
