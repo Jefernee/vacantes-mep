@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-24T13:20:43.256Z",
-  "totalPais": 43,
+  "generado": "2026-09-24T13:40:44.983Z",
+  "totalPais": 44,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -260,16 +260,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547025",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Alfaro Ruiz",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "09/12/2026"
-    },
-    {
       "vacante": "1547114",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -288,6 +278,16 @@
       "lecciones": "40",
       "rige": "24/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547025",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Alfaro Ruiz",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "09/12/2026"
     },
     {
       "vacante": "1546656",
@@ -390,6 +390,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547310",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Col. Noct. De Santa Cruz",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1547219",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -400,16 +410,6 @@
       "vence": "02/12/2026"
     },
     {
-      "vacante": "1547105",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "C.T.P. De Santa Cruz",
-      "lecciones": "12",
-      "rige": "23/09/2026",
-      "vence": "31/10/2026"
-    },
-    {
       "vacante": "1547210",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -418,6 +418,16 @@
       "lecciones": "44",
       "rige": "23/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547105",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "C.T.P. De Santa Cruz",
+      "lecciones": "12",
+      "rige": "23/09/2026",
+      "vence": "31/10/2026"
     },
     {
       "vacante": "1547116",
