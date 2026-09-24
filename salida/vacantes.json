@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-24T17:00:41.613Z",
-  "totalPais": 49,
+  "generado": "2026-09-24T17:21:01.252Z",
+  "totalPais": 47,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -14,7 +14,6 @@
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Equipos Interdisciplinarios / Social",
     "Español",
-    "Estudios Sociales/Educación Cívica",
     "Executive Secretarial Management",
     "Francés",
     "Física",
@@ -27,26 +26,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1547133",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Bernardino (Horquetas)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/07/2029"
-    },
-    {
-      "vacante": "1547142",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Rural Las Colonias",
-      "lecciones": "40",
-      "rige": "02/11/2026",
-      "vence": "14/12/2026"
-    },
     {
       "vacante": "1544442",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -138,16 +117,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1547138",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Laguna Del Tortuguero",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1513133",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)",
@@ -218,6 +187,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547402",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "C.T.P Zarcero",
+      "lecciones": "3",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547399",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -238,14 +217,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547402",
+      "vacante": "1547419",
       "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "3",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "La Picada (Palmira)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "21/11/2026"
     },
     {
       "vacante": "1547303",
@@ -308,16 +287,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1547366",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cedral (Quesada)",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "08/01/2027"
-    },
-    {
       "vacante": "1547322",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -326,6 +295,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1547366",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cedral (Quesada)",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "08/01/2027"
     },
     {
       "vacante": "1547357",
