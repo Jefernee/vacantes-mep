@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-24T18:20:40.442Z",
-  "totalPais": 52,
+  "generado": "2026-09-24T18:40:59.171Z",
+  "totalPais": 51,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,7 +12,6 @@
     "Educación Física",
     "Educación Para El Hogar",
     "Electromecánica",
-    "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Equipos Interdisciplinarios / Social",
@@ -23,6 +22,7 @@
     "Inglés",
     "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
     "Matemáticas",
+    "Química",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -149,16 +149,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547177",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Santa Barbara",
-      "lecciones": "44",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1540351",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
@@ -176,6 +166,16 @@
       "institucion": "Olivia (Bratsi)",
       "lecciones": "0",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547450",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P De Limon",
+      "lecciones": "6",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -199,23 +199,13 @@
       "vence": "01/11/2026"
     },
     {
-      "vacante": "1547176",
+      "vacante": "1547451",
       "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "clasePuesto": "Director De Colegio 1",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Miguel Oeste (San Miguel)",
+      "institucion": "Cindea San Isidro Penas Blancas",
       "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547402",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "3",
-      "rige": "05/10/2026",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -235,6 +225,16 @@
       "especialidad": "Física",
       "institucion": "C.T.P Zarcero",
       "lecciones": "12",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547402",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "C.T.P Zarcero",
+      "lecciones": "3",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -267,16 +267,6 @@
       "lecciones": "0",
       "rige": "24/09/2026",
       "vence": "15/11/2026"
-    },
-    {
-      "vacante": "1547178",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "24/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1547344",
@@ -319,16 +309,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1547366",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cedral (Quesada)",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "08/01/2027"
-    },
-    {
       "vacante": "1547322",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -337,6 +317,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1547366",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cedral (Quesada)",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "08/01/2027"
     },
     {
       "vacante": "1547357",
@@ -489,16 +479,6 @@
       "vence": "02/12/2026"
     },
     {
-      "vacante": "1547210",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo De Santa Cruz",
-      "lecciones": "44",
-      "rige": "23/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547361",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -507,6 +487,16 @@
       "lecciones": "15",
       "rige": "24/09/2026",
       "vence": "31/10/2026"
+    },
+    {
+      "vacante": "1547210",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo De Santa Cruz",
+      "lecciones": "44",
+      "rige": "23/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547367",
