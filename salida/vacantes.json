@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T12:20:48.319Z",
+  "generado": "2026-09-24T12:41:07.926Z",
   "totalPais": 51,
   "calzanVT6": 1,
   "advertencias": [],
@@ -291,6 +291,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547061",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo De Chachagua",
+      "lecciones": "18",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547025",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -318,16 +328,6 @@
       "institucion": "Ctp Calle Zamora",
       "lecciones": "40",
       "rige": "24/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547061",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Chachagua",
-      "lecciones": "18",
-      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -531,16 +531,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1516510",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Brasilia",
-      "lecciones": "6",
-      "rige": "22/04/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1541670",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -548,6 +538,16 @@
       "institucion": "C.T.P. Los Chiles",
       "lecciones": "9",
       "rige": "08/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1516510",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Liceo De Brasilia",
+      "lecciones": "6",
+      "rige": "22/04/2026",
       "vence": "11/12/2026"
     }
   ]
