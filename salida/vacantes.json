@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T03:40:40.138Z",
+  "generado": "2026-09-24T08:34:05.410Z",
   "totalPais": 50,
   "calzanVT6": 1,
   "advertencias": [],
@@ -511,13 +511,13 @@
       "vence": "31/01/2029"
     },
     {
-      "vacante": "1546725",
+      "vacante": "1516510",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Rural Medio Queso",
-      "lecciones": "40",
-      "rige": "11/09/2026",
+      "especialidad": "Francés",
+      "institucion": "Liceo De Brasilia",
+      "lecciones": "6",
+      "rige": "22/04/2026",
       "vence": "11/12/2026"
     },
     {
@@ -531,13 +531,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1516510",
+      "vacante": "1546725",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Brasilia",
-      "lecciones": "6",
-      "rige": "22/04/2026",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Rural Medio Queso",
+      "lecciones": "40",
+      "rige": "11/09/2026",
       "vence": "11/12/2026"
     }
   ]
