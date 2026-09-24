@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T13:00:39.656Z",
+  "generado": "2026-09-24T13:20:43.256Z",
   "totalPais": 43,
   "calzanVT6": 1,
   "advertencias": [],
@@ -170,6 +170,16 @@
       "vence": "14/11/2026"
     },
     {
+      "vacante": "1547263",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Palmar Sur (Palmar)",
+      "lecciones": "0",
+      "rige": "26/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1547138",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
@@ -250,14 +260,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547082",
+      "vacante": "1547025",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Ctp Calle Zamora",
-      "lecciones": "40",
-      "rige": "24/09/2026",
-      "vence": "11/12/2026"
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Alfaro Ruiz",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "09/12/2026"
     },
     {
       "vacante": "1547114",
@@ -270,14 +280,14 @@
       "vence": "15/11/2026"
     },
     {
-      "vacante": "1547025",
+      "vacante": "1547082",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Alfaro Ruiz",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "09/12/2026"
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Ctp Calle Zamora",
+      "lecciones": "40",
+      "rige": "24/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1546656",
@@ -348,16 +358,6 @@
       "lecciones": "0",
       "rige": "23/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547013",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Concepcion",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1545638",
