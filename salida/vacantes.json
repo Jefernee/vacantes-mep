@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T22:20:43.434Z",
+  "generado": "2026-09-24T22:40:51.223Z",
   "totalPais": 56,
   "calzanVT6": 0,
   "advertencias": [],
@@ -272,21 +272,11 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547401",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "12",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547399",
+      "vacante": "1547434",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
-      "institucion": "C.T.P Zarcero",
+      "institucion": "C.T.P. De Piedades Sur",
       "lecciones": "30",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
@@ -302,12 +292,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547434",
+      "vacante": "1547399",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
-      "institucion": "C.T.P. De Piedades Sur",
+      "institucion": "C.T.P Zarcero",
       "lecciones": "30",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547401",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P Zarcero",
+      "lecciones": "12",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
