@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T19:20:40.613Z",
+  "generado": "2026-09-24T19:40:40.334Z",
   "totalPais": 51,
   "calzanVT6": 0,
   "advertencias": [],
@@ -21,7 +21,6 @@
     "Física",
     "Inglés",
     "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
-    "Matemáticas",
     "Química",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -219,12 +218,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547434",
+      "vacante": "1547401",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "C.T.P. De Piedades Sur",
-      "lecciones": "30",
+      "especialidad": "Física",
+      "institucion": "C.T.P Zarcero",
+      "lecciones": "12",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -239,21 +238,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547401",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "12",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547399",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
       "institucion": "C.T.P Zarcero",
+      "lecciones": "30",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547434",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "C.T.P. De Piedades Sur",
       "lecciones": "30",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
@@ -309,6 +308,16 @@
       "vence": "05/11/2026"
     },
     {
+      "vacante": "1547472",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Abelardo Rojas Quesada",
+      "lecciones": "0",
+      "rige": "16/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547322",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -329,16 +338,6 @@
       "vence": "08/01/2027"
     },
     {
-      "vacante": "1547357",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "El Carmen (Quesada)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1547221",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -347,6 +346,16 @@
       "lecciones": "0",
       "rige": "23/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547357",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "El Carmen (Quesada)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1547435",
@@ -487,16 +496,6 @@
       "lecciones": "15",
       "rige": "24/09/2026",
       "vence": "31/10/2026"
-    },
-    {
-      "vacante": "1547210",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo De Santa Cruz",
-      "lecciones": "44",
-      "rige": "23/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1547367",
