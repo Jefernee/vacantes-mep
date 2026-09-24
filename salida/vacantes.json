@@ -1,16 +1,17 @@
 {
-  "generado": "2026-09-24T13:40:44.983Z",
-  "totalPais": 44,
+  "generado": "2026-09-24T14:00:58.663Z",
+  "totalPais": 45,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
-    "Ciencias",
+    "Artes Plásticas/Artes Plásticas",
+    "Biología",
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Diseño De Productos Industriales Textiles",
-    "Enseñanza Especial . Audición Y Lenguaje",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
+    "Equipos Interdisciplinarios / Social",
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Executive Secretarial Management",
@@ -19,7 +20,6 @@
     "Gestion De La Calidad",
     "Inglés",
     "Matemáticas",
-    "Música/Piano",
     "Química",
     "Religión",
     "Sin Especialidad T-I",
@@ -60,16 +60,6 @@
       "vence": "14/12/2026"
     },
     {
-      "vacante": "1547024",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Puente De Piedra",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1544442",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Director De Colegio 1",
@@ -87,16 +77,6 @@
       "institucion": "Sabana Larga (Jesus)",
       "lecciones": "0",
       "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547017",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Santa Eulalia (Santa Eulalia)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -130,23 +110,33 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1543371",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Audición Y Lenguaje",
-      "institucion": "C.T.P. De Quepos",
-      "lecciones": "11",
-      "rige": "21/08/2026",
-      "vence": "11/12/2026"
+      "vacante": "1547304",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "J.N. Ricardo Jimenez O.",
+      "lecciones": "0",
+      "rige": "23/09/2026",
+      "vence": "21/11/2026"
     },
     {
-      "vacante": "1546722",
+      "vacante": "1545601",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo San Francisco Agua Cal.",
+      "lecciones": "0",
+      "rige": "17/09/2026",
+      "vence": "31/07/2029"
+    },
+    {
+      "vacante": "1546751",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "C.T.P. De Quepos",
-      "lecciones": "3",
-      "rige": "08/09/2026",
+      "clasePuesto": "Auxiliar Administrativo",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Colegio Nocturno De Quepos",
+      "lecciones": "0",
+      "rige": "24/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -230,16 +220,6 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1546251",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Director De Colegio Técnico Y Profesional 3",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "C.T.P. De Nicoya",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1547176",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -280,16 +260,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547025",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Alfaro Ruiz",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "09/12/2026"
-    },
-    {
       "vacante": "1546656",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -298,6 +268,16 @@
       "lecciones": "40",
       "rige": "25/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547303",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Cindea Cobano",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "15/11/2026"
     },
     {
       "vacante": "1547046",
@@ -330,14 +310,24 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1540961",
+      "vacante": "1547305",
       "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Piano",
-      "institucion": "Escuelas De Musica Puntarenas",
-      "lecciones": "20",
-      "rige": "18/08/2026",
-      "vence": "11/12/2026"
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Equipos Interdisciplinarios / Social",
+      "institucion": "Flora Guevara Barahona",
+      "lecciones": "0",
+      "rige": "22/09/2026",
+      "vence": "07/05/2030"
+    },
+    {
+      "vacante": "1547302",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "El Mojon (Espiritu Santo)",
+      "lecciones": "0",
+      "rige": "23/09/2026",
+      "vence": "05/11/2026"
     },
     {
       "vacante": "1547185",
@@ -350,6 +340,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1547322",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Joaquin (Cutris)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/01/2031"
+    },
+    {
       "vacante": "1547221",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -357,6 +357,16 @@
       "institucion": "La Perla (Fortuna)",
       "lecciones": "0",
       "rige": "23/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547330",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Pacifica Fernandez Oreamuno",
+      "lecciones": "40",
+      "rige": "24/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -370,14 +380,24 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546213",
+      "vacante": "1546721",
       "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "Porfirio Brenes Castro",
+      "institucion": "Liceo Jose J. Vargas Calvo",
+      "lecciones": "0",
+      "rige": "21/09/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1546717",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "J.N. Juan Enrique Pestalozzi",
       "lecciones": "0",
       "rige": "18/09/2026",
-      "vence": "31/07/2030"
+      "vence": "06/01/2027"
     },
     {
       "vacante": "1528807",
@@ -387,6 +407,16 @@
       "institucion": "Ctp Abelardo Bonilla Baldares",
       "lecciones": "12",
       "rige": "15/06/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546707",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "Cindea Montes De Oca",
+      "lecciones": "8",
+      "rige": "09/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -440,43 +470,23 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1546723",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Orientador 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cindea Los Chiles",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2029"
-    },
-    {
-      "vacante": "1541670",
+      "vacante": "1546712",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "C.T.P. Los Chiles",
-      "lecciones": "9",
-      "rige": "08/09/2026",
+      "especialidad": "Español",
+      "institucion": "Cindea Bijagua",
+      "lecciones": "5",
+      "rige": "14/09/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1516510",
+      "vacante": "1546715",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Brasilia",
-      "lecciones": "6",
-      "rige": "22/04/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546725",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Rural Medio Queso",
-      "lecciones": "40",
-      "rige": "11/09/2026",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Plásticas/Artes Plásticas",
+      "institucion": "Cindea Bijagua",
+      "lecciones": "10",
+      "rige": "14/09/2026",
       "vence": "11/12/2026"
     }
   ]
