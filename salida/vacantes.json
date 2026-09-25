@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-25T15:00:47.651Z",
-  "totalPais": 39,
+  "generado": "2026-09-25T15:20:44.323Z",
+  "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,8 +9,7 @@
     "Ciencias",
     "Educación Para El Hogar",
     "Electromecánica",
-    "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-    "Francés",
+    "Filosofía",
     "Física",
     "Inglés",
     "Labores Varias De Oficina",
@@ -237,11 +236,11 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547434",
+      "vacante": "1547399",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
-      "institucion": "C.T.P. De Piedades Sur",
+      "institucion": "C.T.P Zarcero",
       "lecciones": "30",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
@@ -257,22 +256,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547399",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "30",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547401",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Física",
       "institucion": "C.T.P Zarcero",
       "lecciones": "12",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547434",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "C.T.P. De Piedades Sur",
+      "lecciones": "30",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -297,6 +296,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547641",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Liceo Unesco",
+      "lecciones": "21",
+      "rige": "29/09/2026",
+      "vence": "07/11/2026"
+    },
+    {
       "vacante": "1547488",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
@@ -317,16 +326,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547366",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cedral (Quesada)",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "08/01/2027"
-    },
-    {
       "vacante": "1547435",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -344,16 +343,6 @@
       "institucion": "Prog.Itin.Segunda Lengua Trans",
       "lecciones": "0",
       "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547371",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Pacifica Fernandez Oreamuno",
-      "lecciones": "40",
-      "rige": "24/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -395,26 +384,6 @@
       "lecciones": "31",
       "rige": "29/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547361",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Belen",
-      "lecciones": "15",
-      "rige": "24/09/2026",
-      "vence": "31/10/2026"
-    },
-    {
-      "vacante": "1547367",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Bijagua",
-      "lecciones": "0",
-      "rige": "23/09/2026",
-      "vence": "01/12/2026"
     }
   ]
 }
