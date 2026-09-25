@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-25T19:00:38.076Z",
-  "totalPais": 24,
+  "generado": "2026-09-25T19:20:36.831Z",
+  "totalPais": 25,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -58,6 +58,16 @@
       "institucion": "C.T.P. Jesus Ocaña Rojas",
       "lecciones": "40",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547747",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "La Mariposa (Canoas)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
