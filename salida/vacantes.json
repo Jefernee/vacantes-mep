@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-25T01:20:41.153Z",
+  "generado": "2026-09-25T01:40:43.863Z",
   "totalPais": 60,
   "calzanVT6": 0,
   "advertencias": [],
@@ -283,16 +283,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547434",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "C.T.P. De Piedades Sur",
-      "lecciones": "30",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547402",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -318,6 +308,16 @@
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
       "institucion": "C.T.P Zarcero",
+      "lecciones": "30",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547434",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "C.T.P. De Piedades Sur",
       "lecciones": "30",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
@@ -393,6 +393,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547322",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Joaquin (Cutris)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/01/2031"
+    },
+    {
       "vacante": "1547472",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -411,16 +421,6 @@
       "lecciones": "0",
       "rige": "24/09/2026",
       "vence": "08/01/2027"
-    },
-    {
-      "vacante": "1547322",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Joaquin (Cutris)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1547357",
