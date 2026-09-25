@@ -1,18 +1,17 @@
 {
-  "generado": "2026-09-25T20:40:46.195Z",
-  "totalPais": 23,
+  "generado": "2026-09-25T21:01:05.238Z",
+  "totalPais": 22,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Educación Para El Hogar",
+    "Enseñanza Especial . Retardo Mental",
     "Filosofía",
     "Inglés",
     "Labores Varias De Oficina",
-    "Música/Flauta Traversa",
     "Música/Música",
     "Psicología",
     "Religión",
-    "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
     "Teatro"
@@ -40,6 +39,26 @@
       "vence": "15/12/2026"
     },
     {
+      "vacante": "1547794",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Prev Ens Esp Liceo San Jose",
+      "lecciones": "44",
+      "rige": "30/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547766",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo La Guacima",
+      "lecciones": "28",
+      "rige": "30/09/2026",
+      "vence": "15/11/2026"
+    },
+    {
       "vacante": "1547674",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -48,6 +67,16 @@
       "lecciones": "40",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547809",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "El Roble (San Antonio)",
+      "lecciones": "0",
+      "rige": "30/09/2026",
+      "vence": "05/11/2026"
     },
     {
       "vacante": "1547747",
@@ -68,16 +97,6 @@
       "lecciones": "0",
       "rige": "29/09/2026",
       "vence": "21/11/2026"
-    },
-    {
-      "vacante": "1547525",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Frailes",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1547562",
@@ -150,33 +169,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1545754",
-      "regional": "Direc. Regional Educacion Liberia",
+      "vacante": "1547689",
+      "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alba Ocampo Alvarado (Liberia)",
+      "institucion": "Arnulfo Arias Madrid (Tapezco)",
       "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1543420",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Flauta Traversa",
-      "institucion": "Liceo Art. Felipe Perez P.",
-      "lecciones": "17",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547441",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P De Limon",
-      "lecciones": "12",
-      "rige": "07/10/2026",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -185,16 +184,6 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Julia Fernandez Rodriguez",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547689",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Arnulfo Arias Madrid (Tapezco)",
       "lecciones": "0",
       "rige": "02/10/2026",
       "vence": "11/12/2026"
