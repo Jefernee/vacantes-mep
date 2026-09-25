@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-25T18:20:42.625Z",
-  "totalPais": 27,
+  "generado": "2026-09-25T18:40:44.510Z",
+  "totalPais": 24,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -11,7 +11,6 @@
     "Música/Flauta Traversa",
     "Música/Música",
     "Producción Agrícola Y Pecuaria",
-    "Química",
     "Religión",
     "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
@@ -111,16 +110,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547454",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Huetar (Cariari)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1547544",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -171,16 +160,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547450",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "C.T.P De Limon",
-      "lecciones": "6",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547441",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -188,16 +167,6 @@
       "institucion": "C.T.P De Limon",
       "lecciones": "12",
       "rige": "07/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547451",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Director De Colegio 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cindea San Isidro Penas Blancas",
-      "lecciones": "0",
-      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
