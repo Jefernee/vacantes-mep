@@ -1,22 +1,21 @@
 {
-  "generado": "2026-09-25T14:40:37.569Z",
-  "totalPais": 44,
+  "generado": "2026-09-25T15:00:47.651Z",
+  "totalPais": 39,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Agropecuario En Producción Pecuaria",
     "Biología",
     "Ciencias",
-    "Educación Física",
     "Educación Para El Hogar",
     "Electromecánica",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Francés",
     "Física",
     "Inglés",
-    "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
     "Labores Varias De Oficina",
     "Música/Flauta Traversa",
+    "Música/Música",
     "Producción Agrícola Y Pecuaria",
     "Química",
     "Religión",
@@ -118,6 +117,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547619",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Concepcion (Pilas)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547454",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)",
@@ -188,16 +197,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547359",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Olivia (Bratsi)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547450",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -226,16 +225,6 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "13/11/2026"
-    },
-    {
-      "vacante": "1547352",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Instalación Y Mantenimiento De Sistemas Eléctricos Industriales",
-      "institucion": "C.T.P. De Nandayure",
-      "lecciones": "20",
-      "rige": "28/09/2026",
-      "vence": "01/11/2026"
     },
     {
       "vacante": "1547451",
@@ -268,22 +257,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547401",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "12",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547399",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
       "institucion": "C.T.P Zarcero",
       "lecciones": "30",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547401",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P Zarcero",
+      "lecciones": "12",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -304,16 +293,6 @@
       "especialidad": "Producción Agrícola Y Pecuaria",
       "institucion": "C.T.P. De Piedades Sur",
       "lecciones": "24",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547344",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Santiago (San Pedro)",
-      "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -346,16 +325,6 @@
       "lecciones": "0",
       "rige": "24/09/2026",
       "vence": "08/01/2027"
-    },
-    {
-      "vacante": "1547357",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "El Carmen (Quesada)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1547435",
@@ -428,16 +397,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547329",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Playa Hermosa",
-      "lecciones": "0",
-      "rige": "14/10/2026",
-      "vence": "14/04/2028"
-    },
-    {
       "vacante": "1547361",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -456,16 +415,6 @@
       "lecciones": "0",
       "rige": "23/09/2026",
       "vence": "01/12/2026"
-    },
-    {
-      "vacante": "1547342",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Bijagua",
-      "lecciones": "0",
-      "rige": "22/09/2026",
-      "vence": "11/12/2026"
     }
   ]
 }
