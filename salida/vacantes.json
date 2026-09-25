@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-25T20:20:42.228Z",
-  "totalPais": 24,
+  "generado": "2026-09-25T20:40:46.195Z",
+  "totalPais": 23,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -38,16 +38,6 @@
       "lecciones": "0",
       "rige": "24/09/2026",
       "vence": "15/12/2026"
-    },
-    {
-      "vacante": "1547517",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Luis (Carrillos)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1547674",
@@ -190,21 +180,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547689",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Arnulfo Arias Madrid (Tapezco)",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547781",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Julia Fernandez Rodriguez",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547689",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Arnulfo Arias Madrid (Tapezco)",
       "lecciones": "0",
       "rige": "02/10/2026",
       "vence": "11/12/2026"

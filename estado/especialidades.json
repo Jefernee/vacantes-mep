@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 10682,
+      "vecesVista": 10689,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-25T20:20:42.229Z",
+      "ultimaVez": "2026-09-25T20:40:46.196Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 5383,
+      "vecesVista": 5386,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-25T20:20:42.229Z",
+      "ultimaVez": "2026-09-25T20:40:46.196Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 955,
+      "vecesVista": 956,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-25T20:20:42.229Z",
+      "ultimaVez": "2026-09-25T20:40:46.196Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 1076,
+      "vecesVista": 1078,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-25T20:20:42.229Z",
+      "ultimaVez": "2026-09-25T20:40:46.196Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 919,
+      "vecesVista": 920,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-25T20:20:42.229Z",
+      "ultimaVez": "2026-09-25T20:40:46.196Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -86,23 +86,23 @@
     },
     "Secretariado Ejecutivo": {
       "calce": "no interesa",
-      "vecesVista": 460,
+      "vecesVista": 461,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-25T20:20:42.229Z",
+      "ultimaVez": "2026-09-25T20:40:46.196Z",
       "avisadaComoNueva": true
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 3107,
+      "vecesVista": 3110,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-25T20:20:42.229Z",
+      "ultimaVez": "2026-09-25T20:40:46.196Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 747,
+      "vecesVista": 748,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-25T20:20:42.229Z",
+      "ultimaVez": "2026-09-25T20:40:46.196Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 460,
+      "vecesVista": 461,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-09-25T20:20:42.229Z",
+      "ultimaVez": "2026-09-25T20:40:46.196Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -219,9 +219,9 @@
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 553,
+      "vecesVista": 554,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-09-25T20:20:42.229Z",
+      "ultimaVez": "2026-09-25T20:40:46.196Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -492,18 +492,18 @@
     },
     "Música/Flauta Traversa": {
       "calce": "no interesa",
-      "vecesVista": 56,
+      "vecesVista": 57,
       "primeraVez": "2026-09-24T21:00:50.909Z",
-      "ultimaVez": "2026-09-25T20:20:42.229Z",
+      "ultimaVez": "2026-09-25T20:40:46.196Z",
       "avisadaComoNueva": true
     },
     "Teatro": {
       "calce": "no interesa",
-      "vecesVista": 53,
+      "vecesVista": 54,
       "primeraVez": "2026-09-24T22:00:44.178Z",
-      "ultimaVez": "2026-09-25T20:20:42.229Z",
+      "ultimaVez": "2026-09-25T20:40:46.196Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-25T20:20:42.229Z"
+  "actualizado": "2026-09-25T20:40:46.196Z"
 }
