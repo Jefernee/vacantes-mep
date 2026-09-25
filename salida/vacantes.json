@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-25T23:20:34.059Z",
-  "totalPais": 19,
+  "generado": "2026-09-25T23:40:33.951Z",
+  "totalPais": 18,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -175,16 +175,6 @@
       "institucion": "Prog.Itin.Segunda Lengua Trans",
       "lecciones": "0",
       "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547557",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "General Manuel Belgrano Gonzalez",
-      "lecciones": "0",
-      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
