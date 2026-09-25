@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-25T14:20:52.804Z",
-  "totalPais": 45,
+  "generado": "2026-09-25T14:40:37.569Z",
+  "totalPais": 44,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -248,6 +248,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547434",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "C.T.P. De Piedades Sur",
+      "lecciones": "30",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547402",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -273,16 +283,6 @@
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
       "institucion": "C.T.P Zarcero",
-      "lecciones": "30",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547434",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "C.T.P. De Piedades Sur",
       "lecciones": "30",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
@@ -366,16 +366,6 @@
       "lecciones": "16",
       "rige": "24/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547341",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "J.N. Concepcion",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "02/11/2026"
     },
     {
       "vacante": "1546970",
