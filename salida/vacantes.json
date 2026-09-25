@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-25T12:40:39.983Z",
-  "totalPais": 59,
+  "generado": "2026-09-25T13:00:42.944Z",
+  "totalPais": 61,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -32,6 +32,16 @@
   ],
   "interesantes": [],
   "todas": [
+    {
+      "vacante": "1547532",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Holanda (Alajuela)",
+      "lecciones": "0",
+      "rige": "24/09/2026",
+      "vence": "15/12/2026"
+    },
     {
       "vacante": "1547517",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -81,6 +91,16 @@
       "lecciones": "0",
       "rige": "24/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547521",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Auxiliar Administrativo",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Ctp Maximo Quesada",
+      "lecciones": "0",
+      "rige": "29/09/2026",
+      "vence": "21/11/2026"
     },
     {
       "vacante": "1547525",
@@ -273,6 +293,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547434",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "C.T.P. De Piedades Sur",
+      "lecciones": "30",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547402",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -289,16 +319,6 @@
       "especialidad": "Física",
       "institucion": "C.T.P Zarcero",
       "lecciones": "12",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547434",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "C.T.P. De Piedades Sur",
-      "lecciones": "30",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -443,6 +463,16 @@
       "vence": "02/11/2026"
     },
     {
+      "vacante": "1546970",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Inglés",
+      "institucion": "Prog.Itin.Segunda Lengua Trans",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547330",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -469,16 +499,6 @@
       "especialidad": "Religión",
       "institucion": "General Manuel Belgrano Gonzalez",
       "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1545638",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Roberto Brenes Mesen",
-      "lecciones": "44",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
