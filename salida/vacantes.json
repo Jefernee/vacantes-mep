@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-25T15:42:53.320Z",
-  "totalPais": 36,
+  "generado": "2026-09-25T16:00:56.599Z",
+  "totalPais": 35,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -43,16 +43,6 @@
       "institucion": "San Luis (Carrillos)",
       "lecciones": "0",
       "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547395",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Francisco (Sabalito)",
-      "lecciones": "0",
-      "rige": "24/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -236,21 +226,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547401",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "12",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547434",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
       "institucion": "C.T.P. De Piedades Sur",
+      "lecciones": "30",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547399",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "C.T.P Zarcero",
       "lecciones": "30",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
@@ -266,12 +256,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547399",
+      "vacante": "1547401",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
+      "especialidad": "Física",
       "institucion": "C.T.P Zarcero",
-      "lecciones": "30",
+      "lecciones": "12",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
