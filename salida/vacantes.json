@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-25T19:20:36.831Z",
-  "totalPais": 25,
+  "generado": "2026-09-25T19:40:33.756Z",
+  "totalPais": 23,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -10,7 +10,6 @@
     "Labores Varias De Oficina",
     "Música/Flauta Traversa",
     "Música/Música",
-    "Producción Agrícola Y Pecuaria",
     "Psicología",
     "Religión",
     "Secretariado Ejecutivo",
@@ -191,16 +190,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547477",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Producción Agrícola Y Pecuaria",
-      "institucion": "C.T.P. De Piedades Sur",
-      "lecciones": "24",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547641",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -218,16 +207,6 @@
       "institucion": "San Miguel (Barranca)",
       "lecciones": "0",
       "rige": "24/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547472",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Abelardo Rojas Quesada",
-      "lecciones": "0",
-      "rige": "16/10/2026",
       "vence": "11/12/2026"
     },
     {
