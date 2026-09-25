@@ -1,16 +1,14 @@
 {
-  "generado": "2026-09-25T16:20:35.320Z",
-  "totalPais": 34,
+  "generado": "2026-09-25T16:40:41.910Z",
+  "totalPais": 31,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Agropecuario En Producción Pecuaria",
-    "Biología",
     "Ciencias",
     "Educación Para El Hogar",
     "Electromecánica",
     "Filosofía",
-    "Física",
     "Inglés",
     "Labores Varias De Oficina",
     "Música/Flauta Traversa",
@@ -206,16 +204,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547404",
-      "regional": "Direc. Regional Educacion Los Santos",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Repulica De Bolivia",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "13/11/2026"
-    },
-    {
       "vacante": "1547451",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Director De Colegio 1",
@@ -226,32 +214,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547402",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "3",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547434",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
       "institucion": "C.T.P. De Piedades Sur",
       "lecciones": "30",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547401",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "12",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
