@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-25T21:20:36.110Z",
-  "totalPais": 22,
+  "generado": "2026-09-25T21:40:31.900Z",
+  "totalPais": 20,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -137,26 +137,6 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/07/2031"
-    },
-    {
-      "vacante": "1547544",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Nuevo Horizonte(San Francisco)",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "20/12/2026"
-    },
-    {
-      "vacante": "1547540",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Mercedes Sur (Mercedes)",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1547547",
