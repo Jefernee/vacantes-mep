@@ -1,21 +1,16 @@
 {
-  "generado": "2026-09-25T13:40:57.175Z",
-  "totalPais": 59,
+  "generado": "2026-09-25T14:00:45.188Z",
+  "totalPais": 45,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Agropecuario En Producción Pecuaria",
-    "Artes Plásticas/Artes Plásticas",
     "Biología",
     "Ciencias",
     "Educación Física",
     "Educación Para El Hogar",
     "Electromecánica",
-    "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-    "Equipos Interdisciplinarios / Social",
-    "Español",
-    "Executive Secretarial Management",
     "Francés",
     "Física",
     "Inglés",
@@ -50,36 +45,6 @@
       "institucion": "San Luis (Carrillos)",
       "lecciones": "0",
       "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547304",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "J.N. Ricardo Jimenez O.",
-      "lecciones": "0",
-      "rige": "23/09/2026",
-      "vence": "21/11/2026"
-    },
-    {
-      "vacante": "1545601",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo San Francisco Agua Cal.",
-      "lecciones": "0",
-      "rige": "17/09/2026",
-      "vence": "31/07/2029"
-    },
-    {
-      "vacante": "1546751",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Auxiliar Administrativo",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Colegio Nocturno De Quepos",
-      "lecciones": "0",
-      "rige": "24/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -293,6 +258,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547402",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "C.T.P Zarcero",
+      "lecciones": "3",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547399",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -309,16 +284,6 @@
       "especialidad": "Física",
       "institucion": "C.T.P Zarcero",
       "lecciones": "12",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547402",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "3",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -343,16 +308,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547303",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cindea Cobano",
-      "lecciones": "0",
-      "rige": "24/09/2026",
-      "vence": "15/11/2026"
-    },
-    {
       "vacante": "1547344",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -363,26 +318,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547305",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Equipos Interdisciplinarios / Social",
-      "institucion": "Flora Guevara Barahona",
-      "lecciones": "0",
-      "rige": "22/09/2026",
-      "vence": "07/05/2030"
-    },
-    {
-      "vacante": "1547302",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "El Mojon (Espiritu Santo)",
-      "lecciones": "0",
-      "rige": "23/09/2026",
-      "vence": "05/11/2026"
-    },
-    {
       "vacante": "1547488",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
@@ -391,16 +326,6 @@
       "lecciones": "0",
       "rige": "24/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547322",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Joaquin (Cutris)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1547472",
@@ -463,16 +388,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547330",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Pacifica Fernandez Oreamuno",
-      "lecciones": "40",
-      "rige": "24/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547371",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -490,46 +405,6 @@
       "institucion": "General Manuel Belgrano Gonzalez",
       "lecciones": "0",
       "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546721",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Jose J. Vargas Calvo",
-      "lecciones": "0",
-      "rige": "21/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1546717",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "J.N. Juan Enrique Pestalozzi",
-      "lecciones": "0",
-      "rige": "18/09/2026",
-      "vence": "06/01/2027"
-    },
-    {
-      "vacante": "1528807",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)",
-      "especialidad": "Executive Secretarial Management",
-      "institucion": "Ctp Abelardo Bonilla Baldares",
-      "lecciones": "12",
-      "rige": "15/06/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546707",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "Cindea Montes De Oca",
-      "lecciones": "8",
-      "rige": "09/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -600,26 +475,6 @@
       "institucion": "Bijagua",
       "lecciones": "0",
       "rige": "22/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546712",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Cindea Bijagua",
-      "lecciones": "5",
-      "rige": "14/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546715",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Cindea Bijagua",
-      "lecciones": "10",
-      "rige": "14/09/2026",
       "vence": "11/12/2026"
     }
   ]
