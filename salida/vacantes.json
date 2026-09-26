@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-26T00:00:41.068Z",
-  "totalPais": 18,
+  "generado": "2026-09-26T00:20:44.901Z",
+  "totalPais": 16,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -98,16 +98,6 @@
       "vence": "21/11/2026"
     },
     {
-      "vacante": "1547562",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Finca Capri (San Miguel)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547720",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -175,16 +165,6 @@
       "institucion": "Prog.Itin.Segunda Lengua Trans",
       "lecciones": "0",
       "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547560",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Carmen",
-      "lecciones": "0",
-      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
