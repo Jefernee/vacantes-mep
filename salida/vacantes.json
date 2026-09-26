@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-26T16:40:31.006Z",
-  "totalPais": 12,
+  "generado": "2026-09-26T17:00:38.070Z",
+  "totalPais": 10,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -15,16 +15,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1547644",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Pacto Del Jocote (San Jose)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/01/2027"
-    },
     {
       "vacante": "1547794",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -44,16 +34,6 @@
       "lecciones": "28",
       "rige": "30/09/2026",
       "vence": "15/11/2026"
-    },
-    {
-      "vacante": "1547674",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. Jesus Ocaña Rojas",
-      "lecciones": "40",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1547809",
