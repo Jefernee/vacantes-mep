@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 10941,
+      "vecesVista": 10943,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-27T17:00:31.106Z",
+      "ultimaVez": "2026-09-27T17:20:29.115Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 5529,
+      "vecesVista": 5530,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-27T17:00:31.106Z",
+      "ultimaVez": "2026-09-27T17:20:29.115Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 1064,
+      "vecesVista": 1065,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-27T17:00:31.106Z",
+      "ultimaVez": "2026-09-27T17:20:29.115Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -93,16 +93,16 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 3383,
+      "vecesVista": 3385,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-27T17:00:31.106Z",
+      "ultimaVez": "2026-09-27T17:20:29.115Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 848,
+      "vecesVista": 849,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-27T17:00:31.106Z",
+      "ultimaVez": "2026-09-27T17:20:29.115Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 561,
+      "vecesVista": 562,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-09-27T17:00:31.106Z",
+      "ultimaVez": "2026-09-27T17:20:29.115Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 882,
+      "vecesVista": 883,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-09-27T17:00:31.106Z",
+      "ultimaVez": "2026-09-27T17:20:29.115Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -219,9 +219,9 @@
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 654,
+      "vecesVista": 655,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-09-27T17:00:31.106Z",
+      "ultimaVez": "2026-09-27T17:20:29.115Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -505,5 +505,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-27T17:00:31.106Z"
+  "actualizado": "2026-09-27T17:20:29.115Z"
 }
