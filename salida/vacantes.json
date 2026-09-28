@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-28T20:40:39.912Z",
-  "totalPais": 43,
+  "generado": "2026-09-28T21:00:36.422Z",
+  "totalPais": 45,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -166,26 +166,6 @@
       "vence": "20/11/2026"
     },
     {
-      "vacante": "1547658",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De San Juan Sur",
-      "lecciones": "8",
-      "rige": "30/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547686",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. De San Juan Sur",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "02/11/2026"
-    },
-    {
       "vacante": "1547669",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -204,6 +184,26 @@
       "lecciones": "40",
       "rige": "30/09/2026",
       "vence": "09/11/2026"
+    },
+    {
+      "vacante": "1547686",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P. De San Juan Sur",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "02/11/2026"
+    },
+    {
+      "vacante": "1547658",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. De San Juan Sur",
+      "lecciones": "8",
+      "rige": "30/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547936",
@@ -326,6 +326,26 @@
       "vence": "02/11/2026"
     },
     {
+      "vacante": "1546156",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Cañas Dulces (Liberia)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "05/04/2028"
+    },
+    {
+      "vacante": "1546767",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Fausto Guzman Calvo (Fortuna)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547418",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -446,22 +466,22 @@
       "vence": "07/11/2026"
     },
     {
-      "vacante": "1547726",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Liceo De Tucurrique",
-      "lecciones": "6",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547698",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Música/Música",
       "institucion": "Cindea Turrialba",
       "lecciones": "5",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547726",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Liceo De Tucurrique",
+      "lecciones": "6",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
     }
