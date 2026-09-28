@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-28T17:20:40.005Z",
-  "totalPais": 37,
+  "generado": "2026-09-28T17:40:36.846Z",
+  "totalPais": 40,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -117,6 +117,16 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1547929",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Edwin Porras Ulloa (Aserri)",
+      "lecciones": "0",
+      "rige": "30/09/2026",
+      "vence": "11/11/2026"
+    },
+    {
       "vacante": "1547675",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -147,6 +157,26 @@
       "vence": "20/11/2026"
     },
     {
+      "vacante": "1547658",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. De San Juan Sur",
+      "lecciones": "8",
+      "rige": "30/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547686",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P. De San Juan Sur",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "02/11/2026"
+    },
+    {
       "vacante": "1547669",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -167,24 +197,14 @@
       "vence": "09/11/2026"
     },
     {
-      "vacante": "1547658",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De San Juan Sur",
-      "lecciones": "8",
+      "vacante": "1547936",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Yolanda Oreamuno",
+      "lecciones": "0",
       "rige": "30/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547686",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. De San Juan Sur",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "02/11/2026"
+      "vence": "19/11/2026"
     },
     {
       "vacante": "1547896",
@@ -277,6 +297,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1547935",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "San Jose (San Josecito)",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547841",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -287,21 +317,21 @@
       "vence": "02/11/2026"
     },
     {
-      "vacante": "1547672",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Barrio Limoncito (Limon)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547418",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Justo A. Facio (Siquirres)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547672",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Barrio Limoncito (Limon)",
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
@@ -387,22 +417,22 @@
       "vence": "07/11/2026"
     },
     {
-      "vacante": "1547698",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Cindea Turrialba",
-      "lecciones": "5",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547726",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Música/Música",
       "institucion": "Liceo De Tucurrique",
       "lecciones": "6",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547698",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Cindea Turrialba",
+      "lecciones": "5",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
     }
