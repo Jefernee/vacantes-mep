@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-28T13:40:42.151Z",
-  "totalPais": 29,
+  "generado": "2026-09-28T14:01:21.500Z",
+  "totalPais": 33,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -16,6 +16,7 @@
     "Informática En Desarrollo Del Software",
     "Inglés",
     "Música/Música",
+    "Producción Agrícola Y Pecuaria",
     "Psicología",
     "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
@@ -44,6 +45,36 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "10/12/2026"
+    },
+    {
+      "vacante": "1547596",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asistente De Asesoría Y Supervisión",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Dirección Regional De Educación Puntarenas",
+      "lecciones": "0",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1547601",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Supervisor De Educación",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Dirección Regional De Educación Puntarenas",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1547844",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Cima",
+      "lecciones": "0",
+      "rige": "25/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547625",
@@ -96,6 +127,16 @@
       "vence": "27/10/2026"
     },
     {
+      "vacante": "1547692",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo San Miguel",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "20/11/2026"
+    },
+    {
       "vacante": "1547686",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -114,16 +155,6 @@
       "lecciones": "8",
       "rige": "30/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547692",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo San Miguel",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "20/11/2026"
     },
     {
       "vacante": "1547619",
@@ -156,22 +187,22 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1547753",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea La Rita",
-      "lecciones": "13",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547750",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Cindea La Rita",
       "lecciones": "15",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547753",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea La Rita",
+      "lecciones": "13",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -194,6 +225,16 @@
       "lecciones": "0",
       "rige": "23/10/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1547841",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Producción Agrícola Y Pecuaria",
+      "institucion": "Ctp Santo Domingo",
+      "lecciones": "20",
+      "rige": "28/09/2026",
+      "vence": "02/11/2026"
     },
     {
       "vacante": "1547418",
