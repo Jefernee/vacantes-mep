@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-28T15:00:37.902Z",
-  "totalPais": 35,
+  "generado": "2026-09-28T15:20:36.548Z",
+  "totalPais": 34,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -11,7 +11,6 @@
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Español",
     "Estudios Sociales/Educación Cívica",
-    "Filosofía",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Informática En Desarrollo Del Software",
     "Inglés",
@@ -118,36 +117,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547692",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo San Miguel",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "20/11/2026"
-    },
-    {
-      "vacante": "1547658",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De San Juan Sur",
-      "lecciones": "8",
-      "rige": "30/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547686",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. De San Juan Sur",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "02/11/2026"
-    },
-    {
       "vacante": "1547669",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -166,6 +135,36 @@
       "lecciones": "40",
       "rige": "30/09/2026",
       "vence": "09/11/2026"
+    },
+    {
+      "vacante": "1547686",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P. De San Juan Sur",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "02/11/2026"
+    },
+    {
+      "vacante": "1547658",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. De San Juan Sur",
+      "lecciones": "8",
+      "rige": "30/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547692",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo San Miguel",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "20/11/2026"
     },
     {
       "vacante": "1547856",
@@ -258,21 +257,21 @@
       "vence": "02/11/2026"
     },
     {
-      "vacante": "1547418",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Justo A. Facio (Siquirres)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547672",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Barrio Limoncito (Limon)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547418",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Justo A. Facio (Siquirres)",
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
@@ -298,16 +297,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547689",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Arnulfo Arias Madrid (Tapezco)",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547781",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -318,14 +307,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547641",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Unesco",
-      "lecciones": "21",
-      "rige": "29/09/2026",
-      "vence": "07/11/2026"
+      "vacante": "1547689",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Arnulfo Arias Madrid (Tapezco)",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547760",
@@ -368,22 +357,22 @@
       "vence": "07/11/2026"
     },
     {
-      "vacante": "1547726",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Liceo De Tucurrique",
-      "lecciones": "6",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547698",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Música/Música",
       "institucion": "Cindea Turrialba",
       "lecciones": "5",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547726",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Liceo De Tucurrique",
+      "lecciones": "6",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
     }
