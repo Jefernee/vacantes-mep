@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-28T15:40:51.480Z",
-  "totalPais": 34,
+  "generado": "2026-09-28T16:00:41.556Z",
+  "totalPais": 36,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -167,6 +167,16 @@
       "vence": "02/11/2026"
     },
     {
+      "vacante": "1547896",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Finca Seis (Palmar)",
+      "lecciones": "0",
+      "rige": "30/09/2026",
+      "vence": "23/12/2026"
+    },
+    {
       "vacante": "1547856",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -207,22 +217,22 @@
       "vence": "31/07/2027"
     },
     {
-      "vacante": "1547753",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea La Rita",
-      "lecciones": "13",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547750",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Cindea La Rita",
       "lecciones": "15",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547753",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea La Rita",
+      "lecciones": "13",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -344,6 +354,16 @@
       "institucion": "El Molino (Florencia)",
       "lecciones": "0",
       "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547891",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Carmen Lyra (Concepcion)",
+      "lecciones": "0",
+      "rige": "30/08/2026",
       "vence": "11/12/2026"
     },
     {
