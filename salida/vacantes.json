@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-28T18:20:44.154Z",
+  "generado": "2026-09-28T18:21:29.532Z",
   "totalPais": 42,
   "calzanVT6": 1,
   "advertencias": [],
@@ -247,16 +247,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547782",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ctp Agroportica",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1547868",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -265,6 +255,16 @@
       "lecciones": "0",
       "rige": "30/09/2026",
       "vence": "31/07/2027"
+    },
+    {
+      "vacante": "1547782",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Ctp Agroportica",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1547753",
