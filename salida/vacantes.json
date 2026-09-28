@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-28T22:00:57.247Z",
+  "generado": "2026-09-28T22:20:38.304Z",
   "totalPais": 45,
   "calzanVT6": 1,
   "advertencias": [],
@@ -246,16 +246,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547868",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "El Camaron (Rio Jimenez)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "31/07/2027"
-    },
-    {
       "vacante": "1547977",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -264,6 +254,16 @@
       "lecciones": "0",
       "rige": "30/09/2026",
       "vence": "31/01/2030"
+    },
+    {
+      "vacante": "1547868",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "El Camaron (Rio Jimenez)",
+      "lecciones": "0",
+      "rige": "30/09/2026",
+      "vence": "31/07/2027"
     },
     {
       "vacante": "1547753",
