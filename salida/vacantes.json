@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-28T21:40:56.601Z",
+  "generado": "2026-09-28T22:00:57.247Z",
   "totalPais": 45,
   "calzanVT6": 1,
   "advertencias": [],
@@ -166,26 +166,6 @@
       "vence": "20/11/2026"
     },
     {
-      "vacante": "1547669",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Liceo De San Antonio",
-      "lecciones": "44",
-      "rige": "30/09/2026",
-      "vence": "27/10/2026"
-    },
-    {
-      "vacante": "1547858",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. Mons.Victor Ml.Sanabria",
-      "lecciones": "40",
-      "rige": "30/09/2026",
-      "vence": "09/11/2026"
-    },
-    {
       "vacante": "1547658",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -204,6 +184,26 @@
       "lecciones": "20",
       "rige": "30/09/2026",
       "vence": "02/11/2026"
+    },
+    {
+      "vacante": "1547669",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Liceo De San Antonio",
+      "lecciones": "44",
+      "rige": "30/09/2026",
+      "vence": "27/10/2026"
+    },
+    {
+      "vacante": "1547858",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P. Mons.Victor Ml.Sanabria",
+      "lecciones": "40",
+      "rige": "30/09/2026",
+      "vence": "09/11/2026"
     },
     {
       "vacante": "1547936",
@@ -246,16 +246,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547977",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Sagrada Familia (Cariari)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "31/01/2030"
-    },
-    {
       "vacante": "1547868",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -264,6 +254,16 @@
       "lecciones": "0",
       "rige": "30/09/2026",
       "vence": "31/07/2027"
+    },
+    {
+      "vacante": "1547977",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Sagrada Familia (Cariari)",
+      "lecciones": "0",
+      "rige": "30/09/2026",
+      "vence": "31/01/2030"
     },
     {
       "vacante": "1547753",
