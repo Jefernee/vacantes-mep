@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-28T13:20:34.129Z",
-  "totalPais": 32,
+  "generado": "2026-09-28T13:40:42.151Z",
+  "totalPais": 29,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,7 +9,6 @@
     "Educación Física",
     "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
-    "Enseñanza Especial . Retardo Mental",
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
@@ -18,7 +17,6 @@
     "Inglés",
     "Música/Música",
     "Psicología",
-    "Religión",
     "Secretariado Ejecutivo",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -46,36 +44,6 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "10/12/2026"
-    },
-    {
-      "vacante": "1547794",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Prev Ens Esp Liceo San Jose",
-      "lecciones": "44",
-      "rige": "30/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547766",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo La Guacima",
-      "lecciones": "28",
-      "rige": "30/09/2026",
-      "vence": "15/11/2026"
-    },
-    {
-      "vacante": "1547809",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "El Roble (San Antonio)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "05/11/2026"
     },
     {
       "vacante": "1547625",
@@ -128,14 +96,14 @@
       "vence": "27/10/2026"
     },
     {
-      "vacante": "1547692",
+      "vacante": "1547686",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo San Miguel",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "20/11/2026"
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P. De San Juan Sur",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "02/11/2026"
     },
     {
       "vacante": "1547658",
@@ -148,14 +116,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547686",
+      "vacante": "1547692",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. De San Juan Sur",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "02/11/2026"
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo San Miguel",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "20/11/2026"
     },
     {
       "vacante": "1547619",
@@ -338,22 +306,22 @@
       "vence": "07/11/2026"
     },
     {
-      "vacante": "1547698",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Cindea Turrialba",
-      "lecciones": "5",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547726",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Música/Música",
       "institucion": "Liceo De Tucurrique",
       "lecciones": "6",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547698",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Cindea Turrialba",
+      "lecciones": "5",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
     }
