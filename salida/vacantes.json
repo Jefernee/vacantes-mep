@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-28T17:00:41.306Z",
+  "generado": "2026-09-28T17:20:40.005Z",
   "totalPais": 37,
   "calzanVT6": 1,
   "advertencias": [],
@@ -137,6 +137,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547692",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo San Miguel",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "20/11/2026"
+    },
+    {
       "vacante": "1547669",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -157,16 +167,6 @@
       "vence": "09/11/2026"
     },
     {
-      "vacante": "1547686",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. De San Juan Sur",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "02/11/2026"
-    },
-    {
       "vacante": "1547658",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -177,14 +177,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547692",
+      "vacante": "1547686",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo San Miguel",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "20/11/2026"
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P. De San Juan Sur",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "02/11/2026"
     },
     {
       "vacante": "1547896",
@@ -237,22 +237,22 @@
       "vence": "31/07/2027"
     },
     {
-      "vacante": "1547750",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea La Rita",
-      "lecciones": "15",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547753",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Cindea La Rita",
       "lecciones": "13",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547750",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea La Rita",
+      "lecciones": "15",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
@@ -287,21 +287,21 @@
       "vence": "02/11/2026"
     },
     {
-      "vacante": "1547418",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Justo A. Facio (Siquirres)",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547672",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Barrio Limoncito (Limon)",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547418",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Justo A. Facio (Siquirres)",
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
