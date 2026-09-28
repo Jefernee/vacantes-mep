@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 11025,
+      "vecesVista": 11031,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-28T12:40:30.223Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 5571,
+      "vecesVista": 5575,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-28T12:40:30.223Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 1106,
+      "vecesVista": 1107,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-28T12:40:30.223Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 931,
+      "vecesVista": 932,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-26T00:20:44.903Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -58,9 +58,9 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 936,
+      "vecesVista": 937,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-25T14:40:37.571Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 1349,
+      "vecesVista": 1350,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-25T13:40:57.177Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -86,30 +86,30 @@
     },
     "Secretariado Ejecutivo": {
       "calce": "no interesa",
-      "vecesVista": 461,
+      "vecesVista": 462,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-25T20:40:46.196Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 3467,
+      "vecesVista": 3471,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-28T12:40:30.223Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 890,
+      "vecesVista": 893,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-28T12:40:30.223Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 981,
+      "vecesVista": 983,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-24T17:00:41.615Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -128,30 +128,30 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 406,
+      "vecesVista": 407,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-18T16:00:37.704Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
       "calce": "no interesa",
-      "vecesVista": 227,
+      "vecesVista": 228,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-23T13:40:49.282Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Informática En Desarrollo Del Software": {
       "calce": "exacta",
-      "vecesVista": 58,
+      "vecesVista": 59,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-22T18:40:50.959Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 603,
+      "vecesVista": 604,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-09-28T12:40:30.223Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -191,16 +191,16 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 924,
+      "vecesVista": 925,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-09-28T12:40:30.223Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 680,
+      "vecesVista": 681,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-09-24T18:20:40.471Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -219,9 +219,9 @@
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 696,
+      "vecesVista": 697,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-09-28T12:40:30.223Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -503,7 +503,14 @@
       "primeraVez": "2026-09-24T22:00:44.178Z",
       "ultimaVez": "2026-09-25T21:40:31.901Z",
       "avisadaComoNueva": true
+    },
+    "Educación De Adultos": {
+      "calce": "no interesa",
+      "vecesVista": 1,
+      "primeraVez": "2026-09-28T13:00:36.134Z",
+      "ultimaVez": "2026-09-28T13:00:36.134Z",
+      "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-28T12:40:30.223Z"
+  "actualizado": "2026-09-28T13:00:36.134Z"
 }
