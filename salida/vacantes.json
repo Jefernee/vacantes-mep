@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-29T17:20:37.018Z",
-  "totalPais": 60,
+  "generado": "2026-09-29T17:41:12.466Z",
+  "totalPais": 57,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,6 +12,7 @@
     "Educación Física",
     "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
+    "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
     "Estudios Sociales/Educación Cívica",
@@ -88,16 +89,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1547852",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Unidad Pedagogica San Diego",
-      "lecciones": "0",
-      "rige": "25/09/2026",
-      "vence": "16/12/2026"
-    },
-    {
       "vacante": "1547865",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -106,6 +97,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1547852",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Unidad Pedagogica San Diego",
+      "lecciones": "0",
+      "rige": "25/09/2026",
+      "vence": "16/12/2026"
     },
     {
       "vacante": "1547869",
@@ -218,16 +219,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547929",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Edwin Porras Ulloa (Aserri)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "11/11/2026"
-    },
-    {
       "vacante": "1547946",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -236,16 +227,6 @@
       "lecciones": "44",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547936",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Yolanda Oreamuno",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "19/11/2026"
     },
     {
       "vacante": "1547951",
@@ -288,6 +269,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1548202",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "29/09/2026",
+      "vence": "13/11/2026"
+    },
+    {
       "vacante": "1548103",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -296,16 +287,6 @@
       "lecciones": "40",
       "rige": "29/09/2026",
       "vence": "02/12/2026"
-    },
-    {
-      "vacante": "1547935",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "San Jose (San Josecito)",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1547841",
@@ -398,16 +379,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548081",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Paquera",
-      "lecciones": "2",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548057",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -415,6 +386,16 @@
       "institucion": "Cindea Jicaral",
       "lecciones": "2",
       "rige": "25/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548081",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea Paquera",
+      "lecciones": "2",
+      "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -506,16 +487,6 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1547937",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cerbatana (Mercedes Sur)",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "10/11/2026"
     },
     {
       "vacante": "1548160",
