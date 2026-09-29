@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T02:42:50.115Z",
+  "generado": "2026-09-29T03:01:22.710Z",
   "totalPais": 46,
   "calzanVT6": 1,
   "advertencias": [],
@@ -166,6 +166,26 @@
       "vence": "20/11/2026"
     },
     {
+      "vacante": "1547686",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P. De San Juan Sur",
+      "lecciones": "20",
+      "rige": "30/09/2026",
+      "vence": "02/11/2026"
+    },
+    {
+      "vacante": "1547658",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. De San Juan Sur",
+      "lecciones": "8",
+      "rige": "30/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1547692",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -194,26 +214,6 @@
       "lecciones": "40",
       "rige": "30/09/2026",
       "vence": "09/11/2026"
-    },
-    {
-      "vacante": "1547658",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De San Juan Sur",
-      "lecciones": "8",
-      "rige": "30/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547686",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. De San Juan Sur",
-      "lecciones": "20",
-      "rige": "30/09/2026",
-      "vence": "02/11/2026"
     },
     {
       "vacante": "1547936",
@@ -276,22 +276,22 @@
       "vence": "31/07/2027"
     },
     {
-      "vacante": "1547753",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea La Rita",
-      "lecciones": "13",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547750",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Cindea La Rita",
       "lecciones": "15",
+      "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547753",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea La Rita",
+      "lecciones": "13",
       "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
