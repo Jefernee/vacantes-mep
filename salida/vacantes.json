@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-29T16:00:43.048Z",
-  "totalPais": 58,
+  "generado": "2026-09-29T16:20:47.375Z",
+  "totalPais": 59,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -157,16 +157,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1547893",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Rural Tarcoles",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1547854",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -175,6 +165,16 @@
       "lecciones": "0",
       "rige": "29/09/2026",
       "vence": "30/06/2027"
+    },
+    {
+      "vacante": "1547893",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Rural Tarcoles",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1547849",
@@ -397,16 +397,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548057",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Cindea Jicaral",
-      "lecciones": "2",
-      "rige": "25/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548081",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -414,6 +404,16 @@
       "institucion": "Cindea Paquera",
       "lecciones": "2",
       "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548057",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Cindea Jicaral",
+      "lecciones": "2",
+      "rige": "25/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -524,6 +524,16 @@
       "institucion": "Cindea Boca Arenal",
       "lecciones": "0",
       "rige": "02/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1548174",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Santa Rosa (Pocosol)",
+      "lecciones": "0",
+      "rige": "29/09/2026",
       "vence": "31/01/2027"
     },
     {
