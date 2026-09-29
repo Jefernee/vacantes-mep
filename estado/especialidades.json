@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 11790,
+      "vecesVista": 11805,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-29T13:20:44.696Z",
+      "ultimaVez": "2026-09-29T13:40:39.646Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 6028,
+      "vecesVista": 6035,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-29T13:20:44.696Z",
+      "ultimaVez": "2026-09-29T13:40:39.646Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 1159,
+      "vecesVista": 1160,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-29T13:20:44.696Z",
+      "ultimaVez": "2026-09-29T13:40:39.646Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 986,
+      "vecesVista": 987,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-29T13:20:44.696Z",
+      "ultimaVez": "2026-09-29T13:40:39.646Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 3636,
+      "vecesVista": 3638,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-29T13:20:44.696Z",
+      "ultimaVez": "2026-09-29T13:40:39.646Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -114,9 +114,9 @@
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 343,
+      "vecesVista": 344,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-29T13:20:44.696Z",
+      "ultimaVez": "2026-09-29T13:40:39.646Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -128,16 +128,16 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 494,
+      "vecesVista": 495,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-29T13:20:44.696Z",
+      "ultimaVez": "2026-09-29T13:40:39.646Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
       "calce": "no interesa",
-      "vecesVista": 331,
+      "vecesVista": 332,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-29T13:20:44.696Z",
+      "ultimaVez": "2026-09-29T13:40:39.646Z",
       "avisadaComoNueva": true
     },
     "Informática En Desarrollo Del Software": {
@@ -310,9 +310,9 @@
     },
     "Producción Agrícola Y Pecuaria": {
       "calce": "no interesa",
-      "vecesVista": 219,
+      "vecesVista": 220,
       "primeraVez": "2026-09-10T17:00:38.825Z",
-      "ultimaVez": "2026-09-29T13:20:44.696Z",
+      "ultimaVez": "2026-09-29T13:40:39.646Z",
       "avisadaComoNueva": true
     },
     "Administración Y Operación Aduanera": {
@@ -512,5 +512,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-29T13:20:44.696Z"
+  "actualizado": "2026-09-29T13:40:39.646Z"
 }

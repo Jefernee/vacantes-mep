@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T13:20:44.694Z",
+  "generado": "2026-09-29T13:40:39.644Z",
   "totalPais": 30,
   "calzanVT6": 0,
   "advertencias": [],
@@ -177,16 +177,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547868",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "El Camaron (Rio Jimenez)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "31/07/2027"
-    },
-    {
       "vacante": "1547977",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -195,6 +185,16 @@
       "lecciones": "0",
       "rige": "30/09/2026",
       "vence": "31/01/2030"
+    },
+    {
+      "vacante": "1547868",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "El Camaron (Rio Jimenez)",
+      "lecciones": "0",
+      "rige": "30/09/2026",
+      "vence": "31/07/2027"
     },
     {
       "vacante": "1547935",
@@ -267,16 +267,6 @@
       "vence": "10/11/2026"
     },
     {
-      "vacante": "1547891",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carmen Lyra (Concepcion)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548015",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -284,6 +274,16 @@
       "institucion": "Carolina Dent Alvarado",
       "lecciones": "0",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547891",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Carmen Lyra (Concepcion)",
+      "lecciones": "0",
+      "rige": "30/09/2026",
       "vence": "11/12/2026"
     },
     {
