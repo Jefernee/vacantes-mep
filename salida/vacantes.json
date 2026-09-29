@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T20:01:28.956Z",
+  "generado": "2026-09-29T20:20:42.738Z",
   "totalPais": 65,
   "calzanVT6": 0,
   "advertencias": [],
@@ -162,16 +162,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1547893",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Rural Tarcoles",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1547854",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -180,6 +170,16 @@
       "lecciones": "0",
       "rige": "29/09/2026",
       "vence": "30/06/2027"
+    },
+    {
+      "vacante": "1547893",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Rural Tarcoles",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1547849",
@@ -312,16 +312,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1548202",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "29/09/2026",
-      "vence": "13/11/2026"
-    },
-    {
       "vacante": "1548103",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -330,6 +320,16 @@
       "lecciones": "40",
       "rige": "26/10/2026",
       "vence": "02/12/2026"
+    },
+    {
+      "vacante": "1548202",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "29/09/2026",
+      "vence": "13/11/2026"
     },
     {
       "vacante": "1547841",
@@ -372,16 +372,6 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1548106",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Antonio Fernandez Gamboa",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "19/11/2026"
-    },
-    {
       "vacante": "1545461",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -390,6 +380,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548106",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Antonio Fernandez Gamboa",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "19/11/2026"
     },
     {
       "vacante": "1548164",
@@ -409,6 +409,16 @@
       "institucion": "C.T.P. De Bataam",
       "lecciones": "32",
       "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548278",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Auxiliar Administrativo",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Ctp Rosario De Naranjo",
+      "lecciones": "0",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -452,16 +462,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548052",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "C.T.P. De Paquera",
-      "lecciones": "2",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548082",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -469,6 +469,16 @@
       "institucion": "C.T.P. De Cobano",
       "lecciones": "4",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548052",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "C.T.P. De Paquera",
+      "lecciones": "2",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -582,16 +592,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548197",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carolina Dent Alvarado",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548015",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -599,6 +599,16 @@
       "institucion": "Carolina Dent Alvarado",
       "lecciones": "0",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548197",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Carolina Dent Alvarado",
+      "lecciones": "0",
+      "rige": "30/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -620,16 +630,6 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548008",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cindea Santa Ana",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1548029",
