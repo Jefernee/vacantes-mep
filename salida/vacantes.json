@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-29T15:01:13.678Z",
-  "totalPais": 52,
+  "generado": "2026-09-29T15:20:38.330Z",
+  "totalPais": 54,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -84,16 +84,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1547852",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Unidad Pedagogica San Diego",
-      "lecciones": "0",
-      "rige": "25/09/2026",
-      "vence": "16/12/2026"
-    },
-    {
       "vacante": "1547865",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -102,6 +92,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1547852",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Unidad Pedagogica San Diego",
+      "lecciones": "0",
+      "rige": "25/09/2026",
+      "vence": "16/12/2026"
     },
     {
       "vacante": "1547869",
@@ -154,16 +154,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1547893",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Rural Tarcoles",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1547854",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -172,6 +162,16 @@
       "lecciones": "0",
       "rige": "29/09/2026",
       "vence": "30/06/2027"
+    },
+    {
+      "vacante": "1547893",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Rural Tarcoles",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1547849",
@@ -274,6 +274,16 @@
       "vence": "31/01/2030"
     },
     {
+      "vacante": "1548132",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Ramon Barrantes Herrera",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "31/07/2030"
+    },
+    {
       "vacante": "1548103",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -374,16 +384,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548052",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "C.T.P. De Paquera",
-      "lecciones": "2",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548082",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -391,6 +391,16 @@
       "institucion": "C.T.P. De Cobano",
       "lecciones": "4",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548052",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "C.T.P. De Paquera",
+      "lecciones": "2",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -472,6 +482,16 @@
       "lecciones": "0",
       "rige": "29/09/2026",
       "vence": "10/11/2026"
+    },
+    {
+      "vacante": "1548122",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Cindea San Carlos",
+      "lecciones": "5",
+      "rige": "24/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547891",
