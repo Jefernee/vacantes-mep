@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T20:40:39.432Z",
+  "generado": "2026-09-29T21:00:39.120Z",
   "totalPais": 65,
   "calzanVT6": 0,
   "advertencias": [],
@@ -162,16 +162,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1547893",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Rural Tarcoles",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1547854",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -180,6 +170,16 @@
       "lecciones": "0",
       "rige": "29/09/2026",
       "vence": "30/06/2027"
+    },
+    {
+      "vacante": "1547893",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Rural Tarcoles",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1547849",
@@ -312,16 +312,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1548202",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "29/09/2026",
-      "vence": "13/11/2026"
-    },
-    {
       "vacante": "1548103",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -330,6 +320,16 @@
       "lecciones": "40",
       "rige": "26/10/2026",
       "vence": "02/12/2026"
+    },
+    {
+      "vacante": "1548202",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "29/09/2026",
+      "vence": "13/11/2026"
     },
     {
       "vacante": "1547841",
@@ -342,23 +342,13 @@
       "vence": "02/11/2026"
     },
     {
-      "vacante": "1546156",
+      "vacante": "1547820",
       "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cañas Dulces (Liberia)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "05/04/2028"
-    },
-    {
-      "vacante": "1546767",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "clasePuesto": "Asistente De Dirección Centro Educativo 1",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Fausto Guzman Calvo (Fortuna)",
+      "institucion": "Diurno La Cruz",
       "lecciones": "0",
-      "rige": "05/10/2026",
+      "rige": "30/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -392,22 +382,22 @@
       "vence": "19/11/2026"
     },
     {
-      "vacante": "1548164",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Agro Industria Con Tecnología Agrícola",
-      "institucion": "C.T.P. De Bataam",
-      "lecciones": "8",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548161",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
       "institucion": "C.T.P. De Bataam",
       "lecciones": "32",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548164",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Agro Industria Con Tecnología Agrícola",
+      "institucion": "C.T.P. De Bataam",
+      "lecciones": "8",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -490,6 +480,16 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1548293",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "C.T.P. De Platanares",
+      "lecciones": "39",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548078",
@@ -612,16 +612,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548240",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Francés",
-      "institucion": "Ismael Coto Fernandez",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547056",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -629,6 +619,16 @@
       "institucion": "Jorge Debravo (Hatillo)",
       "lecciones": "0",
       "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548240",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Francés",
+      "institucion": "Ismael Coto Fernandez",
+      "lecciones": "0",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
