@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T20:20:42.738Z",
+  "generado": "2026-09-29T20:40:39.432Z",
   "totalPais": 65,
   "calzanVT6": 0,
   "advertencias": [],
@@ -162,16 +162,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1547854",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Inmaculada (Quepos)",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "30/06/2027"
-    },
-    {
       "vacante": "1547893",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -180,6 +170,16 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1547854",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Inmaculada (Quepos)",
+      "lecciones": "0",
+      "rige": "29/09/2026",
+      "vence": "30/06/2027"
     },
     {
       "vacante": "1547849",
@@ -312,16 +312,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1548103",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Esc. Domingo Gonzalez P.",
-      "lecciones": "40",
-      "rige": "26/10/2026",
-      "vence": "02/12/2026"
-    },
-    {
       "vacante": "1548202",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -330,6 +320,16 @@
       "lecciones": "44",
       "rige": "29/09/2026",
       "vence": "13/11/2026"
+    },
+    {
+      "vacante": "1548103",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+      "institucion": "Esc. Domingo Gonzalez P.",
+      "lecciones": "40",
+      "rige": "26/10/2026",
+      "vence": "02/12/2026"
     },
     {
       "vacante": "1547841",
