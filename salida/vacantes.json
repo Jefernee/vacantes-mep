@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T02:20:35.896Z",
+  "generado": "2026-09-29T02:40:43.131Z",
   "totalPais": 46,
   "calzanVT6": 1,
   "advertencias": [],
@@ -166,6 +166,16 @@
       "vence": "20/11/2026"
     },
     {
+      "vacante": "1547692",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo San Miguel",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "20/11/2026"
+    },
+    {
       "vacante": "1547669",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -186,14 +196,14 @@
       "vence": "09/11/2026"
     },
     {
-      "vacante": "1547692",
+      "vacante": "1547658",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo San Miguel",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "20/11/2026"
+      "especialidad": "Secretariado Ejecutivo",
+      "institucion": "C.T.P. De San Juan Sur",
+      "lecciones": "8",
+      "rige": "30/09/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547686",
@@ -204,16 +214,6 @@
       "lecciones": "20",
       "rige": "30/09/2026",
       "vence": "02/11/2026"
-    },
-    {
-      "vacante": "1547658",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Secretariado Ejecutivo",
-      "institucion": "C.T.P. De San Juan Sur",
-      "lecciones": "8",
-      "rige": "30/09/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1547936",
@@ -476,22 +476,22 @@
       "vence": "07/11/2026"
     },
     {
-      "vacante": "1547726",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Liceo De Tucurrique",
-      "lecciones": "6",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547698",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Música/Música",
       "institucion": "Cindea Turrialba",
       "lecciones": "5",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547726",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Liceo De Tucurrique",
+      "lecciones": "6",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
     }
