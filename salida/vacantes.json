@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T16:44:16.457Z",
+  "generado": "2026-09-29T17:00:41.451Z",
   "totalPais": 59,
   "calzanVT6": 0,
   "advertencias": [],
@@ -13,6 +13,7 @@
     "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+    "Español",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
@@ -26,16 +27,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1547919",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Orientador 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Rural Salvador Duran Ocampo",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "21/11/2026"
-    },
     {
       "vacante": "1547958",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -65,6 +56,16 @@
       "lecciones": "0",
       "rige": "30/09/2026",
       "vence": "30/11/2026"
+    },
+    {
+      "vacante": "1548177",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "C.T.P. De San Mateo",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548040",
@@ -157,16 +158,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1547854",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Inmaculada (Quepos)",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "30/06/2027"
-    },
-    {
       "vacante": "1547893",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -175,6 +166,16 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1547854",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Inmaculada (Quepos)",
+      "lecciones": "0",
+      "rige": "29/09/2026",
+      "vence": "30/06/2027"
     },
     {
       "vacante": "1547849",
@@ -207,14 +208,14 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1547916",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Guatuso (Patarra)",
+      "vacante": "1548188",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "La Mariposa (Canoas)",
       "lecciones": "0",
       "rige": "05/10/2026",
-      "vence": "31/01/2031"
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547929",
@@ -417,16 +418,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548052",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "C.T.P. De Paquera",
-      "lecciones": "2",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548082",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -434,6 +425,16 @@
       "institucion": "C.T.P. De Cobano",
       "lecciones": "4",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548052",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "C.T.P. De Paquera",
+      "lecciones": "2",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
