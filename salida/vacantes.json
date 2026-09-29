@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-29T17:00:41.451Z",
-  "totalPais": 59,
+  "generado": "2026-09-29T17:20:37.018Z",
+  "totalPais": 60,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -88,16 +88,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1547865",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "C.T.P. Fernando Volio Jimenez",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1547852",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -106,6 +96,16 @@
       "lecciones": "0",
       "rige": "25/09/2026",
       "vence": "16/12/2026"
+    },
+    {
+      "vacante": "1547865",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. Fernando Volio Jimenez",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1547869",
@@ -158,16 +158,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1547893",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Rural Tarcoles",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1547854",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -176,6 +166,16 @@
       "lecciones": "0",
       "rige": "29/09/2026",
       "vence": "30/06/2027"
+    },
+    {
+      "vacante": "1547893",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Rural Tarcoles",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1547849",
@@ -348,16 +348,6 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1545461",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Corales (Limon)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548106",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -366,6 +356,16 @@
       "lecciones": "0",
       "rige": "02/10/2026",
       "vence": "19/11/2026"
+    },
+    {
+      "vacante": "1545461",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Los Corales (Limon)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548164",
@@ -545,6 +545,16 @@
       "institucion": "Cindea San Carlos",
       "lecciones": "5",
       "rige": "24/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548197",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Carolina Dent Alvarado",
+      "lecciones": "0",
+      "rige": "30/09/2026",
       "vence": "11/12/2026"
     },
     {
