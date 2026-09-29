@@ -1,11 +1,12 @@
 {
-  "generado": "2026-09-29T17:41:12.466Z",
-  "totalPais": 57,
+  "generado": "2026-09-29T18:00:48.081Z",
+  "totalPais": 59,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Administración Y Operación Aduanera",
     "Agro Industria Con Tecnología Agrícola",
+    "Artes Industriales",
     "Ciencias",
     "Construcción Civil",
     "Contabilidad",
@@ -159,16 +160,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1547854",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Inmaculada (Quepos)",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "30/06/2027"
-    },
-    {
       "vacante": "1547893",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -177,6 +168,16 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1547854",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Inmaculada (Quepos)",
+      "lecciones": "0",
+      "rige": "29/09/2026",
+      "vence": "30/06/2027"
     },
     {
       "vacante": "1547849",
@@ -227,6 +228,16 @@
       "lecciones": "44",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548213",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Asistente De Dirección Centro Educativo 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Del Carmen",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "04/11/2026"
     },
     {
       "vacante": "1547951",
@@ -329,16 +340,6 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1548106",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Antonio Fernandez Gamboa",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "19/11/2026"
-    },
-    {
       "vacante": "1545461",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -347,6 +348,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548106",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Antonio Fernandez Gamboa",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "19/11/2026"
     },
     {
       "vacante": "1548164",
@@ -379,16 +390,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548057",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Cindea Jicaral",
-      "lecciones": "2",
-      "rige": "25/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548081",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -396,6 +397,16 @@
       "institucion": "Cindea Paquera",
       "lecciones": "2",
       "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548057",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Cindea Jicaral",
+      "lecciones": "2",
+      "rige": "25/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -567,6 +578,16 @@
       "lecciones": "40",
       "rige": "02/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548210",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Artes Industriales",
+      "institucion": "Rincon Grande",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "19/11/2026"
     },
     {
       "vacante": "1548145",
