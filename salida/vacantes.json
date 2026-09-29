@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-29T22:20:59.077Z",
-  "totalPais": 69,
+  "generado": "2026-09-29T22:40:47.560Z",
+  "totalPais": 68,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -31,16 +31,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1547968",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Pedro Aguirre Cerda",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "30/11/2026"
-    },
     {
       "vacante": "1548177",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -92,16 +82,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1547865",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "C.T.P. Fernando Volio Jimenez",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1547852",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -110,6 +90,16 @@
       "lecciones": "0",
       "rige": "25/09/2026",
       "vence": "16/12/2026"
+    },
+    {
+      "vacante": "1547865",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. Fernando Volio Jimenez",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1547869",
@@ -422,22 +412,22 @@
       "vence": "19/11/2026"
     },
     {
-      "vacante": "1548161",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
-      "institucion": "C.T.P. De Bataam",
-      "lecciones": "32",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548164",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Agro Industria Con Tecnología Agrícola",
       "institucion": "C.T.P. De Bataam",
       "lecciones": "8",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548161",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
+      "institucion": "C.T.P. De Bataam",
+      "lecciones": "32",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -472,16 +462,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548081",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Paquera",
-      "lecciones": "2",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548057",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -492,13 +472,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548082",
+      "vacante": "1548081",
       "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "C.T.P. De Cobano",
-      "lecciones": "4",
-      "rige": "28/09/2026",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea Paquera",
+      "lecciones": "2",
+      "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -509,6 +489,16 @@
       "institucion": "C.T.P. De Paquera",
       "lecciones": "2",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548082",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "C.T.P. De Cobano",
+      "lecciones": "4",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -652,16 +642,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547056",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Jorge Debravo (Hatillo)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548240",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -669,6 +649,16 @@
       "institucion": "Ismael Coto Fernandez",
       "lecciones": "0",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547056",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Jorge Debravo (Hatillo)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
