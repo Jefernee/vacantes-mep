@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-29T21:40:45.952Z",
-  "totalPais": 66,
+  "generado": "2026-09-29T22:00:39.723Z",
+  "totalPais": 69,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -162,16 +162,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1547854",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Inmaculada (Quepos)",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "30/06/2027"
-    },
-    {
       "vacante": "1547893",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -180,6 +170,16 @@
       "lecciones": "0",
       "rige": "28/09/2026",
       "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1547854",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Inmaculada (Quepos)",
+      "lecciones": "0",
+      "rige": "29/09/2026",
+      "vence": "30/06/2027"
     },
     {
       "vacante": "1547849",
@@ -207,6 +207,26 @@
       "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Liceo Finca Naranjo",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1548318",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Gonzalo Acuña Hernandez",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "04/04/2028"
+    },
+    {
+      "vacante": "1548325",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Barrio Canada",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "31/01/2027"
@@ -372,16 +392,6 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1545461",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Corales (Limon)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548106",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -392,12 +402,22 @@
       "vence": "19/11/2026"
     },
     {
-      "vacante": "1548164",
+      "vacante": "1548329",
       "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Agro Industria Con Tecnología Agrícola",
-      "institucion": "C.T.P. De Bataam",
-      "lecciones": "8",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Barrio Limoncito (Limon)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "04/04/2028"
+    },
+    {
+      "vacante": "1545461",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Los Corales (Limon)",
+      "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -408,6 +428,16 @@
       "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
       "institucion": "C.T.P. De Bataam",
       "lecciones": "32",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548164",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Agro Industria Con Tecnología Agrícola",
+      "institucion": "C.T.P. De Bataam",
+      "lecciones": "8",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -462,16 +492,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548082",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "C.T.P. De Cobano",
-      "lecciones": "4",
-      "rige": "28/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548052",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -479,6 +499,16 @@
       "institucion": "C.T.P. De Paquera",
       "lecciones": "2",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548082",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "C.T.P. De Cobano",
+      "lecciones": "4",
+      "rige": "28/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -602,16 +632,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548015",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carolina Dent Alvarado",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548197",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -622,13 +642,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547056",
+      "vacante": "1548015",
       "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Jorge Debravo (Hatillo)",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Carolina Dent Alvarado",
       "lecciones": "0",
-      "rige": "05/10/2026",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -639,6 +659,16 @@
       "institucion": "Ismael Coto Fernandez",
       "lecciones": "0",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547056",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Jorge Debravo (Hatillo)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
