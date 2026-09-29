@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-29T18:40:43.333Z",
-  "totalPais": 58,
+  "generado": "2026-09-29T19:01:19.815Z",
+  "totalPais": 60,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -30,16 +30,6 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1547964",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Director De Colegio Técnico Y Profesional 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ctp Santa Eulalia",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/03/2027"
-    },
-    {
       "vacante": "1547968",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -57,6 +47,26 @@
       "institucion": "C.T.P. De San Mateo",
       "lecciones": "40",
       "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548193",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Juan Chiquito (Juntas)",
+      "lecciones": "0",
+      "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548192",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo San Rafael",
+      "lecciones": "0",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -200,16 +210,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548188",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "La Mariposa (Canoas)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548225",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
@@ -268,6 +268,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1548236",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Cindea De Guacimo",
+      "lecciones": "18",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548132",
@@ -340,16 +350,6 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1548106",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Antonio Fernandez Gamboa",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "19/11/2026"
-    },
-    {
       "vacante": "1545461",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -358,6 +358,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548106",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Antonio Fernandez Gamboa",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "19/11/2026"
     },
     {
       "vacante": "1548164",
@@ -518,6 +528,16 @@
       "lecciones": "5",
       "rige": "24/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548230",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Ricardo Fernandez G.",
+      "lecciones": "0",
+      "rige": "29/09/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1548015",
