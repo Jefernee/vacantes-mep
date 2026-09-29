@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-29T18:00:48.081Z",
-  "totalPais": 59,
+  "generado": "2026-09-29T18:20:49.536Z",
+  "totalPais": 58,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -29,16 +29,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1547958",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Asistente De Servicios De Educacion Especial",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Poas",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "31/01/2027"
-    },
     {
       "vacante": "1547964",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -530,16 +520,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548197",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carolina Dent Alvarado",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548015",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -547,6 +527,16 @@
       "institucion": "Carolina Dent Alvarado",
       "lecciones": "0",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548197",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Carolina Dent Alvarado",
+      "lecciones": "0",
+      "rige": "30/09/2026",
       "vence": "11/12/2026"
     },
     {
