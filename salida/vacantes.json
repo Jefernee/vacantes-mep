@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-29T21:00:39.120Z",
-  "totalPais": 65,
+  "generado": "2026-09-29T21:12:50.274Z",
+  "totalPais": 66,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -272,6 +272,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1548304",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Rural Linea Vieja",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "31/07/2029"
+    },
+    {
       "vacante": "1548154",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -312,16 +322,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1548103",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Esc. Domingo Gonzalez P.",
-      "lecciones": "40",
-      "rige": "26/10/2026",
-      "vence": "02/12/2026"
-    },
-    {
       "vacante": "1548202",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -330,6 +330,16 @@
       "lecciones": "44",
       "rige": "29/09/2026",
       "vence": "13/11/2026"
+    },
+    {
+      "vacante": "1548103",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+      "institucion": "Esc. Domingo Gonzalez P.",
+      "lecciones": "40",
+      "rige": "26/10/2026",
+      "vence": "02/12/2026"
     },
     {
       "vacante": "1547841",
@@ -362,16 +372,6 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1545461",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Corales (Limon)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548106",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -380,6 +380,16 @@
       "lecciones": "0",
       "rige": "02/10/2026",
       "vence": "19/11/2026"
+    },
+    {
+      "vacante": "1545461",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Los Corales (Limon)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548161",
@@ -612,16 +622,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547056",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Jorge Debravo (Hatillo)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548240",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -629,6 +629,16 @@
       "institucion": "Ismael Coto Fernandez",
       "lecciones": "0",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1547056",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Jorge Debravo (Hatillo)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
