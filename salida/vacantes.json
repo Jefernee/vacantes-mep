@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-30T18:01:13.927Z",
-  "totalPais": 40,
+  "generado": "2026-09-30T18:20:48.962Z",
+  "totalPais": 41,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -69,16 +69,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548318",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Gonzalo Acuña Hernandez",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "04/04/2028"
-    },
-    {
       "vacante": "1548325",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Cocinero",
@@ -87,6 +77,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1548318",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Gonzalo Acuña Hernandez",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "04/04/2028"
     },
     {
       "vacante": "1548333",
@@ -129,16 +129,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548455",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Vista Terraba (Cortes)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "23/12/2026"
-    },
-    {
       "vacante": "1548433",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
@@ -147,6 +137,16 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548455",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Vista Terraba (Cortes)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "23/12/2026"
     },
     {
       "vacante": "1548304",
@@ -259,22 +259,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548468",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Iii Ciclo Dr.Rafael A.Calderon",
-      "lecciones": "6",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548293",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Francés",
       "institucion": "C.T.P. De Platanares",
       "lecciones": "39",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548468",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Iii Ciclo Dr.Rafael A.Calderon",
+      "lecciones": "6",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -287,6 +287,16 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "27/11/2026"
+    },
+    {
+      "vacante": "1548476",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Carrizal (Rio Cuarto)",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1547905",
