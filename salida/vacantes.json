@@ -1,13 +1,12 @@
 {
-  "generado": "2026-09-30T15:01:33.840Z",
-  "totalPais": 49,
+  "generado": "2026-09-30T15:20:58.170Z",
+  "totalPais": 47,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Administración Educativa",
     "Agro Industria Con Tecnología Agrícola",
     "Artes Industriales",
-    "Educación Física",
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
@@ -195,16 +194,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548132",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ramon Barrantes Herrera",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1548202",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -245,22 +234,22 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1548164",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Agro Industria Con Tecnología Agrícola",
-      "institucion": "C.T.P. De Bataam",
-      "lecciones": "8",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548161",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
       "institucion": "C.T.P. De Bataam",
       "lecciones": "32",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548164",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Agro Industria Con Tecnología Agrícola",
+      "institucion": "C.T.P. De Bataam",
+      "lecciones": "8",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -345,16 +334,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548122",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Cindea San Carlos",
-      "lecciones": "5",
-      "rige": "24/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547905",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
@@ -425,21 +404,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548344",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Miguel Obregon Lizano",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548343",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Jose Rafael Araya Rojas",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548344",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Miguel Obregon Lizano",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
