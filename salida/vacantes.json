@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T18:40:55.309Z",
+  "generado": "2026-09-30T19:00:45.477Z",
   "totalPais": 37,
   "calzanVT6": 0,
   "advertencias": [],
@@ -11,6 +11,7 @@
     "Física",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
+    "Labores Varias De Oficina",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -27,24 +28,24 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1548193",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Juan Chiquito (Juntas)",
+      "vacante": "1548488",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Invu Las Cañas (Desamparados)",
       "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
+      "rige": "30/09/2026",
+      "vence": "30/03/2028"
     },
     {
-      "vacante": "1548192",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo San Rafael",
+      "vacante": "1548490",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Holanda (Alajuela)",
       "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
+      "rige": "30/09/2026",
+      "vence": "29/11/2026"
     },
     {
       "vacante": "1548254",
@@ -107,16 +108,6 @@
       "vence": "27/10/2026"
     },
     {
-      "vacante": "1548433",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Progreso De Drake",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548455",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
@@ -125,6 +116,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "23/12/2026"
+    },
+    {
+      "vacante": "1548433",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Progreso De Drake",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548304",
@@ -267,16 +268,6 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1548230",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Ricardo Fernandez G.",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1548334",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -307,6 +298,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1548482",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Miguel Obregon Lizano",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1548347",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -317,21 +318,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548343",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jose Rafael Araya Rojas",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548344",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Miguel Obregon Lizano",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548343",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Jose Rafael Araya Rojas",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
