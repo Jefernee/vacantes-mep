@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T00:20:43.313Z",
+  "generado": "2026-09-30T00:31:32.631Z",
   "totalPais": 68,
   "calzanVT6": 0,
   "advertencias": [],
@@ -82,16 +82,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1547865",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "C.T.P. Fernando Volio Jimenez",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1547852",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -100,6 +90,16 @@
       "lecciones": "0",
       "rige": "25/09/2026",
       "vence": "16/12/2026"
+    },
+    {
+      "vacante": "1547865",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. Fernando Volio Jimenez",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1547869",
@@ -202,16 +202,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548318",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Gonzalo Acuña Hernandez",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "04/04/2028"
-    },
-    {
       "vacante": "1548325",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Cocinero",
@@ -220,6 +210,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1548318",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Gonzalo Acuña Hernandez",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "04/04/2028"
     },
     {
       "vacante": "1548268",
@@ -382,6 +382,16 @@
       "vence": "04/04/2028"
     },
     {
+      "vacante": "1548106",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Antonio Fernandez Gamboa",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "19/11/2026"
+    },
+    {
       "vacante": "1548329",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -400,16 +410,6 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548106",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Antonio Fernandez Gamboa",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "19/11/2026"
     },
     {
       "vacante": "1548161",
@@ -462,16 +462,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548057",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Cindea Jicaral",
-      "lecciones": "2",
-      "rige": "25/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548081",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -479,6 +469,16 @@
       "institucion": "Cindea Paquera",
       "lecciones": "2",
       "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548057",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Cindea Jicaral",
+      "lecciones": "2",
+      "rige": "25/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -622,16 +622,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548197",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carolina Dent Alvarado",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548015",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -639,6 +629,16 @@
       "institucion": "Carolina Dent Alvarado",
       "lecciones": "0",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548197",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Carolina Dent Alvarado",
+      "lecciones": "0",
+      "rige": "30/09/2026",
       "vence": "11/12/2026"
     },
     {
