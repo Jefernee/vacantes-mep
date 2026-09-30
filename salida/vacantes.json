@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T14:21:07.650Z",
+  "generado": "2026-09-30T14:45:57.432Z",
   "totalPais": 53,
   "calzanVT6": 0,
   "advertencias": [],
@@ -88,16 +88,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548318",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Gonzalo Acuña Hernandez",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "04/04/2028"
-    },
-    {
       "vacante": "1548325",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Cocinero",
@@ -106,6 +96,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1548318",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Gonzalo Acuña Hernandez",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "04/04/2028"
     },
     {
       "vacante": "1548333",
@@ -248,16 +248,6 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1548106",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Antonio Fernandez Gamboa",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "19/11/2026"
-    },
-    {
       "vacante": "1548329",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -268,14 +258,14 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1548161",
+      "vacante": "1548106",
       "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
-      "institucion": "C.T.P. De Bataam",
-      "lecciones": "32",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Antonio Fernandez Gamboa",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "19/11/2026"
     },
     {
       "vacante": "1548164",
@@ -284,6 +274,16 @@
       "especialidad": "Agro Industria Con Tecnología Agrícola",
       "institucion": "C.T.P. De Bataam",
       "lecciones": "8",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548161",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
+      "institucion": "C.T.P. De Bataam",
+      "lecciones": "32",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -458,21 +458,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548343",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jose Rafael Araya Rojas",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548344",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Miguel Obregon Lizano",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548343",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Jose Rafael Araya Rojas",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
