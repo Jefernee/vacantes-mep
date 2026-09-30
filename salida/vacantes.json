@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-30T16:00:51.536Z",
-  "totalPais": 41,
+  "generado": "2026-09-30T16:20:51.697Z",
+  "totalPais": 40,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -272,16 +272,6 @@
       "vence": "27/11/2026"
     },
     {
-      "vacante": "1548174",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Santa Rosa (Pocosol)",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1547905",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
@@ -352,21 +342,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548344",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Miguel Obregon Lizano",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548343",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Jose Rafael Araya Rojas",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548344",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Miguel Obregon Lizano",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
