@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T21:20:51.707Z",
+  "generado": "2026-09-30T21:40:41.658Z",
   "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
@@ -88,6 +88,16 @@
       "vence": "04/04/2028"
     },
     {
+      "vacante": "1548518",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Maria Garcia Araya",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1548333",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -98,13 +108,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548518",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "vacante": "1548433",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Maria Garcia Araya",
+      "institucion": "El Progreso De Drake",
       "lecciones": "0",
-      "rige": "05/10/2026",
+      "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -116,16 +126,6 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "23/12/2026"
-    },
-    {
-      "vacante": "1548433",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Progreso De Drake",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1548470",
