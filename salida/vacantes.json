@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T14:01:22.222Z",
+  "generado": "2026-09-30T14:21:07.650Z",
   "totalPais": 53,
   "calzanVT6": 0,
   "advertencias": [],
@@ -208,16 +208,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1548103",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Esc. Domingo Gonzalez P.",
-      "lecciones": "40",
-      "rige": "26/10/2026",
-      "vence": "02/12/2026"
-    },
-    {
       "vacante": "1548202",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -278,22 +268,22 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1548164",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Agro Industria Con Tecnología Agrícola",
-      "institucion": "C.T.P. De Bataam",
-      "lecciones": "8",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548161",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
       "institucion": "C.T.P. De Bataam",
       "lecciones": "32",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548164",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Agro Industria Con Tecnología Agrícola",
+      "institucion": "C.T.P. De Bataam",
+      "lecciones": "8",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -468,21 +458,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548344",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Miguel Obregon Lizano",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548343",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Jose Rafael Araya Rojas",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548344",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Miguel Obregon Lizano",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
@@ -556,6 +546,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1546723",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Orientador 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cindea Los Chiles",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "31/01/2029"
     }
   ]
 }
