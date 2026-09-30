@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T20:59:46.259Z",
+  "generado": "2026-09-30T21:00:40.711Z",
   "totalPais": 34,
   "calzanVT6": 0,
   "advertencias": [],
@@ -67,16 +67,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548325",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Barrio Canada",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1548318",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Cocinero",
@@ -87,14 +77,14 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1548333",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Paquita Ferrer De Figueres",
+      "vacante": "1548325",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Barrio Canada",
       "lecciones": "0",
       "rige": "05/10/2026",
-      "vence": "11/12/2026"
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1548518",
@@ -107,13 +97,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548433",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "vacante": "1548333",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Progreso De Drake",
+      "institucion": "Paquita Ferrer De Figueres",
       "lecciones": "0",
-      "rige": "12/10/2026",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -125,6 +115,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "23/12/2026"
+    },
+    {
+      "vacante": "1548433",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Progreso De Drake",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548304",
@@ -147,16 +147,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1547820",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Asistente De Dirección Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548329",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -165,6 +155,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "04/04/2028"
+    },
+    {
+      "vacante": "1548540",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Bosco (Pocora)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548467",
