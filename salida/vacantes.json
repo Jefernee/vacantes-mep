@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-30T15:20:58.170Z",
-  "totalPais": 47,
+  "generado": "2026-09-30T15:40:47.857Z",
+  "totalPais": 44,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -164,16 +164,6 @@
       "vence": "31/07/2029"
     },
     {
-      "vacante": "1548154",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Barra Colorado Norte",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1548249",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
@@ -212,16 +202,6 @@
       "lecciones": "0",
       "rige": "30/09/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548142",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cahuita (Cahuita)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "04/04/2028"
     },
     {
       "vacante": "1548329",
@@ -312,16 +292,6 @@
       "lecciones": "0",
       "rige": "21/09/2026",
       "vence": "27/11/2026"
-    },
-    {
-      "vacante": "1548160",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Auxiliar Administrativo",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cindea Boca Arenal",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1548174",
