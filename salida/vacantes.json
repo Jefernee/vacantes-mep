@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T01:20:47.966Z",
+  "generado": "2026-09-30T01:40:46.176Z",
   "totalPais": 68,
   "calzanVT6": 0,
   "advertencias": [],
@@ -382,6 +382,16 @@
       "vence": "04/04/2028"
     },
     {
+      "vacante": "1548106",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Antonio Fernandez Gamboa",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "19/11/2026"
+    },
+    {
       "vacante": "1548329",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -402,14 +412,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548106",
+      "vacante": "1548164",
       "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Antonio Fernandez Gamboa",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "19/11/2026"
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Agro Industria Con Tecnología Agrícola",
+      "institucion": "C.T.P. De Bataam",
+      "lecciones": "8",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548161",
@@ -418,16 +428,6 @@
       "especialidad": "Procesos Productivos E Inspección En La Industria Alimentaria",
       "institucion": "C.T.P. De Bataam",
       "lecciones": "32",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548164",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Agro Industria Con Tecnología Agrícola",
-      "institucion": "C.T.P. De Bataam",
-      "lecciones": "8",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -642,16 +642,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548240",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Francés",
-      "institucion": "Ismael Coto Fernandez",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1547056",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -659,6 +649,16 @@
       "institucion": "Jorge Debravo (Hatillo)",
       "lecciones": "0",
       "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548240",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Francés",
+      "institucion": "Ismael Coto Fernandez",
+      "lecciones": "0",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
