@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-30T21:00:40.711Z",
-  "totalPais": 34,
+  "generado": "2026-09-30T21:20:51.707Z",
+  "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -11,6 +11,7 @@
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
     "Labores Varias De Oficina",
+    "Matemáticas",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -67,16 +68,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548318",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Gonzalo Acuña Hernandez",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "04/04/2028"
-    },
-    {
       "vacante": "1548325",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Cocinero",
@@ -87,14 +78,14 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548518",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Maria Garcia Araya",
+      "vacante": "1548318",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Gonzalo Acuña Hernandez",
       "lecciones": "0",
       "rige": "05/10/2026",
-      "vence": "11/12/2026"
+      "vence": "04/04/2028"
     },
     {
       "vacante": "1548333",
@@ -102,6 +93,16 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Paquita Ferrer De Figueres",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548518",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Maria Garcia Araya",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
@@ -125,16 +126,6 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548304",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Rural Linea Vieja",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "31/07/2029"
     },
     {
       "vacante": "1548470",
@@ -187,6 +178,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1548556",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Cindea Pejibaye",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1548204",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -194,6 +195,16 @@
       "institucion": "Sagrada Familia",
       "lecciones": "0",
       "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548554",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "C.T.P. General Viejo",
+      "lecciones": "44",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -225,6 +236,16 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1548557",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De Santa Rosa",
+      "lecciones": "42",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547905",
@@ -277,21 +298,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548344",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Miguel Obregon Lizano",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548343",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Jose Rafael Araya Rojas",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548344",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Miguel Obregon Lizano",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
