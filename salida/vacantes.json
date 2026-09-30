@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-30T19:00:45.477Z",
-  "totalPais": 37,
+  "generado": "2026-09-30T19:20:59.378Z",
+  "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -108,16 +108,6 @@
       "vence": "27/10/2026"
     },
     {
-      "vacante": "1548455",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Vista Terraba (Cortes)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "23/12/2026"
-    },
-    {
       "vacante": "1548433",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
@@ -128,6 +118,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1548455",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Vista Terraba (Cortes)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "23/12/2026"
+    },
+    {
       "vacante": "1548304",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -136,16 +136,6 @@
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "31/07/2029"
-    },
-    {
-      "vacante": "1548249",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Campo Dos (Cariari)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1548470",
@@ -218,22 +208,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548468",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Iii Ciclo Dr.Rafael A.Calderon",
-      "lecciones": "6",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548293",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Francés",
       "institucion": "C.T.P. De Platanares",
       "lecciones": "39",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548468",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Iii Ciclo Dr.Rafael A.Calderon",
+      "lecciones": "6",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
