@@ -1,9 +1,10 @@
 {
-  "generado": "2026-09-30T12:40:51.339Z",
-  "totalPais": 68,
+  "generado": "2026-09-30T13:01:20.219Z",
+  "totalPais": 66,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Administración Educativa",
     "Administración Y Operación Aduanera",
     "Agro Industria Con Tecnología Agrícola",
     "Artes Industriales",
@@ -11,7 +12,6 @@
     "Construcción Civil",
     "Contabilidad",
     "Educación Física",
-    "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
@@ -31,6 +31,16 @@
   ],
   "interesantes": [],
   "todas": [
+    {
+      "vacante": "1548215",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Jefe Técnico De Educación 1 (G. De E.)",
+      "especialidad": "Administración Educativa",
+      "institucion": "Dirección Regional De Educación Pérez Zeledón",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "31/01/2028"
+    },
     {
       "vacante": "1548177",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -192,11 +202,11 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548014",
+      "vacante": "1548325",
       "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Finca Naranjo",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Barrio Canada",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "31/01/2027"
@@ -210,16 +220,6 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "04/04/2028"
-    },
-    {
-      "vacante": "1548325",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Barrio Canada",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1548268",
@@ -239,16 +239,6 @@
       "institucion": "La Palma (Cangrejal)",
       "lecciones": "0",
       "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547946",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo De Gravilias",
-      "lecciones": "44",
-      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -392,16 +382,6 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1545461",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Corales (Limon)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548106",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -482,16 +462,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548052",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "C.T.P. De Paquera",
-      "lecciones": "2",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548082",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -499,6 +469,16 @@
       "institucion": "C.T.P. De Cobano",
       "lecciones": "4",
       "rige": "28/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548052",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "C.T.P. De Paquera",
+      "lecciones": "2",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -510,6 +490,16 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1548204",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Sagrada Familia",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548293",
@@ -612,6 +602,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1547905",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Ricardo Fernandez G.",
+      "lecciones": "0",
+      "rige": "07/10/2026",
+      "vence": "31/01/2030"
+    },
+    {
       "vacante": "1548230",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Cocinero",
@@ -632,13 +632,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548015",
+      "vacante": "1548334",
       "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carolina Dent Alvarado",
-      "lecciones": "0",
-      "rige": "29/09/2026",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Roberto Brenes Mesen",
+      "lecciones": "20",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -649,26 +649,6 @@
       "institucion": "Ismael Coto Fernandez",
       "lecciones": "0",
       "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547056",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Jorge Debravo (Hatillo)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548029",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Republica De Argentina",
-      "lecciones": "40",
-      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
