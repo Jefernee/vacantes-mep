@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T11:00:44.777Z",
+  "generado": "2026-09-30T11:20:55.386Z",
   "totalPais": 68,
   "calzanVT6": 0,
   "advertencias": [],
@@ -152,16 +152,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1547893",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Rural Tarcoles",
-      "lecciones": "0",
-      "rige": "28/09/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1547854",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -170,6 +160,16 @@
       "lecciones": "0",
       "rige": "29/09/2026",
       "vence": "30/06/2027"
+    },
+    {
+      "vacante": "1547893",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Rural Tarcoles",
+      "lecciones": "0",
+      "rige": "28/09/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1547849",
@@ -332,16 +332,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1548202",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "29/09/2026",
-      "vence": "13/11/2026"
-    },
-    {
       "vacante": "1548103",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -350,6 +340,16 @@
       "lecciones": "40",
       "rige": "26/10/2026",
       "vence": "02/12/2026"
+    },
+    {
+      "vacante": "1548202",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "29/09/2026",
+      "vence": "13/11/2026"
     },
     {
       "vacante": "1547841",
@@ -622,16 +622,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548015",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carolina Dent Alvarado",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548197",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -639,6 +629,16 @@
       "institucion": "Carolina Dent Alvarado",
       "lecciones": "0",
       "rige": "30/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548015",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Carolina Dent Alvarado",
+      "lecciones": "0",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
