@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T20:20:43.834Z",
+  "generado": "2026-09-30T20:40:42.348Z",
   "totalPais": 34,
   "calzanVT6": 0,
   "advertencias": [],
@@ -67,16 +67,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548325",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Barrio Canada",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1548318",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Cocinero",
@@ -87,14 +77,14 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1548518",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Maria Garcia Araya",
+      "vacante": "1548325",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Barrio Canada",
       "lecciones": "0",
       "rige": "05/10/2026",
-      "vence": "11/12/2026"
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1548333",
@@ -107,14 +97,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548455",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "vacante": "1548518",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Vista Terraba (Cortes)",
+      "institucion": "Maria Garcia Araya",
       "lecciones": "0",
       "rige": "05/10/2026",
-      "vence": "23/12/2026"
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548433",
@@ -125,6 +115,16 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548455",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Vista Terraba (Cortes)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "23/12/2026"
     },
     {
       "vacante": "1548304",
@@ -187,22 +187,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548293",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "C.T.P. De Platanares",
-      "lecciones": "39",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548468",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Francés",
       "institucion": "Iii Ciclo Dr.Rafael A.Calderon",
       "lecciones": "6",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548293",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "C.T.P. De Platanares",
+      "lecciones": "39",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -277,21 +277,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548343",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jose Rafael Araya Rojas",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548344",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Miguel Obregon Lizano",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548343",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Jose Rafael Araya Rojas",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
