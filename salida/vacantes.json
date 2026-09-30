@@ -1,16 +1,13 @@
 {
-  "generado": "2026-09-30T14:45:57.432Z",
-  "totalPais": 53,
+  "generado": "2026-09-30T15:01:33.840Z",
+  "totalPais": 49,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Administración Educativa",
-    "Administración Y Operación Aduanera",
     "Agro Industria Con Tecnología Agrícola",
     "Artes Industriales",
-    "Ciencias",
     "Educación Física",
-    "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
@@ -218,16 +215,6 @@
       "vence": "13/11/2026"
     },
     {
-      "vacante": "1547841",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Administración Y Operación Aduanera",
-      "institucion": "Ctp Santo Domingo",
-      "lecciones": "20",
-      "rige": "28/09/2026",
-      "vence": "02/11/2026"
-    },
-    {
       "vacante": "1547820",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Asistente De Dirección Centro Educativo 1",
@@ -258,16 +245,6 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1548106",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Antonio Fernandez Gamboa",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "19/11/2026"
-    },
-    {
       "vacante": "1548164",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -295,16 +272,6 @@
       "institucion": "Ctp Rosario De Naranjo",
       "lecciones": "0",
       "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548125",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Colegio Candelaria De Naranjo",
-      "lecciones": "15",
-      "rige": "30/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -505,16 +472,6 @@
       "institucion": "Cindea Huacas",
       "lecciones": "4",
       "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548120",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Aquiares",
-      "lecciones": "40",
-      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
