@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-30T17:41:04.187Z",
-  "totalPais": 38,
+  "generado": "2026-09-30T18:01:13.927Z",
+  "totalPais": 40,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -119,16 +119,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548213",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Asistente De Dirección Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Del Carmen",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "04/11/2026"
-    },
-    {
       "vacante": "1548242",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -136,16 +126,6 @@
       "institucion": "Colegio Santa Eduviges",
       "lecciones": "0",
       "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548433",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Progreso De Drake",
-      "lecciones": "0",
-      "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -157,6 +137,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "23/12/2026"
+    },
+    {
+      "vacante": "1548433",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Progreso De Drake",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548304",
@@ -177,6 +167,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1548470",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Toro Amarillo (Guapiles)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548236",
@@ -207,6 +207,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "04/04/2028"
+    },
+    {
+      "vacante": "1548467",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Carlos Miller (Mansion)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548278",
@@ -246,6 +256,16 @@
       "institucion": "Sagrada Familia",
       "lecciones": "0",
       "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548468",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Iii Ciclo Dr.Rafael A.Calderon",
+      "lecciones": "6",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -329,21 +349,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548343",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jose Rafael Araya Rojas",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548344",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Miguel Obregon Lizano",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548343",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Jose Rafael Araya Rojas",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
