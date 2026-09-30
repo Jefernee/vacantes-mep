@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 13146,
+      "vecesVista": 13163,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-30T18:20:48.964Z",
+      "ultimaVez": "2026-09-30T18:40:55.311Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 7065,
+      "vecesVista": 7075,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-30T18:20:48.964Z",
+      "ultimaVez": "2026-09-30T18:40:55.311Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -79,9 +79,9 @@
     },
     "Física": {
       "calce": "no interesa",
-      "vecesVista": 465,
+      "vecesVista": 466,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-30T18:20:48.964Z",
+      "ultimaVez": "2026-09-30T18:40:55.311Z",
       "avisadaComoNueva": true
     },
     "Secretariado Ejecutivo": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 3831,
+      "vecesVista": 3832,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-30T18:20:48.964Z",
+      "ultimaVez": "2026-09-30T18:40:55.311Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,16 +107,16 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 1160,
+      "vecesVista": 1161,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-30T18:20:48.964Z",
+      "ultimaVez": "2026-09-30T18:40:55.311Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 466,
+      "vecesVista": 467,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-30T18:20:48.964Z",
+      "ultimaVez": "2026-09-30T18:40:55.311Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 580,
+      "vecesVista": 582,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-09-30T18:20:48.964Z",
+      "ultimaVez": "2026-09-30T18:40:55.311Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 985,
+      "vecesVista": 988,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-09-30T18:20:48.964Z",
+      "ultimaVez": "2026-09-30T18:40:55.311Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -520,11 +520,11 @@
     },
     "Administración Educativa": {
       "calce": "no interesa",
-      "vecesVista": 18,
+      "vecesVista": 19,
       "primeraVez": "2026-09-30T13:01:20.221Z",
-      "ultimaVez": "2026-09-30T18:20:48.964Z",
+      "ultimaVez": "2026-09-30T18:40:55.311Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-09-30T18:20:48.964Z"
+  "actualizado": "2026-09-30T18:40:55.311Z"
 }
