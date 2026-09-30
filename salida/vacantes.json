@@ -1,12 +1,10 @@
 {
-  "generado": "2026-09-30T17:25:16.069Z",
-  "totalPais": 39,
+  "generado": "2026-09-30T17:41:04.187Z",
+  "totalPais": 38,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Administración Educativa",
-    "Artes Industriales",
-    "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
@@ -71,16 +69,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548325",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Barrio Canada",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1548318",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Cocinero",
@@ -89,6 +77,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "04/04/2028"
+    },
+    {
+      "vacante": "1548325",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Barrio Canada",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1548333",
@@ -151,6 +149,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1548455",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Vista Terraba (Cortes)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "23/12/2026"
+    },
+    {
       "vacante": "1548304",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -179,16 +187,6 @@
       "lecciones": "18",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548202",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "29/09/2026",
-      "vence": "13/11/2026"
     },
     {
       "vacante": "1547820",
@@ -331,21 +329,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548344",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Miguel Obregon Lizano",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548343",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Jose Rafael Araya Rojas",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548344",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Miguel Obregon Lizano",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
@@ -359,16 +357,6 @@
       "lecciones": "44",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548210",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Artes Industriales",
-      "institucion": "Rincon Grande",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "19/11/2026"
     },
     {
       "vacante": "1548345",
