@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-30T19:40:48.227Z",
-  "totalPais": 34,
+  "generado": "2026-09-30T20:00:43.233Z",
+  "totalPais": 35,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,7 +8,6 @@
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Estudios Sociales/Educación Cívica",
     "Francés",
-    "Física",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
     "Labores Varias De Oficina",
@@ -68,6 +67,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1548325",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Barrio Canada",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1548318",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Cocinero",
@@ -78,14 +87,14 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1548325",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Barrio Canada",
+      "vacante": "1548518",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Maria Garcia Araya",
       "lecciones": "0",
       "rige": "05/10/2026",
-      "vence": "31/01/2027"
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548333",
@@ -98,14 +107,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548268",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Liceo De San Antonio",
-      "lecciones": "44",
-      "rige": "02/10/2026",
-      "vence": "27/10/2026"
+      "vacante": "1548433",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Progreso De Drake",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548455",
@@ -116,16 +125,6 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "23/12/2026"
-    },
-    {
-      "vacante": "1548433",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Progreso De Drake",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1548304",
@@ -288,21 +287,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548343",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jose Rafael Araya Rojas",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548344",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Miguel Obregon Lizano",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548343",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Jose Rafael Araya Rojas",
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
@@ -316,6 +315,16 @@
       "lecciones": "44",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548521",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "J.N. Juan Rafael Mora Porras",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1548345",
