@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T12:01:03.874Z",
+  "generado": "2026-09-30T12:20:56.199Z",
   "totalPais": 68,
   "calzanVT6": 0,
   "advertencias": [],
@@ -332,16 +332,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1548103",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Esc. Domingo Gonzalez P.",
-      "lecciones": "40",
-      "rige": "26/10/2026",
-      "vence": "02/12/2026"
-    },
-    {
       "vacante": "1548202",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -350,6 +340,16 @@
       "lecciones": "44",
       "rige": "29/09/2026",
       "vence": "13/11/2026"
+    },
+    {
+      "vacante": "1548103",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+      "institucion": "Esc. Domingo Gonzalez P.",
+      "lecciones": "40",
+      "rige": "26/10/2026",
+      "vence": "02/12/2026"
     },
     {
       "vacante": "1547841",
@@ -382,16 +382,6 @@
       "vence": "04/04/2028"
     },
     {
-      "vacante": "1548106",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Antonio Fernandez Gamboa",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "19/11/2026"
-    },
-    {
       "vacante": "1548329",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -410,6 +400,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548106",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Antonio Fernandez Gamboa",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "19/11/2026"
     },
     {
       "vacante": "1548164",
@@ -622,16 +622,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548197",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carolina Dent Alvarado",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548015",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -639,6 +629,16 @@
       "institucion": "Carolina Dent Alvarado",
       "lecciones": "0",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548197",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Carolina Dent Alvarado",
+      "lecciones": "0",
+      "rige": "30/09/2026",
       "vence": "11/12/2026"
     },
     {
