@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-01T20:00:42.958Z",
+  "generado": "2026-10-01T20:20:46.085Z",
   "totalPais": 45,
   "calzanVT6": 1,
   "advertencias": [],
@@ -49,16 +49,6 @@
       "vence": "12/11/2026"
     },
     {
-      "vacante": "1548676",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Ambientalista El Roble",
-      "lecciones": "30",
-      "rige": "05/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548684",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -66,6 +56,16 @@
       "institucion": "C.T.P Sabanilla",
       "lecciones": "15",
       "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548676",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Ambientalista El Roble",
+      "lecciones": "30",
+      "rige": "05/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -229,16 +229,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1548617",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Domingo Gonzalez Perez",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "28/03/2027"
-    },
-    {
       "vacante": "1548685",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -247,6 +237,16 @@
       "lecciones": "0",
       "rige": "23/10/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1548617",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Domingo Gonzalez Perez",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "28/03/2027"
     },
     {
       "vacante": "1548669",
