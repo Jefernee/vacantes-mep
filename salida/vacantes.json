@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-01T22:27:07.536Z",
+  "generado": "2026-10-01T22:41:34.959Z",
   "totalPais": 46,
   "calzanVT6": 1,
   "advertencias": [],
@@ -249,16 +249,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1548617",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Domingo Gonzalez Perez",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "28/03/2027"
-    },
-    {
       "vacante": "1548685",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -267,6 +257,16 @@
       "lecciones": "0",
       "rige": "23/10/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1548617",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Domingo Gonzalez Perez",
+      "lecciones": "0",
+      "rige": "01/10/2026",
+      "vence": "28/03/2027"
     },
     {
       "vacante": "1548669",
