@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-01T15:00:50.644Z",
-  "totalPais": 44,
+  "generado": "2026-10-01T15:29:37.194Z",
+  "totalPais": 45,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -236,6 +236,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "28/03/2027"
+    },
+    {
+      "vacante": "1548669",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Liceo De Sixaola",
+      "lecciones": "15",
+      "rige": "07/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548588",
