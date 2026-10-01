@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-01T16:40:47.155Z",
+  "generado": "2026-10-01T17:00:46.310Z",
   "totalPais": 48,
   "calzanVT6": 1,
   "advertencias": [],
@@ -59,16 +59,6 @@
       "vence": "30/03/2028"
     },
     {
-      "vacante": "1548676",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Ambientalista El Roble",
-      "lecciones": "30",
-      "rige": "05/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548684",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -76,6 +66,16 @@
       "institucion": "C.T.P Sabanilla",
       "lecciones": "15",
       "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548676",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Ambientalista El Roble",
+      "lecciones": "30",
+      "rige": "05/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -169,6 +169,16 @@
       "vence": "20/01/2027"
     },
     {
+      "vacante": "1548696",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Gravilias",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "11/11/2026"
+    },
+    {
       "vacante": "1548528",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
@@ -189,16 +199,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544845",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Industriales",
-      "institucion": "Ctp Jose Maria Zeledon Brenes",
-      "lecciones": "40",
-      "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548589",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -209,14 +209,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548455",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Vista Terraba (Cortes)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "23/12/2026"
+      "vacante": "1544845",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Industriales",
+      "institucion": "Ctp Jose Maria Zeledon Brenes",
+      "lecciones": "40",
+      "rige": "13/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548433",
@@ -229,14 +229,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548470",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "vacante": "1548455",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Toro Amarillo (Guapiles)",
+      "institucion": "Vista Terraba (Cortes)",
       "lecciones": "0",
       "rige": "05/10/2026",
-      "vence": "11/12/2026"
+      "vence": "23/12/2026"
     },
     {
       "vacante": "1548396",
@@ -339,16 +339,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1548554",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "C.T.P. General Viejo",
-      "lecciones": "44",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548468",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -366,6 +356,16 @@
       "institucion": "Colegio Nocturno De Palmares",
       "lecciones": "8",
       "rige": "10/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548554",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "C.T.P. General Viejo",
+      "lecciones": "44",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
