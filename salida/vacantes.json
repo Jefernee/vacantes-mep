@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-01T18:01:24.181Z",
+  "generado": "2026-10-01T18:20:38.397Z",
   "totalPais": 47,
   "calzanVT6": 1,
   "advertencias": [],
@@ -229,6 +229,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1548742",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Rural Vara Blanca",
+      "lecciones": "0",
+      "rige": "07/10/2026",
+      "vence": "31/07/2030"
+    },
+    {
       "vacante": "1548617",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -387,16 +397,6 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548476",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Carrizal (Rio Cuarto)",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1548557",
