@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-01T14:01:04.073Z",
-  "totalPais": 44,
+  "generado": "2026-10-01T14:20:52.715Z",
+  "totalPais": 43,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -158,16 +158,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544845",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Industriales",
-      "institucion": "Ctp Jose Maria Zeledon Brenes",
-      "lecciones": "40",
-      "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548589",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -178,13 +168,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548433",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Progreso De Drake",
-      "lecciones": "0",
-      "rige": "12/10/2026",
+      "vacante": "1544845",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Industriales",
+      "institucion": "Ctp Jose Maria Zeledon Brenes",
+      "lecciones": "40",
+      "rige": "13/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -196,6 +186,16 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "23/12/2026"
+    },
+    {
+      "vacante": "1548433",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Progreso De Drake",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548470",
@@ -446,16 +446,6 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546723",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Orientador 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cindea Los Chiles",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2029"
     },
     {
       "vacante": "1547397",
