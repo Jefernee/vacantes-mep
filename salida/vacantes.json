@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-01T17:26:34.384Z",
-  "totalPais": 46,
+  "generado": "2026-10-01T17:40:50.959Z",
+  "totalPais": 48,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -229,16 +229,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548685",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cubujuqui (Mercedes)",
-      "lecciones": "0",
-      "rige": "23/10/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1548617",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -247,6 +237,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "28/03/2027"
+    },
+    {
+      "vacante": "1548685",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Cubujuqui (Mercedes)",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1548669",
@@ -309,6 +309,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1548733",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Marcos (Pejibaye)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1548556",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -319,12 +329,12 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1548554",
+      "vacante": "1548729",
       "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "C.T.P. General Viejo",
-      "lecciones": "44",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Pavones",
+      "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
@@ -346,6 +356,16 @@
       "institucion": "Colegio Nocturno De Palmares",
       "lecciones": "8",
       "rige": "10/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548554",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "C.T.P. General Viejo",
+      "lecciones": "44",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
