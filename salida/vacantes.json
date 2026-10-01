@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-01T18:40:45.302Z",
-  "totalPais": 49,
+  "generado": "2026-10-01T19:00:55.739Z",
+  "totalPais": 47,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -49,16 +49,6 @@
       "vence": "12/11/2026"
     },
     {
-      "vacante": "1548488",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Invu Las Cañas (Desamparados)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "30/03/2028"
-    },
-    {
       "vacante": "1548676",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -77,16 +67,6 @@
       "lecciones": "15",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548490",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Holanda (Alajuela)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "29/11/2026"
     },
     {
       "vacante": "1548639",
@@ -127,6 +107,16 @@
       "lecciones": "40",
       "rige": "03/09/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548745",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Auxiliar Administrativo",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "C.T.P. De Guaycara",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "28/11/2026"
     },
     {
       "vacante": "1548587",
@@ -199,16 +189,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544845",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Industriales",
-      "institucion": "Ctp Jose Maria Zeledon Brenes",
-      "lecciones": "40",
-      "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548589",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -216,6 +196,16 @@
       "institucion": "Ctp De Aserri",
       "lecciones": "20",
       "rige": "09/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544845",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Industriales",
+      "institucion": "Ctp Jose Maria Zeledon Brenes",
+      "lecciones": "40",
+      "rige": "13/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -249,16 +239,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1548685",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cubujuqui (Mercedes)",
-      "lecciones": "0",
-      "rige": "23/10/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1548617",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -267,6 +247,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "28/03/2027"
+    },
+    {
+      "vacante": "1548685",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Cubujuqui (Mercedes)",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1548669",
@@ -359,16 +349,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548554",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "C.T.P. General Viejo",
-      "lecciones": "44",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544890",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -376,6 +356,16 @@
       "institucion": "Colegio Nocturno De Palmares",
       "lecciones": "8",
       "rige": "10/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548554",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "C.T.P. General Viejo",
+      "lecciones": "44",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -427,16 +417,6 @@
       "lecciones": "42",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548482",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Miguel Obregon Lizano",
-      "lecciones": "0",
-      "rige": "01/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1547728",
