@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-01T17:15:41.602Z",
+  "generado": "2026-10-01T17:26:34.384Z",
   "totalPais": 46,
   "calzanVT6": 1,
   "advertencias": [],
@@ -199,16 +199,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548589",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad Y Finanzas",
-      "institucion": "Ctp De Aserri",
-      "lecciones": "20",
-      "rige": "09/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544845",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -216,6 +206,16 @@
       "institucion": "Ctp Jose Maria Zeledon Brenes",
       "lecciones": "40",
       "rige": "13/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548589",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad Y Finanzas",
+      "institucion": "Ctp De Aserri",
+      "lecciones": "20",
+      "rige": "09/10/2026",
       "vence": "11/12/2026"
     },
     {
