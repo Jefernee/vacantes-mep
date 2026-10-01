@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-01T16:01:41.718Z",
-  "totalPais": 46,
+  "generado": "2026-10-01T16:20:45.594Z",
+  "totalPais": 48,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -66,6 +66,16 @@
       "institucion": "Liceo Ambientalista El Roble",
       "lecciones": "30",
       "rige": "05/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548684",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "C.T.P Sabanilla",
+      "lecciones": "15",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -179,16 +189,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548589",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad Y Finanzas",
-      "institucion": "Ctp De Aserri",
-      "lecciones": "20",
-      "rige": "09/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1544845",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -196,6 +196,16 @@
       "institucion": "Ctp Jose Maria Zeledon Brenes",
       "lecciones": "40",
       "rige": "13/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548589",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad Y Finanzas",
+      "institucion": "Ctp De Aserri",
+      "lecciones": "20",
+      "rige": "09/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -237,6 +247,16 @@
       "lecciones": "14",
       "rige": "02/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548685",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Cubujuqui (Mercedes)",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1548617",
@@ -289,14 +309,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548539",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Liceo El Carmen (Nandayure)",
+      "vacante": "1548689",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Julio Ulate Gonzalez",
       "lecciones": "0",
-      "rige": "14/10/2026",
-      "vence": "31/01/2027"
+      "rige": "05/10/2026",
+      "vence": "24/01/2027"
     },
     {
       "vacante": "1548595",
@@ -319,13 +339,13 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1548468",
+      "vacante": "1544890",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Iii Ciclo Dr.Rafael A.Calderon",
-      "lecciones": "6",
-      "rige": "05/10/2026",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Nocturno De Palmares",
+      "lecciones": "8",
+      "rige": "10/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -339,13 +359,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544890",
+      "vacante": "1548468",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Nocturno De Palmares",
-      "lecciones": "8",
-      "rige": "10/10/2026",
+      "especialidad": "Francés",
+      "institucion": "Iii Ciclo Dr.Rafael A.Calderon",
+      "lecciones": "6",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
