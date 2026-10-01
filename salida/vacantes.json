@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-01T14:20:52.715Z",
+  "generado": "2026-10-01T14:40:44.866Z",
   "totalPais": 43,
   "calzanVT6": 1,
   "advertencias": [],
@@ -158,6 +158,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1544845",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Industriales",
+      "institucion": "Ctp Jose Maria Zeledon Brenes",
+      "lecciones": "40",
+      "rige": "13/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1548589",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -168,13 +178,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544845",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Industriales",
-      "institucion": "Ctp Jose Maria Zeledon Brenes",
-      "lecciones": "40",
-      "rige": "13/10/2026",
+      "vacante": "1548433",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Progreso De Drake",
+      "lecciones": "0",
+      "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -186,16 +196,6 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "23/12/2026"
-    },
-    {
-      "vacante": "1548433",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Progreso De Drake",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1548470",
@@ -288,6 +288,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1548554",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "C.T.P. General Viejo",
+      "lecciones": "44",
+      "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1548468",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -305,16 +315,6 @@
       "institucion": "Colegio Nocturno De Palmares",
       "lecciones": "8",
       "rige": "10/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548554",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "C.T.P. General Viejo",
-      "lecciones": "44",
-      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
