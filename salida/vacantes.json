@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-01T15:29:37.194Z",
+  "generado": "2026-10-01T15:40:52.594Z",
   "totalPais": 45,
   "calzanVT6": 1,
   "advertencias": [],
@@ -168,16 +168,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544845",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Industriales",
-      "institucion": "Ctp Jose Maria Zeledon Brenes",
-      "lecciones": "40",
-      "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548589",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -185,6 +175,16 @@
       "institucion": "Ctp De Aserri",
       "lecciones": "20",
       "rige": "09/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1544845",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Industriales",
+      "institucion": "Ctp Jose Maria Zeledon Brenes",
+      "lecciones": "40",
+      "rige": "13/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -308,13 +308,13 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1548468",
+      "vacante": "1544890",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Iii Ciclo Dr.Rafael A.Calderon",
-      "lecciones": "6",
-      "rige": "05/10/2026",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Nocturno De Palmares",
+      "lecciones": "8",
+      "rige": "10/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -328,13 +328,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544890",
+      "vacante": "1548468",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Nocturno De Palmares",
-      "lecciones": "8",
-      "rige": "10/10/2026",
+      "especialidad": "Francés",
+      "institucion": "Iii Ciclo Dr.Rafael A.Calderon",
+      "lecciones": "6",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
