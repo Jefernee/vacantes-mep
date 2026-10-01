@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-01T17:40:50.959Z",
-  "totalPais": 48,
+  "generado": "2026-10-01T18:01:24.181Z",
+  "totalPais": 47,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -59,16 +59,6 @@
       "vence": "30/03/2028"
     },
     {
-      "vacante": "1548676",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Ambientalista El Roble",
-      "lecciones": "30",
-      "rige": "05/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548684",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -76,6 +66,16 @@
       "institucion": "C.T.P Sabanilla",
       "lecciones": "15",
       "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548676",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Ambientalista El Roble",
+      "lecciones": "30",
+      "rige": "05/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -279,16 +279,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548467",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carlos Miller (Mansion)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548689",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -319,6 +309,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1548736",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Hermosa",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1548556",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -335,16 +335,6 @@
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Pavones",
       "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548468",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Iii Ciclo Dr.Rafael A.Calderon",
-      "lecciones": "6",
       "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
