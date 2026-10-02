@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-02T18:00:38.911Z",
-  "totalPais": 14,
+  "generado": "2026-10-02T18:20:42.356Z",
+  "totalPais": 13,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -61,16 +61,6 @@
       "lecciones": "44",
       "rige": "01/10/2026",
       "vence": "11/11/2026"
-    },
-    {
-      "vacante": "1548742",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Rural Vara Blanca",
-      "lecciones": "0",
-      "rige": "07/10/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1548825",

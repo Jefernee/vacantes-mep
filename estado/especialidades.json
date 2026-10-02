@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 14823,
+      "vecesVista": 14830,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T18:00:38.912Z",
+      "ultimaVez": "2026-10-02T18:20:42.358Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 7781,
+      "vecesVista": 7784,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T18:00:38.912Z",
+      "ultimaVez": "2026-10-02T18:20:42.358Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 3993,
+      "vecesVista": 3994,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T18:00:38.912Z",
+      "ultimaVez": "2026-10-02T18:20:42.358Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,9 +107,9 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 1297,
+      "vecesVista": 1298,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T18:00:38.912Z",
+      "ultimaVez": "2026-10-02T18:20:42.358Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 732,
+      "vecesVista": 733,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-02T18:00:38.912Z",
+      "ultimaVez": "2026-10-02T18:20:42.358Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -540,5 +540,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-02T18:00:38.912Z"
+  "actualizado": "2026-10-02T18:20:42.358Z"
 }
