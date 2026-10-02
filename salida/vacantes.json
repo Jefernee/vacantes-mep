@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-02T15:40:43.331Z",
-  "totalPais": 21,
+  "generado": "2026-10-02T16:00:35.335Z",
+  "totalPais": 20,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -32,16 +32,6 @@
       "institucion": "C.T.P Sabanilla",
       "lecciones": "15",
       "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548676",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Ambientalista El Roble",
-      "lecciones": "30",
-      "rige": "05/09/2026",
       "vence": "11/12/2026"
     },
     {

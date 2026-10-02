@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 14771,
+      "vecesVista": 14778,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T15:40:43.333Z",
+      "ultimaVez": "2026-10-02T16:00:35.337Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 7738,
+      "vecesVista": 7746,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T15:40:43.333Z",
+      "ultimaVez": "2026-10-02T16:00:35.337Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 1566,
+      "vecesVista": 1567,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T15:40:43.333Z",
+      "ultimaVez": "2026-10-02T16:00:35.337Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 3986,
+      "vecesVista": 3987,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T15:40:43.333Z",
+      "ultimaVez": "2026-10-02T16:00:35.337Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,9 +107,9 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 1290,
+      "vecesVista": 1291,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T15:40:43.333Z",
+      "ultimaVez": "2026-10-02T16:00:35.337Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 824,
+      "vecesVista": 825,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T15:40:43.333Z",
+      "ultimaVez": "2026-10-02T16:00:35.337Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 725,
+      "vecesVista": 726,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-02T15:40:43.333Z",
+      "ultimaVez": "2026-10-02T16:00:35.337Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -540,5 +540,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-02T15:40:43.333Z"
+  "actualizado": "2026-10-02T16:00:35.337Z"
 }
