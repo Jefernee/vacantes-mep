@@ -1,12 +1,13 @@
 {
-  "generado": "2026-10-02T19:40:31.712Z",
-  "totalPais": 9,
+  "generado": "2026-10-02T20:00:37.819Z",
+  "totalPais": 10,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Ciencias",
     "Estudios Sociales/Educación Cívica",
     "Inglés",
+    "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -31,6 +32,16 @@
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "27/12/2026"
+    },
+    {
+      "vacante": "1548888",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "El Nuevo Amanecer",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548829",
