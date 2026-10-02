@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 14859,
+      "vecesVista": 14860,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T21:00:32.238Z",
+      "ultimaVez": "2026-10-02T21:20:39.080Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 7810,
+      "vecesVista": 7812,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T21:00:32.238Z",
+      "ultimaVez": "2026-10-02T21:20:39.080Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 1276,
+      "vecesVista": 1277,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T21:00:32.238Z",
+      "ultimaVez": "2026-10-02T21:20:39.080Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 673,
+      "vecesVista": 674,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T21:00:32.238Z",
+      "ultimaVez": "2026-10-02T21:20:39.080Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 4003,
+      "vecesVista": 4004,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T21:00:32.238Z",
+      "ultimaVez": "2026-10-02T21:20:39.080Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 742,
+      "vecesVista": 743,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-02T21:00:32.238Z",
+      "ultimaVez": "2026-10-02T21:20:39.080Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -540,5 +540,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-02T21:00:32.238Z"
+  "actualizado": "2026-10-02T21:20:39.080Z"
 }
