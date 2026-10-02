@@ -1,13 +1,12 @@
 {
-  "generado": "2026-10-02T15:00:54.847Z",
-  "totalPais": 22,
+  "generado": "2026-10-02T15:21:01.121Z",
+  "totalPais": 21,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Ciencias",
     "Español",
     "Estudios Sociales/Educación Cívica",
-    "Francés",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
     "Sin Especialidad T-I",
@@ -114,16 +113,6 @@
       "lecciones": "0",
       "rige": "23/10/2026",
       "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1548669",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Sixaola",
-      "lecciones": "15",
-      "rige": "07/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1548825",
