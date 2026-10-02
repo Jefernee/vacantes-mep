@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 14852,
+      "vecesVista": 14855,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T20:20:35.729Z",
+      "ultimaVez": "2026-10-02T20:40:34.171Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 7803,
+      "vecesVista": 7806,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T20:20:35.729Z",
+      "ultimaVez": "2026-10-02T20:40:34.171Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 1273,
+      "vecesVista": 1274,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T20:20:35.729Z",
+      "ultimaVez": "2026-10-02T20:40:34.171Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 4000,
+      "vecesVista": 4001,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T20:20:35.729Z",
+      "ultimaVez": "2026-10-02T20:40:34.171Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,9 +107,9 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 1304,
+      "vecesVista": 1305,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T20:20:35.729Z",
+      "ultimaVez": "2026-10-02T20:40:34.171Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 739,
+      "vecesVista": 740,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-02T20:20:35.729Z",
+      "ultimaVez": "2026-10-02T20:40:34.171Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -540,5 +540,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-02T20:20:35.729Z"
+  "actualizado": "2026-10-02T20:40:34.171Z"
 }
