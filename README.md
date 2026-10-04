@@ -130,12 +130,27 @@ La memoria de lo ya avisado es **por destinatario** (`estado/avisadas.json` tien
 una lista por cada uno): la misma vacante puede estar avisada para uno y pendiente
 para el otro.
 
+### Un tercer destinatario, solo para contabilidad
+
+Igual que el de matemáticas, con el Secret opcional `WAHA_CHAT_ID_CONTABILIDAD`.
+Le llegan solo las vacantes de "Contabilidad" y "Contabilidad Y Finanzas".
+
+```bash
+gh secret set WAHA_CHAT_ID_CONTABILIDAD --repo Jefernee/vacantes-mep --body '506XXXXXXXX@c.us'
+```
+
+La primera corrida después de ponerlo le manda las de contabilidad que estén
+publicadas en ese momento, porque para ese número todavía son nuevas.
+
 ### El latido
 
-Cada **3 horas**, si no hubo nada que avisar, el destinatario principal recibe un
-"🟢 sigo trabajando" con la hora de la última revisión y cuántas vacantes hay
-publicadas en el país. Un aviso de verdad cuenta como latido, así que no llegan
-los dos seguidos. La marca vive en `estado/latido.json`.
+Cada **6 horas**, si no hubo nada que avisar, el destinatario principal recibe un
+"🟢 sigo trabajando" con la hora de la última revisión, cuántas vacantes hay
+publicadas en el país y una línea por cada destinatario activo (VT6, Matemáticas,
+Contabilidad) con cuántas de lo suyo hay publicadas. Un aviso de verdad cuenta
+como latido, así que no llegan los dos seguidos. La marca vive en
+`estado/latido.json`. Era cada 3 horas; se subió porque eran 5 o 6 mensajes al
+día y las alarmas de la VM y de Atlas ya cubren que deje de correr.
 
 Y dos triggers en MongoDB Atlas (Scheduled, Authentication: System), cada uno con
 su secreto pegado a mano en el panel:

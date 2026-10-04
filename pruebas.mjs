@@ -18,6 +18,7 @@ import assert from 'node:assert/strict';
 import {
   clasificar,
   esMatematicas,
+  esContabilidad,
   comoClave,
   claveVacante,
   migrarAvisadas,
@@ -69,6 +70,20 @@ test('matemáticas calza escrito de cualquier forma', () => {
 test('matemáticas no se lleva lo que no es suyo', () => {
   for (const ajena of ['Español', 'Ciberseguridad', 'Física', 'Informática Empresarial', '']) {
     assert.equal(esMatematicas(ajena), false, ajena + ' no debería ser matemáticas');
+  }
+});
+
+// ── El filtro de contabilidad, para el tercer destinatario ────────────────
+
+test('contabilidad calza con las dos formas que publica el MEP', () => {
+  for (const forma of ['Contabilidad', 'Contabilidad Y Finanzas', 'CONTABILIDAD Y FINANZAS', 'contabilidad']) {
+    assert.equal(esContabilidad(forma), true, forma + ' debería ser contabilidad');
+  }
+});
+
+test('contabilidad no se lleva lo que no es suyo', () => {
+  for (const ajena of ['Matemáticas', 'Informática Empresarial', 'Banca Y Finanzas', 'Secretariado Ejecutivo', '']) {
+    assert.equal(esContabilidad(ajena), false, ajena + ' no debería ser contabilidad');
   }
 });
 
@@ -145,6 +160,19 @@ test('no se repite lo que ese destinatario ya recibió', () => {
 
   const mate = reparto.find((r) => r.destino.id === 'matematicas');
   assert.equal(mate.nuevas.length, 0);
+});
+
+test('contabilidad recibe solo lo suyo, aparte de los otros dos', () => {
+  const CONTA = { id: 'contabilidad', etiqueta: 'Contabilidad', chatId: 'c', filtro: esContabilidad, extras: false };
+  const todas = [vacante('1', 'Ciberseguridad'), vacante('2', 'Matemáticas'), vacante('4', 'Contabilidad Y Finanzas')];
+  const interesantes = todas.map((v) => ({ ...v, calce: clasificar(v.especialidad) })).filter((v) => v.calce);
+  const destinos = [PRINCIPAL, MATE, CONTA];
+  const reparto = repartir(destinos, todas, interesantes, migrarAvisadas({}, destinos));
+
+  const de = (id) => reparto.find((r) => r.destino.id === id).nuevas.map((v) => v.especialidad);
+  assert.deepEqual(de('principal'), ['Ciberseguridad']);
+  assert.deepEqual(de('matematicas'), ['Matemáticas']);
+  assert.deepEqual(de('contabilidad'), ['Contabilidad Y Finanzas']);
 });
 
 test('sin el número de matemáticas configurado, todo sigue como antes', () => {

@@ -104,6 +104,8 @@ jobs:
           # existe, ese destinatario simplemente no existe y todo sigue igual que
           # antes: no hace falta tocar el código para apagarlo.
           WAHA_CHAT_ID_MATEMATICAS: ${{ secrets.WAHA_CHAT_ID_MATEMATICAS }}
+          # Tercero, solo vacantes de contabilidad. Igual: sin secreto, no existe.
+          WAHA_CHAT_ID_CONTABILIDAD: ${{ secrets.WAHA_CHAT_ID_CONTABILIDAD }}
         run: node revisar.mjs
 
       # Un vigilante caido se ve igual que uno que no encontro nada: silencio.

@@ -94,6 +94,11 @@ export const clasificar = (especialidad) => {
 // "Matemáticas / Matemáticas"), así que se compara sin tildes y por contenido.
 export const esMatematicas = (especialidad) => normalizar(especialidad).includes('MATEMATIC');
 
+// ── Contabilidad, para el tercer destinatario ─────────────────────────────
+// Hoy el MEP publica "Contabilidad" y "Contabilidad Y Finanzas"; las dos son
+// suyas, igual que cualquier otra variante que empiece a usar.
+export const esContabilidad = (especialidad) => normalizar(especialidad).includes('CONTABILIDAD');
+
 // ── Comparar el menú con la tabla ─────────────────────────────────────────
 // El texto del menú y el de la tabla no calzan letra por letra: el menú dice
 // "Regional Educación Alajuela" y la tabla "Direc. Regional Educacion Alajuela".

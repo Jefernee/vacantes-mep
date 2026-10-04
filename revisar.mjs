@@ -31,6 +31,7 @@ import {
   clasificar,
   estaExcluida,
   esMatematicas,
+  esContabilidad,
   comoClave,
   claveVacante,
   migrarAvisadas,
@@ -401,6 +402,14 @@ const DESTINOS = [
     filtro: esMatematicas,
     extras: false,
   },
+  // Igual que el de matemáticas: solo sus vacantes, nada de mantenimiento.
+  {
+    id: 'contabilidad',
+    etiqueta: 'Contabilidad',
+    chatId: process.env.WAHA_CHAT_ID_CONTABILIDAD,
+    filtro: esContabilidad,
+    extras: false,
+  },
 ].filter((d) => d.chatId);
 
 // ── Mandar un texto por WAHA ──────────────────────────────────────────────
@@ -588,16 +597,19 @@ for (const { destino, nuevas } of reparto) {
   console.log(destino.id + ' (' + destino.etiqueta + '): ' + nuevas.length + ' vacantes sin avisar');
 }
 
-// ── El latido: "sigo acá" cada 3 horas ────────────────────────────────────
+// ── El latido: "sigo acá" cada 6 horas ────────────────────────────────────
 //
 // Un vigilante sano es un vigilante callado, y desde el teléfono el silencio se
 // ve igual que estar caído. Las alarmas de la VM y de Atlas cubren el caso de
-// que deje de correr del todo, pero eso no se ve desde acá. Cada 3 horas manda
-// una línea diciendo que revisó y qué encontró, para no confiar a ciegas.
+// que deje de correr del todo, pero eso no se ve desde acá. Cada 6 horas manda
+// una línea diciendo que revisó y qué encontró, para no confiar a ciegas. Era
+// cada 3, pero eso daba 5 o 6 mensajes al día para decir "nada": con las dos
+// alarmas aparte, 2 o 3 alcanzan.
 //
-// Solo al destinatario principal: al de matemáticas se le prometió que solo le
-// llegan vacantes.
-const LATIDO_CADA_HORAS = 3;
+// Solo al destinatario principal: a los de matemáticas y contabilidad se les
+// prometió que solo les llegan vacantes. Pero el latido sí cuenta cómo van
+// ellos, para que el dueño sepa que también se están vigilando.
+const LATIDO_CADA_HORAS = 6;
 const latido = await leerJson('estado/latido.json', { ultimo: null, totalPais: null });
 const horasSinLatido = latido.ultimo ? (ahora - new Date(latido.ultimo)) / 3600000 : Infinity;
 const principal = DESTINOS.find((d) => d.id === 'principal');
@@ -630,12 +642,20 @@ if (!hayAlgoQueAvisar) {
     minute: '2-digit',
     hour12: false,
   });
+  // Una línea por destinatario. Si se llegó acá no hay nada nuevo para nadie,
+  // así que lo publicado de cada uno ya se avisó.
+  const lineaDe = ({ destino }) => {
+    const publicadas = destino.filtro ? todas.filter((v) => destino.filtro(v.especialidad)).length : interesantes.length;
+    return '· ' + destino.etiqueta + ': ' + (publicadas === 0
+      ? 'ninguna publicada'
+      : publicadas + (publicadas === 1 ? ' publicada, ya avisada' : ' publicadas, ya avisadas'));
+  };
   const salio = principal && await mandarTexto(
     principal.chatId,
     '🟢 *El vigilante de vacantes sigue trabajando*\n\n' +
     'Última revisión: ' + hora + '.\n' +
-    'Vacantes publicadas hoy en todo el país: ' + todas.length + '.\n' +
-    'Para VT6: ninguna nueva.\n\n' +
+    'Vacantes publicadas hoy en todo el país: ' + todas.length + '.\n\n' +
+    reparto.map(lineaDe).join('\n') + '\n\n' +
     '_Este aviso llega cada ' + LATIDO_CADA_HORAS + ' horas para que sepas que sigue vivo. El día que deje de llegar, algo pasó._\n' +
     '👉 ' + DIRECCION
   );
