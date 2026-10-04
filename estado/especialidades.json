@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 14952,
+      "vecesVista": 14953,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-04T15:40:33.869Z",
+      "ultimaVez": "2026-10-04T16:00:44.157Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 7996,
+      "vecesVista": 7998,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-04T15:40:33.869Z",
+      "ultimaVez": "2026-10-04T16:00:44.157Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 1369,
+      "vecesVista": 1370,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-04T15:40:33.869Z",
+      "ultimaVez": "2026-10-04T16:00:44.157Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 766,
+      "vecesVista": 767,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-04T15:40:33.869Z",
+      "ultimaVez": "2026-10-04T16:00:44.157Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 4096,
+      "vecesVista": 4097,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-04T15:40:33.869Z",
+      "ultimaVez": "2026-10-04T16:00:44.157Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -540,5 +540,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-04T15:40:33.869Z"
+  "actualizado": "2026-10-04T16:00:44.157Z"
 }
