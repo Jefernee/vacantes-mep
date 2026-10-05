@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-05T19:06:00.367Z",
+  "generado": "2026-10-05T19:21:11.191Z",
   "totalPais": 47,
   "calzanVT6": 2,
   "advertencias": [],
@@ -209,16 +209,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549222",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Nazareth",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548888",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -226,6 +216,16 @@
       "institucion": "El Nuevo Amanecer",
       "lecciones": "0",
       "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549222",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Nazareth",
+      "lecciones": "0",
+      "rige": "09/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -489,16 +489,6 @@
       "vence": "08/11/2026"
     },
     {
-      "vacante": "1548642",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "C.T.P. De Upala",
-      "lecciones": "3",
-      "rige": "22/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548629",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -506,6 +496,16 @@
       "institucion": "Liceo Canalete",
       "lecciones": "9",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548642",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P. De Upala",
+      "lecciones": "3",
+      "rige": "22/10/2026",
       "vence": "11/12/2026"
     },
     {
