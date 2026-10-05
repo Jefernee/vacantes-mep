@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-05T16:40:46.278Z",
-  "totalPais": 40,
+  "generado": "2026-10-05T17:00:56.055Z",
+  "totalPais": 42,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,6 +12,7 @@
     "Estudios Sociales",
     "Estudios Sociales/Educación Cívica",
     "Francés",
+    "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Informática En Desarrollo Del Software",
     "Inglés",
     "Labores Varias De Oficina",
@@ -168,16 +169,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548888",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "El Nuevo Amanecer",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549136",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -185,6 +176,16 @@
       "institucion": "Barrios Unidos",
       "lecciones": "0",
       "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548888",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "El Nuevo Amanecer",
+      "lecciones": "0",
+      "rige": "06/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -218,16 +219,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548989",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Larga Distancia (Carrandi)",
-      "lecciones": "0",
-      "rige": "07/10/2026",
-      "vence": "07/01/2027"
-    },
-    {
       "vacante": "1548996",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -236,6 +227,16 @@
       "lecciones": "0",
       "rige": "07/10/2026",
       "vence": "23/11/2026"
+    },
+    {
+      "vacante": "1548989",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Larga Distancia (Carrandi)",
+      "lecciones": "0",
+      "rige": "07/10/2026",
+      "vence": "07/01/2027"
     },
     {
       "vacante": "1547999",
@@ -328,6 +329,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549179",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Auxiliar Administrativo",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Ricardo Fernandez G.",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "31/07/2030"
+    },
+    {
       "vacante": "1549049",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Director De Enseñanza Preescolar 2",
@@ -338,16 +349,6 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1548862",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Costa Rica (Diurno)",
-      "lecciones": "15",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548861",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -356,6 +357,16 @@
       "lecciones": "15",
       "rige": "01/10/2026",
       "vence": "12/11/2026"
+    },
+    {
+      "vacante": "1548862",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Liceo De Costa Rica (Diurno)",
+      "lecciones": "15",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548864",
@@ -405,6 +416,16 @@
       "institucion": "Centro Educ. Esp. Santa Ana",
       "lecciones": "40",
       "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549196",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Ostional (Guajiniquil)",
+      "lecciones": "0",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
