@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-05T18:20:47.159Z",
-  "totalPais": 46,
+  "generado": "2026-10-05T18:40:40.022Z",
+  "totalPais": 48,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -209,16 +209,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549222",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Nazareth",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548888",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -226,6 +216,16 @@
       "institucion": "El Nuevo Amanecer",
       "lecciones": "0",
       "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549222",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Nazareth",
+      "lecciones": "0",
+      "rige": "09/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -249,6 +249,16 @@
       "vence": "12/11/2026"
     },
     {
+      "vacante": "1549232",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. De Flores",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "18/12/2026"
+    },
+    {
       "vacante": "1549073",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -257,6 +267,16 @@
       "lecciones": "0",
       "rige": "03/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549236",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Orientador 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "C.T.P. De Flores",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548996",
@@ -389,16 +409,6 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1548861",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo De Costa Rica (Diurno)",
-      "lecciones": "15",
-      "rige": "01/10/2026",
-      "vence": "12/11/2026"
-    },
-    {
       "vacante": "1548862",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -407,6 +417,16 @@
       "lecciones": "15",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548861",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo De Costa Rica (Diurno)",
+      "lecciones": "15",
+      "rige": "01/10/2026",
+      "vence": "12/11/2026"
     },
     {
       "vacante": "1548864",
@@ -479,16 +499,6 @@
       "vence": "08/11/2026"
     },
     {
-      "vacante": "1548629",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Canalete",
-      "lecciones": "9",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548642",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -496,6 +506,16 @@
       "institucion": "C.T.P. De Upala",
       "lecciones": "3",
       "rige": "22/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548629",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Canalete",
+      "lecciones": "9",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
