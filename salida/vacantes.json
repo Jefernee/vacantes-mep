@@ -1,11 +1,14 @@
 {
-  "generado": "2026-10-05T12:40:29.173Z",
-  "totalPais": 6,
+  "generado": "2026-10-05T13:00:35.403Z",
+  "totalPais": 18,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Contabilidad Y Control Interno",
+    "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+    "Estudios Sociales",
     "Inglés",
-    "Matemáticas",
+    "Labores Varias De Oficina",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -13,13 +16,33 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1549039",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Huetar (Cariari)",
+      "vacante": "1548774",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Estudios Sociales",
+      "institucion": "Dirección Regional De Educación Pérez Zeledón",
       "lecciones": "0",
-      "rige": "06/10/2026",
+      "rige": "19/10/2026",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1544635",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad Y Control Interno",
+      "institucion": "Ctp Braulio Odio Herrera",
+      "lecciones": "28",
+      "rige": "08/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1546247",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Yolanda Oreamuno",
+      "lecciones": "0",
+      "rige": "19/10/2026",
       "vence": "31/07/2027"
     },
     {
@@ -43,14 +66,64 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549066",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "C.T.P. De Pococi",
-      "lecciones": "44",
-      "rige": "06/10/2026",
-      "vence": "11/12/2026"
+      "vacante": "1549081",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Auxiliar Administrativo",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Los Lagos",
+      "lecciones": "0",
+      "rige": "01/11/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1548976",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Nuevo Horizonte(San Francisco)",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "12/11/2026"
+    },
+    {
+      "vacante": "1549073",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Liceo Regional De Flores",
+      "lecciones": "0",
+      "rige": "03/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1548989",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Larga Distancia (Carrandi)",
+      "lecciones": "0",
+      "rige": "07/10/2026",
+      "vence": "07/01/2027"
+    },
+    {
+      "vacante": "1548996",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Las Brisas Del Reventazon",
+      "lecciones": "0",
+      "rige": "07/11/2026",
+      "vence": "23/11/2026"
+    },
+    {
+      "vacante": "1547999",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Repulica De Bolivia",
+      "lecciones": "0",
+      "rige": "08/10/2026",
+      "vence": "20/11/2026"
     },
     {
       "vacante": "1548815",
@@ -63,6 +136,16 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1548831",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. De San Isidro De El Gen",
+      "lecciones": "0",
+      "rige": "27/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1548948",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
@@ -71,6 +154,46 @@
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "11/11/2026"
+    },
+    {
+      "vacante": "1548912",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Mario Salazar M (Aguas Zarcas)",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549049",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Director De Enseñanza Preescolar 2",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "J.N. Manuel Belgrano",
+      "lecciones": "0",
+      "rige": "05/09/2026",
+      "vence": "31/01/2030"
+    },
+    {
+      "vacante": "1548992",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Santa Ana",
+      "lecciones": "0",
+      "rige": "08/10/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1546854",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+      "institucion": "Centro Educ. Esp. Santa Ana",
+      "lecciones": "40",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     }
   ]
 }

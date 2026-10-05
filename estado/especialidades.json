@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 14998,
+      "vecesVista": 15003,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-05T12:40:29.200Z",
+      "ultimaVez": "2026-10-05T13:00:35.405Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 8088,
+      "vecesVista": 8095,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-05T12:40:29.200Z",
+      "ultimaVez": "2026-10-05T13:00:35.405Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 1415,
+      "vecesVista": 1416,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-05T12:40:29.200Z",
+      "ultimaVez": "2026-10-05T13:00:35.405Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 1422,
+      "vecesVista": 1423,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T13:40:52.329Z",
+      "ultimaVez": "2026-10-05T13:00:35.405Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 4142,
+      "vecesVista": 4143,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-05T12:40:29.200Z",
+      "ultimaVez": "2026-10-05T13:00:35.405Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -114,9 +114,9 @@
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 506,
+      "vecesVista": 507,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-01T13:40:50.000Z",
+      "ultimaVez": "2026-10-05T13:00:35.405Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -538,7 +538,21 @@
       "primeraVez": "2026-10-01T13:00:41.425Z",
       "ultimaVez": "2026-10-02T12:40:38.611Z",
       "avisadaComoNueva": true
+    },
+    "Estudios Sociales": {
+      "calce": "no interesa",
+      "vecesVista": 1,
+      "primeraVez": "2026-10-05T13:00:35.405Z",
+      "ultimaVez": "2026-10-05T13:00:35.405Z",
+      "avisadaComoNueva": true
+    },
+    "Contabilidad Y Control Interno": {
+      "calce": "no interesa",
+      "vecesVista": 1,
+      "primeraVez": "2026-10-05T13:00:35.405Z",
+      "ultimaVez": "2026-10-05T13:00:35.405Z",
+      "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-05T12:40:29.200Z"
+  "actualizado": "2026-10-05T13:00:35.405Z"
 }
