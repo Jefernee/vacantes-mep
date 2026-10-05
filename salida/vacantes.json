@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-05T13:00:35.403Z",
-  "totalPais": 18,
+  "generado": "2026-10-05T13:20:48.785Z",
+  "totalPais": 17,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -46,16 +46,6 @@
       "vence": "31/07/2027"
     },
     {
-      "vacante": "1548871",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Campo Kennedy (Cariari)",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "27/12/2026"
-    },
-    {
       "vacante": "1548888",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -96,6 +86,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1548996",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Las Brisas Del Reventazon",
+      "lecciones": "0",
+      "rige": "07/10/2026",
+      "vence": "23/11/2026"
+    },
+    {
       "vacante": "1548989",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -104,16 +104,6 @@
       "lecciones": "0",
       "rige": "07/10/2026",
       "vence": "07/01/2027"
-    },
-    {
-      "vacante": "1548996",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Las Brisas Del Reventazon",
-      "lecciones": "0",
-      "rige": "07/11/2026",
-      "vence": "23/11/2026"
     },
     {
       "vacante": "1547999",
