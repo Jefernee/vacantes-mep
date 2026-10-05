@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 15013,
+      "vecesVista": 15020,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-05T13:40:39.634Z",
+      "ultimaVez": "2026-10-05T14:00:47.029Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 8107,
+      "vecesVista": 8116,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-05T13:40:39.634Z",
+      "ultimaVez": "2026-10-05T14:00:47.029Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 1418,
+      "vecesVista": 1420,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-05T13:40:39.634Z",
+      "ultimaVez": "2026-10-05T14:00:47.029Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 1425,
+      "vecesVista": 1426,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-05T13:40:39.634Z",
+      "ultimaVez": "2026-10-05T14:00:47.029Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -107,16 +107,16 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 1307,
+      "vecesVista": 1308,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-02T21:00:32.238Z",
+      "ultimaVez": "2026-10-05T14:00:47.029Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 509,
+      "vecesVista": 510,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-05T13:40:39.634Z",
+      "ultimaVez": "2026-10-05T14:00:47.029Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -184,16 +184,16 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 770,
+      "vecesVista": 771,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-03T12:40:35.613Z",
+      "ultimaVez": "2026-10-05T14:00:47.029Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1036,
+      "vecesVista": 1037,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-10-02T12:40:38.611Z",
+      "ultimaVez": "2026-10-05T14:00:47.029Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -219,9 +219,9 @@
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 713,
+      "vecesVista": 714,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-09-28T18:40:35.635Z",
+      "ultimaVez": "2026-10-05T14:00:47.029Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -254,9 +254,9 @@
     },
     "Química": {
       "calce": "no interesa",
-      "vecesVista": 396,
+      "vecesVista": 397,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-09-25T18:20:42.627Z",
+      "ultimaVez": "2026-10-05T14:00:47.029Z",
       "avisadaComoNueva": true
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
@@ -541,18 +541,18 @@
     },
     "Estudios Sociales": {
       "calce": "no interesa",
-      "vecesVista": 3,
+      "vecesVista": 4,
       "primeraVez": "2026-10-05T13:00:35.405Z",
-      "ultimaVez": "2026-10-05T13:40:39.634Z",
+      "ultimaVez": "2026-10-05T14:00:47.029Z",
       "avisadaComoNueva": true
     },
     "Contabilidad Y Control Interno": {
       "calce": "no interesa",
-      "vecesVista": 3,
+      "vecesVista": 4,
       "primeraVez": "2026-10-05T13:00:35.405Z",
-      "ultimaVez": "2026-10-05T13:40:39.634Z",
+      "ultimaVez": "2026-10-05T14:00:47.029Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-05T13:40:39.634Z"
+  "actualizado": "2026-10-05T14:00:47.029Z"
 }
