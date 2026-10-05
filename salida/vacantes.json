@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-05T14:40:43.284Z",
-  "totalPais": 31,
+  "generado": "2026-10-05T15:00:51.558Z",
+  "totalPais": 33,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,6 +12,7 @@
     "Estudios Sociales/Educación Cívica",
     "Francés",
     "Informática En Desarrollo Del Software",
+    "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
     "Psicología",
@@ -93,6 +94,16 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "31/07/2027"
+    },
+    {
+      "vacante": "1549135",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+      "institucion": "Huetar",
+      "lecciones": "40",
+      "rige": "08/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548888",
@@ -225,24 +236,24 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549131",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Cindea Florencia",
+      "lecciones": "33",
+      "rige": "30/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549049",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Director De Enseñanza Preescolar 2",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "J.N. Manuel Belgrano",
       "lecciones": "0",
-      "rige": "05/09/2026",
+      "rige": "05/10/2026",
       "vence": "31/01/2030"
-    },
-    {
-      "vacante": "1548862",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Costa Rica (Diurno)",
-      "lecciones": "15",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1548861",
@@ -253,6 +264,16 @@
       "lecciones": "15",
       "rige": "01/10/2026",
       "vence": "12/11/2026"
+    },
+    {
+      "vacante": "1548862",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Liceo De Costa Rica (Diurno)",
+      "lecciones": "15",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548864",
@@ -315,16 +336,6 @@
       "vence": "08/11/2026"
     },
     {
-      "vacante": "1548642",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "C.T.P. De Upala",
-      "lecciones": "3",
-      "rige": "22/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548629",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -332,6 +343,16 @@
       "institucion": "Liceo Canalete",
       "lecciones": "9",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548642",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P. De Upala",
+      "lecciones": "3",
+      "rige": "22/10/2026",
       "vence": "11/12/2026"
     },
     {
