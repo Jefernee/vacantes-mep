@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-05T23:00:43.934Z",
+  "generado": "2026-10-05T23:20:43.137Z",
   "totalPais": 54,
   "calzanVT6": 2,
   "advertencias": [],
@@ -113,22 +113,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549124",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Liceo Martha Mirambell Umaña",
-      "lecciones": "10",
-      "rige": "07/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549120",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Artes Plásticas/Artes Plásticas",
       "institucion": "Liceo Martha Mirambell Umaña",
       "lecciones": "20",
+      "rige": "07/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549124",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Plásticas/Artes Plásticas",
+      "institucion": "Liceo Martha Mirambell Umaña",
+      "lecciones": "10",
       "rige": "07/10/2026",
       "vence": "11/12/2026"
     },
@@ -473,16 +473,6 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1548862",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Costa Rica (Diurno)",
-      "lecciones": "15",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548861",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -491,6 +481,16 @@
       "lecciones": "15",
       "rige": "01/10/2026",
       "vence": "12/11/2026"
+    },
+    {
+      "vacante": "1548862",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Liceo De Costa Rica (Diurno)",
+      "lecciones": "15",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548864",
@@ -563,16 +563,6 @@
       "vence": "08/11/2026"
     },
     {
-      "vacante": "1548629",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Canalete",
-      "lecciones": "9",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548642",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -580,6 +570,16 @@
       "institucion": "C.T.P. De Upala",
       "lecciones": "3",
       "rige": "22/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548629",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Canalete",
+      "lecciones": "9",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
