@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-05T14:00:47.028Z",
+  "generado": "2026-10-05T14:20:52.700Z",
   "totalPais": 27,
   "calzanVT6": 0,
   "advertencias": [],
@@ -260,16 +260,6 @@
       "vence": "08/11/2026"
     },
     {
-      "vacante": "1548642",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "C.T.P. De Upala",
-      "lecciones": "3",
-      "rige": "22/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548629",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -277,6 +267,16 @@
       "institucion": "Liceo Canalete",
       "lecciones": "9",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548642",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P. De Upala",
+      "lecciones": "3",
+      "rige": "22/10/2026",
       "vence": "11/12/2026"
     },
     {
