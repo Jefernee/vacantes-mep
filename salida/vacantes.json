@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-05T15:00:51.558Z",
-  "totalPais": 33,
+  "generado": "2026-10-05T15:20:40.204Z",
+  "totalPais": 34,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -113,6 +113,16 @@
       "institucion": "El Nuevo Amanecer",
       "lecciones": "0",
       "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549136",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Barrios Unidos",
+      "lecciones": "0",
+      "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -346,16 +356,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548642",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "C.T.P. De Upala",
-      "lecciones": "3",
-      "rige": "22/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548603",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -363,6 +363,16 @@
       "institucion": "Cindea Bijagua",
       "lecciones": "2",
       "rige": "25/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548642",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P. De Upala",
+      "lecciones": "3",
+      "rige": "22/10/2026",
       "vence": "11/12/2026"
     }
   ]
