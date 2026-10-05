@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-05T16:20:50.781Z",
-  "totalPais": 41,
+  "generado": "2026-10-05T16:40:46.278Z",
+  "totalPais": 40,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
@@ -168,16 +168,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549136",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Barrios Unidos",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548888",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -185,6 +175,16 @@
       "institucion": "El Nuevo Amanecer",
       "lecciones": "0",
       "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549136",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Barrios Unidos",
+      "lecciones": "0",
+      "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -218,16 +218,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548996",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Las Brisas Del Reventazon",
-      "lecciones": "0",
-      "rige": "07/10/2026",
-      "vence": "23/11/2026"
-    },
-    {
       "vacante": "1548989",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -236,6 +226,16 @@
       "lecciones": "0",
       "rige": "07/10/2026",
       "vence": "07/01/2027"
+    },
+    {
+      "vacante": "1548996",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Las Brisas Del Reventazon",
+      "lecciones": "0",
+      "rige": "07/10/2026",
+      "vence": "23/11/2026"
     },
     {
       "vacante": "1547999",
@@ -266,16 +266,6 @@
       "lecciones": "0",
       "rige": "27/10/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1548948",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Pedro (San Pedro)",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "11/11/2026"
     },
     {
       "vacante": "1548919",
@@ -438,16 +428,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548629",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Canalete",
-      "lecciones": "9",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548603",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -455,6 +435,16 @@
       "institucion": "Cindea Bijagua",
       "lecciones": "2",
       "rige": "25/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548629",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Canalete",
+      "lecciones": "9",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     }
   ]
