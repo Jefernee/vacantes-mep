@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-05T14:20:52.700Z",
-  "totalPais": 27,
-  "calzanVT6": 0,
+  "generado": "2026-10-05T14:40:43.284Z",
+  "totalPais": 31,
+  "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Ciencias",
@@ -10,14 +10,29 @@
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Estudios Sociales",
     "Estudios Sociales/Educación Cívica",
+    "Francés",
+    "Informática En Desarrollo Del Software",
     "Labores Varias De Oficina",
+    "Matemáticas",
     "Psicología",
     "Química",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
-  "interesantes": [],
+  "interesantes": [
+    {
+      "vacante": "1548864",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática En Desarrollo Del Software",
+      "institucion": "Liceo De Costa Rica (Diurno)",
+      "lecciones": "20",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
+    }
+  ],
   "todas": [
     {
       "vacante": "1548774",
@@ -48,6 +63,16 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549117",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Jorge Volio Jimenez",
+      "lecciones": "0",
+      "rige": "07/10/2026",
+      "vence": "17/11/2026"
     },
     {
       "vacante": "1544635",
@@ -110,16 +135,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548989",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Larga Distancia (Carrandi)",
-      "lecciones": "0",
-      "rige": "07/10/2026",
-      "vence": "07/01/2027"
-    },
-    {
       "vacante": "1548996",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -128,6 +143,16 @@
       "lecciones": "0",
       "rige": "07/10/2026",
       "vence": "23/11/2026"
+    },
+    {
+      "vacante": "1548989",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Larga Distancia (Carrandi)",
+      "lecciones": "0",
+      "rige": "07/10/2026",
+      "vence": "07/01/2027"
     },
     {
       "vacante": "1547999",
@@ -210,6 +235,36 @@
       "vence": "31/01/2030"
     },
     {
+      "vacante": "1548862",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Liceo De Costa Rica (Diurno)",
+      "lecciones": "15",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548861",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo De Costa Rica (Diurno)",
+      "lecciones": "15",
+      "rige": "01/10/2026",
+      "vence": "12/11/2026"
+    },
+    {
+      "vacante": "1548864",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática En Desarrollo Del Software",
+      "institucion": "Liceo De Costa Rica (Diurno)",
+      "lecciones": "20",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1548643",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -260,16 +315,6 @@
       "vence": "08/11/2026"
     },
     {
-      "vacante": "1548629",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Canalete",
-      "lecciones": "9",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548642",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -277,6 +322,16 @@
       "institucion": "C.T.P. De Upala",
       "lecciones": "3",
       "rige": "22/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548629",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Canalete",
+      "lecciones": "9",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
