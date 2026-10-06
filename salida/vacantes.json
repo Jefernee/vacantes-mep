@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-06T20:40:45.707Z",
-  "totalPais": 54,
+  "generado": "2026-10-06T21:00:47.424Z",
+  "totalPais": 52,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -20,6 +20,7 @@
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
+    "Química",
     "Rehabilitación / Física",
     "Religión",
     "Servicios Básicos",
@@ -169,16 +170,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549122",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Palomo (Orosi)",
-      "lecciones": "0",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549144",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -196,6 +187,16 @@
       "institucion": "Luis Cruz Meza (Cachi)",
       "lecciones": "0",
       "rige": "29/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549122",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Palomo (Orosi)",
+      "lecciones": "0",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -269,6 +270,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549628",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo Exp. Bilingue De Pococi",
+      "lecciones": "44",
+      "rige": "08/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549466",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -279,21 +290,21 @@
       "vence": "18/11/2026"
     },
     {
-      "vacante": "1549543",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Alfredo Gonzalez Flores",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549486",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
       "institucion": "Santa Elena (San Jose)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549543",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Alfredo Gonzalez Flores",
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "11/12/2026"
@@ -316,36 +327,6 @@
       "institucion": "I.P.E.C. Barva",
       "lecciones": "20",
       "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548845",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Art. Felipe Perez P.",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1545791",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Barrio Irvin",
-      "lecciones": "0",
-      "rige": "10/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548853",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "I.D.A. Santa Elena",
-      "lecciones": "0",
-      "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -389,16 +370,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549256",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
-      "institucion": "Esc. Sarchi Norte",
-      "lecciones": "40",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549200",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -407,6 +378,16 @@
       "lecciones": "40",
       "rige": "08/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549256",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
+      "institucion": "Esc. Sarchi Norte",
+      "lecciones": "40",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1549474",
