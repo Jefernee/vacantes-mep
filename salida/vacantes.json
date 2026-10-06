@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-06T14:20:43.961Z",
-  "totalPais": 49,
-  "calzanVT6": 2,
+  "generado": "2026-10-06T14:40:41.692Z",
+  "totalPais": 46,
+  "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
@@ -11,7 +11,6 @@
     "Enseñanza Especial . Terapia Del Lenguaje",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
-    "Francés",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Informática En Desarrollo Del Software",
@@ -32,17 +31,6 @@
       "lecciones": "8",
       "rige": "07/10/2026",
       "vence": "13/11/2026",
-      "calce": "exacta"
-    },
-    {
-      "vacante": "1548864",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "Liceo De Costa Rica (Diurno)",
-      "lecciones": "20",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026",
       "calce": "exacta"
     }
   ],
@@ -238,16 +226,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549117",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Jorge Volio Jimenez",
-      "lecciones": "0",
-      "rige": "07/10/2026",
-      "vence": "17/11/2026"
-    },
-    {
       "vacante": "1549161",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -438,6 +416,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1549410",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "El Peje (Florencia)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "09/11/2026"
+    },
+    {
       "vacante": "1549131",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -465,36 +453,6 @@
       "institucion": "Quince De Setiembre",
       "lecciones": "0",
       "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548861",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo De Costa Rica (Diurno)",
-      "lecciones": "15",
-      "rige": "01/10/2026",
-      "vence": "12/11/2026"
-    },
-    {
-      "vacante": "1548862",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Costa Rica (Diurno)",
-      "lecciones": "15",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548864",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "Liceo De Costa Rica (Diurno)",
-      "lecciones": "20",
-      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
