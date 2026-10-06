@@ -1,12 +1,13 @@
 {
-  "generado": "2026-10-06T19:20:46.740Z",
-  "totalPais": 56,
+  "generado": "2026-10-06T19:40:58.574Z",
+  "totalPais": 58,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Agroecología",
     "Artes Plásticas/Artes Plásticas",
     "Capacitación Y Desarrollo Educativo",
+    "Contabilidad",
     "Curriculum",
     "Derecho",
     "Dibujo Técnico",
@@ -119,6 +120,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549120",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Plásticas/Artes Plásticas",
+      "institucion": "Liceo Martha Mirambell Umaña",
+      "lecciones": "20",
+      "rige": "07/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549124",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -129,13 +140,23 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549120",
-      "regional": "Direc. Regional Educacion Alajuela",
+      "vacante": "1549574",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Mons Luis Leipold H. (Cañas)",
+      "lecciones": "0",
+      "rige": "16/10/2026",
+      "vence": "01/04/2028"
+    },
+    {
+      "vacante": "1549576",
+      "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Liceo Martha Mirambell Umaña",
-      "lecciones": "20",
-      "rige": "07/10/2026",
+      "especialidad": "Contabilidad",
+      "institucion": "Cindea Tilaran",
+      "lecciones": "42",
+      "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -439,16 +460,6 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1549128",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Isla De Chira (Manzanillo)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1549146",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -457,6 +468,16 @@
       "lecciones": "0",
       "rige": "08/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549128",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Isla De Chira (Manzanillo)",
+      "lecciones": "0",
+      "rige": "30/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1549410",
