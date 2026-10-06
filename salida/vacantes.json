@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-06T15:20:50.139Z",
-  "totalPais": 56,
+  "generado": "2026-10-06T15:40:50.226Z",
+  "totalPais": 57,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -10,7 +10,6 @@
     "Derecho",
     "Dibujo Técnico",
     "Diseño Gráfico",
-    "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Terapia Del Lenguaje",
     "Español",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
@@ -20,6 +19,7 @@
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
+    "Rehabilitación / Física",
     "Religión",
     "Servicios Básicos",
     "Sin Especialidad T-I",
@@ -160,22 +160,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549124",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Liceo Martha Mirambell Umaña",
-      "lecciones": "10",
-      "rige": "07/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549120",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Artes Plásticas/Artes Plásticas",
       "institucion": "Liceo Martha Mirambell Umaña",
       "lecciones": "20",
+      "rige": "07/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549124",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Plásticas/Artes Plásticas",
+      "institucion": "Liceo Martha Mirambell Umaña",
+      "lecciones": "10",
       "rige": "07/10/2026",
       "vence": "11/12/2026"
     },
@@ -217,16 +217,6 @@
       "institucion": "Fray Jose Liendo Goigochea",
       "lecciones": "0",
       "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549160",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Esc. Ricardo Jimenez",
-      "lecciones": "40",
-      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -420,16 +410,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549200",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
-      "institucion": "Mons. Juan Vicente Solis F.",
-      "lecciones": "40",
-      "rige": "08/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549256",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -438,6 +418,16 @@
       "lecciones": "40",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549200",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
+      "institucion": "Mons. Juan Vicente Solis F.",
+      "lecciones": "40",
+      "rige": "08/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549121",
@@ -490,6 +480,16 @@
       "vence": "09/11/2026"
     },
     {
+      "vacante": "1549424",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Rehabilitación / Física",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "0",
+      "rige": "05/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1549421",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -517,6 +517,16 @@
       "institucion": "Quince De Setiembre",
       "lecciones": "0",
       "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549450",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "J.N. Jose Rafael Araya",
+      "lecciones": "0",
+      "rige": "06/10/2026",
       "vence": "11/12/2026"
     },
     {
