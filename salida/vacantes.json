@@ -1,20 +1,24 @@
 {
-  "generado": "2026-10-06T14:40:41.692Z",
-  "totalPais": 46,
+  "generado": "2026-10-06T15:01:05.458Z",
+  "totalPais": 56,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
     "Capacitación Y Desarrollo Educativo",
+    "Curriculum",
+    "Derecho",
     "Dibujo Técnico",
+    "Diseño Gráfico",
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Terapia Del Lenguaje",
-    "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Informática En Desarrollo Del Software",
+    "Ingeniería Industrial",
     "Inglés",
+    "Labores Varias De Oficina",
     "Matemáticas",
     "Religión",
     "Servicios Básicos",
@@ -36,6 +40,36 @@
   ],
   "todas": [
     {
+      "vacante": "1531183",
+      "regional": "Acceso Y Equidad De La Educacion",
+      "clasePuesto": "Oficinista De Servicio Civil 2 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Dirección De Programas De Equidad",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "15/06/2027"
+    },
+    {
+      "vacante": "1547407",
+      "regional": "Administracion De Los Servicios",
+      "clasePuesto": "Misceláneo De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Servicios Básicos",
+      "institucion": "Departamento De Transporte",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "08/02/2027"
+    },
+    {
+      "vacante": "1549265",
+      "regional": "Administracion De Recursos Humanos",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Ingeniería Industrial",
+      "institucion": "Departamento De Sistemas De Control Gerencial E Innovacion",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "11/04/2028"
+    },
+    {
       "vacante": "1549360",
       "regional": "Administracion Regional Del Sist. Educ.",
       "clasePuesto": "Asesor Regional (G. De E.)",
@@ -54,6 +88,26 @@
       "lecciones": "0",
       "rige": "08/09/2026",
       "vence": "31/01/2029"
+    },
+    {
+      "vacante": "1549252",
+      "regional": "Apoyo A La Educacion Inclusiva",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Diseño Gráfico",
+      "institucion": "Centro Nacional De Recursos Para La Educ. Inclusiva",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "30/11/2026"
+    },
+    {
+      "vacante": "1545840",
+      "regional": "Capacit. Y Actual. Del Personal Del Mep",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Despacho Del Viceministro Académico",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "31/07/2027"
     },
     {
       "vacante": "1549219",
@@ -84,6 +138,16 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549407",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Central De Atenas (Atenas)",
+      "lecciones": "0",
+      "rige": "08/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1547676",
@@ -256,16 +320,6 @@
       "vence": "23/12/2026"
     },
     {
-      "vacante": "1549135",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Huetar",
-      "lecciones": "40",
-      "rige": "08/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549136",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -366,6 +420,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549200",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
+      "institucion": "Mons. Juan Vicente Solis F.",
+      "lecciones": "40",
+      "rige": "08/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1549256",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -386,16 +450,6 @@
       "vence": "13/11/2026"
     },
     {
-      "vacante": "1549146",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "C.T.P. De Santa Elena",
-      "lecciones": "0",
-      "rige": "08/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549128",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -404,6 +458,16 @@
       "lecciones": "0",
       "rige": "30/09/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1549146",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. De Santa Elena",
+      "lecciones": "0",
+      "rige": "08/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549177",
@@ -426,14 +490,14 @@
       "vence": "09/11/2026"
     },
     {
-      "vacante": "1549131",
+      "vacante": "1549421",
       "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Cindea Florencia",
-      "lecciones": "33",
-      "rige": "30/10/2026",
-      "vence": "11/12/2026"
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Cedral (Quesada)",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549179",
@@ -494,6 +558,46 @@
       "lecciones": "0",
       "rige": "01/10/2026",
       "vence": "27/11/2026"
+    },
+    {
+      "vacante": "1543714",
+      "regional": "Ejecucion Presupuestaria",
+      "clasePuesto": "Oficinista De Servicio Civil 2 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Departamento De Contabilidad",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "31/01/2030"
+    },
+    {
+      "vacante": "1548918",
+      "regional": "Fundamentac. Legal Para Toma Decisiones",
+      "clasePuesto": "Profesional Jefe De Servicio Civil 1 ( G.De E.)",
+      "especialidad": "Derecho",
+      "institucion": "Departamento De Contratación Y Coordinación Interinstitucion",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "07/05/2030"
+    },
+    {
+      "vacante": "1547187",
+      "regional": "Orientacion Del Sist. Educ. Nacional",
+      "clasePuesto": "Asesor Nacional (G. De E.)",
+      "especialidad": "Curriculum",
+      "institucion": "Conesup",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1549248",
+      "regional": "Tecnologia Informatica En Educacion",
+      "clasePuesto": "Oficinista De Servicio Civil 2 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Dirección De Recursos Tecnológicos",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "26/11/2026"
     }
   ]
 }
