@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-06T20:20:52.822Z",
-  "totalPais": 55,
+  "generado": "2026-10-06T20:40:45.707Z",
+  "totalPais": 54,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -169,6 +169,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549122",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Palomo (Orosi)",
+      "lecciones": "0",
+      "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549144",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -186,16 +196,6 @@
       "institucion": "Luis Cruz Meza (Cachi)",
       "lecciones": "0",
       "rige": "29/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549122",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Palomo (Orosi)",
-      "lecciones": "0",
-      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -299,16 +299,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549472",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "I.P.E.C. Barva",
-      "lecciones": "20",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549337",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -316,6 +306,16 @@
       "institucion": "Liceo Regional De Flores",
       "lecciones": "44",
       "rige": "01/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549472",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "I.P.E.C. Barva",
+      "lecciones": "20",
+      "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -389,16 +389,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549200",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
-      "institucion": "Mons. Juan Vicente Solis F.",
-      "lecciones": "40",
-      "rige": "08/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549256",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -407,6 +397,16 @@
       "lecciones": "40",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549200",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
+      "institucion": "Mons. Juan Vicente Solis F.",
+      "lecciones": "40",
+      "rige": "08/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549474",
@@ -517,16 +517,6 @@
       "lecciones": "0",
       "rige": "08/10/2026",
       "vence": "30/07/2027"
-    },
-    {
-      "vacante": "1549226",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
-      "institucion": "Rincon Grande",
-      "lecciones": "40",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1549134",
