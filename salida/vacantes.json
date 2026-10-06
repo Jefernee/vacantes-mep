@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-06T15:40:50.226Z",
-  "totalPais": 57,
-  "calzanVT6": 1,
+  "generado": "2026-10-06T16:00:54.320Z",
+  "totalPais": 53,
+  "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
@@ -11,12 +11,9 @@
     "Dibujo Técnico",
     "Diseño Gráfico",
     "Enseñanza Especial . Terapia Del Lenguaje",
-    "Español",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
-    "Informática En Desarrollo Del Software",
     "Ingeniería Industrial",
-    "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
     "Rehabilitación / Física",
@@ -25,19 +22,7 @@
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
-  "interesantes": [
-    {
-      "vacante": "1549121",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "Liceo Laguna",
-      "lecciones": "8",
-      "rige": "07/10/2026",
-      "vence": "13/11/2026",
-      "calce": "exacta"
-    }
-  ],
+  "interesantes": [],
   "todas": [
     {
       "vacante": "1531183",
@@ -130,16 +115,6 @@
       "vence": "18/01/2027"
     },
     {
-      "vacante": "1546370",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Otilio Ulate Blanco",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549407",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -147,16 +122,6 @@
       "institucion": "Central De Atenas (Atenas)",
       "lecciones": "0",
       "rige": "08/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547676",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. Jesus Ocaña Rojas",
-      "lecciones": "41",
-      "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -280,26 +245,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549161",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "C.T.P. De Corredores",
-      "lecciones": "44",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549172",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "C.T.P. De Corredores",
-      "lecciones": "26",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549430",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Asistente De Servicios De Educacion Especial",
@@ -390,6 +335,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549463",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Perlita (Pacuarito)",
+      "lecciones": "0",
+      "rige": "08/10/2026",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1547995",
       "regional": "Direc. Regional Educacion Los Santos",
       "clasePuesto": "Director De Colegio 1",
@@ -410,16 +365,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549256",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
-      "institucion": "Esc. Sarchi Norte",
-      "lecciones": "40",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549200",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -430,24 +375,14 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1549121",
+      "vacante": "1549256",
       "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "Liceo Laguna",
-      "lecciones": "8",
-      "rige": "07/10/2026",
-      "vence": "13/11/2026"
-    },
-    {
-      "vacante": "1549128",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Isla De Chira (Manzanillo)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "31/07/2030"
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
+      "institucion": "Esc. Sarchi Norte",
+      "lecciones": "40",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1549146",
@@ -458,6 +393,16 @@
       "lecciones": "0",
       "rige": "08/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549128",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Isla De Chira (Manzanillo)",
+      "lecciones": "0",
+      "rige": "30/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1549177",
