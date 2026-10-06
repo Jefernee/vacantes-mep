@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-06T18:40:51.261Z",
-  "totalPais": 54,
+  "generado": "2026-10-06T19:00:46.593Z",
+  "totalPais": 55,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -16,6 +16,7 @@
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Ingeniería Industrial",
+    "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
     "Rehabilitación / Física",
@@ -277,16 +278,6 @@
       "vence": "18/11/2026"
     },
     {
-      "vacante": "1549543",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Alfredo Gonzalez Flores",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549486",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -297,13 +288,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549337",
+      "vacante": "1549543",
       "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "Liceo Regional De Flores",
-      "lecciones": "44",
-      "rige": "01/11/2026",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Alfredo Gonzalez Flores",
+      "lecciones": "0",
+      "rige": "06/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -314,6 +305,16 @@
       "institucion": "I.P.E.C. Barva",
       "lecciones": "20",
       "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549337",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "Liceo Regional De Flores",
+      "lecciones": "44",
+      "rige": "01/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -387,16 +388,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549256",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
-      "institucion": "Esc. Sarchi Norte",
-      "lecciones": "40",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549200",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -405,6 +396,16 @@
       "lecciones": "40",
       "rige": "08/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549256",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
+      "institucion": "Esc. Sarchi Norte",
+      "lecciones": "40",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1549474",
@@ -427,16 +428,6 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1549146",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "C.T.P. De Santa Elena",
-      "lecciones": "0",
-      "rige": "08/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549128",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -445,6 +436,16 @@
       "lecciones": "0",
       "rige": "30/09/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1549146",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. De Santa Elena",
+      "lecciones": "0",
+      "rige": "08/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549410",
@@ -484,6 +485,16 @@
       "institucion": "Quince De Setiembre",
       "lecciones": "0",
       "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548863",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo De Costa Rica (Diurno)",
+      "lecciones": "25",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
