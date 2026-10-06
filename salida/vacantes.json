@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-06T22:20:48.490Z",
-  "totalPais": 52,
+  "generado": "2026-10-06T22:40:46.402Z",
+  "totalPais": 53,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -11,6 +11,7 @@
     "Derecho",
     "Dibujo Técnico",
     "Diseño Gráfico",
+    "Ejecutivo Comercial Y De Servicio Al Cliente",
     "Enseñanza Especial . Terapia Del Lenguaje",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
@@ -230,6 +231,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549662",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
+      "institucion": "Ctp De Aserri",
+      "lecciones": "32",
+      "rige": "08/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549430",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Asistente De Servicios De Educacion Especial",
@@ -300,21 +311,21 @@
       "vence": "18/11/2026"
     },
     {
-      "vacante": "1549543",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Alfredo Gonzalez Flores",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549486",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
       "institucion": "Santa Elena (San Jose)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549543",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Alfredo Gonzalez Flores",
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "11/12/2026"
@@ -410,16 +421,6 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1549128",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Isla De Chira (Manzanillo)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1549146",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -428,6 +429,16 @@
       "lecciones": "0",
       "rige": "08/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549128",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Isla De Chira (Manzanillo)",
+      "lecciones": "0",
+      "rige": "30/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1549410",
