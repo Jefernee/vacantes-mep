@@ -1,9 +1,10 @@
 {
-  "generado": "2026-10-06T19:00:46.593Z",
-  "totalPais": 55,
+  "generado": "2026-10-06T19:20:46.740Z",
+  "totalPais": 56,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Agroecología",
     "Artes Plásticas/Artes Plásticas",
     "Capacitación Y Desarrollo Educativo",
     "Curriculum",
@@ -96,6 +97,16 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "31/07/2027"
+    },
+    {
+      "vacante": "1549578",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Agroecología",
+      "institucion": "C.T.P. Puerto Viejo",
+      "lecciones": "12",
+      "rige": "06/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1549407",
@@ -298,16 +309,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549472",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "I.P.E.C. Barva",
-      "lecciones": "20",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549337",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -315,6 +316,16 @@
       "institucion": "Liceo Regional De Flores",
       "lecciones": "44",
       "rige": "01/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549472",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "I.P.E.C. Barva",
+      "lecciones": "20",
+      "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -388,16 +399,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549200",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
-      "institucion": "Mons. Juan Vicente Solis F.",
-      "lecciones": "40",
-      "rige": "08/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549256",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -406,6 +407,16 @@
       "lecciones": "40",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549200",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
+      "institucion": "Mons. Juan Vicente Solis F.",
+      "lecciones": "40",
+      "rige": "08/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549474",
