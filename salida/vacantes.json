@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-06T04:57:26.883Z",
+  "generado": "2026-10-06T11:00:59.358Z",
   "totalPais": 54,
   "calzanVT6": 2,
   "advertencias": [],
@@ -113,22 +113,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549120",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Liceo Martha Mirambell Umaña",
-      "lecciones": "20",
-      "rige": "07/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549124",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Artes Plásticas/Artes Plásticas",
       "institucion": "Liceo Martha Mirambell Umaña",
       "lecciones": "10",
+      "rige": "07/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549120",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Plásticas/Artes Plásticas",
+      "institucion": "Liceo Martha Mirambell Umaña",
+      "lecciones": "20",
       "rige": "07/10/2026",
       "vence": "11/12/2026"
     },
