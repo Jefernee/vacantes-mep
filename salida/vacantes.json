@@ -1,24 +1,21 @@
 {
-  "generado": "2026-10-06T12:40:40.947Z",
-  "totalPais": 54,
+  "generado": "2026-10-06T13:00:40.822Z",
+  "totalPais": 46,
   "calzanVT6": 2,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
     "Ciencias",
-    "Contabilidad Y Control Interno",
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Terapia Del Lenguaje",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
-    "Estudios Sociales",
     "Estudios Sociales/Educación Cívica",
     "Francés",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Informática En Desarrollo Del Software",
     "Inglés",
-    "Labores Varias De Oficina",
     "Matemáticas",
     "Psicología",
     "Química",
@@ -52,16 +49,6 @@
     }
   ],
   "todas": [
-    {
-      "vacante": "1548774",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Estudios Sociales",
-      "institucion": "Dirección Regional De Educación Pérez Zeledón",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2028"
-    },
     {
       "vacante": "1544411",
       "regional": "Administracion Regional Del Sist. Educ.",
@@ -193,26 +180,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1544635",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad Y Control Interno",
-      "institucion": "Ctp Braulio Odio Herrera",
-      "lecciones": "28",
-      "rige": "08/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546247",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Yolanda Oreamuno",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/07/2027"
-    },
-    {
       "vacante": "1549224",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -253,26 +220,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549081",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Auxiliar Administrativo",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Los Lagos",
-      "lecciones": "0",
-      "rige": "01/11/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1548976",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Nuevo Horizonte(San Francisco)",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "12/11/2026"
-    },
-    {
       "vacante": "1549232",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -281,16 +228,6 @@
       "lecciones": "0",
       "rige": "05/10/2026",
       "vence": "18/12/2026"
-    },
-    {
-      "vacante": "1549073",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Liceo Regional De Flores",
-      "lecciones": "0",
-      "rige": "03/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1549236",
@@ -343,34 +280,34 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548989",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Larga Distancia (Carrandi)",
-      "lecciones": "0",
-      "rige": "07/10/2026",
-      "vence": "07/01/2027"
-    },
-    {
-      "vacante": "1548996",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Las Brisas Del Reventazon",
-      "lecciones": "0",
-      "rige": "07/10/2026",
-      "vence": "23/11/2026"
-    },
-    {
-      "vacante": "1547999",
+      "vacante": "1547995",
       "regional": "Direc. Regional Educacion Los Santos",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Repulica De Bolivia",
+      "clasePuesto": "Director De Colegio 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Rural Bijagual",
       "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1549324",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Colegio Nocturno De Tarrazú",
+      "lecciones": "24",
       "rige": "08/10/2026",
-      "vence": "20/11/2026"
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549256",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
+      "institucion": "Esc. Sarchi Norte",
+      "lecciones": "40",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1549121",
@@ -381,16 +318,6 @@
       "lecciones": "8",
       "rige": "07/10/2026",
       "vence": "13/11/2026"
-    },
-    {
-      "vacante": "1548831",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "C.T.P. De San Isidro De El Gen",
-      "lecciones": "0",
-      "rige": "27/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1548919",
@@ -433,16 +360,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1548912",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Mario Salazar M (Aguas Zarcas)",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549131",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -463,14 +380,14 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1549049",
+      "vacante": "1548266",
       "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Director De Enseñanza Preescolar 2",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "J.N. Manuel Belgrano",
+      "institucion": "Quince De Setiembre",
       "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/01/2030"
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1548861",
@@ -523,14 +440,14 @@
       "vence": "01/04/2028"
     },
     {
-      "vacante": "1548992",
+      "vacante": "1549268",
       "regional": "Direc. Regional Educacion San Jose - Oeste",
       "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Santa Ana",
+      "institucion": "Isabel La Catolica",
       "lecciones": "0",
       "rige": "08/10/2026",
-      "vence": "31/01/2031"
+      "vence": "30/07/2027"
     },
     {
       "vacante": "1549226",
@@ -563,6 +480,16 @@
       "vence": "08/11/2026"
     },
     {
+      "vacante": "1548642",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P. De Upala",
+      "lecciones": "3",
+      "rige": "22/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1548629",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -580,16 +507,6 @@
       "institucion": "Cindea Bijagua",
       "lecciones": "2",
       "rige": "25/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548642",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "C.T.P. De Upala",
-      "lecciones": "3",
-      "rige": "22/10/2026",
       "vence": "11/12/2026"
     }
   ]
