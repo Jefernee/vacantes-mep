@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-06T14:01:02.874Z",
+  "generado": "2026-10-06T14:20:43.961Z",
   "totalPais": 49,
   "calzanVT6": 2,
   "advertencias": [],
@@ -108,22 +108,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549124",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Liceo Martha Mirambell Umaña",
-      "lecciones": "10",
-      "rige": "07/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549120",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Artes Plásticas/Artes Plásticas",
       "institucion": "Liceo Martha Mirambell Umaña",
       "lecciones": "20",
+      "rige": "07/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549124",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Plásticas/Artes Plásticas",
+      "institucion": "Liceo Martha Mirambell Umaña",
+      "lecciones": "10",
       "rige": "07/10/2026",
       "vence": "11/12/2026"
     },
@@ -178,6 +178,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549122",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Palomo (Orosi)",
+      "lecciones": "0",
+      "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549144",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -195,16 +205,6 @@
       "institucion": "Luis Cruz Meza (Cachi)",
       "lecciones": "0",
       "rige": "29/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549122",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Palomo (Orosi)",
-      "lecciones": "0",
-      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -408,16 +408,6 @@
       "vence": "13/11/2026"
     },
     {
-      "vacante": "1549128",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Isla De Chira (Manzanillo)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1549146",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -426,6 +416,16 @@
       "lecciones": "0",
       "rige": "08/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549128",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Isla De Chira (Manzanillo)",
+      "lecciones": "0",
+      "rige": "30/09/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1549177",
