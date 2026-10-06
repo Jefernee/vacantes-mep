@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-06T02:40:41.515Z",
+  "generado": "2026-10-06T03:00:36.665Z",
   "totalPais": 54,
   "calzanVT6": 2,
   "advertencias": [],
@@ -113,22 +113,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549120",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Liceo Martha Mirambell Umaña",
-      "lecciones": "20",
-      "rige": "07/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549124",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Artes Plásticas/Artes Plásticas",
       "institucion": "Liceo Martha Mirambell Umaña",
       "lecciones": "10",
+      "rige": "07/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549120",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Plásticas/Artes Plásticas",
+      "institucion": "Liceo Martha Mirambell Umaña",
+      "lecciones": "20",
       "rige": "07/10/2026",
       "vence": "11/12/2026"
     },
@@ -563,13 +563,13 @@
       "vence": "08/11/2026"
     },
     {
-      "vacante": "1548629",
+      "vacante": "1548603",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Canalete",
-      "lecciones": "9",
-      "rige": "29/09/2026",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea Bijagua",
+      "lecciones": "2",
+      "rige": "25/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -583,13 +583,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548603",
+      "vacante": "1548629",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Bijagua",
-      "lecciones": "2",
-      "rige": "25/09/2026",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Canalete",
+      "lecciones": "9",
+      "rige": "29/09/2026",
       "vence": "11/12/2026"
     }
   ]
