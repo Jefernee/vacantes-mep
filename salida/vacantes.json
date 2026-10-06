@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-06T16:20:44.234Z",
-  "totalPais": 53,
+  "generado": "2026-10-06T16:41:14.440Z",
+  "totalPais": 55,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -186,16 +186,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549144",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Calle Naranjo",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549152",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -213,6 +203,16 @@
       "institucion": "Palomo (Orosi)",
       "lecciones": "0",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549144",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Calle Naranjo",
+      "lecciones": "0",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -306,6 +306,16 @@
       "vence": "18/11/2026"
     },
     {
+      "vacante": "1549472",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "I.P.E.C. Barva",
+      "lecciones": "20",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549337",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -376,16 +386,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549200",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
-      "institucion": "Mons. Juan Vicente Solis F.",
-      "lecciones": "40",
-      "rige": "08/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549256",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -396,13 +396,23 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549146",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "C.T.P. De Santa Elena",
-      "lecciones": "0",
+      "vacante": "1549200",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Terapia Del Lenguaje",
+      "institucion": "Mons. Juan Vicente Solis F.",
+      "lecciones": "40",
       "rige": "08/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549474",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Sagrada Familia",
+      "lecciones": "0",
+      "rige": "07/10/2026",
       "vence": "31/01/2027"
     },
     {
@@ -414,6 +424,16 @@
       "lecciones": "0",
       "rige": "30/09/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1549146",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. De Santa Elena",
+      "lecciones": "0",
+      "rige": "08/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549410",
