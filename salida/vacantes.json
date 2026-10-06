@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-06T16:41:14.440Z",
-  "totalPais": 55,
+  "generado": "2026-10-06T17:01:27.646Z",
+  "totalPais": 57,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -186,6 +186,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549144",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Calle Naranjo",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549152",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -203,16 +213,6 @@
       "institucion": "Palomo (Orosi)",
       "lecciones": "0",
       "rige": "29/09/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549144",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Calle Naranjo",
-      "lecciones": "0",
-      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -266,6 +266,36 @@
       "vence": "23/12/2026"
     },
     {
+      "vacante": "1549218",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Once De Abril (Palmar)",
+      "lecciones": "0",
+      "rige": "08/10/2026",
+      "vence": "23/12/2026"
+    },
+    {
+      "vacante": "1549482",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "El Camaron (Rio Jimenez)",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1549483",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Carlota",
+      "lecciones": "0",
+      "rige": "07/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549222",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -304,6 +334,16 @@
       "lecciones": "30",
       "rige": "06/10/2026",
       "vence": "18/11/2026"
+    },
+    {
+      "vacante": "1549486",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Santa Elena (San Jose)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1549472",
@@ -466,16 +506,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1549179",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Auxiliar Administrativo",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Ricardo Fernandez G.",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1548266",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -513,16 +543,6 @@
       "institucion": "Rincon Grande",
       "lecciones": "40",
       "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549196",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Ostional (Guajiniquil)",
-      "lecciones": "0",
-      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
