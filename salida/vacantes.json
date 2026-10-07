@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-07T14:00:51.635Z",
+  "generado": "2026-10-07T14:20:44.604Z",
   "totalPais": 71,
   "calzanVT6": 0,
   "advertencias": [],
@@ -289,21 +289,21 @@
       "vence": "18/11/2026"
     },
     {
-      "vacante": "1549486",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Santa Elena (San Jose)",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549543",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
       "institucion": "Alfredo Gonzalez Flores",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549486",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Santa Elena (San Jose)",
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "11/12/2026"
@@ -639,16 +639,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549125",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Las Delicias",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549442",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -656,6 +646,16 @@
       "institucion": "Liceo Las Delicias",
       "lecciones": "12",
       "rige": "02/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549125",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Las Delicias",
+      "lecciones": "40",
+      "rige": "01/10/2026",
       "vence": "11/12/2026"
     },
     {
