@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-07T22:01:19.927Z",
-  "totalPais": 78,
+  "generado": "2026-10-07T22:16:22.249Z",
+  "totalPais": 77,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -200,16 +200,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549185",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "C.T.P. Corredores",
-      "lecciones": "8",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549682",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -217,6 +207,16 @@
       "institucion": "Col. Republica De Italia",
       "lecciones": "10",
       "rige": "23/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549185",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "C.T.P. Corredores",
+      "lecciones": "8",
+      "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -268,16 +268,6 @@
       "lecciones": "10",
       "rige": "09/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549655",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Ing Carlos A Pascua Z.",
-      "lecciones": "0",
-      "rige": "07/10/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1549685",
@@ -580,16 +570,6 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1549387",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Unidad Ped. Rafael Araya Rojas",
-      "lecciones": "44",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549395",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -597,6 +577,16 @@
       "institucion": "Liceo Mauro Fernandez Acuña",
       "lecciones": "44",
       "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549387",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Unidad Ped. Rafael Araya Rojas",
+      "lecciones": "44",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -670,16 +660,6 @@
       "vence": "29/11/2026"
     },
     {
-      "vacante": "1549500",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Fatima (San Jose)",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "01/12/2026"
-    },
-    {
       "vacante": "1549411",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -688,6 +668,16 @@
       "lecciones": "0",
       "rige": "07/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549500",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Fatima (San Jose)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "01/12/2026"
     },
     {
       "vacante": "1549385",
