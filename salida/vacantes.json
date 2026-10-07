@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-07T19:22:26.564Z",
-  "totalPais": 71,
-  "calzanVT6": 0,
+  "generado": "2026-10-07T19:41:10.042Z",
+  "totalPais": 72,
+  "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
@@ -18,6 +18,7 @@
     "Filosofía",
     "Francés",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
+    "Informática En Redes De Computadoras",
     "Ingeniería Industrial",
     "Inglés",
     "Labores Varias De Oficina",
@@ -32,7 +33,19 @@
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
-  "interesantes": [],
+  "interesantes": [
+    {
+      "vacante": "1549832",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática En Redes De Computadoras",
+      "institucion": "Liceo De Alfaro Ruiz",
+      "lecciones": "10",
+      "rige": "09/10/2026",
+      "vence": "13/11/2026",
+      "calce": "exacta"
+    }
+  ],
   "todas": [
     {
       "vacante": "1531183",
@@ -123,26 +136,6 @@
       "lecciones": "20",
       "rige": "07/10/2026",
       "vence": "18/11/2026"
-    },
-    {
-      "vacante": "1549574",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Mons Luis Leipold H. (Cañas)",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "01/04/2028"
-    },
-    {
-      "vacante": "1549576",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "Cindea Tilaran",
-      "lecciones": "42",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1549394",
@@ -305,6 +298,26 @@
       "vence": "21/04/2027"
     },
     {
+      "vacante": "1549829",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Asistente De Servicios De Educacion Especial",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Esc. Sarchi Norte",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549832",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática En Redes De Computadoras",
+      "institucion": "Liceo De Alfaro Ruiz",
+      "lecciones": "10",
+      "rige": "09/10/2026",
+      "vence": "13/11/2026"
+    },
+    {
       "vacante": "1549491",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -335,23 +348,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549494",
+      "vacante": "1549426",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "Riojalandia (Barranca)",
+      "institucion": "San Juan Chiquito",
       "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "31/12/2026"
-    },
-    {
-      "vacante": "1549461",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cindea Miramar",
-      "lecciones": "0",
-      "rige": "19/10/2026",
+      "rige": "24/10/2026",
       "vence": "31/01/2027"
     },
     {
@@ -365,14 +368,24 @@
       "vence": "01/02/2027"
     },
     {
-      "vacante": "1549426",
+      "vacante": "1549461",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Juan Chiquito",
+      "institucion": "Cindea Miramar",
       "lecciones": "0",
-      "rige": "24/10/2026",
+      "rige": "19/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549494",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Riojalandia (Barranca)",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1549441",
@@ -402,6 +415,16 @@
       "institucion": "C.T.P. De Puntarenas",
       "lecciones": "20",
       "rige": "05/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549823",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Cindea Puriscal",
+      "lecciones": "4",
+      "rige": "07/10/2026",
       "vence": "31/01/2027"
     },
     {
@@ -525,16 +548,6 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1549382",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Dulce Nombre",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1549384",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -543,6 +556,16 @@
       "lecciones": "0",
       "rige": "02/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549382",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Dulce Nombre",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1549183",
@@ -625,36 +648,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549445",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "C.T.P. De Upala",
-      "lecciones": "7",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549125",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Las Delicias",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549442",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Las Delicias",
-      "lecciones": "12",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549448",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -682,6 +675,36 @@
       "institucion": "Cindea Colonia Puntarenas",
       "lecciones": "4",
       "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549445",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "C.T.P. De Upala",
+      "lecciones": "7",
+      "rige": "02/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549125",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Las Delicias",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549442",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Las Delicias",
+      "lecciones": "12",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
