@@ -1,11 +1,10 @@
 {
-  "generado": "2026-10-07T13:20:44.993Z",
-  "totalPais": 49,
+  "generado": "2026-10-07T13:40:48.850Z",
+  "totalPais": 48,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Agroecología",
-    "Capacitación Y Desarrollo Educativo",
     "Contabilidad",
     "Curriculum",
     "Derecho",
@@ -58,16 +57,6 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "11/04/2028"
-    },
-    {
-      "vacante": "1549360",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Capacitación Y Desarrollo Educativo",
-      "institucion": "Dirección Regional De Educación De Los Santos",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "15/11/2026"
     },
     {
       "vacante": "1549252",
@@ -170,6 +159,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549122",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Palomo (Orosi)",
+      "lecciones": "0",
+      "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549144",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -187,16 +186,6 @@
       "institucion": "Luis Cruz Meza (Cachi)",
       "lecciones": "0",
       "rige": "29/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549122",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Palomo (Orosi)",
-      "lecciones": "0",
-      "rige": "29/09/2026",
       "vence": "11/12/2026"
     },
     {
@@ -228,6 +217,16 @@
       "lecciones": "5",
       "rige": "01/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549678",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Director De Colegio 3",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo San Miguel",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "10/12/2026"
     },
     {
       "vacante": "1549662",
@@ -348,16 +347,6 @@
       "lecciones": "0",
       "rige": "08/10/2026",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1549556",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Villa Del Mar #1",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1549200",
