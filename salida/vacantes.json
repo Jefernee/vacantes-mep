@@ -1,10 +1,9 @@
 {
-  "generado": "2026-10-07T19:03:47.870Z",
-  "totalPais": 72,
+  "generado": "2026-10-07T19:22:26.564Z",
+  "totalPais": 71,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Agroecología",
     "Artes Industriales",
     "Ciencias",
     "Contabilidad",
@@ -84,16 +83,6 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "31/07/2027"
-    },
-    {
-      "vacante": "1549578",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Agroecología",
-      "institucion": "C.T.P. Puerto Viejo",
-      "lecciones": "12",
-      "rige": "06/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1549777",
@@ -346,6 +335,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549494",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Riojalandia (Barranca)",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "31/12/2026"
+    },
+    {
       "vacante": "1549461",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -364,16 +363,6 @@
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "01/02/2027"
-    },
-    {
-      "vacante": "1549494",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Riojalandia (Barranca)",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "31/12/2026"
     },
     {
       "vacante": "1549426",
@@ -596,16 +585,6 @@
       "vence": "29/11/2026"
     },
     {
-      "vacante": "1549500",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Fatima (San Jose)",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "01/12/2026"
-    },
-    {
       "vacante": "1549411",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -614,6 +593,16 @@
       "lecciones": "0",
       "rige": "07/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549500",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Fatima (San Jose)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "01/12/2026"
     },
     {
       "vacante": "1549385",
