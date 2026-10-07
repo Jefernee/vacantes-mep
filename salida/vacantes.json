@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-07T16:20:52.297Z",
+  "generado": "2026-10-07T16:40:46.576Z",
   "totalPais": 73,
   "calzanVT6": 0,
   "advertencias": [],
@@ -19,7 +19,6 @@
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
     "Francés",
-    "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Ingeniería Industrial",
     "Inglés",
@@ -307,16 +306,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549472",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "I.P.E.C. Barva",
-      "lecciones": "20",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549725",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -367,16 +356,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549474",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Sagrada Familia",
-      "lecciones": "0",
-      "rige": "07/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549505",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -397,26 +376,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549426",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Juan Chiquito",
-      "lecciones": "0",
-      "rige": "24/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1549444",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "20 De Noviembre (Puntarenas)",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "01/02/2027"
-    },
-    {
       "vacante": "1549461",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -435,6 +394,26 @@
       "lecciones": "0",
       "rige": "02/10/2026",
       "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1549444",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "20 De Noviembre (Puntarenas)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "01/02/2027"
+    },
+    {
+      "vacante": "1549426",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Juan Chiquito",
+      "lecciones": "0",
+      "rige": "24/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549441",
@@ -477,6 +456,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1549749",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Asistente De Dirección Escolar",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Abraham Lincoln",
+      "lecciones": "0",
+      "rige": "07/10/2026",
+      "vence": "31/07/2029"
+    },
+    {
       "vacante": "1546457",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Director De Colegio 1",
@@ -504,6 +493,16 @@
       "institucion": "Liceo De Costa Rica (Diurno)",
       "lecciones": "25",
       "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549761",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Cindea Republica De Nicaragua",
+      "lecciones": "44",
+      "rige": "08/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -657,26 +656,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549125",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Las Delicias",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549442",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Las Delicias",
-      "lecciones": "12",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549448",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -704,6 +683,26 @@
       "institucion": "Cindea Colonia Puntarenas",
       "lecciones": "4",
       "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549125",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Las Delicias",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549442",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Las Delicias",
+      "lecciones": "12",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
