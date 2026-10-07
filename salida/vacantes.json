@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-07T15:20:50.429Z",
-  "totalPais": 74,
+  "generado": "2026-10-07T15:40:43.249Z",
+  "totalPais": 72,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -28,7 +28,6 @@
     "Música/Música",
     "Psicología",
     "Química",
-    "Rehabilitación / Física",
     "Religión",
     "Salud Ocupacional",
     "Servicios Básicos",
@@ -398,6 +397,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1549444",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "20 De Noviembre (Puntarenas)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "01/02/2027"
+    },
+    {
       "vacante": "1549461",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -416,16 +425,6 @@
       "lecciones": "0",
       "rige": "02/10/2026",
       "vence": "31/12/2026"
-    },
-    {
-      "vacante": "1549444",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "20 De Noviembre (Puntarenas)",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "01/02/2027"
     },
     {
       "vacante": "1549441",
@@ -468,16 +467,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1549424",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Rehabilitación / Física",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "0",
-      "rige": "05/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1546457",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Director De Colegio 1",
@@ -516,16 +505,6 @@
       "lecciones": "0",
       "rige": "02/10/2026",
       "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1549450",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "J.N. Jose Rafael Araya",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1549379",
@@ -578,16 +557,6 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1549382",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Dulce Nombre",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1549384",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -596,6 +565,16 @@
       "lecciones": "0",
       "rige": "02/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549382",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Dulce Nombre",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1549183",
@@ -668,26 +647,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549125",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Las Delicias",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549442",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Las Delicias",
-      "lecciones": "12",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549448",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -715,6 +674,26 @@
       "institucion": "Cindea Colonia Puntarenas",
       "lecciones": "4",
       "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549125",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Las Delicias",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549442",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Las Delicias",
+      "lecciones": "12",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
