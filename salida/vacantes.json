@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-07T20:21:00.552Z",
+  "generado": "2026-10-07T20:40:49.714Z",
   "totalPais": 73,
   "calzanVT6": 1,
   "advertencias": [],
@@ -118,16 +118,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549695",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo San Roque",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549842",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Cocinero",
@@ -136,6 +126,16 @@
       "lecciones": "0",
       "rige": "09/10/2026",
       "vence": "18/12/2026"
+    },
+    {
+      "vacante": "1549695",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo San Roque",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549806",
@@ -358,13 +358,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549461",
+      "vacante": "1549426",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cindea Miramar",
+      "institucion": "San Juan Chiquito",
       "lecciones": "0",
-      "rige": "19/10/2026",
+      "rige": "24/10/2026",
       "vence": "31/01/2027"
     },
     {
@@ -378,13 +378,13 @@
       "vence": "01/02/2027"
     },
     {
-      "vacante": "1549426",
+      "vacante": "1549461",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Juan Chiquito",
+      "institucion": "Cindea Miramar",
       "lecciones": "0",
-      "rige": "24/10/2026",
+      "rige": "19/10/2026",
       "vence": "31/01/2027"
     },
     {
@@ -558,16 +558,6 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1549382",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Dulce Nombre",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1549384",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -576,6 +566,16 @@
       "lecciones": "0",
       "rige": "02/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549382",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Dulce Nombre",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1549183",
@@ -618,16 +618,6 @@
       "vence": "29/11/2026"
     },
     {
-      "vacante": "1549500",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Fatima (San Jose)",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "01/12/2026"
-    },
-    {
       "vacante": "1549411",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -636,6 +626,16 @@
       "lecciones": "0",
       "rige": "07/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549500",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Fatima (San Jose)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "01/12/2026"
     },
     {
       "vacante": "1549385",
@@ -655,6 +655,16 @@
       "institucion": "Sor Maria Romero Meneses",
       "lecciones": "0",
       "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549445",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "C.T.P. De Upala",
+      "lecciones": "7",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -705,16 +715,6 @@
       "institucion": "Cindea Colonia Puntarenas",
       "lecciones": "4",
       "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549445",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "C.T.P. De Upala",
-      "lecciones": "7",
-      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
