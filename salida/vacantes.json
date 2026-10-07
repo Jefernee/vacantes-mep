@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-07T01:20:45.394Z",
+  "generado": "2026-10-07T01:40:55.870Z",
   "totalPais": 53,
   "calzanVT6": 0,
   "advertencias": [],
@@ -171,16 +171,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549144",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Calle Naranjo",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549152",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -198,6 +188,16 @@
       "institucion": "Palomo (Orosi)",
       "lecciones": "0",
       "rige": "29/09/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549144",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Calle Naranjo",
+      "lecciones": "0",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -311,21 +311,21 @@
       "vence": "18/11/2026"
     },
     {
-      "vacante": "1549543",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Alfredo Gonzalez Flores",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549486",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
       "institucion": "Santa Elena (San Jose)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549543",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Alfredo Gonzalez Flores",
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "11/12/2026"
@@ -421,16 +421,6 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1549146",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "C.T.P. De Santa Elena",
-      "lecciones": "0",
-      "rige": "08/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549128",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -439,6 +429,16 @@
       "lecciones": "0",
       "rige": "30/09/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1549146",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. De Santa Elena",
+      "lecciones": "0",
+      "rige": "08/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549410",
