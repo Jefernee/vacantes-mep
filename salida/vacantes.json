@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-07T01:40:55.870Z",
+  "generado": "2026-10-07T02:00:52.990Z",
   "totalPais": 53,
   "calzanVT6": 0,
   "advertencias": [],
@@ -171,16 +171,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549152",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Luis Cruz Meza (Cachi)",
-      "lecciones": "0",
-      "rige": "29/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549122",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -198,6 +188,16 @@
       "institucion": "Calle Naranjo",
       "lecciones": "0",
       "rige": "02/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549152",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Luis Cruz Meza (Cachi)",
+      "lecciones": "0",
+      "rige": "29/10/2026",
       "vence": "11/12/2026"
     },
     {
