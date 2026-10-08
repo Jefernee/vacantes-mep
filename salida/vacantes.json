@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-08T12:00:54.249Z",
+  "generado": "2026-10-08T12:21:00.353Z",
   "totalPais": 75,
   "calzanVT6": 1,
   "advertencias": [],
@@ -199,16 +199,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549682",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Col. Republica De Italia",
-      "lecciones": "10",
-      "rige": "23/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549185",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -216,6 +206,16 @@
       "institucion": "C.T.P. Corredores",
       "lecciones": "8",
       "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549682",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Col. Republica De Italia",
+      "lecciones": "10",
+      "rige": "23/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -369,14 +369,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549444",
+      "vacante": "1549426",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "20 De Noviembre (Puntarenas)",
+      "institucion": "San Juan Chiquito",
       "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "01/02/2027"
+      "rige": "24/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549461",
@@ -389,16 +389,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1549426",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Juan Chiquito",
-      "lecciones": "0",
-      "rige": "24/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549494",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -407,6 +397,16 @@
       "lecciones": "0",
       "rige": "02/10/2026",
       "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1549444",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "20 De Noviembre (Puntarenas)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "01/02/2027"
     },
     {
       "vacante": "1549441",
@@ -639,16 +639,6 @@
       "vence": "29/11/2026"
     },
     {
-      "vacante": "1549500",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Fatima (San Jose)",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "01/12/2026"
-    },
-    {
       "vacante": "1549411",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -657,6 +647,16 @@
       "lecciones": "0",
       "rige": "07/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549500",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Fatima (San Jose)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "01/12/2026"
     },
     {
       "vacante": "1549385",
