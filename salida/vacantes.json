@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-08T01:20:42.322Z",
+  "generado": "2026-10-08T01:41:13.530Z",
   "totalPais": 76,
   "calzanVT6": 1,
   "advertencias": [],
@@ -129,16 +129,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549842",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ascension Esquivel Ibarra",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "18/12/2026"
-    },
-    {
       "vacante": "1549695",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Cocinero",
@@ -147,6 +137,16 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549842",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Ascension Esquivel Ibarra",
+      "lecciones": "0",
+      "rige": "09/10/2026",
+      "vence": "18/12/2026"
     },
     {
       "vacante": "1549806",
@@ -379,6 +379,16 @@
       "vence": "01/02/2027"
     },
     {
+      "vacante": "1549426",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Juan Chiquito",
+      "lecciones": "0",
+      "rige": "24/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1549494",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -396,16 +406,6 @@
       "institucion": "Cindea Miramar",
       "lecciones": "0",
       "rige": "19/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1549426",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Juan Chiquito",
-      "lecciones": "0",
-      "rige": "24/10/2026",
       "vence": "31/01/2027"
     },
     {
@@ -649,16 +649,6 @@
       "vence": "29/11/2026"
     },
     {
-      "vacante": "1549500",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Fatima (San Jose)",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "01/12/2026"
-    },
-    {
       "vacante": "1549411",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -667,6 +657,16 @@
       "lecciones": "0",
       "rige": "07/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549500",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Fatima (San Jose)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "01/12/2026"
     },
     {
       "vacante": "1549385",
@@ -699,16 +699,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549442",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Las Delicias",
-      "lecciones": "12",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549125",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -716,6 +706,16 @@
       "institucion": "Liceo Las Delicias",
       "lecciones": "40",
       "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549442",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Las Delicias",
+      "lecciones": "12",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
