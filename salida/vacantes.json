@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-08T11:00:47.928Z",
+  "generado": "2026-10-08T11:21:28.528Z",
   "totalPais": 75,
   "calzanVT6": 1,
   "advertencias": [],
@@ -129,16 +129,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549695",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo San Roque",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549842",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Cocinero",
@@ -147,6 +137,16 @@
       "lecciones": "0",
       "rige": "09/10/2026",
       "vence": "18/12/2026"
+    },
+    {
+      "vacante": "1549695",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo San Roque",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549806",
@@ -199,16 +199,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549185",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "C.T.P. Corredores",
-      "lecciones": "8",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549682",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -216,6 +206,16 @@
       "institucion": "Col. Republica De Italia",
       "lecciones": "10",
       "rige": "23/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549185",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "C.T.P. Corredores",
+      "lecciones": "8",
+      "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -369,16 +369,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549426",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Juan Chiquito",
-      "lecciones": "0",
-      "rige": "24/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549444",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -389,14 +379,14 @@
       "vence": "01/02/2027"
     },
     {
-      "vacante": "1549494",
+      "vacante": "1549426",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "Riojalandia (Barranca)",
+      "institucion": "San Juan Chiquito",
       "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "31/12/2026"
+      "rige": "24/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1549461",
@@ -407,6 +397,16 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549494",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Riojalandia (Barranca)",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1549441",
@@ -549,16 +549,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1549387",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Unidad Ped. Rafael Araya Rojas",
-      "lecciones": "44",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549395",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -566,6 +556,16 @@
       "institucion": "Liceo Mauro Fernandez Acuña",
       "lecciones": "44",
       "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549387",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Unidad Ped. Rafael Araya Rojas",
+      "lecciones": "44",
+      "rige": "05/10/2026",
       "vence": "11/12/2026"
     },
     {
