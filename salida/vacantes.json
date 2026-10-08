@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-08T15:00:38.877Z",
+  "generado": "2026-10-08T15:20:43.168Z",
   "totalPais": 32,
   "calzanVT6": 1,
   "advertencias": [],
@@ -193,16 +193,6 @@
       "vence": "15/11/2026"
     },
     {
-      "vacante": "1549936",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Tinamastes (Baru)",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "05/02/2027"
-    },
-    {
       "vacante": "1549736",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -211,6 +201,16 @@
       "lecciones": "0",
       "rige": "03/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549936",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Tinamastes (Baru)",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "05/02/2027"
     },
     {
       "vacante": "1549859",
@@ -313,26 +313,6 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1549790",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo De Pejibaye",
-      "lecciones": "9",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549794",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Hernan Vargas Ramirez",
-      "lecciones": "12",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549791",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -343,11 +323,31 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549790",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo De Pejibaye",
+      "lecciones": "9",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549787",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
       "institucion": "Col Acad De Orient Tec Omar Salazar Obando",
+      "lecciones": "12",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549794",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Hernan Vargas Ramirez",
       "lecciones": "12",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
