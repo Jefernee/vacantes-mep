@@ -1,11 +1,12 @@
 {
-  "generado": "2026-10-08T16:08:01.306Z",
-  "totalPais": 33,
+  "generado": "2026-10-08T16:41:01.062Z",
+  "totalPais": 34,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Biología",
     "Contabilidad",
+    "Educación Física",
     "Educación Para El Hogar",
     "Enseñanza Especial . Retardo Mental",
     "Estudios Sociales/Educación Cívica",
@@ -13,6 +14,7 @@
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Informática En Redes De Computadoras",
     "Inglés",
+    "Labores Varias De Oficina",
     "Psicología",
     "Química",
     "Religión",
@@ -65,22 +67,22 @@
       "vence": "18/12/2026"
     },
     {
-      "vacante": "1549871",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "C.T.P. De San Mateo",
-      "lecciones": "10",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549860",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Biología",
       "institucion": "C.T.P. De San Mateo",
       "lecciones": "15",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549871",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P. De San Mateo",
+      "lecciones": "10",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
@@ -132,6 +134,16 @@
       "institucion": "C.T.P. Carlos Ml. Vicente C.",
       "lecciones": "8",
       "rige": "13/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550004",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "Colegio Santa Eduviges",
+      "lecciones": "6",
+      "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -205,6 +217,16 @@
       "vence": "13/11/2026"
     },
     {
+      "vacante": "1550012",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Liceo De Naranjo",
+      "lecciones": "44",
+      "rige": "09/10/2026",
+      "vence": "19/11/2026"
+    },
+    {
       "vacante": "1549856",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Asistente De Servicios De Educacion Especial",
@@ -213,6 +235,16 @@
       "lecciones": "0",
       "rige": "09/10/2026",
       "vence": "15/11/2026"
+    },
+    {
+      "vacante": "1550008",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Tierra Prometida",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1549936",
@@ -263,26 +295,6 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1549749",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Asistente De Dirección Escolar",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Abraham Lincoln",
-      "lecciones": "0",
-      "rige": "07/10/2026",
-      "vence": "31/07/2029"
-    },
-    {
-      "vacante": "1549761",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Cindea Republica De Nicaragua",
-      "lecciones": "44",
-      "rige": "08/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1549966",
@@ -345,21 +357,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549794",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Hernan Vargas Ramirez",
-      "lecciones": "12",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549787",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
       "institucion": "Col Acad De Orient Tec Omar Salazar Obando",
+      "lecciones": "12",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549794",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Hernan Vargas Ramirez",
       "lecciones": "12",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
