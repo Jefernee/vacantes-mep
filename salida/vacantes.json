@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-08T20:40:42.245Z",
-  "totalPais": 36,
+  "generado": "2026-10-08T21:00:34.637Z",
+  "totalPais": 33,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,7 +8,7 @@
     "Contabilidad",
     "Educación Física",
     "Educación Para El Hogar",
-    "Enseñanza Especial . Retardo Mental",
+    "Estudios Sociales/Educación Cívica",
     "Filosofía",
     "Física",
     "Inglés",
@@ -16,7 +16,6 @@
     "Matemáticas",
     "Psicología",
     "Química",
-    "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -30,16 +29,6 @@
       "institucion": "Dirección Regional De Educación De Occidente",
       "lecciones": "0",
       "rige": "12/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1549706",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Supervisor De Educación",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Dirección Regional De Educación Liberia",
-      "lecciones": "0",
-      "rige": "09/10/2026",
       "vence": "31/01/2031"
     },
     {
@@ -80,16 +69,6 @@
       "institucion": "C.T.P. De San Mateo",
       "lecciones": "15",
       "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549185",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "C.T.P. Corredores",
-      "lecciones": "8",
-      "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -153,14 +132,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549664",
+      "vacante": "1548828",
       "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ascension Esquivel Ibarra",
+      "clasePuesto": "Director De Enseñanza General Básica 5 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Alba Ocampo Alvarado (Liberia)",
       "lecciones": "0",
-      "rige": "08/10/2026",
-      "vence": "31/01/2027"
+      "rige": "15/10/2026",
+      "vence": "31/01/2030"
     },
     {
       "vacante": "1550110",
@@ -193,22 +172,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550078",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo San Fco. De Coyote",
-      "lecciones": "25",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550080",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Educación Para El Hogar",
       "institucion": "Liceo San Fco. De Coyote",
       "lecciones": "10",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550078",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo San Fco. De Coyote",
+      "lecciones": "25",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
@@ -243,16 +222,6 @@
       "vence": "19/11/2026"
     },
     {
-      "vacante": "1549856",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Asistente De Servicios De Educacion Especial",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ens. Esp. San Isidro Del G",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "15/11/2026"
-    },
-    {
       "vacante": "1550008",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -273,6 +242,16 @@
       "vence": "05/02/2027"
     },
     {
+      "vacante": "1550161",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Unesco",
+      "lecciones": "32",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550059",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -283,26 +262,6 @@
       "vence": "07/11/2026"
     },
     {
-      "vacante": "1549859",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Colegio De Tabarcia",
-      "lecciones": "27",
-      "rige": "08/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1549861",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Colegio De Tabarcia",
-      "lecciones": "10",
-      "rige": "08/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550067",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -310,6 +269,16 @@
       "institucion": "Republic De Haiti(S.Sebastian)",
       "lecciones": "0",
       "rige": "09/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550167",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Finca San Juan",
+      "lecciones": "0",
+      "rige": "13/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -323,16 +292,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550089",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Plaza Vieja",
-      "lecciones": "0",
-      "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549851",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -343,22 +302,32 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1550089",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Plaza Vieja",
+      "lecciones": "0",
+      "rige": "13/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549787",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Col Acad De Orient Tec Omar Salazar Obando",
+      "lecciones": "12",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549790",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
       "institucion": "Liceo De Pejibaye",
       "lecciones": "9",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549794",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Hernan Vargas Ramirez",
-      "lecciones": "12",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -373,11 +342,11 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549787",
+      "vacante": "1549794",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
-      "institucion": "Col Acad De Orient Tec Omar Salazar Obando",
+      "institucion": "Liceo Hernan Vargas Ramirez",
       "lecciones": "12",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
