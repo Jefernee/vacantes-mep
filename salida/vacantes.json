@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-08T02:01:26.145Z",
+  "generado": "2026-10-08T02:02:17.112Z",
   "totalPais": 76,
   "calzanVT6": 1,
   "advertencias": [],
@@ -389,16 +389,6 @@
       "vence": "01/02/2027"
     },
     {
-      "vacante": "1549494",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Riojalandia (Barranca)",
-      "lecciones": "0",
-      "rige": "02/10/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1549461",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -407,6 +397,26 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549444",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "20 De Noviembre (Puntarenas)",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "01/02/2027"
+    },
+    {
+      "vacante": "1549494",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Riojalandia (Barranca)",
+      "lecciones": "0",
+      "rige": "02/10/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1549441",
@@ -699,26 +709,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549125",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Las Delicias",
-      "lecciones": "40",
-      "rige": "01/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549442",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Las Delicias",
-      "lecciones": "12",
-      "rige": "02/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549448",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -746,6 +736,26 @@
       "institucion": "Cindea Colonia Puntarenas",
       "lecciones": "4",
       "rige": "05/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549125",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Las Delicias",
+      "lecciones": "40",
+      "rige": "01/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549442",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Las Delicias",
+      "lecciones": "12",
+      "rige": "02/10/2026",
       "vence": "11/12/2026"
     },
     {
