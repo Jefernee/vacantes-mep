@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-08T15:20:43.168Z",
-  "totalPais": 32,
+  "generado": "2026-10-08T15:46:32.127Z",
+  "totalPais": 31,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -193,16 +193,6 @@
       "vence": "15/11/2026"
     },
     {
-      "vacante": "1549736",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "La Repunta (Daniel Flores)",
-      "lecciones": "0",
-      "rige": "03/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549936",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -323,12 +313,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549790",
+      "vacante": "1549794",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
-      "institucion": "Liceo De Pejibaye",
-      "lecciones": "9",
+      "institucion": "Liceo Hernan Vargas Ramirez",
+      "lecciones": "12",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -343,12 +333,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549794",
+      "vacante": "1549790",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
-      "institucion": "Liceo Hernan Vargas Ramirez",
-      "lecciones": "12",
+      "institucion": "Liceo De Pejibaye",
+      "lecciones": "9",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     }
