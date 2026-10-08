@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-08T19:20:38.663Z",
-  "totalPais": 36,
-  "calzanVT6": 1,
+  "generado": "2026-10-08T19:40:42.943Z",
+  "totalPais": 34,
+  "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Biología",
@@ -9,10 +9,8 @@
     "Educación Física",
     "Educación Para El Hogar",
     "Enseñanza Especial . Retardo Mental",
-    "Estudios Sociales/Educación Cívica",
     "Filosofía",
     "Física",
-    "Informática En Redes De Computadoras",
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
@@ -22,19 +20,7 @@
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
-  "interesantes": [
-    {
-      "vacante": "1549832",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Redes De Computadoras",
-      "institucion": "Liceo De Alfaro Ruiz",
-      "lecciones": "10",
-      "rige": "09/10/2026",
-      "vence": "13/11/2026",
-      "calce": "exacta"
-    }
-  ],
+  "interesantes": [],
   "todas": [
     {
       "vacante": "1549706",
@@ -67,16 +53,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549860",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "C.T.P. De San Mateo",
-      "lecciones": "15",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549868",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -93,6 +69,16 @@
       "especialidad": "Química",
       "institucion": "C.T.P. De San Mateo",
       "lecciones": "10",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549860",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "C.T.P. De San Mateo",
+      "lecciones": "15",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
@@ -157,6 +143,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1550110",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Sixaola",
+      "lecciones": "0",
+      "rige": "13/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1549943",
       "regional": "Direc. Regional Educacion Los Santos",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -207,16 +203,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549829",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Asistente De Servicios De Educacion Especial",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Esc. Sarchi Norte",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1549939",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -235,16 +221,6 @@
       "lecciones": "44",
       "rige": "09/10/2026",
       "vence": "19/11/2026"
-    },
-    {
-      "vacante": "1549832",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Redes De Computadoras",
-      "institucion": "Liceo De Alfaro Ruiz",
-      "lecciones": "10",
-      "rige": "09/10/2026",
-      "vence": "13/11/2026"
     },
     {
       "vacante": "1549856",
@@ -294,16 +270,6 @@
       "institucion": "Colegio De Tabarcia",
       "lecciones": "27",
       "rige": "08/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1549823",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Puriscal",
-      "lecciones": "4",
-      "rige": "07/10/2026",
       "vence": "31/01/2027"
     },
     {
@@ -377,21 +343,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549794",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Hernan Vargas Ramirez",
-      "lecciones": "12",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549787",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
       "institucion": "Col Acad De Orient Tec Omar Salazar Obando",
+      "lecciones": "12",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549794",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Hernan Vargas Ramirez",
       "lecciones": "12",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
