@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-08T22:46:22.834Z",
+  "generado": "2026-10-08T23:00:37.037Z",
   "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
@@ -52,22 +52,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549868",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P. De San Mateo",
-      "lecciones": "18",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549860",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Biología",
       "institucion": "C.T.P. De San Mateo",
       "lecciones": "15",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549868",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P. De San Mateo",
+      "lecciones": "18",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
@@ -142,16 +142,6 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1550110",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Sixaola",
-      "lecciones": "0",
-      "rige": "13/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550171",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -160,6 +150,16 @@
       "lecciones": "0",
       "rige": "14/10/2026",
       "vence": "19/11/2026"
+    },
+    {
+      "vacante": "1550110",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Sixaola",
+      "lecciones": "0",
+      "rige": "13/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1550173",
@@ -252,16 +252,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1550180",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Barrio Nuevo (Pejibaye)",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549936",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -272,12 +262,12 @@
       "vence": "05/02/2027"
     },
     {
-      "vacante": "1550161",
+      "vacante": "1550180",
       "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Unesco",
-      "lecciones": "32",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Barrio Nuevo (Pejibaye)",
+      "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
@@ -290,6 +280,16 @@
       "lecciones": "6",
       "rige": "12/10/2026",
       "vence": "07/11/2026"
+    },
+    {
+      "vacante": "1550161",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Unesco",
+      "lecciones": "32",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550067",
@@ -352,6 +352,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549790",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo De Pejibaye",
+      "lecciones": "9",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549787",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -368,16 +378,6 @@
       "especialidad": "Psicología",
       "institucion": "Liceo Hernan Vargas Ramirez",
       "lecciones": "12",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549790",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo De Pejibaye",
-      "lecciones": "9",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     }
