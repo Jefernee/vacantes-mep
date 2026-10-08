@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-08T14:00:53.314Z",
-  "totalPais": 45,
+  "generado": "2026-10-08T14:20:41.370Z",
+  "totalPais": 46,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -229,6 +229,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1549939",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Palma (Piedades Sur)",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549832",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -419,12 +429,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549787",
+      "vacante": "1549790",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
-      "institucion": "Col Acad De Orient Tec Omar Salazar Obando",
-      "lecciones": "12",
+      "institucion": "Liceo De Pejibaye",
+      "lecciones": "9",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -439,12 +449,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549790",
+      "vacante": "1549787",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
-      "institucion": "Liceo De Pejibaye",
-      "lecciones": "9",
+      "institucion": "Col Acad De Orient Tec Omar Salazar Obando",
+      "lecciones": "12",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
