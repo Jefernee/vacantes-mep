@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-09T02:00:39.260Z",
+  "generado": "2026-10-09T02:20:36.163Z",
   "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
@@ -42,12 +42,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549871",
+      "vacante": "1549868",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Física",
       "institucion": "C.T.P. De San Mateo",
-      "lecciones": "10",
+      "lecciones": "18",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
@@ -62,12 +62,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549868",
+      "vacante": "1549871",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
+      "especialidad": "Química",
       "institucion": "C.T.P. De San Mateo",
-      "lecciones": "18",
+      "lecciones": "10",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
@@ -272,16 +272,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550059",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Unesco",
-      "lecciones": "6",
-      "rige": "12/10/2026",
-      "vence": "07/11/2026"
-    },
-    {
       "vacante": "1550161",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -290,6 +280,16 @@
       "lecciones": "32",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550059",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Liceo Unesco",
+      "lecciones": "6",
+      "rige": "12/10/2026",
+      "vence": "07/11/2026"
     },
     {
       "vacante": "1550067",
