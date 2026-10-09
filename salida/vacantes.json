@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-09T18:00:38.756Z",
+  "generado": "2026-10-09T18:20:34.409Z",
   "totalPais": 22,
   "calzanVT6": 0,
   "advertencias": [],
@@ -48,16 +48,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550289",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Liceo De Sabanillas",
-      "lecciones": "10",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550170",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -65,6 +55,16 @@
       "institucion": "C.T.P. Invu Las Cañas",
       "lecciones": "20",
       "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550289",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Liceo De Sabanillas",
+      "lecciones": "10",
+      "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
     {
