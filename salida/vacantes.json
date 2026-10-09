@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-09T20:40:57.945Z",
-  "totalPais": 16,
+  "generado": "2026-10-09T21:00:38.334Z",
+  "totalPais": 14,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -97,14 +97,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1548828",
+      "vacante": "1545751",
       "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Director De Enseñanza General Básica 5 ( I Y Ii Ciclos)",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alba Ocampo Alvarado (Liberia)",
+      "institucion": "Guardia (Nacascolo)",
       "lecciones": "0",
-      "rige": "15/10/2026",
-      "vence": "31/01/2030"
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550171",
@@ -154,26 +154,6 @@
       "institucion": "Barrio Nuevo (Pejibaye)",
       "lecciones": "0",
       "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550161",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Unesco",
-      "lecciones": "32",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550167",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Finca San Juan",
-      "lecciones": "0",
-      "rige": "13/10/2026",
       "vence": "11/12/2026"
     }
   ]
