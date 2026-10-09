@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-09T21:00:38.334Z",
-  "totalPais": 14,
+  "generado": "2026-10-09T21:20:31.131Z",
+  "totalPais": 13,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,10 +8,9 @@
     "Contabilidad",
     "Contabilidad Y Finanzas",
     "Enseñanza Especial . Retardo Mental",
-    "Estudios Sociales/Educación Cívica",
+    "Inglés",
     "Matemáticas",
     "Música/Música",
-    "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
@@ -57,21 +56,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550170",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad Y Finanzas",
-      "institucion": "C.T.P. Invu Las Cañas",
-      "lecciones": "20",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550172",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Contabilidad",
       "institucion": "C.T.P. Carrizal",
+      "lecciones": "20",
+      "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550170",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad Y Finanzas",
+      "institucion": "C.T.P. Invu Las Cañas",
       "lecciones": "20",
       "rige": "15/10/2026",
       "vence": "11/12/2026"
@@ -107,26 +106,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550171",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Linea B (Matina)",
-      "lecciones": "0",
-      "rige": "14/10/2026",
-      "vence": "19/11/2026"
-    },
-    {
-      "vacante": "1550173",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "C.T.P. De Bataam",
-      "lecciones": "44",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550274",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -154,6 +133,16 @@
       "institucion": "Barrio Nuevo (Pejibaye)",
       "lecciones": "0",
       "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550396",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Nocturno De Palmares",
+      "lecciones": "30",
+      "rige": "16/10/2026",
       "vence": "11/12/2026"
     }
   ]
