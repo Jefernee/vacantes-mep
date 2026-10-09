@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-09T17:17:09.438Z",
+  "generado": "2026-10-09T17:20:37.733Z",
   "totalPais": 25,
   "calzanVT6": 0,
   "advertencias": [],
@@ -48,16 +48,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550170",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad Y Finanzas",
-      "institucion": "C.T.P. Invu Las Cañas",
-      "lecciones": "20",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550289",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -65,6 +55,16 @@
       "institucion": "Liceo De Sabanillas",
       "lecciones": "10",
       "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550170",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad Y Finanzas",
+      "institucion": "C.T.P. Invu Las Cañas",
+      "lecciones": "20",
+      "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -138,16 +138,6 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1550171",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Linea B (Matina)",
-      "lecciones": "0",
-      "rige": "14/10/2026",
-      "vence": "19/11/2026"
-    },
-    {
       "vacante": "1550110",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -156,6 +146,16 @@
       "lecciones": "0",
       "rige": "13/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550171",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Linea B (Matina)",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "19/11/2026"
     },
     {
       "vacante": "1550173",
@@ -178,22 +178,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550078",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo San Fco. De Coyote",
-      "lecciones": "25",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550080",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Educación Para El Hogar",
       "institucion": "Liceo San Fco. De Coyote",
       "lecciones": "10",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550078",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo San Fco. De Coyote",
+      "lecciones": "25",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
@@ -218,16 +218,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550059",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Unesco",
-      "lecciones": "6",
-      "rige": "12/10/2026",
-      "vence": "07/11/2026"
-    },
-    {
       "vacante": "1550161",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -236,6 +226,16 @@
       "lecciones": "32",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550059",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Liceo Unesco",
+      "lecciones": "6",
+      "rige": "12/10/2026",
+      "vence": "07/11/2026"
     },
     {
       "vacante": "1550067",
