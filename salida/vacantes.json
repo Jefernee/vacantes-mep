@@ -1,12 +1,11 @@
 {
-  "generado": "2026-10-09T18:20:34.409Z",
-  "totalPais": 22,
+  "generado": "2026-10-09T18:40:37.843Z",
+  "totalPais": 20,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Contabilidad",
     "Contabilidad Y Finanzas",
-    "Educación Para El Hogar",
     "Enseñanza Especial . Retardo Mental",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
@@ -48,16 +47,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550170",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad Y Finanzas",
-      "institucion": "C.T.P. Invu Las Cañas",
-      "lecciones": "20",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550289",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -65,6 +54,16 @@
       "institucion": "Liceo De Sabanillas",
       "lecciones": "10",
       "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550170",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad Y Finanzas",
+      "institucion": "C.T.P. Invu Las Cañas",
+      "lecciones": "20",
+      "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -165,26 +164,6 @@
       "institucion": "Servicio Itinerante Ens. Esp.",
       "lecciones": "44",
       "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550080",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo San Fco. De Coyote",
-      "lecciones": "10",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550078",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo San Fco. De Coyote",
-      "lecciones": "25",
-      "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
     {
