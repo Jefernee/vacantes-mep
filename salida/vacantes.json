@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-09T11:00:42.010Z",
+  "generado": "2026-10-09T11:20:38.729Z",
   "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
@@ -42,16 +42,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549871",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "C.T.P. De San Mateo",
-      "lecciones": "10",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549868",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -68,6 +58,16 @@
       "especialidad": "Biología",
       "institucion": "C.T.P. De San Mateo",
       "lecciones": "15",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549871",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P. De San Mateo",
+      "lecciones": "10",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
@@ -142,16 +142,6 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1550171",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Linea B (Matina)",
-      "lecciones": "0",
-      "rige": "14/10/2026",
-      "vence": "19/11/2026"
-    },
-    {
       "vacante": "1550110",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -160,6 +150,16 @@
       "lecciones": "0",
       "rige": "13/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550171",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Linea B (Matina)",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "19/11/2026"
     },
     {
       "vacante": "1550173",
