@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-09T13:00:41.950Z",
+  "generado": "2026-10-09T13:20:36.510Z",
   "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
@@ -262,16 +262,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1550180",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Barrio Nuevo (Pejibaye)",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549936",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -282,12 +272,12 @@
       "vence": "05/02/2027"
     },
     {
-      "vacante": "1550161",
+      "vacante": "1550180",
       "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Unesco",
-      "lecciones": "32",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Barrio Nuevo (Pejibaye)",
+      "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
@@ -300,6 +290,16 @@
       "lecciones": "6",
       "rige": "12/10/2026",
       "vence": "07/11/2026"
+    },
+    {
+      "vacante": "1550161",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Unesco",
+      "lecciones": "32",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550067",
