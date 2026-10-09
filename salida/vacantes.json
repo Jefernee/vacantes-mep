@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-09T17:40:44.107Z",
+  "generado": "2026-10-09T18:00:38.756Z",
   "totalPais": 22,
   "calzanVT6": 0,
   "advertencias": [],
@@ -38,6 +38,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1550172",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P. Carrizal",
+      "lecciones": "20",
+      "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550289",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -53,16 +63,6 @@
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Contabilidad Y Finanzas",
       "institucion": "C.T.P. Invu Las Cañas",
-      "lecciones": "20",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550172",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. Carrizal",
       "lecciones": "20",
       "rige": "15/10/2026",
       "vence": "11/12/2026"
