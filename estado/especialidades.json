@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 17855,
+      "vecesVista": 17862,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T20:20:31.982Z",
+      "ultimaVez": "2026-10-09T20:40:57.947Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 10526,
+      "vecesVista": 10527,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T20:20:31.982Z",
+      "ultimaVez": "2026-10-09T20:40:57.947Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -51,9 +51,9 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 370,
+      "vecesVista": 371,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T20:20:31.982Z",
+      "ultimaVez": "2026-10-09T20:40:57.947Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1018,
+      "vecesVista": 1019,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T17:00:41.267Z",
+      "ultimaVez": "2026-10-09T20:40:57.947Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -100,16 +100,16 @@
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1118,
+      "vecesVista": 1119,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T20:20:31.982Z",
+      "ultimaVez": "2026-10-09T20:40:57.947Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 1565,
+      "vecesVista": 1567,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T20:20:31.982Z",
+      "ultimaVez": "2026-10-09T20:40:57.947Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -135,9 +135,9 @@
     },
     "Contabilidad": {
       "calce": "no interesa",
-      "vecesVista": 566,
+      "vecesVista": 567,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T20:20:31.982Z",
+      "ultimaVez": "2026-10-09T20:40:57.947Z",
       "avisadaComoNueva": true
     },
     "Informática En Desarrollo Del Software": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1201,
+      "vecesVista": 1202,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-10-09T20:20:31.982Z",
+      "ultimaVez": "2026-10-09T20:40:57.947Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -359,9 +359,9 @@
     },
     "Contabilidad Y Finanzas": {
       "calce": "no interesa",
-      "vecesVista": 249,
+      "vecesVista": 250,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-10-09T20:20:31.982Z",
+      "ultimaVez": "2026-10-09T20:40:57.947Z",
       "avisadaComoNueva": true
     },
     "Artes Industriales": {
@@ -603,5 +603,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-09T20:20:31.982Z"
+  "actualizado": "2026-10-09T20:40:57.947Z"
 }
