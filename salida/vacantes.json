@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-09T17:00:41.265Z",
-  "totalPais": 26,
+  "generado": "2026-10-09T17:17:09.438Z",
+  "totalPais": 25,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -11,7 +11,6 @@
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
     "Inglés",
-    "Matemáticas",
     "Música/Música",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -39,13 +38,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549802",
+      "vacante": "1550172",
       "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Inst. De Alajuela",
-      "lecciones": "16",
-      "rige": "08/10/2026",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad",
+      "institucion": "C.T.P. Carrizal",
+      "lecciones": "20",
+      "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -54,16 +53,6 @@
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Contabilidad Y Finanzas",
       "institucion": "C.T.P. Invu Las Cañas",
-      "lecciones": "20",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550172",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. Carrizal",
       "lecciones": "20",
       "rige": "15/10/2026",
       "vence": "11/12/2026"
@@ -89,6 +78,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1550049",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Santa Marta (Volcan)",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550304",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -106,16 +105,6 @@
       "institucion": "Santa Cruz (Buenos Aires)",
       "lecciones": "0",
       "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550049",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Santa Marta (Volcan)",
-      "lecciones": "0",
-      "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -149,16 +138,6 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1550110",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Sixaola",
-      "lecciones": "0",
-      "rige": "13/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550171",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -167,6 +146,16 @@
       "lecciones": "0",
       "rige": "14/10/2026",
       "vence": "19/11/2026"
+    },
+    {
+      "vacante": "1550110",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Sixaola",
+      "lecciones": "0",
+      "rige": "13/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1550173",
@@ -189,22 +178,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550080",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo San Fco. De Coyote",
-      "lecciones": "10",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550078",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Educación Para El Hogar",
       "institucion": "Liceo San Fco. De Coyote",
       "lecciones": "25",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550080",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo San Fco. De Coyote",
+      "lecciones": "10",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
@@ -229,16 +218,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550161",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Unesco",
-      "lecciones": "32",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550059",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -247,6 +226,16 @@
       "lecciones": "6",
       "rige": "12/10/2026",
       "vence": "07/11/2026"
+    },
+    {
+      "vacante": "1550161",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Unesco",
+      "lecciones": "32",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550067",
