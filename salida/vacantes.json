@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-09T18:40:37.843Z",
-  "totalPais": 20,
+  "generado": "2026-10-09T19:00:34.823Z",
+  "totalPais": 18,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,7 +9,6 @@
     "Enseñanza Especial . Retardo Mental",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
-    "Inglés",
     "Música/Música",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -67,16 +66,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550092",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Inglés",
-      "institucion": "Domingo Faustino Sarmiento",
-      "lecciones": "0",
-      "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550304",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -127,16 +116,6 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1550171",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Linea B (Matina)",
-      "lecciones": "0",
-      "rige": "14/10/2026",
-      "vence": "19/11/2026"
-    },
-    {
       "vacante": "1550110",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -145,6 +124,16 @@
       "lecciones": "0",
       "rige": "13/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550171",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Linea B (Matina)",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "19/11/2026"
     },
     {
       "vacante": "1550173",
@@ -202,16 +191,6 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Finca San Juan",
-      "lecciones": "0",
-      "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550089",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Plaza Vieja",
       "lecciones": "0",
       "rige": "13/10/2026",
       "vence": "11/12/2026"
