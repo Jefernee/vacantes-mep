@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 17827,
+      "vecesVista": 17834,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T19:00:34.825Z",
+      "ultimaVez": "2026-10-09T19:20:33.617Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 10515,
+      "vecesVista": 10519,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T19:00:34.825Z",
+      "ultimaVez": "2026-10-09T19:20:33.617Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -100,16 +100,16 @@
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1114,
+      "vecesVista": 1115,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T19:00:34.825Z",
+      "ultimaVez": "2026-10-09T19:20:33.617Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 1557,
+      "vecesVista": 1559,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T19:00:34.825Z",
+      "ultimaVez": "2026-10-09T19:20:33.617Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -135,9 +135,9 @@
     },
     "Contabilidad": {
       "calce": "no interesa",
-      "vecesVista": 562,
+      "vecesVista": 563,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T19:00:34.825Z",
+      "ultimaVez": "2026-10-09T19:20:33.617Z",
       "avisadaComoNueva": true
     },
     "Informática En Desarrollo Del Software": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 931,
+      "vecesVista": 932,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-10-09T19:00:34.825Z",
+      "ultimaVez": "2026-10-09T19:20:33.617Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1197,
+      "vecesVista": 1198,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-10-09T19:00:34.825Z",
+      "ultimaVez": "2026-10-09T19:20:33.617Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -359,9 +359,9 @@
     },
     "Contabilidad Y Finanzas": {
       "calce": "no interesa",
-      "vecesVista": 245,
+      "vecesVista": 246,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-10-09T19:00:34.825Z",
+      "ultimaVez": "2026-10-09T19:20:33.617Z",
       "avisadaComoNueva": true
     },
     "Artes Industriales": {
@@ -603,5 +603,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-09T19:00:34.825Z"
+  "actualizado": "2026-10-09T19:20:33.617Z"
 }
