@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-09T12:00:38.482Z",
+  "generado": "2026-10-09T12:20:52.180Z",
   "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
@@ -42,16 +42,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549868",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P. De San Mateo",
-      "lecciones": "18",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549860",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -68,6 +58,16 @@
       "especialidad": "Química",
       "institucion": "C.T.P. De San Mateo",
       "lecciones": "10",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549868",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P. De San Mateo",
+      "lecciones": "18",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
     },
@@ -192,22 +192,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550078",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo San Fco. De Coyote",
-      "lecciones": "25",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550080",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Educación Para El Hogar",
       "institucion": "Liceo San Fco. De Coyote",
       "lecciones": "10",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550078",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo San Fco. De Coyote",
+      "lecciones": "25",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
@@ -272,16 +272,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550059",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Unesco",
-      "lecciones": "6",
-      "rige": "12/10/2026",
-      "vence": "07/11/2026"
-    },
-    {
       "vacante": "1550161",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -290,6 +280,16 @@
       "lecciones": "32",
       "rige": "12/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550059",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Liceo Unesco",
+      "lecciones": "6",
+      "rige": "12/10/2026",
+      "vence": "07/11/2026"
     },
     {
       "vacante": "1550067",
@@ -322,16 +322,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550089",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Plaza Vieja",
-      "lecciones": "0",
-      "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549851",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -342,13 +332,13 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1549790",
+      "vacante": "1550089",
       "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo De Pejibaye",
-      "lecciones": "9",
-      "rige": "19/10/2026",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Plaza Vieja",
+      "lecciones": "0",
+      "rige": "13/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -362,12 +352,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549794",
+      "vacante": "1549790",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
-      "institucion": "Liceo Hernan Vargas Ramirez",
-      "lecciones": "12",
+      "institucion": "Liceo De Pejibaye",
+      "lecciones": "9",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -377,6 +367,16 @@
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Psicología",
       "institucion": "Col Acad De Orient Tec Omar Salazar Obando",
+      "lecciones": "12",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549794",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Liceo Hernan Vargas Ramirez",
       "lecciones": "12",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
