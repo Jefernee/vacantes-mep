@@ -2,9 +2,9 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 18083,
+      "vecesVista": 18085,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T18:40:38.133Z",
+      "ultimaVez": "2026-10-10T19:00:28.081Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
@@ -51,9 +51,9 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 420,
+      "vecesVista": 421,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T18:40:38.133Z",
+      "ultimaVez": "2026-10-10T19:00:28.081Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1068,
+      "vecesVista": 1069,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T18:40:38.133Z",
+      "ultimaVez": "2026-10-10T19:00:28.081Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 4599,
+      "vecesVista": 4600,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T18:40:38.133Z",
+      "ultimaVez": "2026-10-10T19:00:28.081Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1251,
+      "vecesVista": 1252,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-10-10T18:40:38.133Z",
+      "ultimaVez": "2026-10-10T19:00:28.081Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -603,5 +603,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-10T18:40:38.133Z"
+  "actualizado": "2026-10-10T19:00:28.081Z"
 }
