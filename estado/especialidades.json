@@ -2,9 +2,9 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 17979,
+      "vecesVista": 17984,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T03:40:30.563Z",
+      "ultimaVez": "2026-10-10T04:24:30.902Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
@@ -51,9 +51,9 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 394,
+      "vecesVista": 395,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T03:40:30.563Z",
+      "ultimaVez": "2026-10-10T04:24:30.902Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1042,
+      "vecesVista": 1043,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T03:40:30.563Z",
+      "ultimaVez": "2026-10-10T04:24:30.902Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -93,16 +93,16 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 4573,
+      "vecesVista": 4574,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T03:40:30.563Z",
+      "ultimaVez": "2026-10-10T04:24:30.902Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1142,
+      "vecesVista": 1143,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T03:40:30.563Z",
+      "ultimaVez": "2026-10-10T04:24:30.902Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -135,9 +135,9 @@
     },
     "Contabilidad": {
       "calce": "no interesa",
-      "vecesVista": 590,
+      "vecesVista": 591,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T03:40:30.563Z",
+      "ultimaVez": "2026-10-10T04:24:30.902Z",
       "avisadaComoNueva": true
     },
     "Informática En Desarrollo Del Software": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1225,
+      "vecesVista": 1226,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-10-10T03:40:30.563Z",
+      "ultimaVez": "2026-10-10T04:24:30.902Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -359,9 +359,9 @@
     },
     "Contabilidad Y Finanzas": {
       "calce": "no interesa",
-      "vecesVista": 273,
+      "vecesVista": 274,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-10-10T03:40:30.563Z",
+      "ultimaVez": "2026-10-10T04:24:30.902Z",
       "avisadaComoNueva": true
     },
     "Artes Industriales": {
@@ -603,5 +603,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-10T03:40:30.563Z"
+  "actualizado": "2026-10-10T04:24:30.902Z"
 }
