@@ -2,9 +2,9 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 18068,
+      "vecesVista": 18071,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T16:20:33.773Z",
+      "ultimaVez": "2026-10-10T16:40:28.662Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
@@ -51,9 +51,9 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 413,
+      "vecesVista": 414,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T16:20:33.773Z",
+      "ultimaVez": "2026-10-10T16:40:28.662Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1061,
+      "vecesVista": 1062,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T16:20:33.773Z",
+      "ultimaVez": "2026-10-10T16:40:28.662Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -93,16 +93,16 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 4592,
+      "vecesVista": 4593,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T16:20:33.773Z",
+      "ultimaVez": "2026-10-10T16:40:28.662Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1161,
+      "vecesVista": 1162,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-10T16:20:33.773Z",
+      "ultimaVez": "2026-10-10T16:40:28.662Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1244,
+      "vecesVista": 1245,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-10-10T16:20:33.773Z",
+      "ultimaVez": "2026-10-10T16:40:28.662Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -603,5 +603,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-10T16:20:33.773Z"
+  "actualizado": "2026-10-10T16:40:28.662Z"
 }
