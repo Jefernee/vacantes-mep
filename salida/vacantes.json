@@ -1,12 +1,10 @@
 {
-  "generado": "2026-10-10T12:40:30.115Z",
-  "totalPais": 12,
+  "generado": "2026-10-10T13:00:27.973Z",
+  "totalPais": 10,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
-    "Contabilidad",
-    "Contabilidad Y Finanzas",
     "Enseñanza Especial . Retardo Mental",
     "Inglés",
     "Matemáticas",
@@ -43,26 +41,6 @@
       "institucion": "Santa Eulalia (Santa Eulalia)",
       "lecciones": "0",
       "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550172",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. Carrizal",
-      "lecciones": "20",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550170",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad Y Finanzas",
-      "institucion": "C.T.P. Invu Las Cañas",
-      "lecciones": "20",
-      "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
     {
