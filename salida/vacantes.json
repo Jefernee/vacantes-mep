@@ -1,26 +1,15 @@
 {
-  "generado": "2026-10-10T20:20:32.336Z",
-  "totalPais": 5,
+  "generado": "2026-10-10T20:40:31.955Z",
+  "totalPais": 4,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Enseñanza Especial . Retardo Mental",
     "Inglés",
-    "Matemáticas",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1550355",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "I.P.E.C. De Poas",
-      "lecciones": "18",
-      "rige": "12/10/2026",
-      "vence": "09/12/2026"
-    },
     {
       "vacante": "1545751",
       "regional": "Direc. Regional Educacion Liberia",
