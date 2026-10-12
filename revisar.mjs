@@ -186,11 +186,16 @@ const leerRegional = async (pagina, regional) => {
 // Basta UNA regional: el menú solo lista las que tienen vacantes, y el 10/10/2026
 // quedaron dos (Nicoya y Pérez Zeledón). Antes se pedían más de 3 opciones y eso
 // se leyó como "la app no dibuja" durante más de un día entero.
-// Devuelve true si quedó lista para usar; no tira excepción, porque quien la
-// llama decide si recarga o se rinde.
+//
+// Y puede no haber NINGUNA: entonces el menú queda solo con "Seleccione..." y
+// se confunde con la app sin dibujar. Lo que las separa es la tabla: con la app
+// viva, abajo aparece "Seleccione una Dirección Regional para buscar vacantes".
+//
+// Devuelve 'lista' (hay regionales), 'vacia' (dibujó y no hay ninguna) o null
+// (no dibujó). No tira excepción: quien la llama decide si recarga o se rinde.
 const abrirApp = async (pagina, timeout = 25000) => {
   await pagina.goto(DIRECCION, { waitUntil: 'domcontentloaded', timeout: 90000 });
-  return pagina
+  const hayRegionales = await pagina
     .waitForFunction(
       () => document.querySelectorAll('#regionalSelect option, select option').length > 1,
       null,
@@ -198,18 +203,45 @@ const abrirApp = async (pagina, timeout = 25000) => {
     )
     .then(() => true)
     .catch(() => false);
+  if (hayRegionales) return 'lista';
+
+  // Se esperó lo mismo que antes: si las regionales tardaban, ya llegaron.
+  const vacia = await pagina
+    .evaluate(() => {
+      const menu = document.querySelector('#regionalSelect');
+      const cartel = document.querySelector('#blazor-error-ui');
+      const cartelVisible = cartel && getComputedStyle(cartel).display !== 'none';
+      return Boolean(
+        menu &&
+        menu.querySelectorAll('option').length === 1 &&
+        /buscar vacantes/i.test(document.querySelector('table')?.innerText || '') &&
+        !cartelVisible
+      );
+    })
+    .catch(() => false);
+  return vacia ? 'vacia' : null;
 };
 
 // Recargar hasta que la app dibuje, con una pausa de por medio. Una sola
 // recarga no siempre alcanza: medido el 17/09/2026, cuando el circuito se cae a
 // media lectura la primera recarga puede volver a nacer muerta.
+//
+// "No hay vacantes" se cree recién cuando lo dicen al menos 2 de las cargas: con
+// una sola, una app a medio dibujar podría pasar por vacía y callar vacantes.
 const abrirAppReintentando = async (pagina, intentos = 3) => {
+  let vacias = 0;
   for (let intento = 1; intento <= intentos; intento++) {
-    if (await abrirApp(pagina)) return true;
-    console.log('  la app no dibujó (intento ' + intento + ' de ' + intentos + ').');
+    const estado = await abrirApp(pagina);
+    if (estado === 'lista') return 'lista';
+    if (estado === 'vacia') {
+      vacias++;
+      console.log('  el menú vino sin regionales (intento ' + intento + ' de ' + intentos + ').');
+    } else {
+      console.log('  la app no dibujó (intento ' + intento + ' de ' + intentos + ').');
+    }
     if (intento < intentos) await pagina.waitForTimeout(3000);
   }
-  return false;
+  return vacias >= 2 ? 'vacia' : null;
 };
 
 // ── Recorrer todas las regionales ─────────────────────────────────────────
@@ -222,7 +254,12 @@ const recolectar = async (pagina) => {
   // Antes acá había una sola espera: una carga mala tumbaba la corrida entera y
   // disparaba el WhatsApp de "se rompió" por algo que se arregla con un F5.
   // Cinco de los ocho fallos de las primeras dos semanas fueron exactamente eso.
-  if (!(await abrirAppReintentando(pagina))) {
+  const apertura = await abrirAppReintentando(pagina);
+  if (apertura === 'vacia') {
+    console.log('Regionales con vacantes publicadas: 0 (el MEP no tiene ninguna publicada).');
+    return { todas: [], htmlDeMuestra: null };
+  }
+  if (!apertura) {
     throw new Error('La lista de regionales no cargó en 3 intentos: la app del MEP no está dibujando.');
   }
 
@@ -263,7 +300,9 @@ const recolectar = async (pagina) => {
       const caido = await pagina.locator('#blazor-error-ui').isVisible().catch(() => false);
       if (!caido && filas !== null) break;
 
-      if (!(await abrirAppReintentando(pagina))) {
+      // A media lectura sabemos que había regionales: si ahora el menú viene
+      // vacío, no es que se acabaron, es que la app no volvió bien.
+      if ((await abrirAppReintentando(pagina)) !== 'lista') {
         appPerdida = true;
         break;
       }
@@ -631,6 +670,25 @@ if (latido.totalPais >= 10 && todas.length < latido.totalPais / 3) {
 
 const hayAlgoQueAvisar =
   reparto.some((r) => r.nuevas.length) || nombresNuevos.length || advertencias.length;
+
+// País en cero: se avisa UNA vez, al pasar de tener vacantes a no tener
+// ninguna, para que el silencio que sigue no parezca una falla. Lo que impide
+// repetirlo es el totalPais del latido, que queda en 0 al guardarlo. Si el
+// salto es brusco (de 10 o más a cero) no llega acá: la red de seguridad de
+// arriba ya lo convirtió en advertencia, porque ahí es más creíble una lectura
+// rota que un MEP sin ninguna vacante.
+if (!hayAlgoQueAvisar && todas.length === 0 && latido.totalPais !== 0) {
+  const salio = principal && await mandarTexto(
+    principal.chatId,
+    '📭 *Hoy no hay vacantes publicadas en ningún lugar del país*\n\n' +
+    'La página del MEP cargó bien, pero ninguna dirección regional tiene vacantes en este momento. ' +
+    'No es una falla: el vigilante sigue revisando cada 20 minutos y te avisa apenas salga una.\n\n' +
+    '_Este aviso llega una sola vez; mientras siga en cero solo te llega el latido de siempre._\n' +
+    '👉 ' + DIRECCION
+  );
+  if (salio) await guardarLatido();
+  process.exit(0);
+}
 
 if (!hayAlgoQueAvisar) {
   if (horasSinLatido < LATIDO_CADA_HORAS) {
