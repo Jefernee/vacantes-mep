@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-12T22:40:37.766Z",
+  "generado": "2026-10-12T23:00:50.851Z",
   "totalPais": 63,
   "calzanVT6": 0,
   "advertencias": [],
@@ -279,16 +279,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549952",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "C.T.P. De Liberia",
-      "lecciones": "32",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549970",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -299,12 +289,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549960",
+      "vacante": "1549952",
       "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "28",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "32",
       "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
@@ -319,14 +309,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550558",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Col. Exp. Bilingue Siquirres",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2031"
+      "vacante": "1549960",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "28",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550540",
@@ -336,6 +326,16 @@
       "institucion": "Cindea De Limon",
       "lecciones": "0",
       "rige": "17/10/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1550558",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Col. Exp. Bilingue Siquirres",
+      "lecciones": "0",
+      "rige": "19/10/2026",
       "vence": "31/01/2031"
     },
     {
@@ -359,16 +359,6 @@
       "vence": "04/02/2027"
     },
     {
-      "vacante": "1550422",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Escuela Milano",
-      "lecciones": "40",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550469",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -376,6 +366,16 @@
       "institucion": "Servicio Itinerante Ens. Esp.",
       "lecciones": "44",
       "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550422",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Escuela Milano",
+      "lecciones": "40",
+      "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -389,32 +389,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550528",
+      "vacante": "1550521",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Colegio Pacuare",
+      "especialidad": "Física",
+      "institucion": "C.T.P De Limon",
       "lecciones": "6",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550524",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Colegio Pacuare",
-      "lecciones": "5",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550525",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "Colegio Pacuare",
-      "lecciones": "12",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -429,12 +409,32 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550521",
+      "vacante": "1550524",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P De Limon",
+      "especialidad": "Ciencias",
+      "institucion": "Colegio Pacuare",
+      "lecciones": "5",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550528",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Colegio Pacuare",
       "lecciones": "6",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550525",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "Colegio Pacuare",
+      "lecciones": "12",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -529,13 +529,13 @@
       "vence": "24/08/2027"
     },
     {
-      "vacante": "1550393",
+      "vacante": "1550397",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Rural Lanas",
-      "lecciones": "40",
-      "rige": "19/10/2026",
+      "especialidad": "Ciencias",
+      "institucion": "Col. Noct. De Puriscal",
+      "lecciones": "15",
+      "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
     {
@@ -549,13 +549,13 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550397",
+      "vacante": "1550393",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Col. Noct. De Puriscal",
-      "lecciones": "15",
-      "rige": "16/10/2026",
+      "especialidad": "Español",
+      "institucion": "Liceo Rural Lanas",
+      "lecciones": "40",
+      "rige": "19/10/2026",
       "vence": "31/01/2027"
     },
     {
@@ -569,16 +569,6 @@
       "vence": "09/02/2027"
     },
     {
-      "vacante": "1550577",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo Los Angeles",
-      "lecciones": "39",
-      "rige": "12/10/2026",
-      "vence": "07/02/2027"
-    },
-    {
       "vacante": "1550239",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -589,14 +579,14 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1550308",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Col. Noct. Braulio Carrillo",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "31/07/2030"
+      "vacante": "1550577",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Liceo Los Angeles",
+      "lecciones": "39",
+      "rige": "12/10/2026",
+      "vence": "07/02/2027"
     },
     {
       "vacante": "1550238",
@@ -607,6 +597,16 @@
       "lecciones": "0",
       "rige": "09/10/2026",
       "vence": "04/01/2027"
+    },
+    {
+      "vacante": "1550308",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Col. Noct. Braulio Carrillo",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1550315",
