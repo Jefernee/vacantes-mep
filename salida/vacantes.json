@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-12T14:20:46.315Z",
-  "totalPais": 29,
+  "generado": "2026-10-12T14:40:38.728Z",
+  "totalPais": 30,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -147,6 +147,16 @@
       "institucion": "Rafael Moya Murillo (Heredia)",
       "lecciones": "0",
       "rige": "12/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550437",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "I.D.A. Santa Elena",
+      "lecciones": "0",
+      "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
     {
