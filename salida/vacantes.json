@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-12T20:00:45.763Z",
+  "generado": "2026-10-12T20:05:27.391Z",
   "totalPais": 56,
   "calzanVT6": 0,
   "advertencias": [],
@@ -248,16 +248,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550540",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cindea De Limon",
-      "lecciones": "0",
-      "rige": "17/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1550558",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -265,6 +255,16 @@
       "institucion": "Col. Exp. Bilingue Siquirres",
       "lecciones": "0",
       "rige": "19/10/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1550540",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Cindea De Limon",
+      "lecciones": "0",
+      "rige": "17/10/2026",
       "vence": "31/01/2031"
     },
     {
@@ -318,22 +318,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550524",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Colegio Pacuare",
-      "lecciones": "5",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550528",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Química",
       "institucion": "Colegio Pacuare",
       "lecciones": "6",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550524",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Colegio Pacuare",
+      "lecciones": "5",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -408,16 +408,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550396",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Nocturno De Palmares",
-      "lecciones": "30",
-      "rige": "16/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548998",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -425,6 +415,16 @@
       "institucion": "Col. Noct. De Perez Zeledon",
       "lecciones": "12",
       "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550396",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Nocturno De Palmares",
+      "lecciones": "30",
+      "rige": "16/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -528,16 +528,6 @@
       "vence": "07/02/2027"
     },
     {
-      "vacante": "1550238",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Franklin D. Roosevelt",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "04/01/2027"
-    },
-    {
       "vacante": "1550308",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -546,6 +536,16 @@
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1550238",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Franklin D. Roosevelt",
+      "lecciones": "0",
+      "rige": "09/10/2026",
+      "vence": "04/01/2027"
     },
     {
       "vacante": "1550315",
