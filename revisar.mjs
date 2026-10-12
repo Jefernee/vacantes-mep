@@ -232,10 +232,9 @@ const recolectar = async (pagina) => {
       .filter((o) => o.valor && !/^seleccione/i.test(o.texto))
   );
 
+  // Pocas regionales no es señal de falla: el menú solo trae las que tienen
+  // vacantes, y si la app no hubiera dibujado, abrirAppReintentando ya se rindió.
   console.log('Regionales con vacantes publicadas: ' + regionales.length);
-  if (regionales.length < 3) {
-    advertir('El menú trajo solo ' + regionales.length + ' regionales; puede que la app no cargara bien.');
-  }
 
   const todas = [];
   let htmlDeMuestra = null;
