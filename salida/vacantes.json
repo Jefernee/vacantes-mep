@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-12T14:40:38.728Z",
-  "totalPais": 30,
+  "generado": "2026-10-12T15:00:44.970Z",
+  "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,6 +12,7 @@
     "Equipos Interdisciplinarios / Psicología",
     "Español",
     "Inglés",
+    "Labores Varias De Oficina",
     "Química",
     "Religión",
     "Sin Especialidad T-I",
@@ -68,6 +69,16 @@
       "lecciones": "44",
       "rige": "09/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550438",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "C.T.P. De Guaycara",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "06/02/2027"
     },
     {
       "vacante": "1550243",
@@ -160,6 +171,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1549964",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Liceo De Cañas Dulces",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "08/04/2028"
+    },
+    {
       "vacante": "1549556",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
@@ -250,16 +271,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548998",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Col. Noct. De Perez Zeledon",
-      "lecciones": "12",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550396",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -267,6 +278,16 @@
       "institucion": "Colegio Nocturno De Palmares",
       "lecciones": "30",
       "rige": "16/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548998",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Col. Noct. De Perez Zeledon",
+      "lecciones": "12",
+      "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
     {
