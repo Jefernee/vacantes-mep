@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-12T16:20:50.061Z",
+  "generado": "2026-10-12T16:40:43.167Z",
   "totalPais": 37,
   "calzanVT6": 0,
   "advertencias": [],
@@ -333,16 +333,6 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1550308",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Col. Noct. Braulio Carrillo",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1550238",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -351,6 +341,16 @@
       "lecciones": "0",
       "rige": "09/10/2026",
       "vence": "04/01/2027"
+    },
+    {
+      "vacante": "1550308",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Col. Noct. Braulio Carrillo",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1550315",
