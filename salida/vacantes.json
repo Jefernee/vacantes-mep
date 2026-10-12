@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-12T16:40:43.167Z",
-  "totalPais": 37,
+  "generado": "2026-10-12T17:00:52.156Z",
+  "totalPais": 38,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -71,6 +71,16 @@
       "lecciones": "44",
       "rige": "09/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550498",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Ciudad Neilly",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1550438",
