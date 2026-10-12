@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-12T16:00:53.562Z",
-  "totalPais": 35,
+  "generado": "2026-10-12T16:20:50.061Z",
+  "totalPais": 37,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,6 +8,7 @@
     "Diseño Publicitario",
     "Educación Física",
     "Educación Para El Hogar",
+    "Enseñanza Especial . Deficiencias Visuales",
     "Enseñanza Especial . Retardo Mental",
     "Equipos Interdisciplinarios / Orientación",
     "Equipos Interdisciplinarios / Psicología",
@@ -182,6 +183,16 @@
       "vence": "08/04/2028"
     },
     {
+      "vacante": "1550479",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Deficiencias Visuales",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1549556",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
@@ -200,6 +211,16 @@
       "lecciones": "0",
       "rige": "15/10/2026",
       "vence": "04/02/2027"
+    },
+    {
+      "vacante": "1550469",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550422",
@@ -262,16 +283,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1548998",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Col. Noct. De Perez Zeledon",
-      "lecciones": "12",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550396",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -279,6 +290,16 @@
       "institucion": "Colegio Nocturno De Palmares",
       "lecciones": "30",
       "rige": "16/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548998",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Col. Noct. De Perez Zeledon",
+      "lecciones": "12",
+      "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -312,16 +333,6 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1550238",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Franklin D. Roosevelt",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "04/01/2027"
-    },
-    {
       "vacante": "1550308",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -330,6 +341,16 @@
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1550238",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Franklin D. Roosevelt",
+      "lecciones": "0",
+      "rige": "09/10/2026",
+      "vence": "04/01/2027"
     },
     {
       "vacante": "1550315",
