@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-12T19:20:37.845Z",
+  "generado": "2026-10-12T19:41:15.170Z",
   "totalPais": 53,
   "calzanVT6": 0,
   "advertencias": [],
@@ -277,16 +277,6 @@
       "vence": "04/02/2027"
     },
     {
-      "vacante": "1550469",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550422",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -297,6 +287,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1550469",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550336",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -304,16 +304,6 @@
       "institucion": "Justo A. Facio (Siquirres)",
       "lecciones": "0",
       "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550521",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P De Limon",
-      "lecciones": "6",
-      "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -353,6 +343,16 @@
       "especialidad": "Química",
       "institucion": "Colegio Deportivo De Limon",
       "lecciones": "18",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550521",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P De Limon",
+      "lecciones": "6",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -397,16 +397,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550396",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Nocturno De Palmares",
-      "lecciones": "30",
-      "rige": "16/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548998",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -414,6 +404,16 @@
       "institucion": "Col. Noct. De Perez Zeledon",
       "lecciones": "12",
       "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550396",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Nocturno De Palmares",
+      "lecciones": "30",
+      "rige": "16/10/2026",
       "vence": "11/12/2026"
     },
     {
