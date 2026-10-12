@@ -183,13 +183,16 @@ const leerRegional = async (pagina, regional) => {
 //
 // Blazor conecta el WebSocket y recién ahí dibuja el menú. Se espera a que el
 // menú tenga opciones de verdad, no solo el "Seleccione una..." inicial.
+// Basta UNA regional: el menú solo lista las que tienen vacantes, y el 10/10/2026
+// quedaron dos (Nicoya y Pérez Zeledón). Antes se pedían más de 3 opciones y eso
+// se leyó como "la app no dibuja" durante más de un día entero.
 // Devuelve true si quedó lista para usar; no tira excepción, porque quien la
 // llama decide si recarga o se rinde.
 const abrirApp = async (pagina, timeout = 25000) => {
   await pagina.goto(DIRECCION, { waitUntil: 'domcontentloaded', timeout: 90000 });
   return pagina
     .waitForFunction(
-      () => document.querySelectorAll('#regionalSelect option, select option').length > 3,
+      () => document.querySelectorAll('#regionalSelect option, select option').length > 1,
       null,
       { timeout }
     )
