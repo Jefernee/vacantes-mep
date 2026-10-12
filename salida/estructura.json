@@ -5,28 +5,8 @@
       "nombre": "regionalSelect",
       "opciones": [
         "Seleccione una Dirección Regional",
-        "Acceso Y Equidad De La Educación",
-        "Administracion De Recursos Humanos",
-        "Cumplimiento De Los Derechos",
-        "Regional Educación De Sarapiqui",
-        "Regional Educación Alajuela",
-        "Regional Educación Cañas",
-        "Regional Educación Central Del Pacífico",
-        "Regional Educación Desamparados",
-        "Regional Educación Heredia",
-        "Regional Educación Liberia",
-        "Regional Educación Limon",
         "Regional Educación Nicoya",
-        "Regional Educación Occidente",
-        "Regional Educación Puriscal",
-        "Regional Educación San Carlos",
-        "Regional Educación San Jose - Norte",
-        "Regional Educación San Jose - Oeste",
-        "Regional Educación Santa Cruz",
-        "Ejecucion Presupuestaria",
-        "Fundamentac. Legal Para Toma Decisiones",
-        "Tecnologia Informatica Para La Gestion",
-        "Vinculo Al Trabajo"
+        "Regional Educación Perez Zeledon"
       ]
     }
   ],
@@ -54,7 +34,7 @@
       ]
     }
   ],
-  "largoTextoVisible": 1478,
+  "largoTextoVisible": 866,
   "peticiones": [
     "GET https://apps.mep.go.cr/formulario",
     "GET https://apps.mep.go.cr/cdn-cgi/speculation",
@@ -70,9 +50,9 @@
     "GET https://apps.mep.go.cr/formulario/_content/MudBlazor/MudBlazor.min.js?v=8.4.0",
     "GET https://apps.mep.go.cr/formulario/_blazor/initializers",
     "GET https://apps.mep.go.cr/cdn-cgi/challenge-platform/scripts/jsd/main.js",
-    "GET https://apps.mep.go.cr/cdn-cgi/challenge-platform/h/g/scripts/jsd/330e41bb475c/main.js?",
-    "POST https://apps.mep.go.cr/cdn-cgi/challenge-platform/h/g/jsd/oneshot/330e41bb475c/0.20126236539297127:1789599915:0ZNtCj3cuOr-7yXKlaZ5K0z-6DSCl-66nZr_3GlV_B0/a3c3e17f6d5ace88",
+    "GET https://apps.mep.go.cr/cdn-cgi/challenge-platform/h/g/scripts/jsd/4df4a60fa397/main.js?",
+    "POST https://apps.mep.go.cr/cdn-cgi/challenge-platform/h/g/jsd/oneshot/4df4a60fa397/0.2767428934563716:1791763538:6jt8nzlCSfpTBUWB0zXTACBwSu_LHOgyoKZy6hloaEI/a49214513a844fa4",
     "POST https://apps.mep.go.cr/formulario/_blazor/negotiate?negotiateVersion=1",
-    "WEBSOCKET wss://apps.mep.go.cr/formulario/_blazor?id=jSQC7lMuFRAF0qAjeABtFA"
+    "WEBSOCKET wss://apps.mep.go.cr/formulario/_blazor?id=l7b_ASK2eFNlWknqnI9yTw"
   ]
 }
