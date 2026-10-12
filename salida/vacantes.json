@@ -1,10 +1,11 @@
 {
-  "generado": "2026-10-12T17:00:52.156Z",
-  "totalPais": 38,
+  "generado": "2026-10-12T17:20:44.207Z",
+  "totalPais": 43,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Agroecología",
+    "Ciencias",
     "Diseño Publicitario",
     "Educación Física",
     "Educación Para El Hogar",
@@ -223,16 +224,6 @@
       "vence": "04/02/2027"
     },
     {
-      "vacante": "1550469",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550422",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -243,6 +234,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1550469",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550336",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -250,6 +251,16 @@
       "institucion": "Justo A. Facio (Siquirres)",
       "lecciones": "0",
       "rige": "14/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550511",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Colegio Deportivo De Limon",
+      "lecciones": "18",
+      "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -333,6 +344,46 @@
       "vence": "30/11/2026"
     },
     {
+      "vacante": "1550399",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Diurno De Ciudad Colon",
+      "lecciones": "0",
+      "rige": "10/10/2026",
+      "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1550395",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P. De Puriscal",
+      "lecciones": "9",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550397",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Col. Noct. De Puriscal",
+      "lecciones": "15",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550393",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Rural Lanas",
+      "lecciones": "40",
+      "rige": "19/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1550239",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -343,16 +394,6 @@
       "vence": "17/11/2026"
     },
     {
-      "vacante": "1550238",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Franklin D. Roosevelt",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "04/01/2027"
-    },
-    {
       "vacante": "1550308",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -361,6 +402,16 @@
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1550238",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Franklin D. Roosevelt",
+      "lecciones": "0",
+      "rige": "09/10/2026",
+      "vence": "04/01/2027"
     },
     {
       "vacante": "1550315",
