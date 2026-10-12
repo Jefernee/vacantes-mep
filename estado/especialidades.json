@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 18139,
+      "vecesVista": 18148,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-12T13:40:44.943Z",
+      "ultimaVez": "2026-10-12T14:00:40.039Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 10543,
+      "vecesVista": 10548,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-12T13:40:44.943Z",
+      "ultimaVez": "2026-10-12T14:00:40.039Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 1310,
+      "vecesVista": 1311,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T18:20:34.410Z",
+      "ultimaVez": "2026-10-12T14:00:40.039Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -58,9 +58,9 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 1254,
+      "vecesVista": 1255,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-09T16:20:43.432Z",
+      "ultimaVez": "2026-10-12T14:00:40.039Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 1724,
+      "vecesVista": 1726,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-12T13:40:44.943Z",
+      "ultimaVez": "2026-10-12T14:00:40.039Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 4627,
+      "vecesVista": 4628,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-12T13:40:44.943Z",
+      "ultimaVez": "2026-10-12T14:00:40.039Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -156,9 +156,9 @@
     },
     "Equipos Interdisciplinarios / Orientación": {
       "calce": "no interesa",
-      "vecesVista": 116,
+      "vecesVista": 117,
       "primeraVez": "2026-09-04T17:00:36.807Z",
-      "ultimaVez": "2026-10-12T13:40:44.943Z",
+      "ultimaVez": "2026-10-12T14:00:40.039Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Social": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1279,
+      "vecesVista": 1281,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-10-12T13:40:44.943Z",
+      "ultimaVez": "2026-10-12T14:00:40.039Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -254,9 +254,9 @@
     },
     "Química": {
       "calce": "no interesa",
-      "vecesVista": 602,
+      "vecesVista": 603,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-10-12T13:40:44.943Z",
+      "ultimaVez": "2026-10-12T14:00:40.039Z",
       "avisadaComoNueva": true
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
@@ -583,9 +583,9 @@
     },
     "Agroecología": {
       "calce": "no interesa",
-      "vecesVista": 53,
+      "vecesVista": 54,
       "primeraVez": "2026-10-06T19:20:46.742Z",
-      "ultimaVez": "2026-10-12T13:40:44.943Z",
+      "ultimaVez": "2026-10-12T14:00:40.039Z",
       "avisadaComoNueva": true
     },
     "Reparación De Los Sistemas De Vehículos Livianos": {
@@ -604,11 +604,11 @@
     },
     "Equipos Interdisciplinarios / Psicología": {
       "calce": "no interesa",
-      "vecesVista": 3,
+      "vecesVista": 4,
       "primeraVez": "2026-10-12T13:00:37.734Z",
-      "ultimaVez": "2026-10-12T13:40:44.943Z",
+      "ultimaVez": "2026-10-12T14:00:40.039Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-12T13:40:44.943Z"
+  "actualizado": "2026-10-12T14:00:40.039Z"
 }

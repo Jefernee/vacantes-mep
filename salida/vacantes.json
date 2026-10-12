@@ -1,10 +1,12 @@
 {
-  "generado": "2026-10-12T13:40:44.942Z",
-  "totalPais": 21,
+  "generado": "2026-10-12T14:00:40.037Z",
+  "totalPais": 25,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Agroecología",
+    "Educación Física",
+    "Educación Para El Hogar",
     "Enseñanza Especial . Retardo Mental",
     "Equipos Interdisciplinarios / Orientación",
     "Equipos Interdisciplinarios / Psicología",
@@ -16,6 +18,16 @@
   ],
   "interesantes": [],
   "todas": [
+    {
+      "vacante": "1549972",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asistente De Asesoría Y Supervisión",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Dirección Regional De Educación Cartago",
+      "lecciones": "0",
+      "rige": "08/10/2026",
+      "vence": "31/01/2027"
+    },
     {
       "vacante": "1550237",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -43,6 +55,16 @@
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Invu Las Cañas (Cañas)",
       "lecciones": "0",
+      "rige": "09/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550255",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo Francisca Carrasco",
+      "lecciones": "44",
       "rige": "09/10/2026",
       "vence": "11/12/2026"
     },
@@ -87,6 +109,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1549556",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Villa Del Mar #1",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550287",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
@@ -95,6 +127,16 @@
       "lecciones": "0",
       "rige": "15/10/2026",
       "vence": "04/02/2027"
+    },
+    {
+      "vacante": "1550422",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Escuela Milano",
+      "lecciones": "40",
+      "rige": "15/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550336",
@@ -157,16 +199,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550054",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Rosario Arroniz",
-      "lecciones": "0",
-      "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550396",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -185,6 +217,16 @@
       "lecciones": "12",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550406",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Liceo Las Esperanzas",
+      "lecciones": "10",
+      "rige": "14/10/2026",
+      "vence": "07/12/2026"
     },
     {
       "vacante": "1550239",
