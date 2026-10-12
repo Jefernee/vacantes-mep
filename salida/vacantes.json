@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-12T14:00:40.037Z",
-  "totalPais": 25,
+  "generado": "2026-10-12T14:20:46.315Z",
+  "totalPais": 29,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -13,6 +13,7 @@
     "Español",
     "Inglés",
     "Química",
+    "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -89,6 +90,16 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1550429",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Corazon De Jesus (Aserri)",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550277",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -99,6 +110,26 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1550431",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Francisco (San Francisco)",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550426",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Puebla (Heredia)",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "05/12/2026"
+    },
+    {
       "vacante": "1550309",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Orientador Asistente",
@@ -107,6 +138,16 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1550433",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Rafael Moya Murillo (Heredia)",
+      "lecciones": "0",
+      "rige": "12/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1549556",
@@ -199,16 +240,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550396",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Colegio Nocturno De Palmares",
-      "lecciones": "30",
-      "rige": "16/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548998",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -216,6 +247,16 @@
       "institucion": "Col. Noct. De Perez Zeledon",
       "lecciones": "12",
       "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550396",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Colegio Nocturno De Palmares",
+      "lecciones": "30",
+      "rige": "16/10/2026",
       "vence": "11/12/2026"
     },
     {
