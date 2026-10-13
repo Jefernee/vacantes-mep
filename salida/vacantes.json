@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-13T15:21:00.221Z",
-  "totalPais": 54,
+  "generado": "2026-10-13T15:41:31.429Z",
+  "totalPais": 55,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -260,22 +260,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549952",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "C.T.P. De Liberia",
-      "lecciones": "32",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549970",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Español",
       "institucion": "Liceo De Cañas Dulces",
       "lecciones": "15",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549952",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "32",
       "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
@@ -480,16 +480,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550393",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Rural Lanas",
-      "lecciones": "40",
-      "rige": "19/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550397",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -497,6 +487,16 @@
       "institucion": "Col. Noct. De Puriscal",
       "lecciones": "15",
       "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550393",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Rural Lanas",
+      "lecciones": "40",
+      "rige": "19/10/2026",
       "vence": "31/01/2027"
     },
     {
@@ -508,6 +508,16 @@
       "lecciones": "0",
       "rige": "13/10/2026",
       "vence": "09/02/2027"
+    },
+    {
+      "vacante": "1550750",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Angeles (Fortuna)",
+      "lecciones": "0",
+      "rige": "13/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550577",
