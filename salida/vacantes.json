@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-13T17:40:44.194Z",
+  "generado": "2026-10-13T17:54:21.839Z",
   "totalPais": 48,
   "calzanVT6": 0,
   "advertencias": [],
@@ -96,16 +96,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550462",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Sixto Cordero M. (Quebradilla)",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1550453",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -116,14 +106,14 @@
       "vence": "16/12/2026"
     },
     {
-      "vacante": "1550466",
+      "vacante": "1550462",
       "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
       "institucion": "Sixto Cordero M. (Quebradilla)",
       "lecciones": "0",
       "rige": "16/10/2026",
-      "vence": "11/12/2026"
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1550461",
@@ -133,6 +123,16 @@
       "institucion": "Orosi (Orosi)",
       "lecciones": "0",
       "rige": "01/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550466",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Sixto Cordero M. (Quebradilla)",
+      "lecciones": "0",
+      "rige": "16/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -266,22 +266,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549960",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "28",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549968",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Educación Física",
       "institucion": "Liceo De Cañas Dulces",
       "lecciones": "20",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549960",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "28",
       "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
@@ -446,16 +446,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550750",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Angeles (Fortuna)",
-      "lecciones": "0",
-      "rige": "13/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550571",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -464,6 +454,16 @@
       "lecciones": "0",
       "rige": "13/10/2026",
       "vence": "09/02/2027"
+    },
+    {
+      "vacante": "1550750",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Angeles (Fortuna)",
+      "lecciones": "0",
+      "rige": "13/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550577",
