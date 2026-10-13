@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-13T14:20:53.146Z",
-  "totalPais": 53,
+  "generado": "2026-10-13T14:40:39.159Z",
+  "totalPais": 52,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -197,16 +197,6 @@
       "vence": "31/03/2027"
     },
     {
-      "vacante": "1550437",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "I.D.A. Santa Elena",
-      "lecciones": "0",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549964",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -317,22 +307,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550528",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Colegio Pacuare",
-      "lecciones": "6",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550524",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
       "institucion": "Colegio Pacuare",
       "lecciones": "5",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550528",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Colegio Pacuare",
+      "lecciones": "6",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -347,22 +337,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550521",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P De Limon",
-      "lecciones": "6",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550511",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Química",
       "institucion": "Colegio Deportivo De Limon",
       "lecciones": "18",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550521",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P De Limon",
+      "lecciones": "6",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -507,16 +497,6 @@
       "vence": "07/02/2027"
     },
     {
-      "vacante": "1550308",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Col. Noct. Braulio Carrillo",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1550238",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -525,6 +505,16 @@
       "lecciones": "0",
       "rige": "09/10/2026",
       "vence": "04/01/2027"
+    },
+    {
+      "vacante": "1550308",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Col. Noct. Braulio Carrillo",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1550315",
