@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-13T13:00:58.917Z",
+  "generado": "2026-10-13T13:20:43.074Z",
   "totalPais": 49,
   "calzanVT6": 0,
   "advertencias": [],
@@ -237,16 +237,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549970",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo De Cañas Dulces",
-      "lecciones": "15",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549952",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -257,12 +247,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549968",
+      "vacante": "1549970",
       "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
       "institucion": "Liceo De Cañas Dulces",
-      "lecciones": "20",
+      "lecciones": "15",
       "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
@@ -273,6 +263,16 @@
       "especialidad": "Educación Física",
       "institucion": "Diurno La Cruz",
       "lecciones": "28",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549968",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Liceo De Cañas Dulces",
+      "lecciones": "20",
       "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
@@ -327,6 +327,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1550521",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P De Limon",
+      "lecciones": "6",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550511",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -337,11 +347,11 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550521",
+      "vacante": "1550528",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P De Limon",
+      "especialidad": "Química",
+      "institucion": "Colegio Pacuare",
       "lecciones": "6",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
@@ -353,16 +363,6 @@
       "especialidad": "Ciencias",
       "institucion": "Colegio Pacuare",
       "lecciones": "5",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550528",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Colegio Pacuare",
-      "lecciones": "6",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -467,16 +467,6 @@
       "vence": "07/02/2027"
     },
     {
-      "vacante": "1550308",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Col. Noct. Braulio Carrillo",
-      "lecciones": "0",
-      "rige": "06/10/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1550238",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -485,6 +475,16 @@
       "lecciones": "0",
       "rige": "09/10/2026",
       "vence": "04/01/2027"
+    },
+    {
+      "vacante": "1550308",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Col. Noct. Braulio Carrillo",
+      "lecciones": "0",
+      "rige": "06/10/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1550315",
