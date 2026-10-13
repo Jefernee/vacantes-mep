@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-12T23:40:44.565Z",
+  "generado": "2026-10-13T00:00:43.964Z",
   "totalPais": 63,
   "calzanVT6": 0,
   "advertencias": [],
@@ -299,16 +299,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549960",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "28",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549968",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -319,14 +309,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550540",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cindea De Limon",
-      "lecciones": "0",
-      "rige": "17/10/2026",
-      "vence": "31/01/2031"
+      "vacante": "1549960",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "28",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550558",
@@ -336,6 +326,16 @@
       "institucion": "Col. Exp. Bilingue Siquirres",
       "lecciones": "0",
       "rige": "19/10/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1550540",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Cindea De Limon",
+      "lecciones": "0",
+      "rige": "17/10/2026",
       "vence": "31/01/2031"
     },
     {
@@ -389,22 +389,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550521",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P De Limon",
-      "lecciones": "6",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550511",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Química",
       "institucion": "Colegio Deportivo De Limon",
       "lecciones": "18",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550521",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P De Limon",
+      "lecciones": "6",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -569,16 +569,6 @@
       "vence": "09/02/2027"
     },
     {
-      "vacante": "1550239",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Santa Rita",
-      "lecciones": "10",
-      "rige": "12/10/2026",
-      "vence": "17/11/2026"
-    },
-    {
       "vacante": "1550577",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -589,14 +579,14 @@
       "vence": "07/02/2027"
     },
     {
-      "vacante": "1550238",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Franklin D. Roosevelt",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "04/01/2027"
+      "vacante": "1550239",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Santa Rita",
+      "lecciones": "10",
+      "rige": "12/10/2026",
+      "vence": "17/11/2026"
     },
     {
       "vacante": "1550308",
@@ -607,6 +597,16 @@
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1550238",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Franklin D. Roosevelt",
+      "lecciones": "0",
+      "rige": "09/10/2026",
+      "vence": "04/01/2027"
     },
     {
       "vacante": "1550315",
