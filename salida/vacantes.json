@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-13T12:00:45.943Z",
+  "generado": "2026-10-13T12:20:46.522Z",
   "totalPais": 63,
   "calzanVT6": 0,
   "advertencias": [],
@@ -359,16 +359,6 @@
       "vence": "04/02/2027"
     },
     {
-      "vacante": "1550422",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Escuela Milano",
-      "lecciones": "40",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550469",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -376,6 +366,16 @@
       "institucion": "Servicio Itinerante Ens. Esp.",
       "lecciones": "44",
       "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550422",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Escuela Milano",
+      "lecciones": "40",
+      "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -389,11 +389,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550528",
+      "vacante": "1550511",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Química",
-      "institucion": "Colegio Pacuare",
+      "institucion": "Colegio Deportivo De Limon",
+      "lecciones": "18",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550521",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P De Limon",
       "lecciones": "6",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
@@ -409,32 +419,22 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1550528",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Colegio Pacuare",
+      "lecciones": "6",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550525",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Biología",
       "institucion": "Colegio Pacuare",
       "lecciones": "12",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550521",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P De Limon",
-      "lecciones": "6",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550511",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Colegio Deportivo De Limon",
-      "lecciones": "18",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -569,16 +569,6 @@
       "vence": "09/02/2027"
     },
     {
-      "vacante": "1550239",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Santa Rita",
-      "lecciones": "10",
-      "rige": "12/10/2026",
-      "vence": "17/11/2026"
-    },
-    {
       "vacante": "1550577",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -587,6 +577,16 @@
       "lecciones": "39",
       "rige": "12/10/2026",
       "vence": "07/02/2027"
+    },
+    {
+      "vacante": "1550239",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Santa Rita",
+      "lecciones": "10",
+      "rige": "12/10/2026",
+      "vence": "17/11/2026"
     },
     {
       "vacante": "1550308",
