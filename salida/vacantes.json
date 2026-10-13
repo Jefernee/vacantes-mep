@@ -1,10 +1,9 @@
 {
-  "generado": "2026-10-13T12:40:47.492Z",
-  "totalPais": 63,
+  "generado": "2026-10-13T13:00:58.917Z",
+  "totalPais": 49,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Agroecología",
     "Biología",
     "Ciencias",
     "Construcción Civil",
@@ -13,8 +12,6 @@
     "Educación Para El Hogar",
     "Enseñanza Especial . Deficiencias Visuales",
     "Enseñanza Especial . Retardo Mental",
-    "Equipos Interdisciplinarios / Orientación",
-    "Equipos Interdisciplinarios / Psicología",
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Francés",
@@ -23,6 +20,7 @@
     "Labores Varias De Oficina",
     "Química",
     "Religión",
+    "Servicios Básicos",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -39,6 +37,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1550664",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Misceláneo De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Servicios Básicos",
+      "institucion": "Dirección Regional De Educación Desamparados",
+      "lecciones": "0",
+      "rige": "19/08/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1550518",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
@@ -47,36 +55,6 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "18/11/2026"
-    },
-    {
-      "vacante": "1550237",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Tranquilino Viquez (Atenas)",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550280",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Antonio Obando Espinoza(Cañas)",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550272",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Invu Las Cañas (Cañas)",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1550255",
@@ -109,23 +87,23 @@
       "vence": "06/02/2027"
     },
     {
-      "vacante": "1550243",
+      "vacante": "1550584",
       "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo De Comte",
-      "lecciones": "29",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "C.T.P. Carlos Ml. Vicente C.",
+      "lecciones": "44",
+      "rige": "15/10/2026",
+      "vence": "07/12/2026"
     },
     {
-      "vacante": "1550210",
+      "vacante": "1550590",
       "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Aserri",
+      "clasePuesto": "Asistente De Dirección De Enseñanza Especial (G.De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Centro Int. San Felipe Nery",
       "lecciones": "0",
-      "rige": "15/10/2026",
+      "rige": "19/10/2026",
       "vence": "31/01/2031"
     },
     {
@@ -169,16 +147,6 @@
       "vence": "07/12/2026"
     },
     {
-      "vacante": "1550277",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "El Aguacate (Guacimo)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1550548",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Orientador Asistente",
@@ -207,16 +175,6 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "05/12/2026"
-    },
-    {
-      "vacante": "1550309",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Orientador Asistente",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo La Aurora",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1550433",
@@ -279,16 +237,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549952",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "C.T.P. De Liberia",
-      "lecciones": "32",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549970",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -299,12 +247,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549960",
+      "vacante": "1549952",
       "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "28",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "32",
       "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
@@ -319,14 +267,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550558",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Col. Exp. Bilingue Siquirres",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2031"
+      "vacante": "1549960",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Diurno La Cruz",
+      "lecciones": "28",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550540",
@@ -339,6 +287,16 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1550558",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Col. Exp. Bilingue Siquirres",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "31/01/2031"
+    },
+    {
       "vacante": "1549556",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
@@ -347,16 +305,6 @@
       "lecciones": "0",
       "rige": "14/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550287",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Equipos Interdisciplinarios / Psicología",
-      "institucion": "Atilia Mata Freses (Limon)",
-      "lecciones": "0",
-      "rige": "15/10/2026",
-      "vence": "04/02/2027"
     },
     {
       "vacante": "1550469",
@@ -379,13 +327,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550336",
+      "vacante": "1550511",
       "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Justo A. Facio (Siquirres)",
-      "lecciones": "0",
-      "rige": "14/10/2026",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Colegio Deportivo De Limon",
+      "lecciones": "18",
+      "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -394,16 +342,6 @@
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Física",
       "institucion": "C.T.P De Limon",
-      "lecciones": "6",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550528",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Colegio Pacuare",
       "lecciones": "6",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
@@ -419,6 +357,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1550528",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Colegio Pacuare",
+      "lecciones": "6",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550525",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -426,66 +374,6 @@
       "institucion": "Colegio Pacuare",
       "lecciones": "12",
       "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550511",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Colegio Deportivo De Limon",
-      "lecciones": "18",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550271",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Equipos Interdisciplinarios / Orientación",
-      "institucion": "San Martin (Nicoya)",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549580",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Agroecología",
-      "institucion": "C.T.P. De Piedades Sur",
-      "lecciones": "40",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549372",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Auxiliar Administrativo",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Fernando Volio Jimenez",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550251",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Dr. Rafael A. Calderon Guardia",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1548998",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Col. Noct. De Perez Zeledon",
-      "lecciones": "12",
-      "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -539,22 +427,22 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550397",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Col. Noct. De Puriscal",
-      "lecciones": "15",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550395",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Química",
       "institucion": "C.T.P. De Puriscal",
       "lecciones": "9",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550397",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Col. Noct. De Puriscal",
+      "lecciones": "15",
       "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
@@ -569,16 +457,6 @@
       "vence": "09/02/2027"
     },
     {
-      "vacante": "1550239",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Santa Rita",
-      "lecciones": "10",
-      "rige": "12/10/2026",
-      "vence": "17/11/2026"
-    },
-    {
       "vacante": "1550577",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -589,16 +467,6 @@
       "vence": "07/02/2027"
     },
     {
-      "vacante": "1550238",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Franklin D. Roosevelt",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "04/01/2027"
-    },
-    {
       "vacante": "1550308",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -607,6 +475,16 @@
       "lecciones": "0",
       "rige": "06/10/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1550238",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Franklin D. Roosevelt",
+      "lecciones": "0",
+      "rige": "09/10/2026",
+      "vence": "04/01/2027"
     },
     {
       "vacante": "1550315",
@@ -637,26 +515,6 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1548158",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Coyolito (Belen)",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "31/07/2028"
-    },
-    {
-      "vacante": "1550334",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Azul (Turrialba)",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "31/01/2031"
     }
   ]
 }
