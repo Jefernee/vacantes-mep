@@ -1,10 +1,9 @@
 {
-  "generado": "2026-10-13T21:00:49.067Z",
-  "totalPais": 39,
+  "generado": "2026-10-13T21:20:39.421Z",
+  "totalPais": 38,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Ciencias",
     "Derecho",
     "Educación Física",
     "Educación Para El Hogar",
@@ -114,16 +113,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550453",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Unidad Pedagogica San Diego",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "16/12/2026"
-    },
-    {
       "vacante": "1550462",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -134,14 +123,14 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1550461",
+      "vacante": "1550453",
       "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Orosi (Orosi)",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Unidad Pedagogica San Diego",
       "lecciones": "0",
-      "rige": "01/11/2026",
-      "vence": "11/12/2026"
+      "rige": "12/10/2026",
+      "vence": "16/12/2026"
     },
     {
       "vacante": "1550466",
@@ -151,6 +140,16 @@
       "institucion": "Sixto Cordero M. (Quebradilla)",
       "lecciones": "0",
       "rige": "16/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550461",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Orosi (Orosi)",
+      "lecciones": "0",
+      "rige": "01/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -184,6 +183,16 @@
       "vence": "07/12/2026"
     },
     {
+      "vacante": "1550904",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Asistente De Servicios De Educacion Especial",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Centro Int. San Felipe Nery",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "31/01/2031"
+    },
+    {
       "vacante": "1550835",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
@@ -212,16 +221,6 @@
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550618",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Colegio Santa Eduviges",
-      "lecciones": "15",
-      "rige": "14/10/2026",
-      "vence": "07/12/2026"
     },
     {
       "vacante": "1550755",
@@ -402,16 +401,6 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "03/12/2026"
-    },
-    {
-      "vacante": "1550619",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Rincon Grande",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "11/12/2026"
     }
   ]
 }
