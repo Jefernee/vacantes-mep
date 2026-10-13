@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-13T19:40:47.005Z",
-  "totalPais": 48,
+  "generado": "2026-10-13T20:00:53.552Z",
+  "totalPais": 45,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -13,7 +13,6 @@
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Español",
     "Estudios Sociales/Educación Cívica",
-    "Francés",
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
@@ -306,16 +305,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550558",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Col. Exp. Bilingue Siquirres",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1550811",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -446,16 +435,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550571",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Gamonales",
-      "lecciones": "0",
-      "rige": "13/10/2026",
-      "vence": "09/02/2027"
-    },
-    {
       "vacante": "1550750",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -464,16 +443,6 @@
       "lecciones": "0",
       "rige": "13/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550577",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo Los Angeles",
-      "lecciones": "39",
-      "rige": "12/10/2026",
-      "vence": "07/02/2027"
     },
     {
       "vacante": "1550332",
