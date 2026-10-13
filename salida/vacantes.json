@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-13T18:20:59.408Z",
+  "generado": "2026-10-13T18:40:39.717Z",
   "totalPais": 48,
   "calzanVT6": 0,
   "advertencias": [],
@@ -96,16 +96,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550462",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Sixto Cordero M. (Quebradilla)",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1550453",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -116,14 +106,14 @@
       "vence": "16/12/2026"
     },
     {
-      "vacante": "1550466",
+      "vacante": "1550462",
       "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
       "institucion": "Sixto Cordero M. (Quebradilla)",
       "lecciones": "0",
       "rige": "16/10/2026",
-      "vence": "11/12/2026"
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1550461",
@@ -133,6 +123,16 @@
       "institucion": "Orosi (Orosi)",
       "lecciones": "0",
       "rige": "01/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550466",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Sixto Cordero M. (Quebradilla)",
+      "lecciones": "0",
+      "rige": "16/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -246,22 +246,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549952",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "C.T.P. De Liberia",
-      "lecciones": "32",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549970",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Español",
       "institucion": "Liceo De Cañas Dulces",
       "lecciones": "15",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549952",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "32",
       "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
@@ -296,16 +296,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550558",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Col. Exp. Bilingue Siquirres",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1550540",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -313,6 +303,16 @@
       "institucion": "Cindea De Limon",
       "lecciones": "0",
       "rige": "17/10/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1550558",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Col. Exp. Bilingue Siquirres",
+      "lecciones": "0",
+      "rige": "19/10/2026",
       "vence": "31/01/2031"
     },
     {
