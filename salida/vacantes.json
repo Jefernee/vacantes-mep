@@ -1,9 +1,11 @@
 {
-  "generado": "2026-10-13T21:20:39.421Z",
-  "totalPais": 38,
+  "generado": "2026-10-13T21:41:03.972Z",
+  "totalPais": 40,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Biología",
+    "Ciencias",
     "Derecho",
     "Educación Física",
     "Educación Para El Hogar",
@@ -371,6 +373,26 @@
       "lecciones": "40",
       "rige": "14/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550921",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "Liceo De Barbacoas",
+      "lecciones": "3",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550922",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Barbacoas",
+      "lecciones": "6",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1550750",
