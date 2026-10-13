@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-13T20:00:53.552Z",
-  "totalPais": 45,
+  "generado": "2026-10-13T20:20:43.358Z",
+  "totalPais": 46,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -95,6 +95,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1550870",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Ctp De Canas",
+      "lecciones": "0",
+      "rige": "16/10/2026",
+      "vence": "01/04/2028"
+    },
+    {
       "vacante": "1550761",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -125,16 +135,6 @@
       "vence": "16/12/2026"
     },
     {
-      "vacante": "1550466",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Sixto Cordero M. (Quebradilla)",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550461",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -142,6 +142,16 @@
       "institucion": "Orosi (Orosi)",
       "lecciones": "0",
       "rige": "01/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550466",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Sixto Cordero M. (Quebradilla)",
+      "lecciones": "0",
+      "rige": "16/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -255,22 +265,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549970",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo De Cañas Dulces",
-      "lecciones": "15",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1549952",
       "regional": "Direc. Regional Educacion Liberia",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "C.T.P. De Liberia",
       "lecciones": "32",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1549970",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo De Cañas Dulces",
+      "lecciones": "15",
       "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
