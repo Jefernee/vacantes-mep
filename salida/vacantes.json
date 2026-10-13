@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-13T20:40:57.724Z",
-  "totalPais": 46,
+  "generado": "2026-10-13T21:00:49.067Z",
+  "totalPais": 39,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -11,7 +11,6 @@
     "Enseñanza Especial . Deficiencias Visuales",
     "Enseñanza Especial . Generalista",
     "Enseñanza Especial . Problemas De Aprendizaje",
-    "Español",
     "Estudios Sociales/Educación Cívica",
     "Inglés",
     "Labores Varias De Oficina",
@@ -185,16 +184,6 @@
       "vence": "07/12/2026"
     },
     {
-      "vacante": "1550590",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Asistente De Dirección De Enseñanza Especial (G.De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Centro Int. San Felipe Nery",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1550835",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
@@ -242,66 +231,6 @@
       "institucion": "Los Naranjos",
       "lecciones": "0",
       "rige": "16/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1547363",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Orientador 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "C.T.P. De Liberia",
-      "lecciones": "0",
-      "rige": "22/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1548848",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Barrio La Cruz (Liberia)",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549970",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo De Cañas Dulces",
-      "lecciones": "15",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549952",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "C.T.P. De Liberia",
-      "lecciones": "32",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549960",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Diurno La Cruz",
-      "lecciones": "28",
-      "rige": "14/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1549968",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Liceo De Cañas Dulces",
-      "lecciones": "20",
-      "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
     {
