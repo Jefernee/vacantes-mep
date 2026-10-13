@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-13T16:20:49.371Z",
+  "generado": "2026-10-13T16:40:37.309Z",
   "totalPais": 50,
   "calzanVT6": 0,
   "advertencias": [],
@@ -107,16 +107,6 @@
       "vence": "16/12/2026"
     },
     {
-      "vacante": "1550466",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Sixto Cordero M. (Quebradilla)",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550461",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -124,6 +114,16 @@
       "institucion": "Orosi (Orosi)",
       "lecciones": "0",
       "rige": "01/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550466",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Sixto Cordero M. (Quebradilla)",
+      "lecciones": "0",
+      "rige": "16/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -327,6 +327,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1550528",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Colegio Pacuare",
+      "lecciones": "6",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550524",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -337,11 +347,11 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550528",
+      "vacante": "1550521",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Colegio Pacuare",
+      "especialidad": "Física",
+      "institucion": "C.T.P De Limon",
       "lecciones": "6",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
@@ -353,16 +363,6 @@
       "especialidad": "Química",
       "institucion": "Colegio Deportivo De Limon",
       "lecciones": "18",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550521",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P De Limon",
-      "lecciones": "6",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
@@ -457,16 +457,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550397",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Col. Noct. De Puriscal",
-      "lecciones": "15",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550393",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -474,6 +464,16 @@
       "institucion": "Liceo Rural Lanas",
       "lecciones": "40",
       "rige": "19/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550397",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Col. Noct. De Puriscal",
+      "lecciones": "15",
+      "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
     {
