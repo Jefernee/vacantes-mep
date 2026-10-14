@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-14T20:00:41.739Z",
-  "totalPais": 44,
+  "generado": "2026-10-14T20:21:00.388Z",
+  "totalPais": 45,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -108,6 +108,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1550963",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Ascension Esquivel Ibarra",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550896",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -116,16 +126,6 @@
       "lecciones": "26",
       "rige": "14/10/2026",
       "vence": "09/12/2026"
-    },
-    {
-      "vacante": "1550870",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Ctp De Canas",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "01/04/2028"
     },
     {
       "vacante": "1550757",
@@ -258,6 +258,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1551114",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Jose Ezequiel Gonzalez Vindas",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550927",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -308,22 +318,22 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550922",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Barbacoas",
-      "lecciones": "6",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550923",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Química",
       "institucion": "Liceo De Barbacoas",
       "lecciones": "12",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550922",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Barbacoas",
+      "lecciones": "6",
       "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
@@ -378,6 +388,16 @@
       "vence": "31/07/2028"
     },
     {
+      "vacante": "1550740",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Luis Demetrio Tinoco Castro",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "01/04/2027"
+    },
+    {
       "vacante": "1550692",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -396,16 +416,6 @@
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1550740",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Luis Demetrio Tinoco Castro",
-      "lecciones": "0",
-      "rige": "14/10/2026",
-      "vence": "01/04/2027"
     },
     {
       "vacante": "1550704",
