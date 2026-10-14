@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-14T21:40:49.977Z",
-  "totalPais": 50,
+  "generado": "2026-10-14T22:00:43.958Z",
+  "totalPais": 48,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -20,7 +20,6 @@
     "Música/Música",
     "Procesos Industriales",
     "Psicología",
-    "Química",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -328,16 +327,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550927",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Sector Norte (Siquirres)",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550966",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -374,16 +363,6 @@
       "especialidad": "Biología",
       "institucion": "Liceo De Barbacoas",
       "lecciones": "3",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1550923",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Barbacoas",
-      "lecciones": "12",
       "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
