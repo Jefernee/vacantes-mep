@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-14T02:01:04.651Z",
+  "generado": "2026-10-14T02:20:40.028Z",
   "totalPais": 42,
   "calzanVT6": 0,
   "advertencias": [],
@@ -386,22 +386,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550923",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Barbacoas",
-      "lecciones": "12",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550921",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Biología",
       "institucion": "Liceo De Barbacoas",
       "lecciones": "3",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550923",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo De Barbacoas",
+      "lecciones": "12",
       "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
