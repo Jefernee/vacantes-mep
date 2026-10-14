@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-14T00:40:36.846Z",
+  "generado": "2026-10-14T01:00:54.089Z",
   "totalPais": 42,
   "calzanVT6": 0,
   "advertencias": [],
@@ -116,16 +116,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550453",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Unidad Pedagogica San Diego",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "16/12/2026"
-    },
-    {
       "vacante": "1550462",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -136,14 +126,14 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1550461",
+      "vacante": "1550453",
       "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Orosi (Orosi)",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Unidad Pedagogica San Diego",
       "lecciones": "0",
-      "rige": "01/11/2026",
-      "vence": "11/12/2026"
+      "rige": "12/10/2026",
+      "vence": "16/12/2026"
     },
     {
       "vacante": "1550466",
@@ -153,6 +143,16 @@
       "institucion": "Sixto Cordero M. (Quebradilla)",
       "lecciones": "0",
       "rige": "16/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550461",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Orosi (Orosi)",
+      "lecciones": "0",
+      "rige": "01/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -386,16 +386,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550923",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Barbacoas",
-      "lecciones": "12",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550921",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -412,6 +402,16 @@
       "especialidad": "Ciencias",
       "institucion": "Liceo De Barbacoas",
       "lecciones": "6",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550923",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo De Barbacoas",
+      "lecciones": "12",
       "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
