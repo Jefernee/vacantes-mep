@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-14T21:01:23.005Z",
-  "totalPais": 50,
+  "generado": "2026-10-14T21:20:46.566Z",
+  "totalPais": 51,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -167,6 +167,16 @@
       "lecciones": "28",
       "rige": "13/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551157",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. De Sabalito",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "04/02/2027"
     },
     {
       "vacante": "1551123",
@@ -359,6 +369,16 @@
       "vence": "08/02/2027"
     },
     {
+      "vacante": "1550923",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo De Barbacoas",
+      "lecciones": "12",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1550921",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -375,16 +395,6 @@
       "especialidad": "Ciencias",
       "institucion": "Liceo De Barbacoas",
       "lecciones": "6",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1550923",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Barbacoas",
-      "lecciones": "12",
       "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
@@ -439,16 +449,6 @@
       "vence": "31/07/2028"
     },
     {
-      "vacante": "1550697",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Pilar Jimenez Solis",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550692",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -457,6 +457,16 @@
       "lecciones": "0",
       "rige": "08/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550697",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Pilar Jimenez Solis",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1550740",
