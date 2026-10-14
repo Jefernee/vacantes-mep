@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-14T16:40:43.534Z",
-  "totalPais": 53,
+  "generado": "2026-10-14T17:01:59.720Z",
+  "totalPais": 47,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,7 +9,6 @@
     "Contabilidad",
     "Derecho",
     "Educación Física",
-    "Enseñanza Especial . Deficiencias Visuales",
     "Enseñanza Especial . Generalista",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
@@ -19,7 +18,6 @@
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
-    "Mercadeo",
     "Música/Música",
     "Procesos Industriales",
     "Psicología",
@@ -191,16 +189,6 @@
       "vence": "27/01/2027"
     },
     {
-      "vacante": "1550781",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Maria R. Gamez Solano (Palmar)",
-      "lecciones": "0",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1551021",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -261,16 +249,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550770",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Justo A. Facio (Siquirres)",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550811",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -301,32 +279,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550797",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Deficiencias Visuales",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "15/10/2026",
-      "vence": "21/11/2026"
-    },
-    {
       "vacante": "1550827",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
       "especialidad": "Inglés",
       "institucion": "Otilio Ulate Blanco (Zarcero)",
       "lecciones": "0",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550471",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Mercadeo",
-      "institucion": "C.T.P Santo Cristo De Esquipulas",
-      "lecciones": "20",
       "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
@@ -338,16 +296,6 @@
       "institucion": "Ctp Calle Zamora",
       "lecciones": "10",
       "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550790",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Director De Colegio 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Academico San Antonio Pe",
-      "lecciones": "0",
-      "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -401,22 +349,22 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550922",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo De Barbacoas",
-      "lecciones": "6",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550923",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Química",
       "institucion": "Liceo De Barbacoas",
       "lecciones": "12",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550922",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo De Barbacoas",
+      "lecciones": "6",
       "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
@@ -471,16 +419,6 @@
       "vence": "31/07/2028"
     },
     {
-      "vacante": "1550740",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Luis Demetrio Tinoco Castro",
-      "lecciones": "0",
-      "rige": "14/10/2026",
-      "vence": "01/04/2027"
-    },
-    {
       "vacante": "1550697",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -499,6 +437,16 @@
       "lecciones": "0",
       "rige": "08/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550740",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Luis Demetrio Tinoco Castro",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "01/04/2027"
     },
     {
       "vacante": "1550704",
@@ -529,16 +477,6 @@
       "lecciones": "0",
       "rige": "14/10/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1550801",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Brasil",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "03/12/2026"
     },
     {
       "vacante": "1550707",
