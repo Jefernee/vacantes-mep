@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-14T19:00:41.096Z",
+  "generado": "2026-10-14T19:20:55.612Z",
   "totalPais": 42,
   "calzanVT6": 0,
   "advertencias": [],
@@ -368,16 +368,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550692",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Rafael",
-      "lecciones": "0",
-      "rige": "08/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550740",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -386,6 +376,16 @@
       "lecciones": "0",
       "rige": "14/10/2026",
       "vence": "01/04/2027"
+    },
+    {
+      "vacante": "1550692",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Rafael",
+      "lecciones": "0",
+      "rige": "08/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550704",
