@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-14T13:00:59.558Z",
-  "totalPais": 41,
+  "generado": "2026-10-14T13:20:40.440Z",
+  "totalPais": 42,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -65,6 +65,16 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1550896",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Poasito",
+      "lecciones": "26",
+      "rige": "14/10/2026",
+      "vence": "09/12/2026"
+    },
+    {
       "vacante": "1550706",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -105,16 +115,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550462",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Sixto Cordero M. (Quebradilla)",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1550453",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -125,14 +125,14 @@
       "vence": "16/12/2026"
     },
     {
-      "vacante": "1550466",
+      "vacante": "1550462",
       "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
       "institucion": "Sixto Cordero M. (Quebradilla)",
       "lecciones": "0",
       "rige": "16/10/2026",
-      "vence": "11/12/2026"
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1550461",
@@ -142,6 +142,16 @@
       "institucion": "Orosi (Orosi)",
       "lecciones": "0",
       "rige": "01/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550466",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Sixto Cordero M. (Quebradilla)",
+      "lecciones": "0",
+      "rige": "16/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -365,6 +375,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1550923",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo De Barbacoas",
+      "lecciones": "12",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1550921",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -381,16 +401,6 @@
       "especialidad": "Ciencias",
       "institucion": "Liceo De Barbacoas",
       "lecciones": "6",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1550923",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Barbacoas",
-      "lecciones": "12",
       "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
