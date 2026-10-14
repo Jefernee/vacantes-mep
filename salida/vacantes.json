@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-14T03:36:31.281Z",
+  "generado": "2026-10-14T03:40:41.606Z",
   "totalPais": 42,
   "calzanVT6": 0,
   "advertencias": [],
@@ -116,16 +116,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550462",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Sixto Cordero M. (Quebradilla)",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1550453",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -134,6 +124,16 @@
       "lecciones": "0",
       "rige": "12/10/2026",
       "vence": "16/12/2026"
+    },
+    {
+      "vacante": "1550462",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Sixto Cordero M. (Quebradilla)",
+      "lecciones": "0",
+      "rige": "16/10/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1550461",
