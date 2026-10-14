@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-14T19:20:55.612Z",
-  "totalPais": 42,
+  "generado": "2026-10-14T19:40:45.472Z",
+  "totalPais": 43,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -76,6 +76,16 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1551092",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cubujuqui (Horquetas)",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1551055",
@@ -278,12 +288,12 @@
       "vence": "08/02/2027"
     },
     {
-      "vacante": "1550923",
+      "vacante": "1550921",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Biología",
       "institucion": "Liceo De Barbacoas",
-      "lecciones": "12",
+      "lecciones": "3",
       "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
@@ -298,12 +308,12 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550921",
+      "vacante": "1550923",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Química",
       "institucion": "Liceo De Barbacoas",
-      "lecciones": "3",
+      "lecciones": "12",
       "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
@@ -358,6 +368,16 @@
       "vence": "31/07/2028"
     },
     {
+      "vacante": "1550692",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Rafael",
+      "lecciones": "0",
+      "rige": "08/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1550697",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -376,16 +396,6 @@
       "lecciones": "0",
       "rige": "14/10/2026",
       "vence": "01/04/2027"
-    },
-    {
-      "vacante": "1550692",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Rafael",
-      "lecciones": "0",
-      "rige": "08/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1550704",
