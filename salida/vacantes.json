@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-14T17:21:02.573Z",
-  "totalPais": 44,
+  "generado": "2026-10-14T17:40:53.546Z",
+  "totalPais": 42,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -98,16 +98,6 @@
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1550765",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Delia Oviedo De Acuña(Juntas)",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550870",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -116,16 +106,6 @@
       "lecciones": "0",
       "rige": "16/10/2026",
       "vence": "01/04/2028"
-    },
-    {
-      "vacante": "1550761",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Limonal (Las Juntas)",
-      "lecciones": "0",
-      "rige": "13/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1550757",
@@ -318,22 +298,22 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550923",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Barbacoas",
-      "lecciones": "12",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550922",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
       "institucion": "Liceo De Barbacoas",
       "lecciones": "6",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550923",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo De Barbacoas",
+      "lecciones": "12",
       "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
@@ -398,16 +378,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550740",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Luis Demetrio Tinoco Castro",
-      "lecciones": "0",
-      "rige": "14/10/2026",
-      "vence": "01/04/2027"
-    },
-    {
       "vacante": "1550697",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -416,6 +386,16 @@
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550740",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Luis Demetrio Tinoco Castro",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "01/04/2027"
     },
     {
       "vacante": "1550704",
