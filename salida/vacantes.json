@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-14T19:56:46.038Z",
-  "totalPais": 43,
+  "generado": "2026-10-14T20:00:41.739Z",
+  "totalPais": 44,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -93,6 +93,16 @@
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Educación Física",
       "institucion": "San Jose Rio Sucio(Pto.Viejo)",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1549115",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P San Rafael De Poas",
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "31/01/2027"
@@ -298,22 +308,22 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550923",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo De Barbacoas",
-      "lecciones": "12",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550922",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Ciencias",
       "institucion": "Liceo De Barbacoas",
       "lecciones": "6",
+      "rige": "16/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1550923",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo De Barbacoas",
+      "lecciones": "12",
       "rige": "16/10/2026",
       "vence": "31/01/2027"
     },
