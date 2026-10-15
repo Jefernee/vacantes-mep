@@ -1,14 +1,12 @@
 {
-  "generado": "2026-10-15T20:40:47.124Z",
-  "totalPais": 21,
+  "generado": "2026-10-15T21:00:30.500Z",
+  "totalPais": 16,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Biología",
-    "Educación Física",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Estudios Sociales/Educación Cívica",
-    "Executive Secretarial Management",
     "Francés",
     "Inglés",
     "Matemáticas",
@@ -89,16 +87,6 @@
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1551123",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alberto Echandi Montero",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1551326",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Cocinero",
@@ -107,16 +95,6 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1551295",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "La Valencia (San Rafael Abajo)",
-      "lecciones": "0",
-      "rige": "20/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1551373",
@@ -129,53 +107,23 @@
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1513133",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)",
-      "especialidad": "Executive Secretarial Management",
-      "institucion": "C.T.P. De Guacimo",
-      "lecciones": "12",
-      "rige": "24/10/2026",
+      "vacante": "1551295",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Valencia (San Rafael Abajo)",
+      "lecciones": "0",
+      "rige": "20/10/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550874",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Auxiliar Administrativo",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Colegio Nocturno La Cruz",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1550902",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Orientador Asistente",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "I.P.E.C. De Liberia",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1546966",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media Bilingüe (G. De E.)",
+      "vacante": "1551398",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
       "especialidad": "Inglés",
-      "institucion": "Liceo Jose Maria Gutierrez",
-      "lecciones": "44",
-      "rige": "21/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550869",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Liceo De Guardia",
-      "lecciones": "44",
-      "rige": "16/10/2026",
+      "institucion": "Virgilio Caamaño Arauz",
+      "lecciones": "0",
+      "rige": "20/10/2026",
       "vence": "11/12/2026"
     },
     {
