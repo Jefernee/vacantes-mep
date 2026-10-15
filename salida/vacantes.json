@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-15T12:40:55.546Z",
+  "generado": "2026-10-15T13:00:54.482Z",
   "totalPais": 48,
   "calzanVT6": 0,
   "advertencias": [],
@@ -11,9 +11,9 @@
     "Enseñanza Especial . Generalista",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
+    "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
     "Executive Secretarial Management",
-    "Francés",
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
@@ -117,16 +117,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550896",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Poasito",
-      "lecciones": "26",
-      "rige": "14/10/2026",
-      "vence": "09/12/2026"
-    },
-    {
       "vacante": "1550757",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -175,6 +165,16 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "04/02/2027"
+    },
+    {
+      "vacante": "1547166",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Francisco (Sabalito)",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "03/12/2026"
     },
     {
       "vacante": "1551123",
@@ -367,13 +367,13 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550550",
+      "vacante": "1550735",
       "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo Rodrigo Facio Brenes",
-      "lecciones": "21",
-      "rige": "21/10/2026",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+      "institucion": "Caijh Dr. Rafael Angel Calderon Guardia",
+      "lecciones": "40",
+      "rige": "23/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -417,14 +417,14 @@
       "vence": "31/07/2028"
     },
     {
-      "vacante": "1550740",
+      "vacante": "1550692",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Luis Demetrio Tinoco Castro",
+      "institucion": "San Rafael",
       "lecciones": "0",
-      "rige": "14/10/2026",
-      "vence": "01/04/2027"
+      "rige": "08/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1550697",
@@ -437,14 +437,14 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1550692",
+      "vacante": "1550740",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Rafael",
+      "institucion": "Luis Demetrio Tinoco Castro",
       "lecciones": "0",
-      "rige": "08/10/2026",
-      "vence": "11/12/2026"
+      "rige": "14/10/2026",
+      "vence": "01/04/2027"
     },
     {
       "vacante": "1550704",
