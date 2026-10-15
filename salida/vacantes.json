@@ -1,13 +1,11 @@
 {
-  "generado": "2026-10-15T14:40:39.158Z",
-  "totalPais": 31,
+  "generado": "2026-10-15T15:01:26.552Z",
+  "totalPais": 28,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Biología",
-    "Derecho",
     "Educación Física",
-    "Enseñanza Especial . Generalista",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Estudios Sociales/Educación Cívica",
     "Executive Secretarial Management",
@@ -21,36 +19,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1550543",
-      "regional": "Administracion De Recursos Humanos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Dotacion Del Talento Humano",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "04/11/2026"
-    },
-    {
-      "vacante": "1550546",
-      "regional": "Administracion Del Curriculo Nacional",
-      "clasePuesto": "Asesor Nacional (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Departamento De I Y Ii Ciclos",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "05/11/2026"
-    },
-    {
-      "vacante": "1550560",
-      "regional": "Apoyo A La Educacion Inclusiva",
-      "clasePuesto": "Asesor Nacional (G. De E.)",
-      "especialidad": "Enseñanza Especial . Generalista",
-      "institucion": "Centro Nacional De Recursos Para La Educ. Inclusiva",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/07/2031"
-    },
     {
       "vacante": "1551092",
       "regional": "Direc. Regional Educacion De Sarapiqui",
@@ -102,20 +70,20 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1550974",
+      "vacante": "1550970",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
+      "especialidad": "Matemáticas",
       "institucion": "Liceo Vicente Lachner Sandoval",
       "lecciones": "4",
       "rige": "06/10/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550970",
+      "vacante": "1550974",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
+      "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Liceo Vicente Lachner Sandoval",
       "lecciones": "4",
       "rige": "06/10/2026",
