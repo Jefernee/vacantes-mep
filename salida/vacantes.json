@@ -1,25 +1,20 @@
 {
-  "generado": "2026-10-15T13:40:41.458Z",
-  "totalPais": 49,
+  "generado": "2026-10-15T14:00:43.550Z",
+  "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Biología",
-    "Contabilidad",
     "Derecho",
     "Educación Física",
     "Enseñanza Especial . Generalista",
-    "Enseñanza Especial . Problemas De Aprendizaje",
-    "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-    "Español",
+    "Estudios Sociales/Educación Cívica",
     "Executive Secretarial Management",
+    "Francés",
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
-    "Música/Música",
-    "Procesos Industriales",
-    "Psicología",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -45,26 +40,6 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "05/11/2026"
-    },
-    {
-      "vacante": "1550752",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Dirección Regional De Educación Cartago",
-      "lecciones": "0",
-      "rige": "01/11/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1550007",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Oficinista De Servicio Civil 2 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Dirección Regional De Educación Central Del Pacífico",
-      "lecciones": "0",
-      "rige": "08/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1550560",
@@ -117,44 +92,54 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550757",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Liceo Francisca Carrasco",
-      "lecciones": "44",
-      "rige": "09/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550748",
+      "vacante": "1551023",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Jose Obrero",
+      "especialidad": "Religión",
+      "institucion": "Japon (San Isidro)",
       "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550695",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cerros (Quepos)",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "08/01/2027"
-    },
-    {
-      "vacante": "1550689",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Procesos Industriales",
-      "institucion": "C.T.P. De Matapalo",
-      "lecciones": "28",
       "rige": "13/10/2026",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1550972",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Liceo Vicente Lachner Sandoval",
+      "lecciones": "4",
+      "rige": "06/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550970",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Vicente Lachner Sandoval",
+      "lecciones": "4",
+      "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550974",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Vicente Lachner Sandoval",
+      "lecciones": "4",
+      "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551015",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Quircot (San Nicolas)",
+      "lecciones": "0",
+      "rige": "14/10/2026",
+      "vence": "28/11/2026"
     },
     {
       "vacante": "1551157",
@@ -217,16 +202,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550962",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Liceo De Concepcion",
-      "lecciones": "16",
-      "rige": "15/10/2026",
-      "vence": "07/12/2026"
-    },
-    {
       "vacante": "1550997",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -235,16 +210,6 @@
       "lecciones": "0",
       "rige": "15/10/2026",
       "vence": "20/12/2026"
-    },
-    {
-      "vacante": "1550599",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Cariari",
-      "lecciones": "0",
-      "rige": "16/10/2026",
-      "vence": "31/07/2027"
     },
     {
       "vacante": "1513133",
@@ -327,36 +292,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550966",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Ctp Calle Zamora",
-      "lecciones": "10",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550964",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550492",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Jose Ma. Zeledon Brenes",
-      "lecciones": "0",
-      "rige": "09/10/2026",
-      "vence": "08/02/2027"
-    },
-    {
       "vacante": "1550921",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -387,96 +322,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550693",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Jose Figueres Ferrer",
-      "lecciones": "0",
-      "rige": "01/11/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1548341",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Hernan Zamora Elizondo",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1550691",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Franklin D. Roosevelt",
-      "lecciones": "0",
-      "rige": "01/11/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1550701",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Miguel Obregon Lizano",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/07/2028"
-    },
-    {
-      "vacante": "1550692",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Rafael",
-      "lecciones": "0",
-      "rige": "08/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550697",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Pilar Jimenez Solis",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1550740",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Luis Demetrio Tinoco Castro",
-      "lecciones": "0",
-      "rige": "14/10/2026",
-      "vence": "01/04/2027"
-    },
-    {
-      "vacante": "1550704",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo De San Antonio",
-      "lecciones": "44",
-      "rige": "12/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550736",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "Ctp Abelardo Bonilla Baldares",
-      "lecciones": "24",
-      "rige": "05/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550332",
       "regional": "Direc. Regional Educacion San Jose - Oeste",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -495,26 +340,6 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "19/04/2028"
-    },
-    {
-      "vacante": "1550707",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Bijagua",
-      "lecciones": "0",
-      "rige": "12/10/2026",
-      "vence": "29/11/2026"
-    },
-    {
-      "vacante": "1550681",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Liceo Colonia Villa Nueva",
-      "lecciones": "8",
-      "rige": "29/09/2026",
-      "vence": "11/12/2026"
     }
   ]
 }
