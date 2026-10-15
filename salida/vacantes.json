@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-15T16:20:34.173Z",
-  "totalPais": 26,
+  "generado": "2026-10-15T16:40:32.756Z",
+  "totalPais": 25,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -70,20 +70,20 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1550970",
+      "vacante": "1550972",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
+      "especialidad": "Francés",
       "institucion": "Liceo Vicente Lachner Sandoval",
       "lecciones": "4",
       "rige": "06/10/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550972",
+      "vacante": "1550970",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
+      "especialidad": "Matemáticas",
       "institucion": "Liceo Vicente Lachner Sandoval",
       "lecciones": "4",
       "rige": "06/10/2026",
@@ -168,16 +168,6 @@
       "lecciones": "12",
       "rige": "24/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551027",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Director De Colegio 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Col. Noct. Herman Lopez H.",
-      "lecciones": "0",
-      "rige": "23/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1551114",
