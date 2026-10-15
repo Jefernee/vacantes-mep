@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-15T17:40:41.241Z",
-  "totalPais": 26,
+  "generado": "2026-10-15T18:00:38.147Z",
+  "totalPais": 24,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -27,16 +27,6 @@
       "institucion": "Cubujuqui (Horquetas)",
       "lecciones": "0",
       "rige": "09/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1551055",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "San Jose Rio Sucio(Pto.Viejo)",
-      "lecciones": "0",
-      "rige": "19/10/2026",
       "vence": "31/01/2027"
     },
     {
@@ -80,20 +70,20 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550974",
+      "vacante": "1550970",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
+      "especialidad": "Matemáticas",
       "institucion": "Liceo Vicente Lachner Sandoval",
       "lecciones": "4",
       "rige": "06/10/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550970",
+      "vacante": "1550974",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
+      "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Liceo Vicente Lachner Sandoval",
       "lecciones": "4",
       "rige": "06/10/2026",
@@ -145,16 +135,6 @@
       "clasePuesto": "Cocinero",
       "especialidad": "Sin Especialidad T-I",
       "institucion": "Elias Jimenez Castro",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1550563",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "J.N. Las Letras",
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "31/01/2031"
