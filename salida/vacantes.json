@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-15T12:00:45.699Z",
+  "generado": "2026-10-15T12:20:53.346Z",
   "totalPais": 48,
   "calzanVT6": 0,
   "advertencias": [],
@@ -417,16 +417,6 @@
       "vence": "31/07/2028"
     },
     {
-      "vacante": "1550697",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Pilar Jimenez Solis",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1550692",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -435,6 +425,16 @@
       "lecciones": "0",
       "rige": "08/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550697",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Pilar Jimenez Solis",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1550740",
