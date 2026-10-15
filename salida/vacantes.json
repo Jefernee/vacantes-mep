@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-15T18:40:30.120Z",
-  "totalPais": 25,
+  "generado": "2026-10-15T19:01:01.346Z",
+  "totalPais": 23,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -11,7 +11,6 @@
     "Executive Secretarial Management",
     "Francés",
     "Inglés",
-    "Labores Varias De Oficina",
     "Matemáticas",
     "Religión",
     "Sin Especialidad T-I",
@@ -140,16 +139,6 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1551073",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Elias Jimenez Castro",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1551295",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -258,16 +247,6 @@
       "lecciones": "0",
       "rige": "14/10/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1551080",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "J.N. Juan Rafael Mora Porras",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "19/04/2028"
     }
   ]
 }
