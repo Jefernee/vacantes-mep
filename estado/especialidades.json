@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 20415,
+      "vecesVista": 20423,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-15T15:40:37.863Z",
+      "ultimaVez": "2026-10-15T16:00:38.936Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 12473,
+      "vecesVista": 12479,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-15T15:40:37.863Z",
+      "ultimaVez": "2026-10-15T16:00:38.936Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 1906,
+      "vecesVista": 1907,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-15T15:40:37.863Z",
+      "ultimaVez": "2026-10-15T16:00:38.936Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 2407,
+      "vecesVista": 2408,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-15T15:40:37.863Z",
+      "ultimaVez": "2026-10-15T16:00:38.936Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -58,16 +58,16 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 1618,
+      "vecesVista": 1620,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-15T15:40:37.863Z",
+      "ultimaVez": "2026-10-15T16:00:38.936Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1244,
+      "vecesVista": 1245,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-15T15:40:37.863Z",
+      "ultimaVez": "2026-10-15T16:00:38.936Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 4917,
+      "vecesVista": 4920,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-15T15:40:37.863Z",
+      "ultimaVez": "2026-10-15T16:00:38.936Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,16 +107,16 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 1795,
+      "vecesVista": 1796,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-15T15:40:37.863Z",
+      "ultimaVez": "2026-10-15T16:00:38.936Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 634,
+      "vecesVista": 635,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-15T15:40:37.863Z",
+      "ultimaVez": "2026-10-15T16:00:38.936Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 1318,
+      "vecesVista": 1319,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-10-15T15:40:37.863Z",
+      "ultimaVez": "2026-10-15T16:00:38.936Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -226,9 +226,9 @@
     },
     "Executive Secretarial Management": {
       "calce": "no interesa",
-      "vecesVista": 262,
+      "vecesVista": 263,
       "primeraVez": "2026-09-07T20:00:36.364Z",
-      "ultimaVez": "2026-10-15T15:40:37.863Z",
+      "ultimaVez": "2026-10-15T16:00:38.936Z",
       "avisadaComoNueva": true
     },
     "Servicios Básicos": {
@@ -380,9 +380,9 @@
     },
     "Biología": {
       "calce": "no interesa",
-      "vecesVista": 648,
+      "vecesVista": 649,
       "primeraVez": "2026-09-16T18:20:42.372Z",
-      "ultimaVez": "2026-10-15T15:40:37.863Z",
+      "ultimaVez": "2026-10-15T16:00:38.936Z",
       "avisadaComoNueva": true
     },
     "Derecho": {
@@ -631,5 +631,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-15T15:40:37.863Z"
+  "actualizado": "2026-10-15T16:00:38.936Z"
 }
