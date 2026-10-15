@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-15T20:00:43.215Z",
-  "totalPais": 23,
+  "generado": "2026-10-15T20:20:34.447Z",
+  "totalPais": 21,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -18,16 +18,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1550963",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ascension Esquivel Ibarra",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
     {
       "vacante": "1551023",
       "regional": "Direc. Regional Educacion Cartago",
@@ -119,16 +109,6 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1551373",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Elias Jimenez Castro",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "09/12/2026"
-    },
-    {
       "vacante": "1551295",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -139,6 +119,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1551373",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Elias Jimenez Castro",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "09/12/2026"
+    },
+    {
       "vacante": "1513133",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)",
@@ -146,16 +136,6 @@
       "institucion": "C.T.P. De Guacimo",
       "lecciones": "12",
       "rige": "24/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551114",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jose Ezequiel Gonzalez Vindas",
-      "lecciones": "0",
-      "rige": "14/10/2026",
       "vence": "11/12/2026"
     },
     {
