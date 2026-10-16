@@ -1,13 +1,12 @@
 {
-  "generado": "2026-10-16T20:40:35.645Z",
-  "totalPais": 11,
+  "generado": "2026-10-16T21:00:37.333Z",
+  "totalPais": 10,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
     "Artes Plásticas/Artes Plásticas",
     "Ciencias",
-    "Inglés",
     "Música/Música",
     "Religión",
     "Sin Especialidad T-I",
@@ -112,16 +111,6 @@
       "especialidad": "Artes Industriales",
       "institucion": "Colegio De Limon Diurno",
       "lecciones": "12",
-      "rige": "20/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551398",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Virgilio Caamaño Arauz",
-      "lecciones": "0",
       "rige": "20/10/2026",
       "vence": "11/12/2026"
     }
