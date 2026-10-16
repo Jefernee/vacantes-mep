@@ -2,9 +2,9 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 20768,
+      "vecesVista": 20772,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T18:00:33.431Z",
+      "ultimaVez": "2026-10-16T18:20:41.440Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
@@ -16,9 +16,9 @@
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 2000,
+      "vecesVista": 2001,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T18:00:33.431Z",
+      "ultimaVez": "2026-10-16T18:20:41.440Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -51,9 +51,9 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 424,
+      "vecesVista": 425,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T18:00:33.431Z",
+      "ultimaVez": "2026-10-16T18:20:41.440Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -93,16 +93,16 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 5032,
+      "vecesVista": 5033,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T18:00:33.431Z",
+      "ultimaVez": "2026-10-16T18:20:41.440Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1234,
+      "vecesVista": 1236,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T18:00:33.431Z",
+      "ultimaVez": "2026-10-16T18:20:41.440Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 1103,
+      "vecesVista": 1104,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-16T18:00:33.431Z",
+      "ultimaVez": "2026-10-16T18:20:41.440Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -366,9 +366,9 @@
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 585,
+      "vecesVista": 586,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-10-16T18:00:33.431Z",
+      "ultimaVez": "2026-10-16T18:20:41.440Z",
       "avisadaComoNueva": true
     },
     "Rehabilitación / Ocupacional": {
@@ -631,5 +631,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-16T18:00:33.431Z"
+  "actualizado": "2026-10-16T18:20:41.440Z"
 }

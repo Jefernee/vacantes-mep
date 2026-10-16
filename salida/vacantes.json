@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-16T18:00:33.430Z",
-  "totalPais": 12,
+  "generado": "2026-10-16T18:20:41.439Z",
+  "totalPais": 11,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -10,7 +10,6 @@
     "Inglés",
     "Música/Música",
     "Religión",
-    "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
@@ -34,16 +33,6 @@
       "lecciones": "44",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551326",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "J.N. Sotero Gonzalez Barquero",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2032"
     },
     {
       "vacante": "1551468",
