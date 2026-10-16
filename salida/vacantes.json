@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-16T02:00:32.802Z",
+  "generado": "2026-10-16T02:20:37.003Z",
   "totalPais": 18,
   "calzanVT6": 0,
   "advertencias": [],
@@ -38,16 +38,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1550974",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Vicente Lachner Sandoval",
-      "lecciones": "4",
-      "rige": "06/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550970",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -62,6 +52,16 @@
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Francés",
+      "institucion": "Liceo Vicente Lachner Sandoval",
+      "lecciones": "4",
+      "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550974",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Liceo Vicente Lachner Sandoval",
       "lecciones": "4",
       "rige": "06/10/2026",
@@ -98,16 +98,6 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1551373",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Elias Jimenez Castro",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "09/12/2026"
-    },
-    {
       "vacante": "1551295",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -116,6 +106,16 @@
       "lecciones": "0",
       "rige": "20/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551373",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Elias Jimenez Castro",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "09/12/2026"
     },
     {
       "vacante": "1551431",
