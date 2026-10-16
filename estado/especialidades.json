@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 20712,
+      "vecesVista": 20717,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T14:20:34.499Z",
+      "ultimaVez": "2026-10-16T14:40:36.568Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 12664,
+      "vecesVista": 12666,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T14:20:34.499Z",
+      "ultimaVez": "2026-10-16T14:40:36.568Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 1988,
+      "vecesVista": 1989,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T14:20:34.499Z",
+      "ultimaVez": "2026-10-16T14:40:36.568Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -93,16 +93,16 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 5020,
+      "vecesVista": 5021,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T14:20:34.499Z",
+      "ultimaVez": "2026-10-16T14:40:36.568Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1218,
+      "vecesVista": 1219,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T14:20:34.499Z",
+      "ultimaVez": "2026-10-16T14:40:36.568Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 1091,
+      "vecesVista": 1092,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-16T14:20:34.499Z",
+      "ultimaVez": "2026-10-16T14:40:36.568Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -366,9 +366,9 @@
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 573,
+      "vecesVista": 574,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-10-16T14:20:34.499Z",
+      "ultimaVez": "2026-10-16T14:40:36.568Z",
       "avisadaComoNueva": true
     },
     "Rehabilitación / Ocupacional": {
@@ -631,5 +631,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-16T14:20:34.499Z"
+  "actualizado": "2026-10-16T14:40:36.568Z"
 }
