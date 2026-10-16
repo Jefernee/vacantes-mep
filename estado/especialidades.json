@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 20670,
+      "vecesVista": 20675,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T11:20:57.509Z",
+      "ultimaVez": "2026-10-16T11:40:33.453Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 12640,
+      "vecesVista": 12643,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T11:20:57.509Z",
+      "ultimaVez": "2026-10-16T11:40:33.453Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 1972,
+      "vecesVista": 1974,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T11:20:57.509Z",
+      "ultimaVez": "2026-10-16T11:40:33.453Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1287,
+      "vecesVista": 1288,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T11:20:57.509Z",
+      "ultimaVez": "2026-10-16T11:40:33.453Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 5004,
+      "vecesVista": 5006,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T11:20:57.509Z",
+      "ultimaVez": "2026-10-16T11:40:33.453Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,16 +107,16 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 1838,
+      "vecesVista": 1839,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T11:20:57.509Z",
+      "ultimaVez": "2026-10-16T11:40:33.453Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 677,
+      "vecesVista": 678,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T11:20:57.509Z",
+      "ultimaVez": "2026-10-16T11:40:33.453Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 1361,
+      "vecesVista": 1362,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-10-16T11:20:57.509Z",
+      "ultimaVez": "2026-10-16T11:40:33.453Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -366,9 +366,9 @@
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 564,
+      "vecesVista": 565,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-10-16T11:20:57.509Z",
+      "ultimaVez": "2026-10-16T11:40:33.453Z",
       "avisadaComoNueva": true
     },
     "Rehabilitación / Ocupacional": {
@@ -380,9 +380,9 @@
     },
     "Biología": {
       "calce": "no interesa",
-      "vecesVista": 691,
+      "vecesVista": 692,
       "primeraVez": "2026-09-16T18:20:42.372Z",
-      "ultimaVez": "2026-10-16T11:20:57.509Z",
+      "ultimaVez": "2026-10-16T11:40:33.453Z",
       "avisadaComoNueva": true
     },
     "Derecho": {
@@ -631,5 +631,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-16T11:20:57.509Z"
+  "actualizado": "2026-10-16T11:40:33.453Z"
 }
