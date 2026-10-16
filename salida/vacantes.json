@@ -1,10 +1,9 @@
 {
-  "generado": "2026-10-16T22:20:26.373Z",
-  "totalPais": 8,
+  "generado": "2026-10-16T22:40:29.564Z",
+  "totalPais": 7,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Artes Industriales",
     "Artes Plásticas/Artes Plásticas",
     "Ciencias",
     "Música/Música",
@@ -82,16 +81,6 @@
       "lecciones": "26",
       "rige": "20/10/2026",
       "vence": "13/12/2026"
-    },
-    {
-      "vacante": "1551434",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Industriales",
-      "institucion": "Colegio De Limon Diurno",
-      "lecciones": "12",
-      "rige": "20/10/2026",
-      "vence": "11/12/2026"
     }
   ]
 }
