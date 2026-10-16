@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-16T01:20:35.012Z",
+  "generado": "2026-10-16T01:40:33.933Z",
   "totalPais": 18,
   "calzanVT6": 0,
   "advertencias": [],
@@ -38,16 +38,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1550970",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Vicente Lachner Sandoval",
-      "lecciones": "4",
-      "rige": "06/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550972",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -62,6 +52,16 @@
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Vicente Lachner Sandoval",
+      "lecciones": "4",
+      "rige": "06/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550970",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
       "institucion": "Liceo Vicente Lachner Sandoval",
       "lecciones": "4",
       "rige": "06/10/2026",
