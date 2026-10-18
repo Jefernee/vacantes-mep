@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 20929,
+      "vecesVista": 20930,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-18T00:20:37.688Z",
+      "ultimaVez": "2026-10-18T00:40:27.822Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 12762,
+      "vecesVista": 12763,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-18T00:20:37.688Z",
+      "ultimaVez": "2026-10-18T00:40:27.822Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -51,9 +51,9 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 503,
+      "vecesVista": 504,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-18T00:20:37.688Z",
+      "ultimaVez": "2026-10-18T00:40:27.822Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -100,9 +100,9 @@
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1392,
+      "vecesVista": 1394,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-18T00:20:37.688Z",
+      "ultimaVez": "2026-10-18T00:40:27.822Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -631,5 +631,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-18T00:20:37.688Z"
+  "actualizado": "2026-10-18T00:40:27.822Z"
 }
