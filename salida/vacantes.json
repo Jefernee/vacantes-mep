@@ -1,9 +1,10 @@
 {
-  "generado": "2026-10-19T18:20:39.445Z",
+  "generado": "2026-10-19T18:40:46.038Z",
   "totalPais": 42,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Bilingual Accountig And Finance",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
@@ -70,16 +71,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1551606",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Antonio (Sabalito)",
-      "lecciones": "0",
-      "rige": "20/10/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1551659",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Director De Colegio Técnico Y Profesional 3",
@@ -120,16 +111,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1551684",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Paquita Ferrer De Figueres",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "12/01/2027"
-    },
-    {
       "vacante": "1551784",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -138,6 +119,16 @@
       "lecciones": "0",
       "rige": "22/10/2026",
       "vence": "22/04/2028"
+    },
+    {
+      "vacante": "1551684",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Paquita Ferrer De Figueres",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "12/01/2027"
     },
     {
       "vacante": "1551836",
@@ -198,6 +189,16 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "12/01/2027"
+    },
+    {
+      "vacante": "1510067",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)",
+      "especialidad": "Bilingual Accountig And Finance",
+      "institucion": "C.T.P. De Flores",
+      "lecciones": "4",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551458",
