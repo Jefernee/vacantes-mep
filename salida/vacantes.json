@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-19T20:20:36.319Z",
+  "generado": "2026-10-19T20:40:48.945Z",
   "totalPais": 42,
   "calzanVT6": 0,
   "advertencias": [],
@@ -111,16 +111,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1551784",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Rvdo Francisco Schmitz",
-      "lecciones": "0",
-      "rige": "22/10/2026",
-      "vence": "22/04/2028"
-    },
-    {
       "vacante": "1551684",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -129,6 +119,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "12/01/2027"
+    },
+    {
+      "vacante": "1551784",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Rvdo Francisco Schmitz",
+      "lecciones": "0",
+      "rige": "22/10/2026",
+      "vence": "22/04/2028"
     },
     {
       "vacante": "1551836",
@@ -231,16 +231,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1551829",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alf. Monge Ramirez (Naranjo)",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1551742",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -249,6 +239,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "13/02/2027"
+    },
+    {
+      "vacante": "1551829",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Alf. Monge Ramirez (Naranjo)",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551578",
@@ -401,22 +401,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1551812",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Col. Noct. De Santa Cruz",
-      "lecciones": "6",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1551790",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Cindea Sardinal",
       "lecciones": "11",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551812",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Col. Noct. De Santa Cruz",
+      "lecciones": "6",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
