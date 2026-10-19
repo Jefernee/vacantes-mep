@@ -1,16 +1,38 @@
 {
-  "generado": "2026-10-19T12:40:35.952Z",
-  "totalPais": 5,
+  "generado": "2026-10-19T13:00:31.139Z",
+  "totalPais": 20,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Artes Plásticas/Artes Plásticas",
+    "Enseñanza Especial . Problemas De Aprendizaje",
+    "Labores Varias De Oficina",
     "Música/Música",
+    "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
   "todas": [
+    {
+      "vacante": "1551030",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Dirección Regional De Educación Guápiles",
+      "lecciones": "0",
+      "rige": "06/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1551614",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Santa Gertrudis (San Jose)",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "21/12/2026"
+    },
     {
       "vacante": "1551606",
       "regional": "Direc. Regional Educacion Coto",
@@ -22,6 +44,56 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1551659",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Director De Colegio Técnico Y Profesional 3",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "C.T.P. De Corredores",
+      "lecciones": "0",
+      "rige": "01/11/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1551564",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "C.T.P. De Puerto Jimenez",
+      "lecciones": "0",
+      "rige": "19/02/2026",
+      "vence": "06/02/2027"
+    },
+    {
+      "vacante": "1551695",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Confraternidad (Canoas)",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551461",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Miramar (Corredor)",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551684",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Paquita Ferrer De Figueres",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "12/01/2027"
+    },
+    {
       "vacante": "1551468",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
@@ -30,16 +102,6 @@
       "lecciones": "0",
       "rige": "20/10/2026",
       "vence": "10/12/2026"
-    },
-    {
-      "vacante": "1551587",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Pueblo Nuevo (Duacari)",
-      "lecciones": "0",
-      "rige": "20/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1551451",
@@ -60,6 +122,96 @@
       "lecciones": "26",
       "rige": "20/10/2026",
       "vence": "13/12/2026"
+    },
+    {
+      "vacante": "1551458",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Santa Eduviges (Limon)",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551707",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Martin (San Lorenzo)",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551578",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Asistente De Dirección Centro Educativo 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Col. Concepcion Daniel Flores",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550157",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Sagrada Familia",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1548924",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. De Pejibaye",
+      "lecciones": "0",
+      "rige": "28/10/2026",
+      "vence": "29/06/2028"
+    },
+    {
+      "vacante": "1551026",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "44",
+      "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551636",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Exp. Biling. Los Angeles",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "26/11/2026"
+    },
+    {
+      "vacante": "1551674",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Carmen (Rio Cuarto)",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1551449",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Luis Dobles Segreda",
+      "lecciones": "40",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
     }
   ]
 }

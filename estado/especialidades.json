@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 21005,
+      "vecesVista": 21012,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T12:40:35.954Z",
+      "ultimaVez": "2026-10-19T13:00:31.140Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 12838,
+      "vecesVista": 12843,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T12:40:35.954Z",
+      "ultimaVez": "2026-10-19T13:00:31.140Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 2014,
+      "vecesVista": 2016,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-16T22:00:28.689Z",
+      "ultimaVez": "2026-10-19T13:00:31.140Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 2416,
+      "vecesVista": 2418,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-15T18:40:30.122Z",
+      "ultimaVez": "2026-10-19T13:00:31.140Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -100,9 +100,9 @@
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1544,
+      "vecesVista": 1547,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T12:40:35.954Z",
+      "ultimaVez": "2026-10-19T13:00:31.140Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -198,9 +198,9 @@
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 1169,
+      "vecesVista": 1170,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-10-15T13:40:41.460Z",
+      "ultimaVez": "2026-10-19T13:00:31.140Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -631,5 +631,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-19T12:40:35.954Z"
+  "actualizado": "2026-10-19T13:00:31.140Z"
 }
