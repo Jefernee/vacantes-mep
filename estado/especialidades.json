@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 21103,
+      "vecesVista": 21116,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T16:40:51.348Z",
+      "ultimaVez": "2026-10-19T17:00:41.519Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 12901,
+      "vecesVista": 12907,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T16:40:51.348Z",
+      "ultimaVez": "2026-10-19T17:00:41.519Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 2038,
+      "vecesVista": 2040,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T16:40:51.348Z",
+      "ultimaVez": "2026-10-19T17:00:41.519Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 2440,
+      "vecesVista": 2442,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T16:40:51.348Z",
+      "ultimaVez": "2026-10-19T17:00:41.519Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -100,16 +100,16 @@
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1570,
+      "vecesVista": 1571,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T16:40:51.348Z",
+      "ultimaVez": "2026-10-19T17:00:41.519Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 1854,
+      "vecesVista": 1856,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T16:40:51.348Z",
+      "ultimaVez": "2026-10-19T17:00:41.519Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 1139,
+      "vecesVista": 1140,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T16:40:51.348Z",
+      "ultimaVez": "2026-10-19T17:00:41.519Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -198,9 +198,9 @@
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 1181,
+      "vecesVista": 1182,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-10-19T16:40:51.348Z",
+      "ultimaVez": "2026-10-19T17:00:41.519Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -261,9 +261,9 @@
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 679,
+      "vecesVista": 680,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-10-19T16:40:51.348Z",
+      "ultimaVez": "2026-10-19T17:00:41.519Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -631,5 +631,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-19T16:40:51.348Z"
+  "actualizado": "2026-10-19T17:00:41.519Z"
 }
