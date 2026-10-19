@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-19T02:00:29.944Z",
+  "generado": "2026-10-19T02:20:32.604Z",
   "totalPais": 5,
   "calzanVT6": 0,
   "advertencias": [],
@@ -42,22 +42,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1551551",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Colegio Academico De Guacimo",
-      "lecciones": "26",
-      "rige": "20/10/2026",
-      "vence": "13/12/2026"
-    },
-    {
       "vacante": "1551451",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Música/Música",
       "institucion": "C.T.P. De Guacimo",
       "lecciones": "18",
+      "rige": "20/10/2026",
+      "vence": "13/12/2026"
+    },
+    {
+      "vacante": "1551551",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Colegio Academico De Guacimo",
+      "lecciones": "26",
       "rige": "20/10/2026",
       "vence": "13/12/2026"
     }
