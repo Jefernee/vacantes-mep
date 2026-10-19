@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-19T15:40:36.200Z",
-  "totalPais": 24,
+  "generado": "2026-10-19T16:00:34.847Z",
+  "totalPais": 26,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -147,6 +147,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1551762",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Sabana",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "01/12/2026"
+    },
+    {
       "vacante": "1551707",
       "regional": "Direc. Regional Educacion Los Santos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -195,6 +205,16 @@
       "lecciones": "0",
       "rige": "28/10/2026",
       "vence": "29/06/2028"
+    },
+    {
+      "vacante": "1551462",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Salinas (San Juan Grande)",
+      "lecciones": "0",
+      "rige": "15/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1551493",
