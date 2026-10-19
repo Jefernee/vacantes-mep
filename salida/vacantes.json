@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-19T17:40:37.840Z",
-  "totalPais": 35,
+  "generado": "2026-10-19T18:01:09.643Z",
+  "totalPais": 39,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -118,6 +118,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1551684",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Paquita Ferrer De Figueres",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "12/01/2027"
+    },
+    {
       "vacante": "1551784",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -128,14 +138,14 @@
       "vence": "22/04/2028"
     },
     {
-      "vacante": "1551684",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Paquita Ferrer De Figueres",
+      "vacante": "1551822",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Drake (Sierpe)",
       "lecciones": "0",
       "rige": "21/10/2026",
-      "vence": "12/01/2027"
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551751",
@@ -196,6 +206,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "13/02/2027"
+    },
+    {
+      "vacante": "1551829",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Alf. Monge Ramirez (Naranjo)",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551578",
@@ -306,6 +326,26 @@
       "lecciones": "40",
       "rige": "21/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551832",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Liceo De Pavas",
+      "lecciones": "40",
+      "rige": "23/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551820",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Lorena (Cartagena)",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "18/11/2026"
     },
     {
       "vacante": "1551807",
