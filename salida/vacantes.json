@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-19T19:40:38.788Z",
+  "generado": "2026-10-19T20:01:20.029Z",
   "totalPais": 42,
   "calzanVT6": 0,
   "advertencias": [],
@@ -111,16 +111,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1551784",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Rvdo Francisco Schmitz",
-      "lecciones": "0",
-      "rige": "22/10/2026",
-      "vence": "22/04/2028"
-    },
-    {
       "vacante": "1551684",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -129,6 +119,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "12/01/2027"
+    },
+    {
+      "vacante": "1551784",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Rvdo Francisco Schmitz",
+      "lecciones": "0",
+      "rige": "22/10/2026",
+      "vence": "22/04/2028"
     },
     {
       "vacante": "1551836",
