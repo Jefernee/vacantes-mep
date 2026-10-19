@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-19T14:40:49.270Z",
-  "totalPais": 22,
+  "generado": "2026-10-19T15:00:45.649Z",
+  "totalPais": 23,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -145,6 +145,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551742",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Pedro (San Pedro)",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "13/02/2027"
     },
     {
       "vacante": "1551578",
