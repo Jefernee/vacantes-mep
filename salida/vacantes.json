@@ -1,10 +1,12 @@
 {
-  "generado": "2026-10-19T18:01:09.643Z",
-  "totalPais": 39,
+  "generado": "2026-10-19T18:20:39.445Z",
+  "totalPais": 42,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Enseñanza Especial . Problemas De Aprendizaje",
+    "Enseñanza Especial . Retardo Mental",
+    "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Estudios Sociales/Educación Cívica",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
@@ -138,11 +140,41 @@
       "vence": "22/04/2028"
     },
     {
+      "vacante": "1551836",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Esc. Gravilias",
+      "lecciones": "40",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1551822",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Drake (Sierpe)",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551843",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+      "institucion": "Esc. Nieborowsky",
+      "lecciones": "40",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551845",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Nieborowsky (Cortes)",
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "11/12/2026"
