@@ -1,10 +1,12 @@
 {
-  "generado": "2026-10-19T13:40:40.122Z",
-  "totalPais": 20,
+  "generado": "2026-10-19T14:00:53.673Z",
+  "totalPais": 22,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Enseñanza Especial . Problemas De Aprendizaje",
+    "Estudios Sociales/Educación Cívica",
+    "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Labores Varias De Oficina",
     "Música/Música",
@@ -33,6 +35,26 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "21/12/2026"
+    },
+    {
+      "vacante": "1551574",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo De San Nicolas",
+      "lecciones": "24",
+      "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551557",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "C.T.P Dulce Nombre",
+      "lecciones": "4",
+      "rige": "14/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551606",
@@ -95,16 +117,6 @@
       "vence": "12/01/2027"
     },
     {
-      "vacante": "1551468",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Las Mercedes (Aserri)",
-      "lecciones": "0",
-      "rige": "20/10/2026",
-      "vence": "10/12/2026"
-    },
-    {
       "vacante": "1551551",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -163,6 +175,16 @@
       "lecciones": "0",
       "rige": "28/10/2026",
       "vence": "29/06/2028"
+    },
+    {
+      "vacante": "1551493",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Riojalandia (Barranca)",
+      "lecciones": "0",
+      "rige": "22/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551026",
