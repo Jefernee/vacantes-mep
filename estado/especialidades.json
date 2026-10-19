@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 21019,
+      "vecesVista": 21026,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T13:20:35.345Z",
+      "ultimaVez": "2026-10-19T13:40:40.124Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 12848,
+      "vecesVista": 12853,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T13:20:35.345Z",
+      "ultimaVez": "2026-10-19T13:40:40.124Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 2018,
+      "vecesVista": 2020,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T13:20:35.345Z",
+      "ultimaVez": "2026-10-19T13:40:40.124Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 2420,
+      "vecesVista": 2422,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T13:20:35.345Z",
+      "ultimaVez": "2026-10-19T13:40:40.124Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -100,9 +100,9 @@
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1550,
+      "vecesVista": 1552,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-19T13:20:35.345Z",
+      "ultimaVez": "2026-10-19T13:40:40.124Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 1129,
+      "vecesVista": 1130,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-08T16:41:01.064Z",
+      "ultimaVez": "2026-10-19T13:40:40.124Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -198,9 +198,9 @@
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 1171,
+      "vecesVista": 1172,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-10-19T13:20:35.345Z",
+      "ultimaVez": "2026-10-19T13:40:40.124Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -631,5 +631,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-19T13:20:35.345Z"
+  "actualizado": "2026-10-19T13:40:40.124Z"
 }
