@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-20T15:32:14.168Z",
+  "generado": "2026-10-20T15:40:48.554Z",
   "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
@@ -200,16 +200,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1551527",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Nautilio Acosta Piepper",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1551829",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -218,6 +208,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551527",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Nautilio Acosta Piepper",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1551988",
