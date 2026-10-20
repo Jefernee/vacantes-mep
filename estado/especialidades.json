@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 21944,
+      "vecesVista": 21961,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T13:40:36.120Z",
+      "ultimaVez": "2026-10-20T14:00:40.761Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 13298,
+      "vecesVista": 13305,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T13:40:36.120Z",
+      "ultimaVez": "2026-10-20T14:00:40.761Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 2558,
+      "vecesVista": 2559,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T13:40:36.120Z",
+      "ultimaVez": "2026-10-20T14:00:40.761Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -58,9 +58,9 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 1640,
+      "vecesVista": 1641,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-15T20:40:47.126Z",
+      "ultimaVez": "2026-10-20T14:00:40.761Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -93,30 +93,30 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 5131,
+      "vecesVista": 5133,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T13:40:36.120Z",
+      "ultimaVez": "2026-10-20T14:00:40.761Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1703,
+      "vecesVista": 1705,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T13:40:36.120Z",
+      "ultimaVez": "2026-10-20T14:00:40.761Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 1948,
+      "vecesVista": 1949,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T13:40:36.120Z",
+      "ultimaVez": "2026-10-20T14:00:40.761Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 723,
+      "vecesVista": 724,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T13:40:36.120Z",
+      "ultimaVez": "2026-10-20T14:00:40.761Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1489,
+      "vecesVista": 1490,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-10-20T13:40:36.120Z",
+      "ultimaVez": "2026-10-20T14:00:40.761Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -632,11 +632,11 @@
     },
     "Bilingual Accountig And Finance": {
       "calce": "no interesa",
-      "vecesVista": 41,
+      "vecesVista": 42,
       "primeraVez": "2026-10-19T18:40:46.040Z",
-      "ultimaVez": "2026-10-20T13:40:36.120Z",
+      "ultimaVez": "2026-10-20T14:00:40.761Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-20T13:40:36.120Z"
+  "actualizado": "2026-10-20T14:00:40.761Z"
 }
