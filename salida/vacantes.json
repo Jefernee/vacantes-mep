@@ -1,17 +1,16 @@
 {
-  "generado": "2026-10-20T17:40:37.635Z",
-  "totalPais": 27,
+  "generado": "2026-10-20T18:00:50.471Z",
+  "totalPais": 24,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Artes Plásticas/Artes Plásticas",
     "Bilingual Accountig And Finance",
     "Biología",
     "Educación Física",
-    "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Inglés",
     "Labores Varias De Oficina",
-    "Música/Música",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -49,13 +48,13 @@
       "vence": "19/11/2026"
     },
     {
-      "vacante": "1551836",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Esc. Gravilias",
-      "lecciones": "40",
-      "rige": "26/10/2026",
+      "vacante": "1552119",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Plásticas/Artes Plásticas",
+      "institucion": "Liceo Jorge Volio Jimenez",
+      "lecciones": "18",
+      "rige": "23/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -66,16 +65,6 @@
       "institucion": "Sabanillas",
       "lecciones": "0",
       "rige": "22/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551822",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Drake (Sierpe)",
-      "lecciones": "0",
-      "rige": "21/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -179,6 +168,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1552117",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Joaquin L. Sancho Quesada",
+      "lecciones": "0",
+      "rige": "01/11/2026",
+      "vence": "31/07/2030"
+    },
+    {
       "vacante": "1552097",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -187,16 +186,6 @@
       "lecciones": "0",
       "rige": "22/10/2026",
       "vence": "11/01/2027"
-    },
-    {
-      "vacante": "1551829",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alf. Monge Ramirez (Naranjo)",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1551527",
@@ -257,26 +246,6 @@
       "lecciones": "0",
       "rige": "22/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551832",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Liceo De Pavas",
-      "lecciones": "40",
-      "rige": "23/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551820",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Lorena (Cartagena)",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "18/11/2026"
     },
     {
       "vacante": "1551874",
