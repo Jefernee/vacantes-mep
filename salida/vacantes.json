@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-20T21:40:40.680Z",
-  "totalPais": 29,
+  "generado": "2026-10-20T22:00:57.989Z",
+  "totalPais": 27,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -20,16 +20,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1551928",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Liceo Rural Las Marias",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/07/2030"
-    },
     {
       "vacante": "1551666",
       "regional": "Direc. Regional Educacion Cartago",
@@ -101,6 +91,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1552185",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo La Lucha De Potrero Grande",
+      "lecciones": "15",
+      "rige": "22/10/2026",
+      "vence": "07/12/2026"
+    },
+    {
       "vacante": "1552187",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -117,16 +117,6 @@
       "especialidad": "Química",
       "institucion": "Liceo La Lucha De Potrero Grande",
       "lecciones": "6",
-      "rige": "22/10/2026",
-      "vence": "07/12/2026"
-    },
-    {
-      "vacante": "1552185",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "15",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -159,16 +149,6 @@
       "lecciones": "44",
       "rige": "19/10/2026",
       "vence": "05/11/2026"
-    },
-    {
-      "vacante": "1551932",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Luis Gonzaga (Para)",
-      "lecciones": "0",
-      "rige": "20/10/2026",
-      "vence": "23/11/2026"
     },
     {
       "vacante": "1551992",
