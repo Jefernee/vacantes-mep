@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-20T17:00:42.293Z",
-  "totalPais": 30,
+  "generado": "2026-10-20T17:20:37.731Z",
+  "totalPais": 28,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -129,16 +129,6 @@
       "vence": "23/11/2026"
     },
     {
-      "vacante": "1551801",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "C.T.P San Pedro De Barva",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "12/01/2027"
-    },
-    {
       "vacante": "1510067",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)",
@@ -187,6 +177,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552097",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Otilio Ulate Blanco (Zarcero)",
+      "lecciones": "0",
+      "rige": "22/10/2026",
+      "vence": "11/01/2027"
     },
     {
       "vacante": "1551527",
@@ -279,32 +279,12 @@
       "vence": "18/11/2026"
     },
     {
-      "vacante": "1551807",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Barrio Lajas",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1551812",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Inglés",
       "institucion": "Col. Noct. De Santa Cruz",
       "lecciones": "6",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551802",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Guayabal (Santa Cruz)",
-      "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
