@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-20T14:00:40.759Z",
-  "totalPais": 34,
+  "generado": "2026-10-20T14:20:40.657Z",
+  "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,6 +12,7 @@
     "Inglés",
     "Labores Varias De Oficina",
     "Música/Música",
+    "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -188,14 +189,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1551829",
+      "vacante": "1551742",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Alf. Monge Ramirez (Naranjo)",
+      "institucion": "San Pedro (San Pedro)",
       "lecciones": "0",
       "rige": "21/10/2026",
-      "vence": "11/12/2026"
+      "vence": "13/02/2027"
     },
     {
       "vacante": "1551527",
@@ -208,14 +209,24 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1551742",
+      "vacante": "1551829",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Pedro (San Pedro)",
+      "institucion": "Alf. Monge Ramirez (Naranjo)",
       "lecciones": "0",
       "rige": "21/10/2026",
-      "vence": "13/02/2027"
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551988",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Pedro (San Pedro)",
+      "lecciones": "0",
+      "rige": "22/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1551831",
@@ -256,6 +267,16 @@
       "lecciones": "0",
       "rige": "01/11/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1551983",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Tejarcillos",
+      "lecciones": "0",
+      "rige": "22/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551781",
