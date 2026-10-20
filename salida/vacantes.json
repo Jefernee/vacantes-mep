@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-20T20:00:44.360Z",
-  "totalPais": 25,
+  "generado": "2026-10-20T20:20:40.335Z",
+  "totalPais": 26,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -86,6 +86,16 @@
       "lecciones": "16",
       "rige": "21/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552167",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Asistente De Dirección Centro Educativo 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Colegio Nocturno De Cariari",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "18/12/2026"
     },
     {
       "vacante": "1552138",
