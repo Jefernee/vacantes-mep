@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-20T23:20:34.366Z",
+  "generado": "2026-10-20T23:40:33.459Z",
   "totalPais": 27,
   "calzanVT6": 0,
   "advertencias": [],
@@ -91,16 +91,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552188",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "6",
-      "rige": "22/10/2026",
-      "vence": "07/12/2026"
-    },
-    {
       "vacante": "1552187",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -117,6 +107,16 @@
       "especialidad": "Ciencias",
       "institucion": "Liceo La Lucha De Potrero Grande",
       "lecciones": "15",
+      "rige": "22/10/2026",
+      "vence": "07/12/2026"
+    },
+    {
+      "vacante": "1552188",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo La Lucha De Potrero Grande",
+      "lecciones": "6",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
