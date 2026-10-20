@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 22056,
+      "vecesVista": 22070,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T15:40:48.556Z",
+      "ultimaVez": "2026-10-20T16:00:44.075Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 13353,
+      "vecesVista": 13361,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T15:40:48.556Z",
+      "ultimaVez": "2026-10-20T16:00:44.075Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 2132,
+      "vecesVista": 2133,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T15:40:48.556Z",
+      "ultimaVez": "2026-10-20T16:00:44.075Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 2565,
+      "vecesVista": 2566,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T15:40:48.556Z",
+      "ultimaVez": "2026-10-20T16:00:44.075Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -58,9 +58,9 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 1647,
+      "vecesVista": 1648,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T15:40:48.556Z",
+      "ultimaVez": "2026-10-20T16:00:44.075Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -93,30 +93,30 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 5150,
+      "vecesVista": 5153,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T15:40:48.556Z",
+      "ultimaVez": "2026-10-20T16:00:44.075Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1717,
+      "vecesVista": 1719,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T15:40:48.556Z",
+      "ultimaVez": "2026-10-20T16:00:44.075Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 1955,
+      "vecesVista": 1956,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T15:40:48.556Z",
+      "ultimaVez": "2026-10-20T16:00:44.075Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 730,
+      "vecesVista": 731,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T15:40:48.556Z",
+      "ultimaVez": "2026-10-20T16:00:44.075Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1496,
+      "vecesVista": 1497,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-10-20T15:40:48.556Z",
+      "ultimaVez": "2026-10-20T16:00:44.075Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -380,9 +380,9 @@
     },
     "Biología": {
       "calce": "no interesa",
-      "vecesVista": 700,
+      "vecesVista": 701,
       "primeraVez": "2026-09-16T18:20:42.372Z",
-      "ultimaVez": "2026-10-20T15:40:48.556Z",
+      "ultimaVez": "2026-10-20T16:00:44.075Z",
       "avisadaComoNueva": true
     },
     "Derecho": {
@@ -632,11 +632,11 @@
     },
     "Bilingual Accountig And Finance": {
       "calce": "no interesa",
-      "vecesVista": 48,
+      "vecesVista": 49,
       "primeraVez": "2026-10-19T18:40:46.040Z",
-      "ultimaVez": "2026-10-20T15:40:48.556Z",
+      "ultimaVez": "2026-10-20T16:00:44.075Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-20T15:40:48.556Z"
+  "actualizado": "2026-10-20T16:00:44.075Z"
 }
