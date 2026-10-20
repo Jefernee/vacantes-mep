@@ -1,13 +1,13 @@
 {
-  "generado": "2026-10-20T18:20:45.719Z",
-  "totalPais": 22,
+  "generado": "2026-10-20T18:40:50.295Z",
+  "totalPais": 23,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
-    "Bilingual Accountig And Finance",
     "Biología",
     "Educación Física",
+    "Español",
     "Inglés",
     "Labores Varias De Oficina",
     "Religión",
@@ -97,16 +97,6 @@
       "vence": "23/11/2026"
     },
     {
-      "vacante": "1510067",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)",
-      "especialidad": "Bilingual Accountig And Finance",
-      "institucion": "C.T.P. De Flores",
-      "lecciones": "4",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1551992",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -187,6 +177,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1552139",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Republica Mexico (Cajon)",
+      "lecciones": "0",
+      "rige": "22/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1551831",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -223,6 +223,16 @@
       "especialidad": "Religión",
       "institucion": "Tejarcillos",
       "lecciones": "0",
+      "rige": "22/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552136",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Unidad Pedagogica Daniel Oduber Quiros",
+      "lecciones": "5",
       "rige": "22/10/2026",
       "vence": "11/12/2026"
     },
