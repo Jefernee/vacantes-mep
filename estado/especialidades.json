@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 22178,
+      "vecesVista": 22186,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T19:33:57.113Z",
+      "ultimaVez": "2026-10-20T19:40:55.894Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 13426,
+      "vecesVista": 13432,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T19:33:57.113Z",
+      "ultimaVez": "2026-10-20T19:40:55.894Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 2144,
+      "vecesVista": 2145,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T19:33:57.113Z",
+      "ultimaVez": "2026-10-20T19:40:55.894Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 2585,
+      "vecesVista": 2587,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T19:33:57.113Z",
+      "ultimaVez": "2026-10-20T19:40:55.894Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -51,16 +51,16 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 585,
+      "vecesVista": 586,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T19:33:57.113Z",
+      "ultimaVez": "2026-10-20T19:40:55.894Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 1659,
+      "vecesVista": 1660,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T19:33:57.113Z",
+      "ultimaVez": "2026-10-20T19:40:55.894Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 1993,
+      "vecesVista": 1994,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T19:33:57.113Z",
+      "ultimaVez": "2026-10-20T19:40:55.894Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 5184,
+      "vecesVista": 5187,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-20T19:33:57.113Z",
+      "ultimaVez": "2026-10-20T19:40:55.894Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 1368,
+      "vecesVista": 1369,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-10-16T13:40:34.110Z",
+      "ultimaVez": "2026-10-20T19:40:55.894Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -380,9 +380,9 @@
     },
     "Biología": {
       "calce": "no interesa",
-      "vecesVista": 712,
+      "vecesVista": 713,
       "primeraVez": "2026-09-16T18:20:42.372Z",
-      "ultimaVez": "2026-10-20T19:33:57.113Z",
+      "ultimaVez": "2026-10-20T19:40:55.894Z",
       "avisadaComoNueva": true
     },
     "Derecho": {
@@ -638,5 +638,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-20T19:33:57.113Z"
+  "actualizado": "2026-10-20T19:40:55.894Z"
 }

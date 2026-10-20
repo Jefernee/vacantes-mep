@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-20T19:33:57.111Z",
-  "totalPais": 23,
+  "generado": "2026-10-20T19:40:55.892Z",
+  "totalPais": 25,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,6 +8,7 @@
     "Biología",
     "Educación Física",
     "Español",
+    "Francés",
     "Inglés",
     "Labores Varias De Oficina",
     "Religión",
@@ -85,6 +86,16 @@
       "lecciones": "16",
       "rige": "21/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552138",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Cindea Cariari",
+      "lecciones": "0",
+      "rige": "22/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1551932",
@@ -215,6 +226,16 @@
       "lecciones": "0",
       "rige": "01/11/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1552156",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Francés",
+      "institucion": "Liceo De San Carlos",
+      "lecciones": "44",
+      "rige": "20/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551983",
