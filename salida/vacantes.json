@@ -1,12 +1,11 @@
 {
-  "generado": "2026-10-21T18:20:38.422Z",
-  "totalPais": 32,
+  "generado": "2026-10-21T18:40:38.694Z",
+  "totalPais": 29,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Biología",
     "Ciencias",
-    "Español",
     "Filosofía",
     "Francés",
     "Inglés",
@@ -161,16 +160,6 @@
       "vence": "31/07/2027"
     },
     {
-      "vacante": "1552138",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cindea Cariari",
-      "lecciones": "0",
-      "rige": "22/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1552384",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -181,16 +170,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550140",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Cindea De Guacimo",
-      "lecciones": "18",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552368",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -198,6 +177,16 @@
       "institucion": "Liceo San Antonio",
       "lecciones": "35",
       "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550140",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Cindea De Guacimo",
+      "lecciones": "18",
+      "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -239,16 +228,6 @@
       "lecciones": "0",
       "rige": "23/10/2026",
       "vence": "21/04/2028"
-    },
-    {
-      "vacante": "1552139",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Republica Mexico (Cajon)",
-      "lecciones": "0",
-      "rige": "22/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1552278",
@@ -309,16 +288,6 @@
       "lecciones": "0",
       "rige": "29/10/2026",
       "vence": "21/12/2026"
-    },
-    {
-      "vacante": "1552136",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Unidad Pedagogica Daniel Oduber Quiros",
-      "lecciones": "5",
-      "rige": "22/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1552318",
