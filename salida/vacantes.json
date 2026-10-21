@@ -1,13 +1,12 @@
 {
-  "generado": "2026-10-21T13:40:43.366Z",
-  "totalPais": 29,
+  "generado": "2026-10-21T14:00:47.614Z",
+  "totalPais": 26,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
     "Biología",
     "Ciencias",
-    "Educación Física",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Español",
     "Francés",
@@ -51,26 +50,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1551666",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "J.N. Tres Rios",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1551505",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Liceo Rural Londres De Aguirre",
-      "lecciones": "17",
-      "rige": "12/10/2026",
-      "vence": "19/11/2026"
-    },
-    {
       "vacante": "1552149",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -111,16 +90,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1551981",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Las Lomas",
-      "lecciones": "0",
-      "rige": "22/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552035",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -131,12 +100,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552187",
+      "vacante": "1552188",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Química",
       "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "9",
+      "lecciones": "6",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -151,12 +120,12 @@
       "vence": "07/12/2026"
     },
     {
-      "vacante": "1552188",
+      "vacante": "1552187",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Biología",
       "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "6",
+      "lecciones": "9",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -169,6 +138,16 @@
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "18/12/2026"
+    },
+    {
+      "vacante": "1551581",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Pocora (Pocora)",
+      "lecciones": "0",
+      "rige": "20/11/2026",
+      "vence": "31/07/2027"
     },
     {
       "vacante": "1552138",
@@ -231,16 +210,6 @@
       "vence": "11/01/2027"
     },
     {
-      "vacante": "1551527",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Nautilio Acosta Piepper",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1551988",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -259,26 +228,6 @@
       "lecciones": "0",
       "rige": "22/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551831",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Montero Y Palito (Manzanillo)",
-      "lecciones": "0",
-      "rige": "17/10/2026",
-      "vence": "15/01/2027"
-    },
-    {
-      "vacante": "1551483",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Director De Colegio 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cindea Judas",
-      "lecciones": "0",
-      "rige": "15/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1552156",
@@ -301,6 +250,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1552148",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Francisco",
+      "lecciones": "0",
+      "rige": "29/10/2026",
+      "vence": "21/12/2026"
+    },
+    {
       "vacante": "1552136",
       "regional": "Direc. Regional Educacion San Jose - Oeste",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -309,6 +268,16 @@
       "lecciones": "5",
       "rige": "22/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552166",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Virgen (El Amparo)",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "31/07/2030"
     }
   ]
 }
