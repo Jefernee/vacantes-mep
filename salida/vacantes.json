@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-21T18:40:38.694Z",
+  "generado": "2026-10-21T19:00:36.921Z",
   "totalPais": 29,
   "calzanVT6": 0,
   "advertencias": [],
@@ -100,12 +100,12 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1552187",
+      "vacante": "1552185",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Ciencias",
       "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "9",
+      "lecciones": "15",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -120,12 +120,12 @@
       "vence": "07/12/2026"
     },
     {
-      "vacante": "1552185",
+      "vacante": "1552187",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
+      "especialidad": "Biología",
       "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "15",
+      "lecciones": "9",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -170,16 +170,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552368",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo San Antonio",
-      "lecciones": "35",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550140",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -187,6 +177,16 @@
       "institucion": "Cindea De Guacimo",
       "lecciones": "18",
       "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552368",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo San Antonio",
+      "lecciones": "35",
+      "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
     {
