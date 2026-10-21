@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 22643,
+      "vecesVista": 22650,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T20:00:43.420Z",
+      "ultimaVez": "2026-10-21T20:20:36.889Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 13766,
+      "vecesVista": 13773,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T20:00:43.420Z",
+      "ultimaVez": "2026-10-21T20:20:36.889Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 2218,
+      "vecesVista": 2220,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T20:00:43.420Z",
+      "ultimaVez": "2026-10-21T20:20:36.889Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 2673,
+      "vecesVista": 2675,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T20:00:43.420Z",
+      "ultimaVez": "2026-10-21T20:20:36.889Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -93,16 +93,16 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 5353,
+      "vecesVista": 5356,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T20:00:43.420Z",
+      "ultimaVez": "2026-10-21T20:20:36.889Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1738,
+      "vecesVista": 1739,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T20:00:43.420Z",
+      "ultimaVez": "2026-10-21T20:20:36.889Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 949,
+      "vecesVista": 950,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-10-21T20:00:43.420Z",
+      "ultimaVez": "2026-10-21T20:20:36.889Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 1198,
+      "vecesVista": 1199,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-21T20:00:43.420Z",
+      "ultimaVez": "2026-10-21T20:20:36.889Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -254,9 +254,9 @@
     },
     "Química": {
       "calce": "no interesa",
-      "vecesVista": 926,
+      "vecesVista": 927,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-10-21T20:00:43.420Z",
+      "ultimaVez": "2026-10-21T20:20:36.889Z",
       "avisadaComoNueva": true
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
@@ -380,9 +380,9 @@
     },
     "Biología": {
       "calce": "no interesa",
-      "vecesVista": 831,
+      "vecesVista": 833,
       "primeraVez": "2026-09-16T18:20:42.372Z",
-      "ultimaVez": "2026-10-21T20:00:43.420Z",
+      "ultimaVez": "2026-10-21T20:20:36.889Z",
       "avisadaComoNueva": true
     },
     "Derecho": {
@@ -639,11 +639,11 @@
     },
     "Turismo En Hotelería Y Eventos Especiales": {
       "calce": "no interesa",
-      "vecesVista": 18,
+      "vecesVista": 19,
       "primeraVez": "2026-10-21T15:00:54.504Z",
-      "ultimaVez": "2026-10-21T20:00:43.420Z",
+      "ultimaVez": "2026-10-21T20:20:36.889Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-21T20:00:43.420Z"
+  "actualizado": "2026-10-21T20:20:36.889Z"
 }
