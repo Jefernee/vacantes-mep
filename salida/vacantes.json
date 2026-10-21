@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-21T15:40:40.260Z",
-  "totalPais": 28,
+  "generado": "2026-10-21T15:48:17.064Z",
+  "totalPais": 29,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,6 +8,7 @@
     "Biología",
     "Ciencias",
     "Español",
+    "Filosofía",
     "Francés",
     "Inglés",
     "Labores Varias De Oficina",
@@ -80,16 +81,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552119",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Liceo Jorge Volio Jimenez",
-      "lecciones": "18",
-      "rige": "23/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552287",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -97,6 +88,16 @@
       "institucion": "Col. Republica De Italia",
       "lecciones": "4",
       "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552119",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Plásticas/Artes Plásticas",
+      "institucion": "Liceo Jorge Volio Jimenez",
+      "lecciones": "18",
+      "rige": "23/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -120,16 +121,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1552187",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "9",
-      "rige": "22/10/2026",
-      "vence": "07/12/2026"
-    },
-    {
       "vacante": "1552188",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -146,6 +137,16 @@
       "especialidad": "Ciencias",
       "institucion": "Liceo La Lucha De Potrero Grande",
       "lecciones": "15",
+      "rige": "22/10/2026",
+      "vence": "07/12/2026"
+    },
+    {
+      "vacante": "1552187",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "Liceo La Lucha De Potrero Grande",
+      "lecciones": "9",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -180,13 +181,23 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1550140",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Cindea De Guacimo",
+      "lecciones": "18",
+      "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1551458",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Santa Eduviges (Limon)",
       "lecciones": "0",
-      "rige": "21/10/2026",
+      "rige": "22/10/2026",
       "vence": "11/12/2026"
     },
     {
