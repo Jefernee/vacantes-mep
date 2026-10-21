@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-21T19:53:17.154Z",
-  "totalPais": 29,
+  "generado": "2026-10-21T20:00:43.418Z",
+  "totalPais": 28,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -99,6 +99,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1552187",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "Liceo La Lucha De Potrero Grande",
+      "lecciones": "9",
+      "rige": "22/10/2026",
+      "vence": "07/12/2026"
+    },
+    {
       "vacante": "1552188",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -117,26 +127,6 @@
       "lecciones": "15",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
-    },
-    {
-      "vacante": "1552187",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "9",
-      "rige": "22/10/2026",
-      "vence": "07/12/2026"
-    },
-    {
-      "vacante": "1552167",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Asistente De Dirección Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Colegio Nocturno De Cariari",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "18/12/2026"
     },
     {
       "vacante": "1552395",
