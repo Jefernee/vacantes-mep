@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-21T19:20:39.494Z",
+  "generado": "2026-10-21T19:40:37.935Z",
   "totalPais": 28,
   "calzanVT6": 0,
   "advertencias": [],
@@ -7,7 +7,6 @@
     "Biología",
     "Ciencias",
     "Filosofía",
-    "Francés",
     "Inglés",
     "Labores Varias De Oficina",
     "Música/Música",
@@ -100,12 +99,12 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1552187",
+      "vacante": "1552185",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Ciencias",
       "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "9",
+      "lecciones": "15",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -120,12 +119,12 @@
       "vence": "07/12/2026"
     },
     {
-      "vacante": "1552185",
+      "vacante": "1552187",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
+      "especialidad": "Biología",
       "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "15",
+      "lecciones": "9",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -220,6 +219,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1552387",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Director De Colegio 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Las Esperanzas",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1552335",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -257,16 +266,6 @@
       "institucion": "El Roble (Puntarenas)",
       "lecciones": "0",
       "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552156",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De San Carlos",
-      "lecciones": "44",
-      "rige": "20/10/2026",
       "vence": "11/12/2026"
     },
     {
