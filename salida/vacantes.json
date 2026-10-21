@@ -1,16 +1,14 @@
 {
-  "generado": "2026-10-21T20:20:36.887Z",
-  "totalPais": 28,
+  "generado": "2026-10-21T20:40:30.786Z",
+  "totalPais": 26,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Biología",
-    "Ciencias",
     "Filosofía",
     "Inglés",
     "Labores Varias De Oficina",
     "Música/Música",
-    "Química",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
@@ -97,36 +95,6 @@
       "lecciones": "0",
       "rige": "22/10/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1552185",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "15",
-      "rige": "22/10/2026",
-      "vence": "07/12/2026"
-    },
-    {
-      "vacante": "1552187",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "9",
-      "rige": "22/10/2026",
-      "vence": "07/12/2026"
-    },
-    {
-      "vacante": "1552188",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "6",
-      "rige": "22/10/2026",
-      "vence": "07/12/2026"
     },
     {
       "vacante": "1552395",
@@ -227,6 +195,16 @@
       "lecciones": "0",
       "rige": "23/10/2026",
       "vence": "21/04/2028"
+    },
+    {
+      "vacante": "1552490",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Dominicalito (Cortes)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1552463",
