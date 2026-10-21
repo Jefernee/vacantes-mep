@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-21T15:48:17.064Z",
-  "totalPais": 29,
+  "generado": "2026-10-21T16:00:43.732Z",
+  "totalPais": 30,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -121,12 +121,12 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1552188",
+      "vacante": "1552187",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
+      "especialidad": "Biología",
       "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "6",
+      "lecciones": "9",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -141,12 +141,12 @@
       "vence": "07/12/2026"
     },
     {
-      "vacante": "1552187",
+      "vacante": "1552188",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Química",
       "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "9",
+      "lecciones": "6",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -219,6 +219,16 @@
       "lecciones": "0",
       "rige": "22/10/2026",
       "vence": "11/01/2027"
+    },
+    {
+      "vacante": "1552335",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Flor De Bahia (Cortes)",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "21/04/2028"
     },
     {
       "vacante": "1552139",
