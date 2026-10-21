@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-21T19:00:36.921Z",
-  "totalPais": 29,
+  "generado": "2026-10-21T19:20:39.494Z",
+  "totalPais": 28,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -100,12 +100,12 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1552185",
+      "vacante": "1552187",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
+      "especialidad": "Biología",
       "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "15",
+      "lecciones": "9",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -120,12 +120,12 @@
       "vence": "07/12/2026"
     },
     {
-      "vacante": "1552187",
+      "vacante": "1552185",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
+      "especialidad": "Ciencias",
       "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "9",
+      "lecciones": "15",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -258,16 +258,6 @@
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552383",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Los Llanos (Aguas Zarcas)",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "27/11/2026"
     },
     {
       "vacante": "1552156",
