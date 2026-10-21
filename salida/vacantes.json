@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-21T17:20:45.553Z",
+  "generado": "2026-10-21T17:40:37.560Z",
   "totalPais": 33,
   "calzanVT6": 0,
   "advertencias": [],
@@ -112,16 +112,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1552187",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "9",
-      "rige": "22/10/2026",
-      "vence": "07/12/2026"
-    },
-    {
       "vacante": "1552188",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -142,6 +132,16 @@
       "vence": "07/12/2026"
     },
     {
+      "vacante": "1552187",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "Liceo La Lucha De Potrero Grande",
+      "lecciones": "9",
+      "rige": "22/10/2026",
+      "vence": "07/12/2026"
+    },
+    {
       "vacante": "1552167",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Asistente De Dirección Centro Educativo 1",
@@ -150,6 +150,16 @@
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "18/12/2026"
+    },
+    {
+      "vacante": "1552395",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Union (Guapiles)",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551581",
@@ -182,16 +192,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550140",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Cindea De Guacimo",
-      "lecciones": "18",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552368",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -199,6 +199,16 @@
       "institucion": "Liceo San Antonio",
       "lecciones": "35",
       "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550140",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Cindea De Guacimo",
+      "lecciones": "18",
+      "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -220,16 +230,6 @@
       "lecciones": "0",
       "rige": "22/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552117",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Joaquin L. Sancho Quesada",
-      "lecciones": "0",
-      "rige": "01/11/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1552300",
