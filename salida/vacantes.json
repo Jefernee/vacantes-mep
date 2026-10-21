@@ -1,13 +1,12 @@
 {
-  "generado": "2026-10-21T14:40:54.136Z",
-  "totalPais": 25,
+  "generado": "2026-10-21T15:00:54.502Z",
+  "totalPais": 28,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
     "Biología",
     "Ciencias",
-    "Enseñanza Especial . Problemas De Aprendizaje",
     "Español",
     "Francés",
     "Inglés",
@@ -15,7 +14,8 @@
     "Química",
     "Religión",
     "Sin Especialidad T-I",
-    "Sin Especialidad T-Ii"
+    "Sin Especialidad T-Ii",
+    "Turismo En Hotelería Y Eventos Especiales"
   ],
   "interesantes": [],
   "todas": [
@@ -80,6 +80,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1552287",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Turismo En Hotelería Y Eventos Especiales",
+      "institucion": "Col. Republica De Italia",
+      "lecciones": "4",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1552119",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -120,22 +130,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552187",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "9",
-      "rige": "22/10/2026",
-      "vence": "07/12/2026"
-    },
-    {
       "vacante": "1552188",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Química",
       "institucion": "Liceo La Lucha De Potrero Grande",
       "lecciones": "6",
+      "rige": "22/10/2026",
+      "vence": "07/12/2026"
+    },
+    {
+      "vacante": "1552187",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "Liceo La Lucha De Potrero Grande",
+      "lecciones": "9",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -180,16 +190,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1552104",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "19/10/2026",
-      "vence": "05/11/2026"
-    },
-    {
       "vacante": "1551458",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -227,6 +227,36 @@
       "institucion": "Republica Mexico (Cajon)",
       "lecciones": "0",
       "rige": "22/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552278",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Jose Joaquin Mora Porras",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1552272",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "El Progreso",
+      "lecciones": "0",
+      "rige": "20/10/2026",
+      "vence": "01/04/2028"
+    },
+    {
+      "vacante": "1552283",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Roble (Puntarenas)",
+      "lecciones": "0",
+      "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
     {

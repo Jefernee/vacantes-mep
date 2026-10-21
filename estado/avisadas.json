@@ -1,9 +1,6 @@
 {
   "avisadas": {
     "principal": {
-      "Direc. Regional Educacion Puntarenas|1546044": "2026-09-21T14:00:39.826Z",
-      "Direc. Regional Educacion Heredia|1546358": "2026-09-21T14:20:56.565Z",
-      "Direc. Regional Educacion Heredia|1546361": "2026-09-21T14:41:12.342Z",
       "Direc. Regional Educacion Alajuela|1546558": "2026-09-21T19:00:45.465Z",
       "Direc. Regional Educacion Santa Cruz|1547116": "2026-09-23T17:00:48.512Z",
       "Direc. Regional Educacion Guapiles|1547754": "2026-09-28T13:00:36.134Z",
@@ -13,7 +10,6 @@
       "Direc. Regional Educacion Occidente|1549832": "2026-10-07T19:41:10.043Z"
     },
     "matematicas": {
-      "Direc. Regional Educacion San Carlos|1546392": "2026-09-21T15:00:40.340Z",
       "Direc. Regional Educacion San Carlos|1546456": "2026-09-21T16:20:40.442Z",
       "Direc. Regional Educacion Alajuela|1546556": "2026-09-21T19:00:45.465Z",
       "Direc. Regional Educacion Cartago|1546517": "2026-09-22T14:01:00.409Z",
