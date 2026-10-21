@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-21T14:00:47.614Z",
-  "totalPais": 26,
+  "generado": "2026-10-21T14:20:41.655Z",
+  "totalPais": 25,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -47,6 +47,16 @@
       "institucion": "Maria Vargas Rodriguez",
       "lecciones": "0",
       "rige": "20/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551240",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "C.T.P. Carrizal",
+      "lecciones": "6",
+      "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -210,16 +220,6 @@
       "vence": "11/01/2027"
     },
     {
-      "vacante": "1551988",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Pedro (San Pedro)",
-      "lecciones": "0",
-      "rige": "22/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1552139",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -237,16 +237,6 @@
       "institucion": "Liceo De San Carlos",
       "lecciones": "44",
       "rige": "20/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551983",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Tejarcillos",
-      "lecciones": "0",
-      "rige": "22/10/2026",
       "vence": "11/12/2026"
     },
     {

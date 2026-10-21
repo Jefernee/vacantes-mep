@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 22493,
+      "vecesVista": 22499,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T14:00:47.616Z",
+      "ultimaVez": "2026-10-21T14:20:41.657Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 13629,
+      "vecesVista": 13634,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T14:00:47.616Z",
+      "ultimaVez": "2026-10-21T14:20:41.657Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 2187,
+      "vecesVista": 2188,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T14:00:47.616Z",
+      "ultimaVez": "2026-10-21T14:20:41.657Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 2631,
+      "vecesVista": 2632,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T14:00:47.616Z",
+      "ultimaVez": "2026-10-21T14:20:41.657Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -51,9 +51,9 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 624,
+      "vecesVista": 625,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T14:00:47.616Z",
+      "ultimaVez": "2026-10-21T14:20:41.657Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 2032,
+      "vecesVista": 2033,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T14:00:47.616Z",
+      "ultimaVez": "2026-10-21T14:20:41.657Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 5301,
+      "vecesVista": 5304,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-21T14:00:47.616Z",
+      "ultimaVez": "2026-10-21T14:20:41.657Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 1407,
+      "vecesVista": 1408,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-10-21T14:00:47.616Z",
+      "ultimaVez": "2026-10-21T14:20:41.657Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 1178,
+      "vecesVista": 1179,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-21T14:00:47.616Z",
+      "ultimaVez": "2026-10-21T14:20:41.657Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -198,9 +198,9 @@
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 1261,
+      "vecesVista": 1262,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-10-21T14:00:47.616Z",
+      "ultimaVez": "2026-10-21T14:20:41.657Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -254,9 +254,9 @@
     },
     "Química": {
       "calce": "no interesa",
-      "vecesVista": 906,
+      "vecesVista": 907,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-10-21T14:00:47.616Z",
+      "ultimaVez": "2026-10-21T14:20:41.657Z",
       "avisadaComoNueva": true
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
@@ -380,9 +380,9 @@
     },
     "Biología": {
       "calce": "no interesa",
-      "vecesVista": 787,
+      "vecesVista": 790,
       "primeraVez": "2026-09-16T18:20:42.372Z",
-      "ultimaVez": "2026-10-21T14:00:47.616Z",
+      "ultimaVez": "2026-10-21T14:20:41.657Z",
       "avisadaComoNueva": true
     },
     "Derecho": {
@@ -638,5 +638,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-21T14:00:47.616Z"
+  "actualizado": "2026-10-21T14:20:41.657Z"
 }
