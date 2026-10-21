@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-21T21:20:32.866Z",
-  "totalPais": 25,
+  "generado": "2026-10-21T21:40:42.362Z",
+  "totalPais": 26,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -235,6 +235,16 @@
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552508",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo De Costa Rica (Diurno)",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1552148",
