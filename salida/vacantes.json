@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-21T12:40:36.432Z",
-  "totalPais": 27,
+  "generado": "2026-10-21T13:00:38.390Z",
+  "totalPais": 29,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -21,6 +21,36 @@
   "interesantes": [],
   "todas": [
     {
+      "vacante": "1551244",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Fraijanes (Sabanilla)",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "30/11/2026"
+    },
+    {
+      "vacante": "1552042",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "J.N. Pedro Aguirre",
+      "lecciones": "0",
+      "rige": "20/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551972",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Maria Vargas Rodriguez",
+      "lecciones": "0",
+      "rige": "20/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1551666",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -39,6 +69,16 @@
       "lecciones": "17",
       "rige": "12/10/2026",
       "vence": "19/11/2026"
+    },
+    {
+      "vacante": "1552149",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Siete Colinas (San Vito)",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1552119",
@@ -91,22 +131,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552187",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "Liceo La Lucha De Potrero Grande",
-      "lecciones": "9",
-      "rige": "22/10/2026",
-      "vence": "07/12/2026"
-    },
-    {
       "vacante": "1552188",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Química",
       "institucion": "Liceo La Lucha De Potrero Grande",
       "lecciones": "6",
+      "rige": "22/10/2026",
+      "vence": "07/12/2026"
+    },
+    {
+      "vacante": "1552187",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "Liceo La Lucha De Potrero Grande",
+      "lecciones": "9",
       "rige": "22/10/2026",
       "vence": "07/12/2026"
     },
@@ -241,16 +281,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1551885",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Cuestillas (Florencia)",
-      "lecciones": "0",
-      "rige": "01/11/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1552156",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -278,16 +308,6 @@
       "institucion": "Unidad Pedagogica Daniel Oduber Quiros",
       "lecciones": "5",
       "rige": "22/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551874",
-      "regional": "Direc. Regional Educacion Turrialba",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Sta. Teresita (Santa Teresita)",
-      "lecciones": "0",
-      "rige": "23/10/2026",
       "vence": "11/12/2026"
     }
   ]
