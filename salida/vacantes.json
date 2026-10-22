@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-22T21:40:37.243Z",
+  "generado": "2026-10-22T22:00:43.658Z",
   "totalPais": 48,
   "calzanVT6": 1,
   "advertencias": [],
@@ -478,16 +478,6 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1552547",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Caño Castilla (El Amparo)",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "05/12/2026"
-    },
-    {
       "vacante": "1552545",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -496,6 +486,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552547",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Caño Castilla (El Amparo)",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "05/12/2026"
     },
     {
       "vacante": "1551476",
