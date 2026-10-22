@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-22T15:40:42.801Z",
-  "totalPais": 41,
+  "generado": "2026-10-22T15:46:25.557Z",
+  "totalPais": 39,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,7 +9,6 @@
     "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Estudios Sociales",
-    "Filosofía",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
     "Labores Varias De Oficina",
@@ -185,16 +184,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550140",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Cindea De Guacimo",
-      "lecciones": "18",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548890",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -225,21 +214,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552575",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Zent (Carrandi)",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552559",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Música/Música",
       "institucion": "El Carmen (Siquirres)",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552575",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Zent (Carrandi)",
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
@@ -293,16 +282,6 @@
       "lecciones": "0",
       "rige": "23/10/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1552335",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Flor De Bahia (Cortes)",
-      "lecciones": "0",
-      "rige": "23/10/2026",
-      "vence": "21/04/2028"
     },
     {
       "vacante": "1552490",
@@ -405,16 +384,6 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1552545",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Granada",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552547",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -423,6 +392,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1552545",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Granada",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551476",
