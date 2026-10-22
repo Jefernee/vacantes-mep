@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-22T13:48:26.991Z",
-  "totalPais": 26,
+  "generado": "2026-10-22T14:12:18.024Z",
+  "totalPais": 45,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,10 +8,14 @@
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Educación Física",
     "Educación Para El Hogar",
+    "Enseñanza Especial . Problemas De Aprendizaje",
+    "Estudios Sociales",
     "Filosofía",
     "Inglés",
     "Labores Varias De Oficina",
+    "Matemáticas",
     "Música/Música",
+    "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
@@ -32,6 +36,26 @@
   ],
   "todas": [
     {
+      "vacante": "1552461",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Estudios Sociales",
+      "institucion": "Dirección Regional De Educación Central Del Pacífico",
+      "lecciones": "0",
+      "rige": "20/10/2026",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1552530",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Estudios Sociales",
+      "institucion": "Dirección Regional De Educación De Grande De Térraba",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "19/12/2026"
+    },
+    {
       "vacante": "1551240",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -49,6 +73,76 @@
       "institucion": "Los Angeles (Santa Rosa)",
       "lecciones": "0",
       "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552472",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Liceo De San Nicolas",
+      "lecciones": "0",
+      "rige": "20/10/2026",
+      "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1552441",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "J.N. Ricardo Jimenez O.",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552548",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Cristobal Norte",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552445",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
+      "institucion": "C.T.P. De Pacayas",
+      "lecciones": "40",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551491",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Esterillos (Parrita)",
+      "lecciones": "0",
+      "rige": "09/10/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1552466",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Parrita (Parrita)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552146",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Esterillos Oeste (Parrita)",
+      "lecciones": "0",
+      "rige": "20/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -80,16 +174,6 @@
       "lecciones": "0",
       "rige": "23/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551581",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Pocora (Pocora)",
-      "lecciones": "0",
-      "rige": "20/11/2026",
-      "vence": "31/07/2027"
     },
     {
       "vacante": "1552384",
@@ -168,6 +252,16 @@
       "especialidad": "Educación Para El Hogar",
       "institucion": "Cindea El Cocal",
       "lecciones": "10",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552301",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Ntra.Sra De Los Angeles",
+      "lecciones": "44",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
@@ -252,6 +346,26 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1550982",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Cindea Puntarenas",
+      "lecciones": "44",
+      "rige": "16/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551910",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Subdirector De Colegio",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo De Esparza",
+      "lecciones": "0",
+      "rige": "13/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1552508",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
@@ -272,6 +386,16 @@
       "vence": "21/12/2026"
     },
     {
+      "vacante": "1552433",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Franklin Roosevelt",
+      "lecciones": "40",
+      "rige": "16/10/2026",
+      "vence": "14/12/2026"
+    },
+    {
       "vacante": "1552318",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -290,6 +414,76 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1552550",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Isidro (Aguas Claras)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1551569",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Cruz",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551652",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Bijagua",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "30/11/2026"
+    },
+    {
+      "vacante": "1552545",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Granada",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552547",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Caño Castilla (El Amparo)",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1551476",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Teodoro Picado Michalski",
+      "lecciones": "0",
+      "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551229",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Victoria (Delicias)",
+      "lecciones": "0",
+      "rige": "15/10/2026",
+      "vence": "11/12/2026"
     }
   ]
 }
