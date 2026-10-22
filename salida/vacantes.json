@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-22T20:31:39.213Z",
+  "generado": "2026-10-22T20:40:41.531Z",
   "totalPais": 47,
   "calzanVT6": 1,
   "advertencias": [],
@@ -258,21 +258,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552559",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "El Carmen (Siquirres)",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552575",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Música/Música",
       "institucion": "Zent (Carrandi)",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552559",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "El Carmen (Siquirres)",
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
@@ -438,16 +438,6 @@
       "vence": "14/12/2026"
     },
     {
-      "vacante": "1551569",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Cruz",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1551652",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -456,6 +446,16 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "30/11/2026"
+    },
+    {
+      "vacante": "1551569",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Cruz",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1552550",
@@ -468,16 +468,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1552547",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Caño Castilla (El Amparo)",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "05/12/2026"
-    },
-    {
       "vacante": "1552545",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -486,6 +476,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552547",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Caño Castilla (El Amparo)",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "05/12/2026"
     },
     {
       "vacante": "1551476",
