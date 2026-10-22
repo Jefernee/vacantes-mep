@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-22T20:40:41.531Z",
-  "totalPais": 47,
+  "generado": "2026-10-22T21:00:37.921Z",
+  "totalPais": 48,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -38,16 +38,6 @@
   ],
   "todas": [
     {
-      "vacante": "1552461",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Estudios Sociales",
-      "institucion": "Dirección Regional De Educación Central Del Pacífico",
-      "lecciones": "0",
-      "rige": "20/10/2026",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1552530",
       "regional": "Administracion Regional Del Sist. Educ.",
       "clasePuesto": "Asesor Regional (G. De E.)",
@@ -58,6 +48,16 @@
       "vence": "19/12/2026"
     },
     {
+      "vacante": "1552461",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Estudios Sociales",
+      "institucion": "Dirección Regional De Educación Central Del Pacífico",
+      "lecciones": "0",
+      "rige": "20/10/2026",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1552317",
       "regional": "Administracion Regional Del Sist. Educ.",
       "clasePuesto": "Supervisor De Educación",
@@ -66,6 +66,16 @@
       "lecciones": "0",
       "rige": "01/11/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1552751",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "I.D.A. Juan Santamaria",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1548033",
@@ -438,16 +448,6 @@
       "vence": "14/12/2026"
     },
     {
-      "vacante": "1551652",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Bijagua",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "30/11/2026"
-    },
-    {
       "vacante": "1551569",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -466,6 +466,16 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1551652",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Bijagua",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "30/11/2026"
     },
     {
       "vacante": "1552545",
