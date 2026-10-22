@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-22T14:40:40.043Z",
-  "totalPais": 42,
+  "generado": "2026-10-22T15:00:38.985Z",
+  "totalPais": 40,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -17,8 +17,7 @@
     "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas",
     "Religión",
     "Sin Especialidad T-I",
-    "Sin Especialidad T-Ii",
-    "Turismo En Hotelería Y Eventos Especiales"
+    "Sin Especialidad T-Ii"
   ],
   "interesantes": [
     {
@@ -35,16 +34,6 @@
   ],
   "todas": [
     {
-      "vacante": "1552530",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Estudios Sociales",
-      "institucion": "Dirección Regional De Educación De Grande De Térraba",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "19/12/2026"
-    },
-    {
       "vacante": "1552461",
       "regional": "Administracion Regional Del Sist. Educ.",
       "clasePuesto": "Asesor Regional (G. De E.)",
@@ -53,6 +42,16 @@
       "lecciones": "0",
       "rige": "20/10/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1552530",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Estudios Sociales",
+      "institucion": "Dirección Regional De Educación De Grande De Térraba",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "19/12/2026"
     },
     {
       "vacante": "1552472",
@@ -125,12 +124,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552287",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Turismo En Hotelería Y Eventos Especiales",
-      "institucion": "Col. Republica De Italia",
-      "lecciones": "4",
+      "vacante": "1552557",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Guatuso (Patarra)",
+      "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
@@ -165,16 +164,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1550140",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Cindea De Guacimo",
-      "lecciones": "18",
-      "rige": "15/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552368",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -182,6 +171,16 @@
       "institucion": "Liceo San Antonio",
       "lecciones": "35",
       "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1550140",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Cindea De Guacimo",
+      "lecciones": "18",
+      "rige": "15/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -215,12 +214,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552400",
+      "vacante": "1552559",
       "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Cindea El Cocal",
-      "lecciones": "10",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "El Carmen (Siquirres)",
+      "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
@@ -229,6 +228,16 @@
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Educación Para El Hogar",
+      "institucion": "Cindea El Cocal",
+      "lecciones": "10",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552400",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
       "institucion": "Cindea El Cocal",
       "lecciones": "10",
       "rige": "26/10/2026",
@@ -292,36 +301,6 @@
       "institucion": "Tierra Prometida",
       "lecciones": "0",
       "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552278",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Jose Joaquin Mora Porras",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1552272",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "El Progreso",
-      "lecciones": "0",
-      "rige": "20/10/2026",
-      "vence": "01/04/2028"
-    },
-    {
-      "vacante": "1552283",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Roble (Puntarenas)",
-      "lecciones": "0",
-      "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
     {
