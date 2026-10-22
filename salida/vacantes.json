@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-22T22:00:43.658Z",
-  "totalPais": 48,
+  "generado": "2026-10-22T22:20:46.949Z",
+  "totalPais": 47,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -258,16 +258,6 @@
       "vence": "11/01/2027"
     },
     {
-      "vacante": "1552525",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "C.T.P. Valle Estrella",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552692",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -298,20 +288,20 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552400",
+      "vacante": "1552397",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
+      "especialidad": "Educación Para El Hogar",
       "institucion": "Cindea El Cocal",
       "lecciones": "10",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552397",
+      "vacante": "1552400",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
+      "especialidad": "Educación Física",
       "institucion": "Cindea El Cocal",
       "lecciones": "10",
       "rige": "26/10/2026",
@@ -458,16 +448,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552550",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Isidro (Aguas Claras)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1551652",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -478,14 +458,14 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1552545",
+      "vacante": "1552550",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Granada",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Isidro (Aguas Claras)",
       "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "11/12/2026"
+      "rige": "02/11/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1552547",
@@ -496,6 +476,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1552545",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Granada",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551476",
