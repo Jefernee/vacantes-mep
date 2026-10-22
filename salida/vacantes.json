@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-22T13:00:38.537Z",
+  "generado": "2026-10-22T13:27:26.911Z",
   "totalPais": 26,
   "calzanVT6": 1,
   "advertencias": [],
@@ -102,16 +102,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552368",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo San Antonio",
-      "lecciones": "35",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550140",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -119,6 +109,16 @@
       "institucion": "Cindea De Guacimo",
       "lecciones": "18",
       "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552368",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo San Antonio",
+      "lecciones": "35",
+      "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
     {
