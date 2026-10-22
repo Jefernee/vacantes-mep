@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 23270,
+      "vecesVista": 23285,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 14184,
+      "vecesVista": 14195,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 2307,
+      "vecesVista": 2308,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 2775,
+      "vecesVista": 2776,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -44,30 +44,30 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 1444,
+      "vecesVista": 1445,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 647,
+      "vecesVista": 648,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 1721,
+      "vecesVista": 1722,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1336,
+      "vecesVista": 1338,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -79,9 +79,9 @@
     },
     "Física": {
       "calce": "no interesa",
-      "vecesVista": 587,
+      "vecesVista": 588,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Secretariado Ejecutivo": {
@@ -100,9 +100,9 @@
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 1840,
+      "vecesVista": 1843,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -128,16 +128,16 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 1205,
+      "vecesVista": 1207,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
       "calce": "no interesa",
-      "vecesVista": 664,
+      "vecesVista": 665,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Informática En Desarrollo Del Software": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 1204,
+      "vecesVista": 1205,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -198,9 +198,9 @@
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 1284,
+      "vecesVista": 1285,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -212,16 +212,16 @@
     },
     "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos": {
       "calce": "exacta",
-      "vecesVista": 421,
+      "vecesVista": 422,
       "primeraVez": "2026-09-07T16:15:30.346Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 1183,
+      "vecesVista": 1184,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -282,9 +282,9 @@
     },
     "Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas": {
       "calce": "no interesa",
-      "vecesVista": 79,
+      "vecesVista": 80,
       "primeraVez": "2026-09-08T16:00:54.367Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Orientación": {
@@ -541,9 +541,9 @@
     },
     "Estudios Sociales": {
       "calce": "no interesa",
-      "vecesVista": 91,
+      "vecesVista": 93,
       "primeraVez": "2026-10-05T13:00:35.405Z",
-      "ultimaVez": "2026-10-22T20:11:16.907Z",
+      "ultimaVez": "2026-10-22T20:31:39.215Z",
       "avisadaComoNueva": true
     },
     "Contabilidad Y Control Interno": {
@@ -645,5 +645,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-22T20:11:16.907Z"
+  "actualizado": "2026-10-22T20:31:39.215Z"
 }

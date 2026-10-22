@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-22T20:11:16.905Z",
-  "totalPais": 48,
+  "generado": "2026-10-22T20:31:39.213Z",
+  "totalPais": 47,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -38,16 +38,6 @@
   ],
   "todas": [
     {
-      "vacante": "1552530",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Estudios Sociales",
-      "institucion": "Dirección Regional De Educación De Grande De Térraba",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "19/12/2026"
-    },
-    {
       "vacante": "1552461",
       "regional": "Administracion Regional Del Sist. Educ.",
       "clasePuesto": "Asesor Regional (G. De E.)",
@@ -56,6 +46,16 @@
       "lecciones": "0",
       "rige": "20/10/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1552530",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Estudios Sociales",
+      "institucion": "Dirección Regional De Educación De Grande De Térraba",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "19/12/2026"
     },
     {
       "vacante": "1552317",
@@ -328,16 +328,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552490",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Dominicalito (Cortes)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552303",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -478,16 +468,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1552545",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Granada",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552547",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -496,6 +476,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1552545",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Granada",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551476",
