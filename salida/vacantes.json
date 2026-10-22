@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-22T22:55:44.376Z",
+  "generado": "2026-10-22T23:00:42.942Z",
   "totalPais": 47,
   "calzanVT6": 1,
   "advertencias": [],
@@ -38,16 +38,6 @@
   ],
   "todas": [
     {
-      "vacante": "1552530",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Estudios Sociales",
-      "institucion": "Dirección Regional De Educación De Grande De Térraba",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "19/12/2026"
-    },
-    {
       "vacante": "1552461",
       "regional": "Administracion Regional Del Sist. Educ.",
       "clasePuesto": "Asesor Regional (G. De E.)",
@@ -56,6 +46,16 @@
       "lecciones": "0",
       "rige": "20/10/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1552530",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Estudios Sociales",
+      "institucion": "Dirección Regional De Educación De Grande De Térraba",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "19/12/2026"
     },
     {
       "vacante": "1552317",
