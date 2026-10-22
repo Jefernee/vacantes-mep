@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-22T14:30:37.416Z",
-  "totalPais": 43,
+  "generado": "2026-10-22T14:40:40.043Z",
+  "totalPais": 42,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -53,16 +53,6 @@
       "lecciones": "0",
       "rige": "20/10/2026",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1552293",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Angeles (Santa Rosa)",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1552472",
@@ -175,16 +165,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552368",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo San Antonio",
-      "lecciones": "35",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1550140",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -192,6 +172,16 @@
       "institucion": "Cindea De Guacimo",
       "lecciones": "18",
       "rige": "15/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552368",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo San Antonio",
+      "lecciones": "35",
+      "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -395,6 +385,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1552550",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Isidro (Aguas Claras)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1551569",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -413,16 +413,6 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "30/11/2026"
-    },
-    {
-      "vacante": "1552550",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Isidro (Aguas Claras)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1552545",
