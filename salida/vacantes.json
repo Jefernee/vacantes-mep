@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-23T13:00:37.001Z",
+  "generado": "2026-10-23T13:20:41.224Z",
   "totalPais": 44,
   "calzanVT6": 0,
   "advertencias": [],
@@ -244,21 +244,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552575",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Zent (Carrandi)",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552559",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Música/Música",
       "institucion": "El Carmen (Siquirres)",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552575",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Zent (Carrandi)",
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
@@ -424,16 +424,6 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1552545",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Granada",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552547",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -442,6 +432,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1552545",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Granada",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1551476",
