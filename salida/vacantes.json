@@ -1,12 +1,11 @@
 {
-  "generado": "2026-10-23T16:01:23.920Z",
-  "totalPais": 19,
+  "generado": "2026-10-23T16:20:34.645Z",
+  "totalPais": 18,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
     "Ciencias",
-    "Contabilidad",
     "Educación Para El Hogar",
     "Física",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
@@ -125,16 +124,6 @@
       "institucion": "Cindea De 28 Millas",
       "lecciones": "44",
       "rige": "27/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552599",
-      "regional": "Direc. Regional Educacion Los Santos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "C.T.P. De San Pablo De Leon C.",
-      "lecciones": "40",
-      "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
     {
