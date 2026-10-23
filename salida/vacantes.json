@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-23T17:20:38.405Z",
-  "totalPais": 10,
+  "generado": "2026-10-23T17:40:29.130Z",
+  "totalPais": 9,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -52,16 +52,6 @@
       "lecciones": "0",
       "rige": "22/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552638",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Nuevo De Santo Domingo",
-      "lecciones": "0",
-      "rige": "22/10/2026",
-      "vence": "11/01/2027"
     },
     {
       "vacante": "1552692",
