@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 23835,
+      "vecesVista": 23840,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T16:20:34.646Z",
+      "ultimaVez": "2026-10-23T16:52:44.207Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 14639,
+      "vecesVista": 14644,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T16:20:34.646Z",
+      "ultimaVez": "2026-10-23T16:52:44.207Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 2352,
+      "vecesVista": 2353,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T16:20:34.646Z",
+      "ultimaVez": "2026-10-23T16:52:44.207Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -44,16 +44,16 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 1519,
+      "vecesVista": 1520,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T16:20:34.646Z",
+      "ultimaVez": "2026-10-23T16:52:44.207Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 692,
+      "vecesVista": 693,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T16:20:34.646Z",
+      "ultimaVez": "2026-10-23T16:52:44.207Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -79,9 +79,9 @@
     },
     "Física": {
       "calce": "no interesa",
-      "vecesVista": 632,
+      "vecesVista": 633,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T16:20:34.646Z",
+      "ultimaVez": "2026-10-23T16:52:44.207Z",
       "avisadaComoNueva": true
     },
     "Secretariado Ejecutivo": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 1290,
+      "vecesVista": 1291,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T16:20:34.646Z",
+      "ultimaVez": "2026-10-23T16:52:44.207Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 1249,
+      "vecesVista": 1250,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-23T16:20:34.646Z",
+      "ultimaVez": "2026-10-23T16:52:44.207Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -219,9 +219,9 @@
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 1228,
+      "vecesVista": 1229,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-10-23T16:20:34.646Z",
+      "ultimaVez": "2026-10-23T16:52:44.207Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -645,5 +645,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-23T16:20:34.646Z"
+  "actualizado": "2026-10-23T16:52:44.207Z"
 }
