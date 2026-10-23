@@ -1,12 +1,11 @@
 {
-  "generado": "2026-10-23T17:00:35.324Z",
-  "totalPais": 12,
+  "generado": "2026-10-23T17:20:38.405Z",
+  "totalPais": 10,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Ciencias",
     "Educación Para El Hogar",
-    "Física",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Psicología",
     "Sin Especialidad T-I",
@@ -23,16 +22,6 @@
       "lecciones": "0",
       "rige": "23/10/2026",
       "vence": "31/07/2031"
-    },
-    {
-      "vacante": "1548033",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Asistente De Dirección Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Ctp Santa Eulalia",
-      "lecciones": "0",
-      "rige": "28/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1552725",
@@ -122,16 +111,6 @@
       "institucion": "Republic De Haiti(S.Sebastian)",
       "lecciones": "0",
       "rige": "30/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552621",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P. De Granadilla",
-      "lecciones": "42",
-      "rige": "26/10/2026",
       "vence": "11/12/2026"
     }
   ]
