@@ -9,9 +9,9 @@
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 14681,
+      "vecesVista": 14682,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T21:00:34.186Z",
+      "ultimaVez": "2026-10-23T21:20:27.720Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 1533,
+      "vecesVista": 1534,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T21:00:34.186Z",
+      "ultimaVez": "2026-10-23T21:20:27.720Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -645,5 +645,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-23T21:00:34.186Z"
+  "actualizado": "2026-10-23T21:20:27.720Z"
 }
