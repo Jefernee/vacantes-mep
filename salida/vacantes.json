@@ -1,14 +1,12 @@
 {
-  "generado": "2026-10-23T12:40:44.986Z",
-  "totalPais": 47,
-  "calzanVT6": 1,
+  "generado": "2026-10-23T13:00:37.001Z",
+  "totalPais": 44,
+  "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
     "Ciencias",
-    "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
     "Contabilidad",
-    "Educación Física",
     "Educación Para El Hogar",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Estudios Sociales",
@@ -23,30 +21,8 @@
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
-  "interesantes": [
-    {
-      "vacante": "1549617",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "Col. Noct. De Desamparados",
-      "lecciones": "12",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026",
-      "calce": "exacta"
-    }
-  ],
+  "interesantes": [],
   "todas": [
-    {
-      "vacante": "1552530",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Estudios Sociales",
-      "institucion": "Dirección Regional De Educación De Grande De Térraba",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "19/12/2026"
-    },
     {
       "vacante": "1552461",
       "regional": "Administracion Regional Del Sist. Educ.",
@@ -56,6 +32,16 @@
       "lecciones": "0",
       "rige": "20/10/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1552530",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Estudios Sociales",
+      "institucion": "Dirección Regional De Educación De Grande De Térraba",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "19/12/2026"
     },
     {
       "vacante": "1552317",
@@ -238,16 +224,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1549617",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos",
-      "institucion": "Col. Noct. De Desamparados",
-      "lecciones": "12",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552638",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -284,26 +260,6 @@
       "especialidad": "Música/Música",
       "institucion": "El Carmen (Siquirres)",
       "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552400",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Cindea El Cocal",
-      "lecciones": "10",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552397",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Cindea El Cocal",
-      "lecciones": "10",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
@@ -468,16 +424,6 @@
       "vence": "30/11/2026"
     },
     {
-      "vacante": "1552547",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Caño Castilla (El Amparo)",
-      "lecciones": "0",
-      "rige": "21/10/2026",
-      "vence": "05/12/2026"
-    },
-    {
       "vacante": "1552545",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -486,6 +432,16 @@
       "lecciones": "0",
       "rige": "21/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552547",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Caño Castilla (El Amparo)",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "05/12/2026"
     },
     {
       "vacante": "1551476",
