@@ -1,25 +1,14 @@
 {
-  "generado": "2026-10-23T20:40:47.340Z",
-  "totalPais": 3,
+  "generado": "2026-10-23T21:00:34.184Z",
+  "totalPais": 2,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Educación Para El Hogar",
-    "Sin Especialidad T-I",
-    "Sin Especialidad T-Ii"
+    "Sin Especialidad T-I"
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1552751",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "I.D.A. Juan Santamaria",
-      "lecciones": "0",
-      "rige": "23/10/2026",
-      "vence": "31/07/2031"
-    },
     {
       "vacante": "1552770",
       "regional": "Direc. Regional Educacion Alajuela",
