@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 23840,
+      "vecesVista": 23843,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T16:52:44.207Z",
+      "ultimaVez": "2026-10-23T17:00:35.325Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 14644,
+      "vecesVista": 14648,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T16:52:44.207Z",
+      "ultimaVez": "2026-10-23T17:00:35.325Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 1520,
+      "vecesVista": 1521,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T16:52:44.207Z",
+      "ultimaVez": "2026-10-23T17:00:35.325Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -79,9 +79,9 @@
     },
     "Física": {
       "calce": "no interesa",
-      "vecesVista": 633,
+      "vecesVista": 634,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T16:52:44.207Z",
+      "ultimaVez": "2026-10-23T17:00:35.325Z",
       "avisadaComoNueva": true
     },
     "Secretariado Ejecutivo": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 1291,
+      "vecesVista": 1292,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T16:52:44.207Z",
+      "ultimaVez": "2026-10-23T17:00:35.325Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 1250,
+      "vecesVista": 1251,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-23T16:52:44.207Z",
+      "ultimaVez": "2026-10-23T17:00:35.325Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -219,9 +219,9 @@
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 1229,
+      "vecesVista": 1230,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-10-23T16:52:44.207Z",
+      "ultimaVez": "2026-10-23T17:00:35.325Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -645,5 +645,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-23T16:52:44.207Z"
+  "actualizado": "2026-10-23T17:00:35.325Z"
 }
