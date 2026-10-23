@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-23T01:09:09.818Z",
+  "generado": "2026-10-23T01:20:37.702Z",
   "totalPais": 47,
   "calzanVT6": 1,
   "advertencias": [],
@@ -448,16 +448,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1551569",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Cruz",
-      "lecciones": "0",
-      "rige": "19/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1551652",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -466,6 +456,16 @@
       "lecciones": "0",
       "rige": "19/10/2026",
       "vence": "30/11/2026"
+    },
+    {
+      "vacante": "1551569",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Cruz",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1552547",
