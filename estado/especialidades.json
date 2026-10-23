@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 23859,
+      "vecesVista": 23860,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T19:43:01.930Z",
+      "ultimaVez": "2026-10-23T20:05:20.760Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 14677,
+      "vecesVista": 14678,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T19:43:01.930Z",
+      "ultimaVez": "2026-10-23T20:05:20.760Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 1529,
+      "vecesVista": 1530,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-23T19:43:01.930Z",
+      "ultimaVez": "2026-10-23T20:05:20.760Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -219,9 +219,9 @@
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 1238,
+      "vecesVista": 1239,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-10-23T19:43:01.930Z",
+      "ultimaVez": "2026-10-23T20:05:20.760Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -645,5 +645,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-23T19:43:01.930Z"
+  "actualizado": "2026-10-23T20:05:20.760Z"
 }

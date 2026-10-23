@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-23T19:43:01.928Z",
-  "totalPais": 6,
+  "generado": "2026-10-23T20:05:20.757Z",
+  "totalPais": 4,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -20,26 +20,6 @@
       "lecciones": "0",
       "rige": "23/10/2026",
       "vence": "31/07/2031"
-    },
-    {
-      "vacante": "1552725",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Turrucares",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1552722",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Mons. Delfin Q Castro",
-      "lecciones": "0",
-      "rige": "23/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1552770",
