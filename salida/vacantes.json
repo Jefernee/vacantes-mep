@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-23T03:26:48.777Z",
+  "generado": "2026-10-23T03:40:34.563Z",
   "totalPais": 47,
   "calzanVT6": 1,
   "advertencias": [],
@@ -38,16 +38,6 @@
   ],
   "todas": [
     {
-      "vacante": "1552530",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Estudios Sociales",
-      "institucion": "Dirección Regional De Educación De Grande De Térraba",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "19/12/2026"
-    },
-    {
       "vacante": "1552461",
       "regional": "Administracion Regional Del Sist. Educ.",
       "clasePuesto": "Asesor Regional (G. De E.)",
@@ -56,6 +46,16 @@
       "lecciones": "0",
       "rige": "20/10/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1552530",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Estudios Sociales",
+      "institucion": "Dirección Regional De Educación De Grande De Térraba",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "19/12/2026"
     },
     {
       "vacante": "1552317",
@@ -268,21 +268,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552559",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "El Carmen (Siquirres)",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552575",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Música/Música",
       "institucion": "Zent (Carrandi)",
+      "lecciones": "0",
+      "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552559",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "El Carmen (Siquirres)",
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
