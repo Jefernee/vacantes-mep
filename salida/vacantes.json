@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-23T14:40:43.954Z",
-  "totalPais": 24,
+  "generado": "2026-10-23T15:00:33.297Z",
+  "totalPais": 22,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -120,16 +120,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552557",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Guatuso (Patarra)",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552310",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -165,16 +155,6 @@
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Música/Música",
       "institucion": "Zent (Carrandi)",
-      "lecciones": "0",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552559",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "El Carmen (Siquirres)",
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "11/12/2026"
