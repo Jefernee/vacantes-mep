@@ -1,6 +1,6 @@
 {
-  "fallando": true,
+  "fallando": false,
   "ultimoAviso": "2026-10-24T21:21:45.034Z",
-  "desde": "2026-10-23T21:42:04.973Z",
-  "seguidos": 56
+  "desde": null,
+  "seguidos": 0
 }
