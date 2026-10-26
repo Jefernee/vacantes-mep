@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-26T18:48:15.499Z",
-  "totalPais": 43,
+  "generado": "2026-10-26T19:00:48.664Z",
+  "totalPais": 44,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -285,6 +285,16 @@
       "lecciones": "40",
       "rige": "23/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1553982",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media Bilingüe (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Col.Exp.Bilingue Sarchi Sur",
+      "lecciones": "34",
+      "rige": "28/10/2026",
+      "vence": "10/12/2026"
     },
     {
       "vacante": "1551016",
