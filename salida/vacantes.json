@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-26T15:30:24.582Z",
-  "totalPais": 38,
+  "generado": "2026-10-26T15:40:51.092Z",
+  "totalPais": 39,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,6 +12,7 @@
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Enseñanza Preescolar",
     "Español",
+    "Estudios Sociales/Educación Cívica",
     "Física",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
@@ -272,6 +273,16 @@
       "lecciones": "0",
       "rige": "09/11/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1553854",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Iii Ciclo Dr.Rafael A.Calderon",
+      "lecciones": "8",
+      "rige": "28/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1552807",
