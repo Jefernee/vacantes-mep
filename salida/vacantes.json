@@ -1,12 +1,16 @@
 {
-  "generado": "2026-10-26T13:59:24.816Z",
-  "totalPais": 15,
+  "generado": "2026-10-26T14:17:09.871Z",
+  "totalPais": 33,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Biología",
     "Educación Física",
+    "Enseñanza Especial . Discapacidad Múltiple",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Enseñanza Preescolar",
+    "Física",
+    "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
     "Rehabilitación / Ocupacional",
     "Religión",
@@ -36,6 +40,86 @@
       "vence": "05/06/2027"
     },
     {
+      "vacante": "1553803",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Muelle (Puerto Viejo)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1552817",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Arturo Volio Jimenez",
+      "lecciones": "0",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552810",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Corazon De Jesus (San Rafael)",
+      "lecciones": "0",
+      "rige": "01/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552812",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "Liceo Academico Llano Los Angeles",
+      "lecciones": "3",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552815",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "Liceo Academico Llano Los Angeles",
+      "lecciones": "3",
+      "rige": "21/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552741",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Damas (Quepos)",
+      "lecciones": "0",
+      "rige": "22/10/2026",
+      "vence": "22/12/2026"
+    },
+    {
+      "vacante": "1552819",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Los Angeles (Parrita)",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552879",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Sukia (Santa Maria)",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1552926",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -54,6 +138,16 @@
       "lecciones": "4",
       "rige": "03/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552310",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Barrio Alemania",
+      "lecciones": "0",
+      "rige": "28/10/2026",
+      "vence": "15/02/2027"
     },
     {
       "vacante": "1553000",
@@ -83,6 +177,26 @@
       "institucion": "Finca Formosa",
       "lecciones": "0",
       "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552976",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Joaquin Lizano Gutierrez",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "20/08/2027"
+    },
+    {
+      "vacante": "1553009",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Discapacidad Múltiple",
+      "institucion": "Ens. Esp. De Heredia",
+      "lecciones": "40",
+      "rige": "26/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -126,6 +240,26 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1552807",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Emiliano Odio Madrigal",
+      "lecciones": "0",
+      "rige": "16/11/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1552808",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Liceo De Chacarita",
+      "lecciones": "44",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1552960",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
@@ -156,6 +290,46 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1552799",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Asistente De Servicios De Educacion Especial",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Cedros",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1552756",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Esmeralda Oreamuno De Jimenez",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1552769",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Dante Alighieri",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1552747",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Filomena Blanco Quiros",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1551782",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -163,6 +337,16 @@
       "institucion": "El Llano (Tempate)",
       "lecciones": "0",
       "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552733",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Virgen (El Amparo)",
+      "lecciones": "0",
+      "rige": "22/10/2026",
       "vence": "11/12/2026"
     }
   ]
