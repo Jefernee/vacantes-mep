@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-26T20:42:45.022Z",
-  "totalPais": 44,
+  "generado": "2026-10-26T21:00:44.227Z",
+  "totalPais": 47,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -15,9 +15,11 @@
     "Enseñanza Preescolar",
     "Español",
     "Estudios Sociales/Educación Cívica",
+    "Filosofía",
     "Física",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
+    "Labores Varias De Oficina",
     "Música/Música",
     "Rehabilitación / Ocupacional",
     "Religión",
@@ -65,6 +67,16 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1554045",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Luis (Cañas)",
+      "lecciones": "0",
+      "rige": "27/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1552817",
@@ -237,6 +249,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1548583",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Alba Ocampo Alvarado (Liberia)",
+      "lecciones": "0",
+      "rige": "30/10/2026",
+      "vence": "28/02/2028"
+    },
+    {
       "vacante": "1553869",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -374,6 +396,16 @@
       "institucion": "Esc. Ctral San Sebastian",
       "lecciones": "40",
       "rige": "22/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554041",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Centro Cap.Com. 15 Setiembre",
+      "lecciones": "2",
+      "rige": "03/11/2026",
       "vence": "11/12/2026"
     },
     {
