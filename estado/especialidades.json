@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 23866,
+      "vecesVista": 23870,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-26T13:00:46.943Z",
+      "ultimaVez": "2026-10-26T13:33:42.457Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 14769,
+      "vecesVista": 14772,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-26T13:00:46.943Z",
+      "ultimaVez": "2026-10-26T13:33:42.457Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 2354,
+      "vecesVista": 2355,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-26T13:00:46.943Z",
+      "ultimaVez": "2026-10-26T13:33:42.457Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -58,9 +58,9 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 1757,
+      "vecesVista": 1760,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-26T13:00:46.943Z",
+      "ultimaVez": "2026-10-26T13:33:42.457Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 5502,
+      "vecesVista": 5503,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-26T13:00:46.943Z",
+      "ultimaVez": "2026-10-26T13:33:42.457Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -114,9 +114,9 @@
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 738,
+      "vecesVista": 739,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-26T13:00:46.943Z",
+      "ultimaVez": "2026-10-26T13:33:42.457Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -338,9 +338,9 @@
     },
     "Enseñanza Preescolar": {
       "calce": "no interesa",
-      "vecesVista": 58,
+      "vecesVista": 59,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-10-26T13:00:46.943Z",
+      "ultimaVez": "2026-10-26T13:33:42.457Z",
       "avisadaComoNueva": true
     },
     "Diseño De Productos Industriales Textiles": {
@@ -373,9 +373,9 @@
     },
     "Rehabilitación / Ocupacional": {
       "calce": "no interesa",
-      "vecesVista": 52,
+      "vecesVista": 53,
       "primeraVez": "2026-09-16T13:00:34.738Z",
-      "ultimaVez": "2026-10-26T13:00:46.943Z",
+      "ultimaVez": "2026-10-26T13:33:42.457Z",
       "avisadaComoNueva": true
     },
     "Biología": {
@@ -645,5 +645,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-26T13:00:46.943Z"
+  "actualizado": "2026-10-26T13:33:42.457Z"
 }
