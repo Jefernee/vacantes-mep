@@ -1,9 +1,10 @@
 {
-  "generado": "2026-10-26T15:40:51.092Z",
-  "totalPais": 39,
+  "generado": "2026-10-26T16:00:53.192Z",
+  "totalPais": 43,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Artes Industriales",
     "Biología",
     "Contabilidad",
     "Educación Física",
@@ -155,6 +156,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1553873",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Dr Calderon Muñoz (San Miguel)",
+      "lecciones": "0",
+      "rige": "28/10/2026",
+      "vence": "10/12/2026"
+    },
+    {
       "vacante": "1553801",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -222,6 +233,16 @@
       "institucion": "Ens. Esp. De Heredia",
       "lecciones": "40",
       "rige": "26/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1553869",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Colegio Deportivo De Limon",
+      "lecciones": "15",
+      "rige": "28/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -325,6 +346,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1553839",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Coopevega (Cutris)",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1552947",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -381,6 +412,16 @@
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "El Llano (Tempate)",
       "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1553841",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Industriales",
+      "institucion": "C.T.P. De Santa Barbara",
+      "lecciones": "44",
       "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
