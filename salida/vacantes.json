@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-27T12:40:38.071Z",
-  "totalPais": 48,
+  "generado": "2026-10-27T13:00:39.766Z",
+  "totalPais": 41,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -11,8 +11,6 @@
     "Educación Física",
     "Enseñanza Especial . Discapacidad Múltiple",
     "Enseñanza Especial . Problemas De Aprendizaje",
-    "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-    "Enseñanza Preescolar",
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
@@ -21,23 +19,12 @@
     "Inglés",
     "Labores Varias De Oficina",
     "Música/Música",
-    "Rehabilitación / Ocupacional",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1550457",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Enseñanza Preescolar",
-      "institucion": "Dirección Regional De Educación De Occidente",
-      "lecciones": "0",
-      "rige": "10/11/2026",
-      "vence": "31/01/2031"
-    },
     {
       "vacante": "1551879",
       "regional": "Administracion Regional Del Sist. Educ.",
@@ -49,16 +36,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1552905",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Gerardo (Rio Cuarto)",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "05/06/2027"
-    },
-    {
       "vacante": "1553803",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
@@ -67,6 +44,16 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1552729",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Industriales",
+      "institucion": "Liceo Martha Mirambel Umaña",
+      "lecciones": "44",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1554045",
@@ -159,6 +146,26 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1554001",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "J.N. Manuel Ortuño Boutin",
+      "lecciones": "0",
+      "rige": "29/10/2026",
+      "vence": "05/12/2026"
+    },
+    {
+      "vacante": "1551761",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Dr Calderon Muñoz (San Miguel)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1553873",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -169,16 +176,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1553801",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Liceo De San Gabriel",
-      "lecciones": "4",
-      "rige": "03/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552310",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -187,36 +184,6 @@
       "lecciones": "0",
       "rige": "28/10/2026",
       "vence": "15/02/2027"
-    },
-    {
-      "vacante": "1553000",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Juan Rafael Mora Porras",
-      "lecciones": "0",
-      "rige": "28/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552431",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Toro Amarillo (Guapiles)",
-      "lecciones": "0",
-      "rige": "06/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552994",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Finca Formosa",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1553943",
@@ -269,6 +236,26 @@
       "vence": "28/02/2028"
     },
     {
+      "vacante": "1551453",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Santa Marta (Batan)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1554114",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Francia (Cairo)",
+      "lecciones": "0",
+      "rige": "29/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1553869",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -276,36 +263,6 @@
       "institucion": "Colegio Deportivo De Limon",
       "lecciones": "15",
       "rige": "28/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552836",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "C.T.P. Padre Roberto Evans Saunders",
-      "lecciones": "24",
-      "rige": "28/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552838",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "C.T.P. Padre Roberto Evans Saunders",
-      "lecciones": "4",
-      "rige": "28/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552844",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Rehabilitación / Ocupacional",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "0",
-      "rige": "27/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -329,11 +286,11 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1551016",
+      "vacante": "1553979",
       "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Asistente De Dirección Centro Educativo 1",
+      "clasePuesto": "Orientador 2",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Col.Noct. San Pedro De Perez Zeledon",
+      "institucion": "C.T.P. General Viejo",
       "lecciones": "0",
       "rige": "09/11/2026",
       "vence": "31/01/2027"
@@ -369,23 +326,13 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1552960",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Salitrillos (Grifo Alto)",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1552941",
+      "vacante": "1553986",
       "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
       "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Tigra (Tigra)",
+      "institucion": "San Miguel (Pocosol)",
       "lecciones": "0",
-      "rige": "01/11/2026",
+      "rige": "26/11/2026",
       "vence": "31/07/2030"
     },
     {
@@ -397,16 +344,6 @@
       "lecciones": "0",
       "rige": "09/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1552947",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-      "institucion": "Esc. Ctral San Sebastian",
-      "lecciones": "40",
-      "rige": "22/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1554041",
@@ -457,16 +394,6 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1551782",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Llano (Tempate)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1553841",
