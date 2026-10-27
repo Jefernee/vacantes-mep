@@ -1,12 +1,11 @@
 {
-  "generado": "2026-10-27T14:47:33.723Z",
-  "totalPais": 32,
+  "generado": "2026-10-27T15:00:41.043Z",
+  "totalPais": 31,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
     "Ciencias",
-    "Enseñanza Especial . Problemas De Aprendizaje",
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
@@ -208,16 +207,6 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1552265",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Juan Jose Valverde Madrigal",
-      "lecciones": "40",
-      "rige": "23/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1553982",
