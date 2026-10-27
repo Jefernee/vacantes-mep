@@ -1,12 +1,12 @@
 {
-  "generado": "2026-10-27T15:40:33.865Z",
-  "totalPais": 33,
+  "generado": "2026-10-27T16:00:40.787Z",
+  "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
     "Ciencias",
-    "Español",
+    "Enseñanza Especial . Retardo Mental",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
@@ -109,16 +109,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1553873",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Dr Calderon Muñoz (San Miguel)",
-      "lecciones": "0",
-      "rige": "28/10/2026",
-      "vence": "10/12/2026"
-    },
-    {
       "vacante": "1553943",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -169,6 +159,16 @@
       "vence": "28/02/2028"
     },
     {
+      "vacante": "1554217",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Guayacan (Siquirres)",
+      "lecciones": "0",
+      "rige": "28/10/2026",
+      "vence": "09/02/2027"
+    },
+    {
       "vacante": "1551453",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
@@ -186,16 +186,6 @@
       "institucion": "La Francia (Cairo)",
       "lecciones": "0",
       "rige": "29/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1553869",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Colegio Deportivo De Limon",
-      "lecciones": "15",
-      "rige": "28/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -249,6 +239,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1554218",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Santa Rosa (Rio Nuevo)",
+      "lecciones": "0",
+      "rige": "28/10/2026",
+      "vence": "10/12/2026"
+    },
+    {
       "vacante": "1553979",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Orientador 2",
@@ -267,16 +267,6 @@
       "lecciones": "0",
       "rige": "26/11/2026",
       "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1553839",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Coopevega (Cutris)",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1554041",
@@ -309,12 +299,12 @@
       "vence": "09/12/2026"
     },
     {
-      "vacante": "1553841",
+      "vacante": "1554191",
       "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Industriales",
-      "institucion": "C.T.P. De Santa Barbara",
-      "lecciones": "44",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Retardo Mental",
+      "institucion": "Lajas",
+      "lecciones": "40",
       "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
