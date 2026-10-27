@@ -1,12 +1,11 @@
 {
-  "generado": "2026-10-27T14:20:40.153Z",
-  "totalPais": 35,
+  "generado": "2026-10-27T14:47:33.723Z",
+  "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
     "Ciencias",
-    "Contabilidad",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Español",
     "Estudios Sociales/Educación Cívica",
@@ -20,16 +19,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1551879",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Supervisor De Educación",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Dirección Regional De Educación Norte-Norte",
-      "lecciones": "0",
-      "rige": "20/11/2026",
-      "vence": "31/01/2027"
-    },
     {
       "vacante": "1552729",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -321,16 +310,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1551748",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Cindea Colonia Puntarenas",
-      "lecciones": "3",
-      "rige": "09/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1552910",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -358,16 +337,6 @@
       "institucion": "Liceo San Jose De Upala",
       "lecciones": "30",
       "rige": "23/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552052",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Contabilidad",
-      "institucion": "Cindea Pavon",
-      "lecciones": "5",
-      "rige": "09/11/2026",
       "vence": "11/12/2026"
     }
   ]
