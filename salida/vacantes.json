@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-27T19:28:34.934Z",
-  "totalPais": 42,
+  "generado": "2026-10-27T20:01:06.064Z",
+  "totalPais": 45,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -10,6 +10,7 @@
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
+    "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Informática En Redes De Computadoras",
     "Inglés",
@@ -174,6 +175,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1554363",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "C.T.P. Jose Figueres Ferrer",
+      "lecciones": "12",
+      "rige": "28/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1554117",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Cocinero",
@@ -192,6 +203,16 @@
       "lecciones": "0",
       "rige": "27/10/2026",
       "vence": "03/01/2027"
+    },
+    {
+      "vacante": "1554377",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Llorente (Llorente)",
+      "lecciones": "0",
+      "rige": "27/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1554234",
@@ -371,6 +392,16 @@
       "institucion": "Esc. Jose Rodriguez Martinez",
       "lecciones": "0",
       "rige": "27/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554373",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo Rural Banderas De Pocoso",
+      "lecciones": "40",
+      "rige": "01/11/2026",
       "vence": "11/12/2026"
     },
     {
