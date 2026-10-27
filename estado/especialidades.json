@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 24875,
+      "vecesVista": 24889,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-27T17:10:14.495Z",
+      "ultimaVez": "2026-10-27T17:20:43.988Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 15154,
+      "vecesVista": 15163,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-27T17:10:14.495Z",
+      "ultimaVez": "2026-10-27T17:20:43.988Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 2856,
+      "vecesVista": 2857,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-27T17:10:14.495Z",
+      "ultimaVez": "2026-10-27T17:20:43.988Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 5683,
+      "vecesVista": 5686,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-27T17:10:14.495Z",
+      "ultimaVez": "2026-10-27T17:20:43.988Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,9 +107,9 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 2035,
+      "vecesVista": 2037,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-27T17:10:14.495Z",
+      "ultimaVez": "2026-10-27T17:20:43.988Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 1366,
+      "vecesVista": 1367,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-27T17:10:14.495Z",
+      "ultimaVez": "2026-10-27T17:20:43.988Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 1035,
+      "vecesVista": 1036,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-10-27T17:10:14.495Z",
+      "ultimaVez": "2026-10-27T17:20:43.988Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -184,16 +184,16 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 1324,
+      "vecesVista": 1327,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-27T17:10:14.495Z",
+      "ultimaVez": "2026-10-27T17:20:43.988Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1509,
+      "vecesVista": 1511,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-10-27T17:10:14.495Z",
+      "ultimaVez": "2026-10-27T17:20:43.988Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -254,9 +254,9 @@
     },
     "Química": {
       "calce": "no interesa",
-      "vecesVista": 938,
+      "vecesVista": 939,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-10-27T17:10:14.495Z",
+      "ultimaVez": "2026-10-27T17:20:43.988Z",
       "avisadaComoNueva": true
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
@@ -366,9 +366,9 @@
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 669,
+      "vecesVista": 670,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-10-27T17:10:14.495Z",
+      "ultimaVez": "2026-10-27T17:20:43.988Z",
       "avisadaComoNueva": true
     },
     "Rehabilitación / Ocupacional": {
@@ -645,5 +645,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-27T17:10:14.495Z"
+  "actualizado": "2026-10-27T17:20:43.988Z"
 }
