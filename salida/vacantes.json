@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-27T13:20:47.019Z",
-  "totalPais": 42,
+  "generado": "2026-10-27T13:40:52.519Z",
+  "totalPais": 43,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -214,6 +214,16 @@
       "lecciones": "0",
       "rige": "23/10/2026",
       "vence": "20/08/2027"
+    },
+    {
+      "vacante": "1554120",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Los Lagos",
+      "lecciones": "0",
+      "rige": "27/10/2026",
+      "vence": "03/01/2027"
     },
     {
       "vacante": "1553009",
