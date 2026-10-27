@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-27T13:40:52.519Z",
-  "totalPais": 43,
+  "generado": "2026-10-27T14:00:48.002Z",
+  "totalPais": 49,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,7 +9,6 @@
     "Ciencias",
     "Contabilidad",
     "Educación Física",
-    "Enseñanza Especial . Discapacidad Múltiple",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Español",
     "Estudios Sociales/Educación Cívica",
@@ -18,7 +17,7 @@
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
     "Labores Varias De Oficina",
-    "Música/Música",
+    "Química",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -33,16 +32,6 @@
       "institucion": "Dirección Regional De Educación Norte-Norte",
       "lecciones": "0",
       "rige": "20/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1553803",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Muelle (Puerto Viejo)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
       "vence": "31/01/2027"
     },
     {
@@ -64,6 +53,36 @@
       "lecciones": "0",
       "rige": "27/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1553829",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Luis Cruz Meza (Cachi)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1553907",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Unidad Pedagogica San Diego",
+      "lecciones": "0",
+      "rige": "23/10/2026",
+      "vence": "16/12/2026"
+    },
+    {
+      "vacante": "1553920",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Pastor Barquero (Llano Grande)",
+      "lecciones": "0",
+      "rige": "15/11/2026",
+      "vence": "13/05/2027"
     },
     {
       "vacante": "1552817",
@@ -106,6 +125,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1553830",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Col. Noct. La Union",
+      "lecciones": "10",
+      "rige": "26/10/2026",
+      "vence": "08/12/2026"
+    },
+    {
       "vacante": "1552741",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
@@ -126,6 +155,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1553946",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "I.N.V.U. La Guaria (Parrita)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
       "vacante": "1552879",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
@@ -133,16 +172,6 @@
       "institucion": "El Sukia (Santa Maria)",
       "lecciones": "0",
       "rige": "23/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1551743",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "C.T.P. De Matapalo",
-      "lecciones": "10",
-      "rige": "19/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -176,16 +205,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1552310",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Barrio Alemania",
-      "lecciones": "0",
-      "rige": "28/10/2026",
-      "vence": "15/02/2027"
-    },
-    {
       "vacante": "1553943",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -206,16 +225,6 @@
       "vence": "19/01/2027"
     },
     {
-      "vacante": "1552976",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Joaquin Lizano Gutierrez",
-      "lecciones": "0",
-      "rige": "23/10/2026",
-      "vence": "20/08/2027"
-    },
-    {
       "vacante": "1554120",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
@@ -224,16 +233,6 @@
       "lecciones": "0",
       "rige": "27/10/2026",
       "vence": "03/01/2027"
-    },
-    {
-      "vacante": "1553009",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Discapacidad Múltiple",
-      "institucion": "Ens. Esp. De Heredia",
-      "lecciones": "40",
-      "rige": "26/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1554051",
@@ -284,6 +283,16 @@
       "lecciones": "15",
       "rige": "28/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1553833",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Santa Marta (Nicoya)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1552265",
@@ -386,6 +395,16 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1553951",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De Cedros",
+      "lecciones": "0",
+      "rige": "01/11/2026",
+      "vence": "31/07/2030"
+    },
+    {
       "vacante": "1552756",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -404,6 +423,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1553835",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Napoleon Quesada Salazar",
+      "lecciones": "44",
+      "rige": "26/10/2026",
+      "vence": "09/12/2026"
     },
     {
       "vacante": "1552747",
@@ -443,6 +472,36 @@
       "institucion": "Cindea Colonia Puntarenas",
       "lecciones": "3",
       "rige": "09/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552910",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo De Katira",
+      "lecciones": "19",
+      "rige": "23/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552916",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "Liceo San Jose De Upala",
+      "lecciones": "14",
+      "rige": "23/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1552918",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo San Jose De Upala",
+      "lecciones": "30",
+      "rige": "23/10/2026",
       "vence": "11/12/2026"
     },
     {
