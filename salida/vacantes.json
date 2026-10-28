@@ -1,10 +1,9 @@
 {
-  "generado": "2026-10-28T12:40:41.433Z",
-  "totalPais": 42,
+  "generado": "2026-10-28T13:00:46.240Z",
+  "totalPais": 38,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
-    "Artes Industriales",
     "Ciencias",
     "Enseñanza Especial . Retardo Mental",
     "Español",
@@ -41,16 +40,6 @@
       "lecciones": "0",
       "rige": "28/10/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1552729",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Industriales",
-      "institucion": "Liceo Martha Mirambel Umaña",
-      "lecciones": "44",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1554296",
@@ -143,26 +132,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1554001",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "J.N. Manuel Ortuño Boutin",
-      "lecciones": "0",
-      "rige": "29/10/2026",
-      "vence": "05/12/2026"
-    },
-    {
-      "vacante": "1551761",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Dr Calderon Muñoz (San Miguel)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1554356",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -243,26 +212,6 @@
       "vence": "09/02/2027"
     },
     {
-      "vacante": "1551453",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Santa Marta (Batan)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1554114",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "La Francia (Cairo)",
-      "lecciones": "0",
-      "rige": "29/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548534",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -273,6 +222,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1554479",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Castillo Nuevo (Limon)",
+      "lecciones": "0",
+      "rige": "30/11/2026",
+      "vence": "31/01/2029"
+    },
+    {
       "vacante": "1554299",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -281,6 +240,16 @@
       "lecciones": "27",
       "rige": "30/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1551330",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Repulica De Bolivia",
+      "lecciones": "0",
+      "rige": "19/10/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1553833",
@@ -343,26 +312,6 @@
       "vence": "10/12/2026"
     },
     {
-      "vacante": "1553979",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Orientador 2",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "C.T.P. General Viejo",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1553986",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Miguel (Pocosol)",
-      "lecciones": "0",
-      "rige": "26/11/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1554232",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -380,6 +329,16 @@
       "institucion": "Liceo Rural Banderas De Pocoso",
       "lecciones": "40",
       "rige": "01/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1548266",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Quince De Setiembre",
+      "lecciones": "0",
+      "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
     {
