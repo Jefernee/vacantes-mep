@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-28T20:40:36.383Z",
-  "totalPais": 45,
+  "generado": "2026-10-28T21:00:40.417Z",
+  "totalPais": 56,
   "calzanVT6": 3,
   "advertencias": [],
   "especialidadesVistas": [
@@ -17,6 +17,8 @@
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
+    "Estudios Sociales/Educación Cívica",
+    "Física",
     "Gestion De La Calidad",
     "Gestion De La Produccion",
     "Informática En Desarrollo Del Software",
@@ -26,6 +28,7 @@
     "Música/Música",
     "Procesos Industriales",
     "Psicología",
+    "Química",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
@@ -338,6 +341,96 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1554111",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Gil Tablada Corea (La Cruz)",
+      "lecciones": "0",
+      "rige": "30/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554110",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Ascension Esquivel Ibarra",
+      "lecciones": "0",
+      "rige": "30/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554189",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Guardia (Nacascolo)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554107",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "10",
+      "rige": "30/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554108",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "12",
+      "rige": "30/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554109",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "24",
+      "rige": "30/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554112",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Art. Felipe Perez P.",
+      "lecciones": "25",
+      "rige": "30/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554113",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "20",
+      "rige": "30/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554194",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Col Nocturno De Bagaces",
+      "lecciones": "30",
+      "rige": "30/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1554479",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -365,6 +458,16 @@
       "institucion": "Colegio La Florida",
       "lecciones": "4",
       "rige": "30/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554794",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Plásticas/Artes Plásticas",
+      "institucion": "C.T.P. Liverpool",
+      "lecciones": "28",
+      "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -496,6 +599,16 @@
       "lecciones": "0",
       "rige": "27/08/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1554781",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Andres Bello Lopez",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1531863",
