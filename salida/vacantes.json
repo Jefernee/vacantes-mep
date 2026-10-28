@@ -1,26 +1,31 @@
 {
-  "generado": "2026-10-28T19:40:55.598Z",
-  "totalPais": 38,
+  "generado": "2026-10-28T20:00:40.039Z",
+  "totalPais": 45,
   "calzanVT6": 3,
   "advertencias": [],
   "especialidadesVistas": [
+    "Administración / Generalista",
+    "Administración Educativa",
     "Agroecología",
     "Artes Plásticas/Artes Plásticas",
     "Ciberseguridad",
     "Ciencias",
+    "Derecho",
     "Diseño Y Desarrollo Digital",
+    "Educación De Adultos",
     "Educación Física",
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
     "Gestion De La Calidad",
     "Gestion De La Produccion",
-    "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática En Desarrollo Del Software",
     "Inglés",
     "Labores Varias De Oficina",
+    "Matemáticas",
     "Música/Música",
     "Procesos Industriales",
+    "Psicología",
     "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -62,6 +67,26 @@
   ],
   "todas": [
     {
+      "vacante": "1554477",
+      "regional": "Administracion Del Curriculo Nacional",
+      "clasePuesto": "Asesor Nacional (G. De E.)",
+      "especialidad": "Educación De Adultos",
+      "institucion": "Departamento Educación De Las Personas Jovenes Y Adultas",
+      "lecciones": "0",
+      "rige": "26/11/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1518847",
+      "regional": "Administracion Del Curriculo Nacional",
+      "clasePuesto": "Asesor Nacional (G. De E.)",
+      "especialidad": "Administración Educativa",
+      "institucion": "Departamento Educación De Las Personas Jovenes Y Adultas",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1554440",
       "regional": "Administracion Regional Del Sist. Educ.",
       "clasePuesto": "Asistente De Asesoría Y Supervisión",
@@ -72,6 +97,46 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1551296",
+      "regional": "Calidad De La Educacion",
+      "clasePuesto": "Asesor Nacional (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Departamento De Evaluación Académica Y Certificación",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1551780",
+      "regional": "Calidad De La Educacion",
+      "clasePuesto": "Profesional De Servicio Civil 3 (G.De E.)",
+      "especialidad": "Derecho",
+      "institucion": "Dirección Gestión Y Evaluación De La Calidad",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1554630",
+      "regional": "Cumplimiento De Los Derechos",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Departamento De Convivencia Estudiantil",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "31/07/2028"
+    },
+    {
+      "vacante": "1554611",
+      "regional": "Definicion Y Planif. De La Pol. Educ.",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Despacho Del Viceministro Administrativo",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "31/12/2027"
+    },
+    {
       "vacante": "1554696",
       "regional": "Direc. Regional Educacion De Sarapiqui",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -80,6 +145,16 @@
       "lecciones": "44",
       "rige": "29/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554270",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Enrique Pinto Fernandez",
+      "lecciones": "0",
+      "rige": "27/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1554602",
@@ -182,16 +257,6 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1554363",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "C.T.P. Jose Figueres Ferrer",
-      "lecciones": "12",
-      "rige": "28/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1554612",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -222,6 +287,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1554756",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Liceo De Llano Bonito",
+      "lecciones": "26",
+      "rige": "09/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1554491",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Asistente De Dirección Centro Educativo 2",
@@ -229,16 +304,6 @@
       "institucion": "Liceo La Aurora",
       "lecciones": "0",
       "rige": "28/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1554377",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Llorente (Llorente)",
-      "lecciones": "0",
-      "rige": "27/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -412,16 +477,6 @@
       "vence": "25/02/2027"
     },
     {
-      "vacante": "1554373",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo Rural Banderas De Pocoso",
-      "lecciones": "40",
-      "rige": "01/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1548266",
       "regional": "Direc. Regional Educacion San Jose - Central",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -439,6 +494,26 @@
       "institucion": "Jose Ana Marin Cubero",
       "lecciones": "0",
       "rige": "27/08/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1531863",
+      "regional": "Evaluacion De Los Servicios",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Psicología",
+      "institucion": "Contraloría De Derechos Estudiantiles",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "07/05/2030"
+    },
+    {
+      "vacante": "1547746",
+      "regional": "Fiscalizacion Y Control",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Administración / Generalista",
+      "institucion": "Auditoría Interna",
+      "lecciones": "0",
+      "rige": "09/11/2026",
       "vence": "31/07/2030"
     }
   ]
