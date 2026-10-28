@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-28T18:00:36.561Z",
-  "totalPais": 33,
+  "generado": "2026-10-28T18:20:41.568Z",
+  "totalPais": 34,
   "calzanVT6": 3,
   "advertencias": [],
   "especialidadesVistas": [
@@ -10,6 +10,7 @@
     "Ciencias",
     "Educación Física",
     "Enseñanza Especial . Retardo Mental",
+    "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Español",
     "Gestion De La Calidad",
     "Gestion De La Produccion",
@@ -19,6 +20,7 @@
     "Inglés",
     "Música/Música",
     "Procesos Industriales",
+    "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -69,6 +71,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1554696",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+      "institucion": "Servicio Itinerante Enseñanza Especial",
+      "lecciones": "44",
+      "rige": "29/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1554602",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
@@ -93,7 +105,7 @@
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Música/Música",
-      "institucion": "Ascension Esquivel Ibarra",
+      "institucion": "Central De Atenas (Atenas)",
       "lecciones": "0",
       "rige": "29/10/2026",
       "vence": "11/12/2026"
@@ -176,6 +188,16 @@
       "institucion": "Cindea San Martin",
       "lecciones": "35",
       "rige": "09/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554693",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Col. Noct. De Pocora",
+      "lecciones": "3",
+      "rige": "29/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -377,16 +399,6 @@
       "lecciones": "0",
       "rige": "27/08/2026",
       "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1554323",
-      "regional": "Direc. Regional Educacion Sulá",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Chase (Bratsi)",
-      "lecciones": "0",
-      "rige": "29/10/2026",
-      "vence": "11/12/2026"
     }
   ]
 }
