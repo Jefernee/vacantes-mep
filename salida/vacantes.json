@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-28T14:00:46.713Z",
-  "totalPais": 38,
+  "generado": "2026-10-28T14:20:43.633Z",
+  "totalPais": 31,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -13,7 +13,6 @@
     "Informática En Redes De Computadoras",
     "Inglés",
     "Matemáticas",
-    "Química",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -62,16 +61,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1553920",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Pastor Barquero (Llano Grande)",
-      "lecciones": "0",
-      "rige": "15/11/2026",
-      "vence": "13/05/2027"
-    },
-    {
       "vacante": "1554186",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -90,16 +79,6 @@
       "lecciones": "0",
       "rige": "27/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1553946",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "I.N.V.U. La Guaria (Parrita)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
     },
     {
       "vacante": "1554241",
@@ -342,26 +321,6 @@
       "vence": "31/07/2030"
     },
     {
-      "vacante": "1553951",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De Cedros",
-      "lecciones": "0",
-      "rige": "01/11/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1553835",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Napoleon Quesada Salazar",
-      "lecciones": "44",
-      "rige": "26/10/2026",
-      "vence": "09/12/2026"
-    },
-    {
       "vacante": "1554191",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -379,36 +338,6 @@
       "institucion": "Chase (Bratsi)",
       "lecciones": "0",
       "rige": "29/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552910",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo De Katira",
-      "lecciones": "19",
-      "rige": "23/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552916",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "Liceo San Jose De Upala",
-      "lecciones": "14",
-      "rige": "23/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552918",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo San Jose De Upala",
-      "lecciones": "30",
-      "rige": "23/10/2026",
       "vence": "11/12/2026"
     }
   ]
