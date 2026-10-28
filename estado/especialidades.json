@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 25341,
+      "vecesVista": 25356,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 15462,
+      "vecesVista": 15472,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -65,16 +65,16 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1438,
+      "vecesVista": 1439,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": true
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 2186,
+      "vecesVista": 2187,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 5774,
+      "vecesVista": 5777,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,9 +107,9 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 2126,
+      "vecesVista": 2129,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 1397,
+      "vecesVista": 1398,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -184,16 +184,16 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 1387,
+      "vecesVista": 1389,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1571,
+      "vecesVista": 1573,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -254,16 +254,16 @@
     },
     "Química": {
       "calce": "no interesa",
-      "vecesVista": 969,
+      "vecesVista": 970,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": true
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 750,
+      "vecesVista": 751,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -366,9 +366,9 @@
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 700,
+      "vecesVista": 701,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": true
     },
     "Rehabilitación / Ocupacional": {
@@ -597,9 +597,9 @@
     },
     "Informática En Redes De Computadoras": {
       "calce": "exacta",
-      "vecesVista": 77,
+      "vecesVista": 78,
       "primeraVez": "2026-10-07T19:41:10.043Z",
-      "ultimaVez": "2026-10-28T03:00:59.479Z",
+      "ultimaVez": "2026-10-28T03:20:53.861Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Psicología": {
@@ -645,5 +645,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-28T03:00:59.479Z"
+  "actualizado": "2026-10-28T03:20:53.861Z"
 }
