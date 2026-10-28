@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-28T15:20:51.967Z",
-  "totalPais": 35,
+  "generado": "2026-10-28T15:40:35.924Z",
+  "totalPais": 33,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -223,26 +223,6 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1554201",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "C.T.P Zarcero",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/07/2029"
-    },
-    {
-      "vacante": "1554213",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Director De Colegio 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Rural San Juan",
-      "lecciones": "0",
-      "rige": "27/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1554245",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
@@ -293,16 +273,6 @@
       "vence": "02/12/2026"
     },
     {
-      "vacante": "1554215",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Pavones",
-      "lecciones": "0",
-      "rige": "29/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1554218",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
@@ -331,6 +301,16 @@
       "lecciones": "0",
       "rige": "27/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554560",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Juan Chaves Rojas (Quesada)",
+      "lecciones": "0",
+      "rige": "29/10/2026",
+      "vence": "25/02/2027"
     },
     {
       "vacante": "1554373",
