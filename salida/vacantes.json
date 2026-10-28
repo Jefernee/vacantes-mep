@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-28T17:00:41.274Z",
-  "totalPais": 29,
+  "generado": "2026-10-28T17:20:50.465Z",
+  "totalPais": 31,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,10 +12,12 @@
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Gestion De La Calidad",
+    "Gestion De La Produccion",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática En Redes De Computadoras",
     "Inglés",
     "Matemáticas",
+    "Procesos Industriales",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -164,6 +166,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1554250",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Procesos Industriales",
+      "institucion": "C.T.P. De Flores",
+      "lecciones": "20",
+      "rige": "28/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1554499",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -172,6 +184,16 @@
       "lecciones": "40",
       "rige": "28/10/2026",
       "vence": "09/12/2026"
+    },
+    {
+      "vacante": "1554649",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Gestion De La Produccion",
+      "institucion": "C.T.P. De Flores",
+      "lecciones": "20",
+      "rige": "28/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1554479",
