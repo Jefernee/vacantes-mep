@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-29T19:00:59.426Z",
+  "generado": "2026-10-29T19:20:40.142Z",
   "totalPais": 48,
   "calzanVT6": 1,
   "advertencias": [],
@@ -120,6 +120,16 @@
       "lecciones": "0",
       "rige": "09/11/2026",
       "vence": "31/12/2027"
+    },
+    {
+      "vacante": "1555127",
+      "regional": "Direc. Regional Educacion De Sarapiqui",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Ida-La Paz (Horquetas)",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "31/03/2027"
     },
     {
       "vacante": "1555041",
@@ -330,16 +340,6 @@
       "lecciones": "28",
       "rige": "02/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1554731",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Union (Granja)",
-      "lecciones": "0",
-      "rige": "30/10/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1555094",
