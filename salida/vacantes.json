@@ -1,7 +1,7 @@
 {
-  "generado": "2026-10-29T19:20:40.142Z",
-  "totalPais": 48,
-  "calzanVT6": 1,
+  "generado": "2026-10-29T19:41:13.314Z",
+  "totalPais": 47,
+  "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Administración / Generalista",
@@ -10,7 +10,6 @@
     "Biología",
     "Ciencias",
     "Derecho",
-    "Diseño Y Desarrollo Digital",
     "Educación De Adultos",
     "Educación Física",
     "Enseñanza Especial . Retardo Mental",
@@ -27,19 +26,7 @@
     "Sin Especialidad T-Ii",
     "Trabajo Social"
   ],
-  "interesantes": [
-    {
-      "vacante": "1554617",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Diseño Y Desarrollo Digital",
-      "institucion": "Liceo Puente De Piedra",
-      "lecciones": "4",
-      "rige": "28/10/2026",
-      "vence": "11/12/2026",
-      "calce": "posible"
-    }
-  ],
+  "interesantes": [],
   "todas": [
     {
       "vacante": "1518847",
@@ -140,36 +127,6 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1554270",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Enrique Pinto Fernandez",
-      "lecciones": "0",
-      "rige": "27/10/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1554749",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Liceo El Carmen",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1554617",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Diseño Y Desarrollo Digital",
-      "institucion": "Liceo Puente De Piedra",
-      "lecciones": "4",
-      "rige": "28/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1554552",
@@ -342,6 +299,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1555147",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Judas Tadeo Corrales (Naranjo)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1555094",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -399,6 +366,16 @@
       "institucion": "San Rafael (Platanares)",
       "lecciones": "0",
       "rige": "09/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555146",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Pedro (San Pedro)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
     {
