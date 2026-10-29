@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-29T20:20:57.322Z",
-  "totalPais": 49,
+  "generado": "2026-10-29T20:40:50.058Z",
+  "totalPais": 51,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -170,6 +170,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1555185",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P. De Pococi",
+      "lecciones": "26",
+      "rige": "02/11/2026",
+      "vence": "12/12/2026"
+    },
+    {
       "vacante": "1555169",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -188,6 +198,16 @@
       "lecciones": "0",
       "rige": "26/11/2026",
       "vence": "31/01/2030"
+    },
+    {
+      "vacante": "1555176",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Jesus (Jesus)",
+      "lecciones": "0",
+      "rige": "29/10/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1554832",
