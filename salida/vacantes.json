@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-29T18:40:46.070Z",
-  "totalPais": 49,
+  "generado": "2026-10-29T19:00:59.426Z",
+  "totalPais": 48,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -42,16 +42,6 @@
   ],
   "todas": [
     {
-      "vacante": "1554477",
-      "regional": "Administracion Del Curriculo Nacional",
-      "clasePuesto": "Asesor Nacional (G. De E.)",
-      "especialidad": "Educación De Adultos",
-      "institucion": "Departamento Educación De Las Personas Jovenes Y Adultas",
-      "lecciones": "0",
-      "rige": "26/11/2026",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1518847",
       "regional": "Administracion Del Curriculo Nacional",
       "clasePuesto": "Asesor Nacional (G. De E.)",
@@ -60,6 +50,16 @@
       "lecciones": "0",
       "rige": "09/11/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1554477",
+      "regional": "Administracion Del Curriculo Nacional",
+      "clasePuesto": "Asesor Nacional (G. De E.)",
+      "especialidad": "Educación De Adultos",
+      "institucion": "Departamento Educación De Las Personas Jovenes Y Adultas",
+      "lecciones": "0",
+      "rige": "26/11/2026",
+      "vence": "31/01/2031"
     },
     {
       "vacante": "1555009",
@@ -180,16 +180,6 @@
       "lecciones": "44",
       "rige": "28/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1554719",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Valencia (San Rafael Abajo)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1554986",
@@ -362,16 +352,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1554718",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo Exp. Bilingue San Ramon",
-      "lecciones": "39",
-      "rige": "30/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1554570",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -449,6 +429,16 @@
       "institucion": "San Isidro (San Isidro)",
       "lecciones": "0",
       "rige": "09/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555109",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Educación Física",
+      "institucion": "Carrizal",
+      "lecciones": "0",
+      "rige": "04/11/2026",
       "vence": "11/12/2026"
     },
     {
