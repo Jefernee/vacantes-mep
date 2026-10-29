@@ -1,12 +1,11 @@
 {
-  "generado": "2026-10-29T15:40:41.121Z",
-  "totalPais": 58,
+  "generado": "2026-10-29T16:00:41.770Z",
+  "totalPais": 56,
   "calzanVT6": 3,
   "advertencias": [],
   "especialidadesVistas": [
     "Administración / Generalista",
     "Administración Educativa",
-    "Agroecología",
     "Artes Plásticas/Artes Plásticas",
     "Biología",
     "Ciberseguridad",
@@ -281,16 +280,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1554548",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Cindea San Martin",
-      "lecciones": "35",
-      "rige": "09/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1554693",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -499,16 +488,6 @@
       "lecciones": "39",
       "rige": "30/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1554575",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Agroecología",
-      "institucion": "C.T.P. De Piedades Sur",
-      "lecciones": "24",
-      "rige": "30/10/2026",
-      "vence": "10/12/2026"
     },
     {
       "vacante": "1554912",
