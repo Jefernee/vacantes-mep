@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-29T20:00:39.724Z",
-  "totalPais": 47,
+  "generado": "2026-10-29T20:20:57.322Z",
+  "totalPais": 49,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -20,6 +20,7 @@
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
+    "Música/Música",
     "Psicología",
     "Química",
     "Sin Especialidad T-I",
@@ -166,6 +167,16 @@
       "institucion": "Liceo De Llano Bonito",
       "lecciones": "10",
       "rige": "09/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555169",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Pueblo Nuevo (Duacari)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -416,6 +427,16 @@
       "institucion": "Carrizal",
       "lecciones": "0",
       "rige": "04/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555167",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Ricardo Jimenez Oreamuno",
+      "lecciones": "0",
+      "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
     {
