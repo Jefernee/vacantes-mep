@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-30T16:55:33.536Z",
-  "totalPais": 33,
+  "generado": "2026-10-30T17:00:38.788Z",
+  "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -253,16 +253,6 @@
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "San Pedro (San Pedro)",
       "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1554570",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Col. Noct. De Palmares",
-      "lecciones": "6",
       "rige": "02/11/2026",
       "vence": "11/12/2026"
     },
