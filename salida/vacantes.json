@@ -1,12 +1,11 @@
 {
-  "generado": "2026-10-30T14:40:44.800Z",
-  "totalPais": 38,
+  "generado": "2026-10-30T15:00:36.466Z",
+  "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Administración / Generalista",
     "Administración Educativa",
-    "Biología",
     "Ciencias",
     "Derecho",
     "Diseño Publicitario",
@@ -23,7 +22,8 @@
     "Psicología",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
-    "Trabajo Social"
+    "Trabajo Social",
+    "Turismo Rural"
   ],
   "interesantes": [],
   "todas": [
@@ -298,16 +298,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1554912",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Biología",
-      "institucion": "Cindea Paquera",
-      "lecciones": "7",
-      "rige": "01/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1555091",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -316,16 +306,6 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1554943",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Rafael (Platanares)",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1555146",
@@ -348,12 +328,12 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1554915",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Isidro (San Isidro)",
-      "lecciones": "0",
+      "vacante": "1555298",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Turismo Rural",
+      "institucion": "C.T.P. De Pejibaye",
+      "lecciones": "12",
       "rige": "09/11/2026",
       "vence": "11/12/2026"
     },
