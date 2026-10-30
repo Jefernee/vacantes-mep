@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-30T12:40:52.991Z",
-  "totalPais": 49,
+  "generado": "2026-10-30T13:00:58.858Z",
+  "totalPais": 47,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -16,7 +16,6 @@
     "Enseñanza Especial . Retardo Mental",
     "Español",
     "Estudios Sociales",
-    "Estudios Sociales/Educación Cívica",
     "Física",
     "Inglés",
     "Labores Varias De Oficina",
@@ -207,16 +206,6 @@
       "institucion": "Liceo Monseñor Ruben Odio",
       "lecciones": "33",
       "rige": "04/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1554753",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo De Llano Bonito",
-      "lecciones": "10",
-      "rige": "09/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -437,16 +426,6 @@
       "institucion": "Ricardo Jimenez Oreamuno",
       "lecciones": "0",
       "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1550747",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Cindea Republica De Nicaragua",
-      "lecciones": "16",
-      "rige": "05/11/2026",
       "vence": "11/12/2026"
     },
     {
