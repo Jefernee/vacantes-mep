@@ -1,91 +1,24 @@
 {
-  "generado": "2026-10-30T19:40:39.039Z",
-  "totalPais": 26,
+  "generado": "2026-10-30T20:00:35.747Z",
+  "totalPais": 16,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Administración / Generalista",
-    "Administración Educativa",
     "Ciencias",
-    "Derecho",
     "Diseño Publicitario",
-    "Educación De Adultos",
     "Educación Física",
-    "Enseñanza Especial . Problemas De Aprendizaje",
     "Español",
     "Física",
     "Gerencia Y Produccion En Cocina",
     "Labores Varias De Oficina",
     "Matemáticas",
     "Música/Música",
-    "Psicología",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
-    "Trabajo Social",
     "Turismo Rural"
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1554477",
-      "regional": "Administracion Del Curriculo Nacional",
-      "clasePuesto": "Asesor Nacional (G. De E.)",
-      "especialidad": "Educación De Adultos",
-      "institucion": "Departamento Educación De Las Personas Jovenes Y Adultas",
-      "lecciones": "0",
-      "rige": "26/11/2026",
-      "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1518847",
-      "regional": "Administracion Del Curriculo Nacional",
-      "clasePuesto": "Asesor Nacional (G. De E.)",
-      "especialidad": "Administración Educativa",
-      "institucion": "Departamento Educación De Las Personas Jovenes Y Adultas",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1551296",
-      "regional": "Calidad De La Educacion",
-      "clasePuesto": "Asesor Nacional (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Departamento De Evaluación Académica Y Certificación",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1551780",
-      "regional": "Calidad De La Educacion",
-      "clasePuesto": "Profesional De Servicio Civil 3 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Dirección Gestión Y Evaluación De La Calidad",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1554630",
-      "regional": "Cumplimiento De Los Derechos",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Psicología",
-      "institucion": "Departamento De Convivencia Estudiantil",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/07/2028"
-    },
-    {
-      "vacante": "1554611",
-      "regional": "Definicion Y Planif. De La Pol. Educ.",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Despacho Del Viceministro Administrativo",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/12/2027"
-    },
     {
       "vacante": "1555294",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -217,16 +150,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1555155",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Rafael Iglesias Castro (Limon)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1555295",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -255,36 +178,6 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555230",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Ezequiel Morales Aguilar",
-      "lecciones": "40",
-      "rige": "03/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1531863",
-      "regional": "Evaluacion De Los Servicios",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Trabajo Social",
-      "institucion": "Contraloría De Derechos Estudiantiles",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "07/05/2030"
-    },
-    {
-      "vacante": "1547746",
-      "regional": "Fiscalizacion Y Control",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Administración / Generalista",
-      "institucion": "Auditoría Interna",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/07/2030"
     }
   ]
 }
