@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-29T23:40:58.183Z",
-  "totalPais": 43,
+  "generado": "2026-10-30T00:00:36.276Z",
+  "totalPais": 44,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -217,6 +217,16 @@
       "lecciones": "0",
       "rige": "29/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555241",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "C.T.P. De Ulloa",
+      "lecciones": "0",
+      "rige": "01/12/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1554872",
