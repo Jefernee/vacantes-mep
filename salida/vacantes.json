@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-30T17:20:38.067Z",
-  "totalPais": 32,
+  "generado": "2026-10-30T17:40:44.064Z",
+  "totalPais": 30,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -245,26 +245,6 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555094",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Pedro (San Pedro)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555091",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Santa Cecilia (San Pedro)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1555146",
