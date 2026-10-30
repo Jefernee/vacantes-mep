@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-30T01:00:37.595Z",
-  "totalPais": 48,
+  "generado": "2026-10-30T01:20:41.991Z",
+  "totalPais": 49,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -148,6 +148,16 @@
       "lecciones": "44",
       "rige": "28/10/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555247",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Jose Trinidad Mora Valverde",
+      "lecciones": "0",
+      "rige": "05/11/2026",
+      "vence": "12/02/2028"
     },
     {
       "vacante": "1554986",
