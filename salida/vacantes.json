@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-30T19:20:32.460Z",
-  "totalPais": 28,
+  "generado": "2026-10-30T19:40:39.039Z",
+  "totalPais": 26,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -225,26 +225,6 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1555147",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Judas Tadeo Corrales (Naranjo)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555146",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Pedro (San Pedro)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1555295",
