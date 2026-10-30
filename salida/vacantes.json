@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-30T18:40:47.803Z",
-  "totalPais": 30,
+  "generado": "2026-10-30T19:00:35.365Z",
+  "totalPais": 29,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -274,16 +274,6 @@
       "institucion": "C.T.P. De Pejibaye",
       "lecciones": "12",
       "rige": "09/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555109",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Carrizal",
-      "lecciones": "0",
-      "rige": "04/11/2026",
       "vence": "11/12/2026"
     },
     {
