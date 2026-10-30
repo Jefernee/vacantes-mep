@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-30T20:20:33.988Z",
-  "totalPais": 13,
+  "generado": "2026-10-30T20:40:29.611Z",
+  "totalPais": 12,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,7 +8,6 @@
     "Diseño Publicitario",
     "Educación Física",
     "Español",
-    "Física",
     "Gerencia Y Produccion En Cocina",
     "Labores Varias De Oficina",
     "Matemáticas",
@@ -77,16 +76,6 @@
       "lecciones": "33",
       "rige": "04/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555185",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P. De Pococi",
-      "lecciones": "26",
-      "rige": "02/11/2026",
-      "vence": "12/12/2026"
     },
     {
       "vacante": "1555046",
