@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-30T13:40:41.785Z",
-  "totalPais": 47,
+  "generado": "2026-10-30T14:00:57.982Z",
+  "totalPais": 42,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -13,11 +13,9 @@
     "Educación De Adultos",
     "Educación Física",
     "Enseñanza Especial . Problemas De Aprendizaje",
-    "Enseñanza Especial . Retardo Mental",
     "Español",
     "Estudios Sociales",
     "Física",
-    "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
     "Música/Música",
@@ -57,16 +55,6 @@
       "lecciones": "0",
       "rige": "28/11/2026",
       "vence": "31/07/2031"
-    },
-    {
-      "vacante": "1554487",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Dirección Regional De Educación Puntarenas",
-      "lecciones": "0",
-      "rige": "27/10/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1551296",
@@ -127,26 +115,6 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1554552",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Retardo Mental",
-      "institucion": "Liceo Francisca Carrasco",
-      "lecciones": "44",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1554535",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. Fernando Volio Jimenez",
-      "lecciones": "44",
-      "rige": "28/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1555247",
@@ -349,16 +317,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1554539",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Francisco Morazan Quesada",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1554943",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -387,16 +345,6 @@
       "lecciones": "0",
       "rige": "26/10/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1554534",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "El Mojon (Espiritu Santo)",
-      "lecciones": "0",
-      "rige": "30/09/2026",
-      "vence": "31/07/2031"
     },
     {
       "vacante": "1554915",
