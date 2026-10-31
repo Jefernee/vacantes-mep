@@ -1,12 +1,10 @@
 {
-  "generado": "2026-10-31T00:52:41.909Z",
-  "totalPais": 7,
+  "generado": "2026-10-31T01:00:33.782Z",
+  "totalPais": 5,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Español",
     "Gerencia Y Produccion En Cocina",
-    "Matemáticas",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
     "Turismo Rural"
@@ -32,26 +30,6 @@
       "lecciones": "0",
       "rige": "05/11/2026",
       "vence": "12/02/2028"
-    },
-    {
-      "vacante": "1555245",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Cindea Aserrí",
-      "lecciones": "15",
-      "rige": "05/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555246",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Cindea Aserrí",
-      "lecciones": "4",
-      "rige": "05/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1555295",
