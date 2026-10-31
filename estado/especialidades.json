@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 26917,
+      "vecesVista": 26919,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-31T00:20:39.055Z",
+      "ultimaVez": "2026-10-31T00:40:25.546Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 16476,
+      "vecesVista": 16477,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-31T00:20:39.055Z",
+      "ultimaVez": "2026-10-31T00:40:25.546Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -65,16 +65,16 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1626,
+      "vecesVista": 1627,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-31T00:20:39.055Z",
+      "ultimaVez": "2026-10-31T00:40:25.546Z",
       "avisadaComoNueva": true
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 2483,
+      "vecesVista": 2484,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-31T00:20:39.055Z",
+      "ultimaVez": "2026-10-31T00:40:25.546Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -177,16 +177,16 @@
     },
     "Turismo Rural": {
       "calce": "no interesa",
-      "vecesVista": 315,
+      "vecesVista": 316,
       "primeraVez": "2026-09-04T20:00:32.268Z",
-      "ultimaVez": "2026-10-31T00:20:39.055Z",
+      "ultimaVez": "2026-10-31T00:40:25.546Z",
       "avisadaComoNueva": true
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 1693,
+      "vecesVista": 1694,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-10-31T00:20:39.055Z",
+      "ultimaVez": "2026-10-31T00:40:25.546Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -464,9 +464,9 @@
     },
     "Diseño Publicitario": {
       "calce": "no interesa",
-      "vecesVista": 164,
+      "vecesVista": 165,
       "primeraVez": "2026-09-22T16:00:51.872Z",
-      "ultimaVez": "2026-10-31T00:20:39.055Z",
+      "ultimaVez": "2026-10-31T00:40:25.546Z",
       "avisadaComoNueva": true
     },
     "Música/Piano": {
@@ -667,11 +667,11 @@
     },
     "Gerencia Y Produccion En Cocina": {
       "calce": "no interesa",
-      "vecesVista": 31,
+      "vecesVista": 32,
       "primeraVez": "2026-10-30T14:40:44.802Z",
-      "ultimaVez": "2026-10-31T00:20:39.055Z",
+      "ultimaVez": "2026-10-31T00:40:25.546Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-31T00:20:39.055Z"
+  "actualizado": "2026-10-31T00:40:25.546Z"
 }
