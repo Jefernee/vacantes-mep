@@ -2,9 +2,9 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 26935,
+      "vecesVista": 26937,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-10-31T03:00:26.635Z",
+      "ultimaVez": "2026-10-31T03:20:27.122Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
@@ -177,9 +177,9 @@
     },
     "Turismo Rural": {
       "calce": "no interesa",
-      "vecesVista": 324,
+      "vecesVista": 325,
       "primeraVez": "2026-09-04T20:00:32.268Z",
-      "ultimaVez": "2026-10-31T03:00:26.635Z",
+      "ultimaVez": "2026-10-31T03:20:27.122Z",
       "avisadaComoNueva": true
     },
     "Ciencias": {
@@ -667,11 +667,11 @@
     },
     "Gerencia Y Produccion En Cocina": {
       "calce": "no interesa",
-      "vecesVista": 40,
+      "vecesVista": 41,
       "primeraVez": "2026-10-30T14:40:44.802Z",
-      "ultimaVez": "2026-10-31T03:00:26.635Z",
+      "ultimaVez": "2026-10-31T03:20:27.122Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-31T03:00:26.635Z"
+  "actualizado": "2026-10-31T03:20:27.122Z"
 }
