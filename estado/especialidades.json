@@ -177,9 +177,9 @@
     },
     "Turismo Rural": {
       "calce": "no interesa",
-      "vecesVista": 360,
+      "vecesVista": 361,
       "primeraVez": "2026-09-04T20:00:32.268Z",
-      "ultimaVez": "2026-10-31T21:00:25.536Z",
+      "ultimaVez": "2026-10-31T21:20:24.915Z",
       "avisadaComoNueva": true
     },
     "Ciencias": {
@@ -667,11 +667,11 @@
     },
     "Gerencia Y Produccion En Cocina": {
       "calce": "no interesa",
-      "vecesVista": 76,
+      "vecesVista": 77,
       "primeraVez": "2026-10-30T14:40:44.802Z",
-      "ultimaVez": "2026-10-31T21:00:25.536Z",
+      "ultimaVez": "2026-10-31T21:20:24.915Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-10-31T21:00:25.536Z"
+  "actualizado": "2026-10-31T21:20:24.915Z"
 }

@@ -1,11 +1,10 @@
 {
-  "generado": "2026-10-31T21:00:25.534Z",
-  "totalPais": 3,
+  "generado": "2026-10-31T21:20:24.913Z",
+  "totalPais": 2,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Gerencia Y Produccion En Cocina",
-    "Sin Especialidad T-Ii",
     "Turismo Rural"
   ],
   "interesantes": [],
@@ -29,16 +28,6 @@
       "lecciones": "12",
       "rige": "09/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555514",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Col. Noct. De Hatillo",
-      "lecciones": "0",
-      "rige": "03/11/2026",
-      "vence": "31/01/2027"
     }
   ]
 }
