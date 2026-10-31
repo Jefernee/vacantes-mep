@@ -1,11 +1,10 @@
 {
-  "generado": "2026-10-31T01:00:33.782Z",
-  "totalPais": 5,
+  "generado": "2026-10-31T01:20:25.720Z",
+  "totalPais": 4,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Gerencia Y Produccion En Cocina",
-    "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
     "Turismo Rural"
   ],
@@ -20,16 +19,6 @@
       "lecciones": "0",
       "rige": "30/10/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555247",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Jose Trinidad Mora Valverde",
-      "lecciones": "0",
-      "rige": "05/11/2026",
-      "vence": "12/02/2028"
     },
     {
       "vacante": "1555295",
