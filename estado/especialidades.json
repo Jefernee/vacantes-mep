@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 27073,
+      "vecesVista": 27083,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-02T19:40:39.940Z",
+      "ultimaVez": "2026-11-02T20:00:34.084Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 16614,
+      "vecesVista": 16623,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-02T19:40:39.940Z",
+      "ultimaVez": "2026-11-02T20:00:34.084Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -58,9 +58,9 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 2382,
+      "vecesVista": 2383,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-02T19:40:39.940Z",
+      "ultimaVez": "2026-11-02T20:00:34.084Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6048,
+      "vecesVista": 6049,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-02T19:40:39.940Z",
+      "ultimaVez": "2026-11-02T20:00:34.084Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -163,9 +163,9 @@
     },
     "Equipos Interdisciplinarios / Social": {
       "calce": "no interesa",
-      "vecesVista": 188,
+      "vecesVista": 189,
       "primeraVez": "2026-09-04T17:40:39.152Z",
-      "ultimaVez": "2026-11-02T19:40:39.940Z",
+      "ultimaVez": "2026-11-02T20:00:34.084Z",
       "avisadaComoNueva": true
     },
     "Francés": {
@@ -191,16 +191,16 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1740,
+      "vecesVista": 1741,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-02T19:40:39.940Z",
+      "ultimaVez": "2026-11-02T20:00:34.084Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 1427,
+      "vecesVista": 1428,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-11-02T19:40:39.940Z",
+      "ultimaVez": "2026-11-02T20:00:34.084Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -261,9 +261,9 @@
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 802,
+      "vecesVista": 803,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-11-02T19:40:39.940Z",
+      "ultimaVez": "2026-11-02T20:00:34.084Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -673,5 +673,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-02T19:40:39.940Z"
+  "actualizado": "2026-11-02T20:00:34.084Z"
 }

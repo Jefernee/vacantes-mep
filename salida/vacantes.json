@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-02T19:40:39.938Z",
-  "totalPais": 24,
+  "generado": "2026-11-02T20:00:34.082Z",
+  "totalPais": 25,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -104,6 +104,16 @@
       "lecciones": "44",
       "rige": "04/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555826",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Barra Colorado Norte",
+      "lecciones": "0",
+      "rige": "03/11/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1555756",
