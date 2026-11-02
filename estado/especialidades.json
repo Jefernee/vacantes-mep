@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 26996,
+      "vecesVista": 26999,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-02T15:00:39.095Z",
+      "ultimaVez": "2026-11-02T15:20:52.269Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 16514,
+      "vecesVista": 16520,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-02T15:00:39.095Z",
+      "ultimaVez": "2026-11-02T15:20:52.269Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -58,9 +58,9 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 2368,
+      "vecesVista": 2369,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-02T15:00:39.095Z",
+      "ultimaVez": "2026-11-02T15:20:52.269Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -163,9 +163,9 @@
     },
     "Equipos Interdisciplinarios / Social": {
       "calce": "no interesa",
-      "vecesVista": 174,
+      "vecesVista": 175,
       "primeraVez": "2026-09-04T17:40:39.152Z",
-      "ultimaVez": "2026-11-02T15:00:39.095Z",
+      "ultimaVez": "2026-11-02T15:20:52.269Z",
       "avisadaComoNueva": true
     },
     "Francés": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1726,
+      "vecesVista": 1727,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-02T15:00:39.095Z",
+      "ultimaVez": "2026-11-02T15:20:52.269Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -261,9 +261,9 @@
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 788,
+      "vecesVista": 789,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-11-02T15:00:39.095Z",
+      "ultimaVez": "2026-11-02T15:20:52.269Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -673,5 +673,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-02T15:00:39.095Z"
+  "actualizado": "2026-11-02T15:20:52.269Z"
 }
