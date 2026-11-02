@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-02T13:00:54.893Z",
-  "totalPais": 10,
+  "generado": "2026-11-02T13:20:38.255Z",
+  "totalPais": 11,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -94,6 +94,16 @@
       "lecciones": "12",
       "rige": "09/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555575",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "El Castillo (Fortuna)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "26/12/2026"
     },
     {
       "vacante": "1555391",
