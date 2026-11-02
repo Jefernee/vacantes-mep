@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-02T15:40:38.085Z",
-  "totalPais": 13,
+  "generado": "2026-11-02T16:00:38.033Z",
+  "totalPais": 15,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -22,6 +22,16 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "24/03/2028"
+    },
+    {
+      "vacante": "1555643",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Supervisor De Educación",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Dirección Regional De Educación San Carlos",
+      "lecciones": "0",
+      "rige": "03/11/2026",
+      "vence": "29/01/2027"
     },
     {
       "vacante": "1552204",
@@ -132,6 +142,16 @@
       "lecciones": "0",
       "rige": "07/11/2026",
       "vence": "31/01/2030"
+    },
+    {
+      "vacante": "1555634",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Juan Santamaria",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "14/01/2027"
     },
     {
       "vacante": "1551188",
