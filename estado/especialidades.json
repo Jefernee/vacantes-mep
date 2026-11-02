@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 26989,
+      "vecesVista": 26990,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-02T14:00:30.826Z",
+      "ultimaVez": "2026-11-02T14:20:30.796Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 16496,
+      "vecesVista": 16502,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-02T14:00:30.826Z",
+      "ultimaVez": "2026-11-02T14:20:30.796Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -58,9 +58,9 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 2365,
+      "vecesVista": 2366,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-02T14:00:30.826Z",
+      "ultimaVez": "2026-11-02T14:20:30.796Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -163,9 +163,9 @@
     },
     "Equipos Interdisciplinarios / Social": {
       "calce": "no interesa",
-      "vecesVista": 171,
+      "vecesVista": 172,
       "primeraVez": "2026-09-04T17:40:39.152Z",
-      "ultimaVez": "2026-11-02T14:00:30.826Z",
+      "ultimaVez": "2026-11-02T14:20:30.796Z",
       "avisadaComoNueva": true
     },
     "Francés": {
@@ -177,9 +177,9 @@
     },
     "Turismo Rural": {
       "calce": "no interesa",
-      "vecesVista": 447,
+      "vecesVista": 448,
       "primeraVez": "2026-09-04T20:00:32.268Z",
-      "ultimaVez": "2026-11-02T14:00:30.826Z",
+      "ultimaVez": "2026-11-02T14:20:30.796Z",
       "avisadaComoNueva": true
     },
     "Ciencias": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1723,
+      "vecesVista": 1724,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-02T14:00:30.826Z",
+      "ultimaVez": "2026-11-02T14:20:30.796Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -261,9 +261,9 @@
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 785,
+      "vecesVista": 786,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-11-02T14:00:30.826Z",
+      "ultimaVez": "2026-11-02T14:20:30.796Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -667,11 +667,11 @@
     },
     "Gerencia Y Produccion En Cocina": {
       "calce": "no interesa",
-      "vecesVista": 163,
+      "vecesVista": 164,
       "primeraVez": "2026-10-30T14:40:44.802Z",
-      "ultimaVez": "2026-11-02T14:00:30.826Z",
+      "ultimaVez": "2026-11-02T14:20:30.796Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-02T14:00:30.826Z"
+  "actualizado": "2026-11-02T14:20:30.796Z"
 }
