@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-02T18:20:34.428Z",
-  "totalPais": 19,
+  "generado": "2026-11-02T18:40:44.401Z",
+  "totalPais": 20,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,6 +8,7 @@
     "Enseñanza Especial . Retardo Mental",
     "Equipos Interdisciplinarios / Social",
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+    "Inglés",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -202,6 +203,16 @@
       "lecciones": "0",
       "rige": "15/11/2026",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1555757",
+      "regional": "Direc. Regional Educacion Turrialba",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Inglés",
+      "institucion": "Grano De Oro (Tayutic)",
+      "lecciones": "0",
+      "rige": "05/11/2026",
+      "vence": "11/12/2026"
     }
   ]
 }
