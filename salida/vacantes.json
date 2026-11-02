@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-02T18:00:43.045Z",
-  "totalPais": 17,
+  "generado": "2026-11-02T18:20:34.428Z",
+  "totalPais": 19,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -54,6 +54,16 @@
       "vence": "09/12/2026"
     },
     {
+      "vacante": "1555755",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Miguel Obregon Lizano",
+      "lecciones": "0",
+      "rige": "04/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1552204",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -72,6 +82,16 @@
       "lecciones": "44",
       "rige": "04/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555756",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Orientador Asistente",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Rodrigo Hernandez V.",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1555459",
