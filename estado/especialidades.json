@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 27550,
+      "vecesVista": 27562,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 16954,
+      "vecesVista": 16957,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -65,16 +65,16 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1666,
+      "vecesVista": 1667,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 2531,
+      "vecesVista": 2533,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,23 +93,23 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6101,
+      "vecesVista": 6103,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 2123,
+      "vecesVista": 2124,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 2326,
+      "vecesVista": 2327,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -163,9 +163,9 @@
     },
     "Equipos Interdisciplinarios / Social": {
       "calce": "no interesa",
-      "vecesVista": 231,
+      "vecesVista": 232,
       "primeraVez": "2026-09-04T17:40:39.152Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Francés": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 1698,
+      "vecesVista": 1699,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -198,9 +198,9 @@
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 1470,
+      "vecesVista": 1471,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -219,9 +219,9 @@
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 1354,
+      "vecesVista": 1355,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -254,9 +254,9 @@
     },
     "Química": {
       "calce": "no interesa",
-      "vecesVista": 1079,
+      "vecesVista": 1080,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
@@ -436,9 +436,9 @@
     },
     "Desarrollo De Aplicaciones Moviles": {
       "calce": "exacta",
-      "vecesVista": 62,
+      "vecesVista": 63,
       "primeraVez": "2026-09-21T14:00:39.826Z",
-      "ultimaVez": "2026-11-03T16:00:43.486Z",
+      "ultimaVez": "2026-11-03T16:20:34.178Z",
       "avisadaComoNueva": true
     },
     "Diseño Y Desarrollo Digital": {
@@ -673,5 +673,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-03T16:00:43.486Z"
+  "actualizado": "2026-11-03T16:20:34.178Z"
 }
