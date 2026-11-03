@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-03T20:20:36.716Z",
-  "totalPais": 20,
+  "generado": "2026-11-03T20:40:49.265Z",
+  "totalPais": 21,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,6 +12,7 @@
     "Matemáticas",
     "Música/Música",
     "Psicología",
+    "Rehabilitación / Ocupacional",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -118,6 +119,16 @@
       "lecciones": "0",
       "rige": "04/11/2026",
       "vence": "31/12/2026"
+    },
+    {
+      "vacante": "1556179",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Rehabilitación / Ocupacional",
+      "institucion": "Servicio Itinerante Ens. Esp.",
+      "lecciones": "0",
+      "rige": "05/11/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1555886",
