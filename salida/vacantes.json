@@ -1,9 +1,10 @@
 {
-  "generado": "2026-11-03T14:40:37.306Z",
-  "totalPais": 26,
+  "generado": "2026-11-03T15:00:33.359Z",
+  "totalPais": 28,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
+    "Ciencias",
     "Desarrollo De Aplicaciones Moviles",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Equipos Interdisciplinarios / Social",
@@ -11,6 +12,7 @@
     "Estudios Sociales/Educación Cívica",
     "Inglés",
     "Matemáticas",
+    "Música/Música",
     "Química",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -106,6 +108,16 @@
       "especialidad": "Inglés",
       "institucion": "Invu Las Cañas (Desamparados)",
       "lecciones": "0",
+      "rige": "03/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555974",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo Miguel Araya Venegas",
+      "lecciones": "20",
       "rige": "03/11/2026",
       "vence": "11/12/2026"
     },
@@ -285,6 +297,16 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Concepcion (El Amparo)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555635",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Música/Música",
+      "institucion": "Dr. Ricardo Moreno Cañas",
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "11/12/2026"
