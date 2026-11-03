@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-03T15:00:33.359Z",
-  "totalPais": 28,
+  "generado": "2026-11-03T15:20:35.469Z",
+  "totalPais": 29,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -13,6 +13,7 @@
     "Inglés",
     "Matemáticas",
     "Música/Música",
+    "Psicología",
     "Química",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -260,6 +261,16 @@
       "lecciones": "0",
       "rige": "04/11/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1556003",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Psicología",
+      "institucion": "C.T.P. Hatillo",
+      "lecciones": "7",
+      "rige": "05/11/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1555652",
