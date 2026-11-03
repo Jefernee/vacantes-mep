@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-03T16:40:35.677Z",
-  "totalPais": 29,
+  "generado": "2026-11-03T17:00:39.477Z",
+  "totalPais": 28,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -11,6 +11,7 @@
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Inglés",
+    "Labores Varias De Oficina",
     "Matemáticas",
     "Música/Música",
     "Psicología",
@@ -53,16 +54,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1555714",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "David Gonzalez Alfaro",
-      "lecciones": "0",
-      "rige": "04/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1555726",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
@@ -71,16 +62,6 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "09/12/2026"
-    },
-    {
-      "vacante": "1555755",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Miguel Obregon Lizano",
-      "lecciones": "0",
-      "rige": "04/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1555781",
@@ -281,6 +262,16 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1556085",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Col. Noct. De Santa Cruz",
+      "lecciones": "0",
+      "rige": "03/11/2026",
+      "vence": "12/02/2027"
     },
     {
       "vacante": "1556052",
