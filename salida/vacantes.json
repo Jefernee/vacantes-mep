@@ -1,14 +1,14 @@
 {
-  "generado": "2026-11-03T18:40:41.262Z",
-  "totalPais": 18,
+  "generado": "2026-11-03T19:00:43.133Z",
+  "totalPais": 17,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Desarrollo De Aplicaciones Moviles",
-    "Enseñanza Especial . Problemas De Aprendizaje",
     "Español",
     "Inglés",
     "Labores Varias De Oficina",
+    "Matemáticas",
     "Música/Música",
     "Psicología",
     "Sin Especialidad T-I",
@@ -28,26 +28,6 @@
     }
   ],
   "todas": [
-    {
-      "vacante": "1555790",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Tranquilino Viquez (Atenas)",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1555781",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Luis Rodriguez Salas",
-      "lecciones": "40",
-      "rige": "04/11/2026",
-      "vence": "11/12/2026"
-    },
     {
       "vacante": "1555891",
       "regional": "Direc. Regional Educacion Alajuela",
@@ -96,6 +76,16 @@
       "institucion": "Liceo Art. Felipe Perez P.",
       "lecciones": "44",
       "rige": "04/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555886",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Cindea San Isidro Penas Blancas",
+      "lecciones": "44",
+      "rige": "05/11/2026",
       "vence": "11/12/2026"
     },
     {
