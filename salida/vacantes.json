@@ -1,9 +1,10 @@
 {
-  "generado": "2026-11-03T13:40:38.027Z",
-  "totalPais": 23,
-  "calzanVT6": 0,
+  "generado": "2026-11-03T14:00:40.511Z",
+  "totalPais": 28,
+  "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
+    "Desarrollo De Aplicaciones Moviles",
     "Enseñanza Especial . Problemas De Aprendizaje",
     "Equipos Interdisciplinarios / Social",
     "Español",
@@ -14,7 +15,19 @@
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
-  "interesantes": [],
+  "interesantes": [
+    {
+      "vacante": "1555610",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Desarrollo De Aplicaciones Moviles",
+      "institucion": "Liceo De Corralillo",
+      "lecciones": "4",
+      "rige": "29/10/2026",
+      "vence": "11/12/2026",
+      "calce": "exacta"
+    }
+  ],
   "todas": [
     {
       "vacante": "1547260",
@@ -97,6 +110,26 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1555610",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Desarrollo De Aplicaciones Moviles",
+      "institucion": "Liceo De Corralillo",
+      "lecciones": "4",
+      "rige": "29/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555612",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Juan Bautista Santamaria",
+      "lecciones": "0",
+      "rige": "30/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1555878",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -135,16 +168,6 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1555594",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ctp Barrio Irvin",
-      "lecciones": "0",
-      "rige": "03/11/2026",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1555529",
@@ -207,14 +230,24 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1555578",
+      "vacante": "1555614",
       "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Juanito Mora",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Cindea Judas",
+      "lecciones": "32",
+      "rige": "29/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555605",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Malinche (Chomes)",
       "lecciones": "0",
-      "rige": "01/11/2026",
-      "vence": "31/07/2030"
+      "rige": "29/10/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1555634",
@@ -237,6 +270,26 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1555652",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo De San Antonio",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1555641",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "La Trinidad",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1555757",
       "regional": "Direc. Regional Educacion Turrialba",
       "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
@@ -244,6 +297,16 @@
       "institucion": "Grano De Oro (Tayutic)",
       "lecciones": "0",
       "rige": "05/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555638",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Concepcion (El Amparo)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
       "vence": "11/12/2026"
     }
   ]
