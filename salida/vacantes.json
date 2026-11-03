@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-03T19:00:43.133Z",
-  "totalPais": 17,
+  "generado": "2026-11-03T19:20:46.385Z",
+  "totalPais": 18,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -77,6 +77,16 @@
       "lecciones": "44",
       "rige": "04/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555805",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "J.N. Felicita Ramirez Vega",
+      "lecciones": "0",
+      "rige": "04/11/2026",
+      "vence": "31/12/2026"
     },
     {
       "vacante": "1555886",

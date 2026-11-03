@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 27643,
+      "vecesVista": 27651,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T19:00:43.134Z",
+      "ultimaVez": "2026-11-03T19:20:46.387Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 16976,
+      "vecesVista": 16978,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T19:00:43.134Z",
+      "ultimaVez": "2026-11-03T19:20:46.387Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3094,
+      "vecesVista": 3095,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T19:00:43.134Z",
+      "ultimaVez": "2026-11-03T19:20:46.387Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -65,16 +65,16 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1670,
+      "vecesVista": 1671,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T19:00:43.134Z",
+      "ultimaVez": "2026-11-03T19:20:46.387Z",
       "avisadaComoNueva": true
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 2553,
+      "vecesVista": 2555,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T19:00:43.134Z",
+      "ultimaVez": "2026-11-03T19:20:46.387Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,16 +93,16 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6119,
+      "vecesVista": 6120,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T19:00:43.134Z",
+      "ultimaVez": "2026-11-03T19:20:46.387Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 2133,
+      "vecesVista": 2134,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T19:00:43.134Z",
+      "ultimaVez": "2026-11-03T19:20:46.387Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -219,9 +219,9 @@
     },
     "Psicología": {
       "calce": "no interesa",
-      "vecesVista": 1364,
+      "vecesVista": 1365,
       "primeraVez": "2026-09-07T19:00:37.274Z",
-      "ultimaVez": "2026-11-03T19:00:43.134Z",
+      "ultimaVez": "2026-11-03T19:20:46.387Z",
       "avisadaComoNueva": true
     },
     "Executive Secretarial Management": {
@@ -436,9 +436,9 @@
     },
     "Desarrollo De Aplicaciones Moviles": {
       "calce": "exacta",
-      "vecesVista": 72,
+      "vecesVista": 73,
       "primeraVez": "2026-09-21T14:00:39.826Z",
-      "ultimaVez": "2026-11-03T19:00:43.134Z",
+      "ultimaVez": "2026-11-03T19:20:46.387Z",
       "avisadaComoNueva": true
     },
     "Diseño Y Desarrollo Digital": {
@@ -673,5 +673,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-03T19:00:43.134Z"
+  "actualizado": "2026-11-03T19:20:46.387Z"
 }
