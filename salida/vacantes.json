@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-03T17:20:57.429Z",
-  "totalPais": 22,
+  "generado": "2026-11-03T17:40:41.160Z",
+  "totalPais": 21,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -127,16 +127,6 @@
       "institucion": "Liceo Art. Felipe Perez P.",
       "lecciones": "44",
       "rige": "04/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555611",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Guadalupe (Zarcero)",
-      "lecciones": "0",
-      "rige": "03/11/2026",
       "vence": "11/12/2026"
     },
     {
