@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-03T20:40:49.265Z",
-  "totalPais": 21,
+  "generado": "2026-11-03T21:00:38.068Z",
+  "totalPais": 19,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -89,26 +89,6 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1555529",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Isabel Brown Brown",
-      "lecciones": "0",
-      "rige": "04/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555528",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Art. Felipe Perez P.",
-      "lecciones": "44",
-      "rige": "04/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1555805",
