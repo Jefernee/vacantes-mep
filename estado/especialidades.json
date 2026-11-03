@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 27267,
+      "vecesVista": 27278,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T01:20:33.572Z",
+      "ultimaVez": "2026-11-03T01:40:32.218Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 16776,
+      "vecesVista": 16785,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T01:20:33.572Z",
+      "ultimaVez": "2026-11-03T01:40:32.218Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -58,23 +58,23 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 2400,
+      "vecesVista": 2401,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T01:20:33.572Z",
+      "ultimaVez": "2026-11-03T01:40:32.218Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1641,
+      "vecesVista": 1642,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T01:20:33.572Z",
+      "ultimaVez": "2026-11-03T01:40:32.218Z",
       "avisadaComoNueva": true
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 2499,
+      "vecesVista": 2500,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T01:20:33.572Z",
+      "ultimaVez": "2026-11-03T01:40:32.218Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6066,
+      "vecesVista": 6067,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T01:20:33.572Z",
+      "ultimaVez": "2026-11-03T01:40:32.218Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,9 +107,9 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 2301,
+      "vecesVista": 2302,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-03T01:20:33.572Z",
+      "ultimaVez": "2026-11-03T01:40:32.218Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -163,9 +163,9 @@
     },
     "Equipos Interdisciplinarios / Social": {
       "calce": "no interesa",
-      "vecesVista": 206,
+      "vecesVista": 207,
       "primeraVez": "2026-09-04T17:40:39.152Z",
-      "ultimaVez": "2026-11-03T01:20:33.572Z",
+      "ultimaVez": "2026-11-03T01:40:32.218Z",
       "avisadaComoNueva": true
     },
     "Francés": {
@@ -191,16 +191,16 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1758,
+      "vecesVista": 1759,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-03T01:20:33.572Z",
+      "ultimaVez": "2026-11-03T01:40:32.218Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 1445,
+      "vecesVista": 1446,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-11-03T01:20:33.572Z",
+      "ultimaVez": "2026-11-03T01:40:32.218Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -254,16 +254,16 @@
     },
     "Química": {
       "calce": "no interesa",
-      "vecesVista": 1054,
+      "vecesVista": 1055,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-11-03T01:20:33.572Z",
+      "ultimaVez": "2026-11-03T01:40:32.218Z",
       "avisadaComoNueva": true
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 820,
+      "vecesVista": 821,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-11-03T01:20:33.572Z",
+      "ultimaVez": "2026-11-03T01:40:32.218Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -673,5 +673,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-03T01:20:33.572Z"
+  "actualizado": "2026-11-03T01:40:32.218Z"
 }
