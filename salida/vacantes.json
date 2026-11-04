@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-04T18:45:16.794Z",
-  "totalPais": 50,
+  "generado": "2026-11-04T19:01:16.428Z",
+  "totalPais": 47,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -16,11 +16,8 @@
     "Estudios Sociales/Educación Cívica",
     "Física",
     "Gerencia Y Produccion En Cocina",
-    "Inglés",
     "Labores Varias De Oficina",
-    "Matemáticas",
     "Orientación",
-    "Psicología",
     "Química",
     "Rehabilitación / Ocupacional",
     "Servicios Básicos",
@@ -98,16 +95,6 @@
       "institucion": "Liceo San Rafael",
       "lecciones": "0",
       "rige": "04/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555891",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Invu Las Cañas (Desamparados)",
-      "lecciones": "0",
-      "rige": "03/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -231,6 +218,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1556404",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Imas (Ulloa)",
+      "lecciones": "0",
+      "rige": "04/11/2026",
+      "vence": "01/01/2027"
+    },
+    {
       "vacante": "1555756",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Orientador Asistente",
@@ -298,16 +295,6 @@
       "institucion": "Guadalupe (Zarcero)",
       "lecciones": "0",
       "rige": "03/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555886",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Cindea San Isidro Penas Blancas",
-      "lecciones": "44",
-      "rige": "05/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -428,26 +415,6 @@
       "institucion": "Servicio Itinerante Ens. Esp.",
       "lecciones": "44",
       "rige": "06/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1556107",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Tejarcillos",
-      "lecciones": "0",
-      "rige": "05/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1556003",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Psicología",
-      "institucion": "C.T.P. Hatillo",
-      "lecciones": "7",
-      "rige": "05/11/2026",
       "vence": "11/12/2026"
     },
     {
