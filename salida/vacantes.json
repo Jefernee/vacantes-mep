@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-04T19:40:43.682Z",
-  "totalPais": 45,
+  "generado": "2026-11-04T20:00:36.126Z",
+  "totalPais": 43,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -16,7 +16,6 @@
     "Estudios Sociales/Educación Cívica",
     "Física",
     "Gerencia Y Produccion En Cocina",
-    "Labores Varias De Oficina",
     "Orientación",
     "Química",
     "Rehabilitación / Ocupacional",
@@ -435,26 +434,6 @@
       "institucion": "Liceo De Pavas",
       "lecciones": "6",
       "rige": "05/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1556085",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Col. Noct. De Santa Cruz",
-      "lecciones": "0",
-      "rige": "03/11/2026",
-      "vence": "12/02/2027"
-    },
-    {
-      "vacante": "1556052",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Bernardo Gutierrez Gutierrez",
-      "lecciones": "0",
-      "rige": "16/11/2026",
       "vence": "11/12/2026"
     },
     {
