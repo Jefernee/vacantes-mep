@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-04T19:01:16.428Z",
-  "totalPais": 47,
+  "generado": "2026-11-04T19:28:42.970Z",
+  "totalPais": 46,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -56,16 +56,6 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "24/03/2028"
-    },
-    {
-      "vacante": "1555643",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Supervisor De Educación",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Dirección Regional De Educación San Carlos",
-      "lecciones": "0",
-      "rige": "03/11/2026",
-      "vence": "29/01/2027"
     },
     {
       "vacante": "1555945",
@@ -228,14 +218,14 @@
       "vence": "01/01/2027"
     },
     {
-      "vacante": "1555756",
+      "vacante": "1556408",
       "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Orientador Asistente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Rodrigo Hernandez V.",
+      "institucion": "Calle Hernandez (Los Angeles)",
       "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/07/2030"
+      "rige": "05/11/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1556369",
@@ -268,16 +258,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1555805",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "J.N. Felicita Ramirez Vega",
-      "lecciones": "0",
-      "rige": "04/11/2026",
-      "vence": "31/12/2026"
-    },
-    {
       "vacante": "1556179",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
@@ -295,6 +275,16 @@
       "institucion": "Guadalupe (Zarcero)",
       "lecciones": "0",
       "rige": "03/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1554193",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo De Naranjo",
+      "lecciones": "44",
+      "rige": "09/11/2026",
       "vence": "11/12/2026"
     },
     {
