@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-04T16:40:37.636Z",
-  "totalPais": 46,
+  "generado": "2026-11-04T17:01:01.503Z",
+  "totalPais": 47,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -15,6 +15,7 @@
     "Estudios Sociales/Educación Cívica",
     "Física",
     "Gerencia Y Produccion En Cocina",
+    "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
     "Orientación",
@@ -98,6 +99,16 @@
       "institucion": "Liceo San Rafael",
       "lecciones": "0",
       "rige": "04/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555891",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Invu Las Cañas (Desamparados)",
+      "lecciones": "0",
+      "rige": "03/11/2026",
       "vence": "11/12/2026"
     },
     {
