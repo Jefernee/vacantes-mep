@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-04T20:40:39.392Z",
-  "totalPais": 43,
+  "generado": "2026-11-04T21:00:42.971Z",
+  "totalPais": 39,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -164,16 +164,6 @@
       "lecciones": "34",
       "rige": "05/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555826",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Barra Colorado Norte",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1555184",
@@ -396,26 +386,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1555652",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo De San Antonio",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1555641",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "La Trinidad",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1556232",
       "regional": "Direc. Regional Educacion San Jose - Oeste",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -444,16 +414,6 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1555638",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Concepcion (El Amparo)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "11/12/2026"
     }
   ]
 }
