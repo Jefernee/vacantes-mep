@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-04T16:20:59.298Z",
-  "totalPais": 43,
+  "generado": "2026-11-04T16:40:37.636Z",
+  "totalPais": 46,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -14,14 +14,17 @@
     "Español",
     "Estudios Sociales/Educación Cívica",
     "Física",
+    "Gerencia Y Produccion En Cocina",
     "Labores Varias De Oficina",
     "Matemáticas",
+    "Orientación",
     "Psicología",
     "Química",
     "Rehabilitación / Ocupacional",
     "Servicios Básicos",
     "Sin Especialidad T-I",
-    "Sin Especialidad T-Ii"
+    "Sin Especialidad T-Ii",
+    "Turismo Rural"
   ],
   "interesantes": [
     {
@@ -188,6 +191,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1552144",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Orientación",
+      "institucion": "Santa Marta (Volcan)",
+      "lecciones": "0",
+      "rige": "05/11/2026",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1555878",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -305,6 +318,26 @@
       "institucion": "La Repunta (Daniel Flores)",
       "lecciones": "0",
       "rige": "03/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555295",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Gerencia Y Produccion En Cocina",
+      "institucion": "C.T.P. De Pejibaye",
+      "lecciones": "12",
+      "rige": "09/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555298",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Turismo Rural",
+      "institucion": "C.T.P. De Pejibaye",
+      "lecciones": "12",
+      "rige": "09/11/2026",
       "vence": "11/12/2026"
     },
     {
