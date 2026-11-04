@@ -1,15 +1,18 @@
 {
-  "generado": "2026-11-04T13:40:36.035Z",
-  "totalPais": 30,
+  "generado": "2026-11-04T14:01:03.783Z",
+  "totalPais": 41,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Ciencias",
     "Desarrollo De Aplicaciones Moviles",
     "Educación Cívica",
+    "Ejecutivo Comercial Y De Servicio Al Cliente",
+    "Enseñanza Especial . Problemas De Aprendizaje",
     "Equipos Interdisciplinarios / Social",
     "Español",
     "Estudios Sociales/Educación Cívica",
+    "Física",
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
@@ -75,6 +78,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1556248",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Director De Colegio 3",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo San Rafael",
+      "lecciones": "0",
+      "rige": "04/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1555891",
       "regional": "Direc. Regional Educacion Alajuela",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -95,6 +108,46 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1555703",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
+      "institucion": "Esc. Carlos J. Peralta",
+      "lecciones": "40",
+      "rige": "29/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555710",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Ciencias",
+      "institucion": "Liceo Braulio Carrillo Colina",
+      "lecciones": "10",
+      "rige": "28/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555715",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "Liceo Braulio Carrillo Colina",
+      "lecciones": "12",
+      "rige": "28/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1556038",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Química",
+      "institucion": "C.T.P Dulce Nombre",
+      "lecciones": "18",
+      "rige": "28/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1555610",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -102,6 +155,26 @@
       "institucion": "Liceo De Corralillo",
       "lecciones": "4",
       "rige": "29/10/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1556227",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Cocinero",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Jaco (Jaco)",
+      "lecciones": "0",
+      "rige": "01/11/2026",
+      "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1555338",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Quebrada Amarilla (Jaco)",
+      "lecciones": "0",
+      "rige": "30/10/2026",
       "vence": "11/12/2026"
     },
     {
@@ -163,6 +236,16 @@
       "lecciones": "0",
       "rige": "02/11/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1556045",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. De Nicoya",
+      "lecciones": "0",
+      "rige": "18/11/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1555805",
@@ -295,6 +378,26 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1556232",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Isabel La Catolica",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1556241",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
+      "institucion": "Liceo De Pavas",
+      "lecciones": "6",
+      "rige": "05/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1556085",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -313,6 +416,16 @@
       "lecciones": "0",
       "rige": "16/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555289",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Isidro (Aguas Claras)",
+      "lecciones": "0",
+      "rige": "02/11/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1555638",
