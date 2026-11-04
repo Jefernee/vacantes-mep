@@ -1,11 +1,12 @@
 {
-  "generado": "2026-11-04T13:20:36.458Z",
-  "totalPais": 29,
+  "generado": "2026-11-04T13:40:36.035Z",
+  "totalPais": 30,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
     "Ciencias",
     "Desarrollo De Aplicaciones Moviles",
+    "Educación Cívica",
     "Equipos Interdisciplinarios / Social",
     "Español",
     "Estudios Sociales/Educación Cívica",
@@ -33,6 +34,16 @@
     }
   ],
   "todas": [
+    {
+      "vacante": "1556229",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Educación Cívica",
+      "institucion": "Dirección Regional De Educación Guápiles",
+      "lecciones": "0",
+      "rige": "30/11/2026",
+      "vence": "18/12/2026"
+    },
     {
       "vacante": "1547260",
       "regional": "Administracion Regional Del Sist. Educ.",
