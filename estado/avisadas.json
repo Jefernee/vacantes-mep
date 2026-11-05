@@ -1,8 +1,6 @@
 {
   "avisadas": {
     "principal": {
-      "Direc. Regional Educacion San Jose - Central|1548864": "2026-10-05T14:40:43.286Z",
-      "Direc. Regional Educacion Occidente|1549121": "2026-10-05T16:00:52.356Z",
       "Direc. Regional Educacion Occidente|1549832": "2026-10-07T19:41:10.043Z",
       "Direc. Regional Educacion Desamparados|1549617": "2026-10-22T13:00:38.540Z",
       "Direc. Regional Educacion Desamparados|1554356": "2026-10-27T19:28:34.936Z",
@@ -12,8 +10,6 @@
       "Direc. Regional Educacion Cartago|1555610": "2026-11-03T14:00:40.517Z"
     },
     "matematicas": {
-      "Direc. Regional Educacion San Jose - Central|1548861": "2026-10-05T14:40:43.286Z",
-      "Direc. Regional Educacion Los Santos|1549324": "2026-10-06T13:00:40.823Z",
       "Direc. Regional Educacion San Jose - Norte|1549395": "2026-10-07T14:00:51.637Z",
       "Direc. Regional Educacion Alajuela|1549802": "2026-10-08T17:20:33.699Z",
       "Direc. Regional Educacion Alajuela|1550355": "2026-10-09T20:40:57.947Z",
@@ -25,7 +21,8 @@
       "Direc. Regional Educacion Heredia|1554313": "2026-10-27T18:09:48.359Z",
       "Calidad De La Educacion|1551296": "2026-10-28T20:00:40.041Z",
       "Direc. Regional Educacion Desamparados|1555246": "2026-10-30T01:00:37.597Z",
-      "Direc. Regional Educacion Occidente|1555886": "2026-11-02T21:20:31.011Z"
+      "Direc. Regional Educacion Occidente|1555886": "2026-11-02T21:20:31.011Z",
+      "Direc. Regional Educacion San Carlos|1556431": "2026-11-05T14:00:34.188Z"
     },
     "contabilidad": {
       "Direc. Regional Educacion Cañas|1549576": "2026-10-06T19:40:58.576Z",

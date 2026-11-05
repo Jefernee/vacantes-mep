@@ -1,22 +1,19 @@
 {
-  "generado": "2026-11-05T13:40:40.006Z",
-  "totalPais": 34,
+  "generado": "2026-11-05T14:00:34.186Z",
+  "totalPais": 27,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
-    "Ciencias",
     "Educación Cívica",
-    "Ejecutivo Comercial Y De Servicio Al Cliente",
     "Enseñanza Especial . Deficiencias Visuales",
-    "Enseñanza Especial . Problemas De Aprendizaje",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+    "Equipos Interdisciplinarios / Orientación",
     "Estudios Sociales/Educación Cívica",
-    "Física",
     "Gerencia Y Produccion En Cocina",
     "Labores Varias De Oficina",
+    "Matemáticas",
     "Orientación",
-    "Química",
     "Servicios Básicos",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
@@ -33,6 +30,16 @@
       "lecciones": "0",
       "rige": "30/11/2026",
       "vence": "18/12/2026"
+    },
+    {
+      "vacante": "1556584",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Conductor De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Dirección Regional De Educación Nicoya",
+      "lecciones": "0",
+      "rige": "10/11/2026",
+      "vence": "22/12/2026"
     },
     {
       "vacante": "1556290",
@@ -53,76 +60,6 @@
       "lecciones": "0",
       "rige": "09/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1556248",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Director De Colegio 3",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo San Rafael",
-      "lecciones": "0",
-      "rige": "04/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555703",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Problemas De Aprendizaje",
-      "institucion": "Esc. Carlos J. Peralta",
-      "lecciones": "40",
-      "rige": "29/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555710",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Ciencias",
-      "institucion": "Liceo Braulio Carrillo Colina",
-      "lecciones": "10",
-      "rige": "28/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555715",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Liceo Braulio Carrillo Colina",
-      "lecciones": "12",
-      "rige": "28/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1556038",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Química",
-      "institucion": "C.T.P Dulce Nombre",
-      "lecciones": "18",
-      "rige": "28/10/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1556227",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Jaco (Jaco)",
-      "lecciones": "0",
-      "rige": "01/11/2026",
-      "vence": "31/07/2031"
-    },
-    {
-      "vacante": "1555338",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Quebrada Amarilla (Jaco)",
-      "lecciones": "0",
-      "rige": "30/10/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1556466",
@@ -195,14 +132,14 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1556045",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "C.T.P. De Nicoya",
+      "vacante": "1556541",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Equipos Interdisciplinarios / Orientación",
+      "institucion": "Pbro Venancio De Oña Martinez",
       "lecciones": "0",
-      "rige": "18/11/2026",
-      "vence": "31/01/2027"
+      "rige": "09/11/2026",
+      "vence": "28/02/2027"
     },
     {
       "vacante": "1556568",
@@ -275,6 +212,16 @@
       "vence": "30/01/2027"
     },
     {
+      "vacante": "1556581",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "I.D.A. El Futuro (Tigra)",
+      "lecciones": "0",
+      "rige": "05/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1556402",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -282,6 +229,16 @@
       "institucion": "Servicio Itinerante Ens. Esp.",
       "lecciones": "44",
       "rige": "04/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1556431",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Colegio Tecnico Profesional La Tigra",
+      "lecciones": "20",
+      "rige": "05/11/2026",
       "vence": "11/12/2026"
     },
     {
@@ -333,36 +290,6 @@
       "lecciones": "44",
       "rige": "06/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1556232",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Isabel La Catolica",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1556241",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Ejecutivo Comercial Y De Servicio Al Cliente",
-      "institucion": "Liceo De Pavas",
-      "lecciones": "6",
-      "rige": "05/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555289",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Isidro (Aguas Claras)",
-      "lecciones": "0",
-      "rige": "02/11/2026",
-      "vence": "31/01/2027"
     }
   ]
 }
