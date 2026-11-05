@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-05T16:20:33.643Z",
-  "totalPais": 33,
+  "generado": "2026-11-05T16:40:33.662Z",
+  "totalPais": 31,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -14,11 +14,9 @@
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
-    "Orientación",
     "Servicios Básicos",
     "Sin Especialidad T-I",
-    "Sin Especialidad T-Ii",
-    "Turismo Rural"
+    "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
   "todas": [
@@ -71,16 +69,6 @@
       "lecciones": "0",
       "rige": "09/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1552144",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Orientación",
-      "institucion": "Santa Marta (Volcan)",
-      "lecciones": "0",
-      "rige": "05/11/2026",
-      "vence": "31/01/2028"
     },
     {
       "vacante": "1556677",
@@ -163,6 +151,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1556726",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Gerencia Y Produccion En Cocina",
+      "institucion": "C.T.P. De Nandayure",
+      "lecciones": "4",
+      "rige": "06/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1556614",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
@@ -211,26 +209,6 @@
       "lecciones": "0",
       "rige": "09/11/2026",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1555295",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Gerencia Y Produccion En Cocina",
-      "institucion": "C.T.P. De Pejibaye",
-      "lecciones": "12",
-      "rige": "09/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555298",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Turismo Rural",
-      "institucion": "C.T.P. De Pejibaye",
-      "lecciones": "12",
-      "rige": "09/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1556345",
