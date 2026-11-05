@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-05T20:20:40.470Z",
-  "totalPais": 25,
+  "generado": "2026-11-05T20:40:32.700Z",
+  "totalPais": 23,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -90,16 +90,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1556632",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Domingo Gonzalez Perez",
-      "lecciones": "0",
-      "rige": "06/11/2026",
-      "vence": "22/12/2026"
-    },
-    {
       "vacante": "1556791",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
@@ -108,16 +98,6 @@
       "lecciones": "0",
       "rige": "05/11/2026",
       "vence": "28/02/2027"
-    },
-    {
-      "vacante": "1556457",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Jesus Arguello Villalobos",
-      "lecciones": "0",
-      "rige": "16/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1556633",
