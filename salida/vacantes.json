@@ -1,13 +1,11 @@
 {
-  "generado": "2026-11-05T18:28:02.093Z",
-  "totalPais": 27,
+  "generado": "2026-11-05T18:52:46.552Z",
+  "totalPais": 24,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Artes Plásticas/Artes Plásticas",
     "Ciencias",
     "Educación Cívica",
-    "Enseñanza Especial . Deficiencias Visuales",
     "Equipos Interdisciplinarios / Orientación",
     "Estudios Sociales/Educación Cívica",
     "Gerencia Y Produccion En Cocina",
@@ -51,16 +49,6 @@
       "vence": "01/03/2027"
     },
     {
-      "vacante": "1556403",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Central De Atenas (Atenas)",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1556466",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -91,16 +79,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1556404",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Imas (Ulloa)",
-      "lecciones": "0",
-      "rige": "04/11/2026",
-      "vence": "01/01/2027"
-    },
-    {
       "vacante": "1556632",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -109,6 +87,16 @@
       "lecciones": "0",
       "rige": "06/11/2026",
       "vence": "22/12/2026"
+    },
+    {
+      "vacante": "1556791",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Liceo Santa Barbara",
+      "lecciones": "0",
+      "rige": "05/11/2026",
+      "vence": "28/02/2027"
     },
     {
       "vacante": "1556408",
@@ -221,16 +209,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1556402",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Deficiencias Visuales",
-      "institucion": "Servicio Itinerante Ens. Esp.",
-      "lecciones": "44",
-      "rige": "04/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1556431",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -259,16 +237,6 @@
       "lecciones": "35",
       "rige": "05/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1556399",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "El Campo (Quesada)",
-      "lecciones": "0",
-      "rige": "04/11/2026",
-      "vence": "28/02/2027"
     },
     {
       "vacante": "1556472",
