@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-05T21:40:40.565Z",
-  "totalPais": 24,
+  "generado": "2026-11-05T22:00:34.140Z",
+  "totalPais": 25,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -238,6 +238,16 @@
       "institucion": "C.T.P. De La Fortuna",
       "lecciones": "35",
       "rige": "05/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1556897",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Juan Santamaria",
+      "lecciones": "0",
+      "rige": "09/11/2026",
       "vence": "11/12/2026"
     },
     {
