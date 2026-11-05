@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-05T19:30:42.144Z",
-  "totalPais": 22,
+  "generado": "2026-11-05T19:41:56.403Z",
+  "totalPais": 23,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -157,6 +157,16 @@
       "lecciones": "0",
       "rige": "09/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1556827",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "C.T.P. De Pejibaye",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "12/12/2026"
     },
     {
       "vacante": "1556538",
