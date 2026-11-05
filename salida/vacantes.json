@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-05T19:00:42.087Z",
-  "totalPais": 24,
+  "generado": "2026-11-05T19:30:42.144Z",
+  "totalPais": 22,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -99,16 +99,6 @@
       "vence": "28/02/2027"
     },
     {
-      "vacante": "1556408",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Calle Hernandez (Los Angeles)",
-      "lecciones": "0",
-      "rige": "05/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1556457",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -165,16 +155,6 @@
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Julia Fernandez Rodriguez",
       "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1554193",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo De Naranjo",
-      "lecciones": "44",
       "rige": "09/11/2026",
       "vence": "11/12/2026"
     },
