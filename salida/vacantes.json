@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-05T15:00:35.932Z",
-  "totalPais": 28,
+  "generado": "2026-11-05T15:20:31.196Z",
+  "totalPais": 29,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -129,6 +129,16 @@
       "institucion": "Gral Tomas Guadia Gutierrez",
       "lecciones": "0",
       "rige": "06/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1556633",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Jeronimo (San Carlos)",
+      "lecciones": "0",
+      "rige": "09/11/2026",
       "vence": "11/12/2026"
     },
     {
