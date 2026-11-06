@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-06T21:40:36.333Z",
-  "totalPais": 9,
+  "generado": "2026-11-06T22:00:29.517Z",
+  "totalPais": 7,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -31,16 +31,6 @@
       "lecciones": "0",
       "rige": "12/11/2026",
       "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1556917",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Liceo Los Lagos",
-      "lecciones": "16",
-      "rige": "06/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1556919",
@@ -91,16 +81,6 @@
       "lecciones": "0",
       "rige": "16/11/2026",
       "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1556897",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Juan Santamaria",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "11/12/2026"
     }
   ]
 }
