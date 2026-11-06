@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 28784,
+      "vecesVista": 28791,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 17839,
+      "vecesVista": 17843,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3203,
+      "vecesVista": 3205,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -51,23 +51,23 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 870,
+      "vecesVista": 872,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 2428,
+      "vecesVista": 2429,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1783,
+      "vecesVista": 1785,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6193,
+      "vecesVista": 6194,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,16 +107,16 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 2517,
+      "vecesVista": 2518,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 923,
+      "vecesVista": 925,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -156,9 +156,9 @@
     },
     "Equipos Interdisciplinarios / Orientación": {
       "calce": "no interesa",
-      "vecesVista": 199,
+      "vecesVista": 200,
       "primeraVez": "2026-09-04T17:00:36.807Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Social": {
@@ -184,9 +184,9 @@
     },
     "Ciencias": {
       "calce": "no interesa",
-      "vecesVista": 1835,
+      "vecesVista": 1836,
       "primeraVez": "2026-09-07T13:00:46.279Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Retardo Mental": {
@@ -233,9 +233,9 @@
     },
     "Servicios Básicos": {
       "calce": "no interesa",
-      "vecesVista": 347,
+      "vecesVista": 348,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Dibujo Técnico": {
@@ -667,18 +667,18 @@
     },
     "Gerencia Y Produccion En Cocina": {
       "calce": "no interesa",
-      "vecesVista": 242,
+      "vecesVista": 243,
       "primeraVez": "2026-10-30T14:40:44.802Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     },
     "Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 87,
+      "vecesVista": 88,
       "primeraVez": "2026-11-04T13:40:36.037Z",
-      "ultimaVez": "2026-11-06T00:00:31.621Z",
+      "ultimaVez": "2026-11-06T00:20:32.537Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-06T00:00:31.621Z"
+  "actualizado": "2026-11-06T00:20:32.537Z"
 }
