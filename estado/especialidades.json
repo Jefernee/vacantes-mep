@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 29015,
+      "vecesVista": 29019,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T20:40:27.152Z",
+      "ultimaVez": "2026-11-06T21:00:36.468Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 17984,
+      "vecesVista": 17985,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T20:40:27.152Z",
+      "ultimaVez": "2026-11-06T21:00:36.468Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3267,
+      "vecesVista": 3268,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T20:40:27.152Z",
+      "ultimaVez": "2026-11-06T21:00:36.468Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -51,9 +51,9 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 956,
+      "vecesVista": 958,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T20:40:27.152Z",
+      "ultimaVez": "2026-11-06T21:00:36.468Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6234,
+      "vecesVista": 6235,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T20:40:27.152Z",
+      "ultimaVez": "2026-11-06T21:00:36.468Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -680,5 +680,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-06T20:40:27.152Z"
+  "actualizado": "2026-11-06T21:00:36.468Z"
 }
