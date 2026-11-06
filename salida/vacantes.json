@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-06T19:20:51.859Z",
-  "totalPais": 14,
+  "generado": "2026-11-06T19:50:56.894Z",
+  "totalPais": 12,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -93,26 +93,6 @@
       "lecciones": "0",
       "rige": "16/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1556835",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Repunta (Daniel Flores)",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "14/12/2026"
-    },
-    {
-      "vacante": "1556827",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "C.T.P. De Pejibaye",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "12/12/2026"
     },
     {
       "vacante": "1557222",
