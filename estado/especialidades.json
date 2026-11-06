@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 28964,
+      "vecesVista": 28967,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T16:00:32.544Z",
+      "ultimaVez": "2026-11-06T16:20:48.154Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 17947,
+      "vecesVista": 17950,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T16:00:32.544Z",
+      "ultimaVez": "2026-11-06T16:20:48.154Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3250,
+      "vecesVista": 3251,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T16:00:32.544Z",
+      "ultimaVez": "2026-11-06T16:20:48.154Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -51,16 +51,16 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 926,
+      "vecesVista": 928,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T16:00:32.544Z",
+      "ultimaVez": "2026-11-06T16:20:48.154Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 2456,
+      "vecesVista": 2457,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T16:00:32.544Z",
+      "ultimaVez": "2026-11-06T16:20:48.154Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -114,9 +114,9 @@
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 979,
+      "vecesVista": 981,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T16:00:32.544Z",
+      "ultimaVez": "2026-11-06T16:20:48.154Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -667,9 +667,9 @@
     },
     "Gerencia Y Produccion En Cocina": {
       "calce": "no interesa",
-      "vecesVista": 270,
+      "vecesVista": 271,
       "primeraVez": "2026-10-30T14:40:44.802Z",
-      "ultimaVez": "2026-11-06T16:00:32.544Z",
+      "ultimaVez": "2026-11-06T16:20:48.154Z",
       "avisadaComoNueva": true
     },
     "Educación Cívica": {
@@ -680,5 +680,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-06T16:00:32.544Z"
+  "actualizado": "2026-11-06T16:20:48.154Z"
 }
