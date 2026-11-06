@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 29003,
+      "vecesVista": 29007,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T19:50:56.895Z",
+      "ultimaVez": "2026-11-06T20:09:37.010Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 17981,
+      "vecesVista": 17982,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T19:50:56.895Z",
+      "ultimaVez": "2026-11-06T20:09:37.010Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3264,
+      "vecesVista": 3265,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T19:50:56.895Z",
+      "ultimaVez": "2026-11-06T20:09:37.010Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -51,9 +51,9 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 950,
+      "vecesVista": 952,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T19:50:56.895Z",
+      "ultimaVez": "2026-11-06T20:09:37.010Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6231,
+      "vecesVista": 6232,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T19:50:56.895Z",
+      "ultimaVez": "2026-11-06T20:09:37.010Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -114,9 +114,9 @@
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 1003,
+      "vecesVista": 1005,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T19:50:56.895Z",
+      "ultimaVez": "2026-11-06T20:09:37.010Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -680,5 +680,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-06T19:50:56.895Z"
+  "actualizado": "2026-11-06T20:09:37.010Z"
 }
