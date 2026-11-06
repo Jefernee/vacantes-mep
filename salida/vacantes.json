@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-06T13:40:36.371Z",
-  "totalPais": 24,
+  "generado": "2026-11-06T14:00:34.834Z",
+  "totalPais": 22,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,7 +8,6 @@
     "Ciencias",
     "Educación Física",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-    "Equipos Interdisciplinarios / Orientación",
     "Estudios Sociales/Educación Cívica",
     "Gerencia Y Produccion En Cocina",
     "Inglés",
@@ -151,16 +150,6 @@
       "vence": "31/07/2027"
     },
     {
-      "vacante": "1556541",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Equipos Interdisciplinarios / Orientación",
-      "institucion": "Pbro Venancio De Oña Martinez",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "28/02/2027"
-    },
-    {
       "vacante": "1556835",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -181,6 +170,16 @@
       "vence": "12/12/2026"
     },
     {
+      "vacante": "1552807",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Emiliano Odio Madrigal",
+      "lecciones": "0",
+      "rige": "16/11/2026",
+      "vence": "31/07/2030"
+    },
+    {
       "vacante": "1556626",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Cocinero",
@@ -189,26 +188,6 @@
       "lecciones": "0",
       "rige": "16/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1556581",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "I.D.A. El Futuro (Tigra)",
-      "lecciones": "0",
-      "rige": "05/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1556431",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Colegio Tecnico Profesional La Tigra",
-      "lecciones": "20",
-      "rige": "05/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1556678",
