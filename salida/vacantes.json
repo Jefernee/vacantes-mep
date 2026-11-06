@@ -1,13 +1,12 @@
 {
-  "generado": "2026-11-06T16:20:48.153Z",
-  "totalPais": 13,
+  "generado": "2026-11-06T16:40:32.018Z",
+  "totalPais": 12,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
     "Educación Física",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
-    "Gerencia Y Produccion En Cocina",
     "Labores Varias De Oficina",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -82,16 +81,6 @@
       "institucion": "C.T.P. Liberia",
       "lecciones": "40",
       "rige": "09/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1556726",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Gerencia Y Produccion En Cocina",
-      "institucion": "C.T.P. De Nandayure",
-      "lecciones": "4",
-      "rige": "06/11/2026",
       "vence": "11/12/2026"
     },
     {
