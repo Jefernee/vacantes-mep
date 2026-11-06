@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 28976,
+      "vecesVista": 28979,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T17:20:30.964Z",
+      "ultimaVez": "2026-11-06T17:40:36.491Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 17959,
+      "vecesVista": 17962,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T17:20:30.964Z",
+      "ultimaVez": "2026-11-06T17:40:36.491Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3254,
+      "vecesVista": 3255,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T17:20:30.964Z",
+      "ultimaVez": "2026-11-06T17:40:36.491Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -51,16 +51,16 @@
     },
     "Artes Plásticas/Artes Plásticas": {
       "calce": "no interesa",
-      "vecesVista": 934,
+      "vecesVista": 936,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T17:20:30.964Z",
+      "ultimaVez": "2026-11-06T17:40:36.491Z",
       "avisadaComoNueva": true
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 2460,
+      "vecesVista": 2461,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T17:20:30.964Z",
+      "ultimaVez": "2026-11-06T17:40:36.491Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6223,
+      "vecesVista": 6224,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T17:20:30.964Z",
+      "ultimaVez": "2026-11-06T17:40:36.491Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -114,9 +114,9 @@
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 987,
+      "vecesVista": 989,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-06T17:20:30.964Z",
+      "ultimaVez": "2026-11-06T17:40:36.491Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -680,5 +680,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-06T17:20:30.964Z"
+  "actualizado": "2026-11-06T17:40:36.491Z"
 }
