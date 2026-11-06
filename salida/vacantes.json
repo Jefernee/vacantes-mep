@@ -1,12 +1,13 @@
 {
-  "generado": "2026-11-06T16:40:32.018Z",
-  "totalPais": 12,
+  "generado": "2026-11-06T17:00:35.232Z",
+  "totalPais": 13,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Plásticas/Artes Plásticas",
     "Educación Física",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+    "Inglés",
     "Labores Varias De Oficina",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -81,6 +82,16 @@
       "institucion": "C.T.P. Liberia",
       "lecciones": "40",
       "rige": "09/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1557102",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Dr. Ricardo Moreno Cañas",
+      "lecciones": "0",
+      "rige": "16/11/2026",
       "vence": "11/12/2026"
     },
     {
