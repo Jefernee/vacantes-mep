@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 29130,
+      "vecesVista": 29132,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-07T16:20:24.298Z",
+      "ultimaVez": "2026-11-07T16:40:32.528Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 18061,
+      "vecesVista": 18063,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-07T16:20:24.298Z",
+      "ultimaVez": "2026-11-07T16:40:32.528Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3308,
+      "vecesVista": 3309,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-07T16:20:24.298Z",
+      "ultimaVez": "2026-11-07T16:40:32.528Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6275,
+      "vecesVista": 6276,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-07T16:20:24.298Z",
+      "ultimaVez": "2026-11-07T16:40:32.528Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,9 +107,9 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 2581,
+      "vecesVista": 2582,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-07T16:20:24.298Z",
+      "ultimaVez": "2026-11-07T16:40:32.528Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -680,5 +680,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-07T16:20:24.298Z"
+  "actualizado": "2026-11-07T16:40:32.528Z"
 }
