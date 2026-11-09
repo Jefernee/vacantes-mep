@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-09T16:00:49.255Z",
-  "totalPais": 20,
+  "generado": "2026-11-09T16:20:38.210Z",
+  "totalPais": 21,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -184,6 +184,16 @@
       "institucion": "Republica Mexico (Cajon)",
       "lecciones": "0",
       "rige": "10/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1557537",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Asistente De Dirección Centro Educativo 2",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "C.T.P. Don Bosco",
+      "lecciones": "0",
+      "rige": "11/11/2026",
       "vence": "31/01/2027"
     },
     {
