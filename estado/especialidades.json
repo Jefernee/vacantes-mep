@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 29432,
+      "vecesVista": 29439,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-09T18:00:39.183Z",
+      "ultimaVez": "2026-11-09T18:20:33.727Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 18359,
+      "vecesVista": 18365,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-09T18:00:39.183Z",
+      "ultimaVez": "2026-11-09T18:20:33.727Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3437,
+      "vecesVista": 3439,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-09T18:00:39.183Z",
+      "ultimaVez": "2026-11-09T18:20:33.727Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 1549,
+      "vecesVista": 1550,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-09T18:00:39.183Z",
+      "ultimaVez": "2026-11-09T18:20:33.727Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -107,9 +107,9 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 2695,
+      "vecesVista": 2696,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-09T18:00:39.183Z",
+      "ultimaVez": "2026-11-09T18:20:33.727Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -156,9 +156,9 @@
     },
     "Equipos Interdisciplinarios / Orientación": {
       "calce": "no interesa",
-      "vecesVista": 235,
+      "vecesVista": 236,
       "primeraVez": "2026-09-04T17:00:36.807Z",
-      "ultimaVez": "2026-11-09T18:00:39.183Z",
+      "ultimaVez": "2026-11-09T18:20:33.727Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Social": {
@@ -352,9 +352,9 @@
     },
     "Construcción Civil": {
       "calce": "no interesa",
-      "vecesVista": 180,
+      "vecesVista": 181,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-11-09T18:00:39.183Z",
+      "ultimaVez": "2026-11-09T18:20:33.727Z",
       "avisadaComoNueva": true
     },
     "Contabilidad Y Finanzas": {
@@ -380,9 +380,9 @@
     },
     "Biología": {
       "calce": "no interesa",
-      "vecesVista": 984,
+      "vecesVista": 985,
       "primeraVez": "2026-09-16T18:20:42.372Z",
-      "ultimaVez": "2026-11-09T18:00:39.183Z",
+      "ultimaVez": "2026-11-09T18:20:33.727Z",
       "avisadaComoNueva": true
     },
     "Derecho": {
@@ -681,11 +681,11 @@
     },
     "Accounting": {
       "calce": "no interesa",
-      "vecesVista": 15,
+      "vecesVista": 16,
       "primeraVez": "2026-11-09T13:20:39.028Z",
-      "ultimaVez": "2026-11-09T18:00:39.183Z",
+      "ultimaVez": "2026-11-09T18:20:33.727Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-09T18:00:39.183Z"
+  "actualizado": "2026-11-09T18:20:33.727Z"
 }
