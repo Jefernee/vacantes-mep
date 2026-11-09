@@ -1,15 +1,15 @@
 {
-  "generado": "2026-11-09T16:40:33.480Z",
+  "generado": "2026-11-09T17:00:37.998Z",
   "totalPais": 21,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Accounting",
+    "Biología",
     "Construcción Civil",
     "Educación Para El Hogar",
     "Equipos Interdisciplinarios / Orientación",
     "Estudios Sociales/Educación Cívica",
-    "Inglés",
     "Labores Varias De Oficina",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -35,6 +35,16 @@
       "lecciones": "0",
       "rige": "09/11/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1557616",
+      "regional": "Direc. Regional Educacion Cañas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Biología",
+      "institucion": "Liceo De Colorado",
+      "lecciones": "4",
+      "rige": "10/11/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1557298",
@@ -145,16 +155,6 @@
       "lecciones": "0",
       "rige": "12/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1557102",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Dr. Ricardo Moreno Cañas",
-      "lecciones": "0",
-      "rige": "16/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1555928",
