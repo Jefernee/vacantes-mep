@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-09T01:20:49.464Z",
-  "totalPais": 7,
+  "generado": "2026-11-09T01:40:29.260Z",
+  "totalPais": 8,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -71,6 +71,16 @@
       "lecciones": "0",
       "rige": "16/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1557446",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Republica Mexico (Cajon)",
+      "lecciones": "0",
+      "rige": "10/11/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1552807",
