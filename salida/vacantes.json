@@ -1,9 +1,13 @@
 {
-  "generado": "2026-11-09T12:40:33.104Z",
-  "totalPais": 8,
+  "generado": "2026-11-09T13:20:39.026Z",
+  "totalPais": 22,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Accounting",
+    "Construcción Civil",
+    "Educación Para El Hogar",
+    "Equipos Interdisciplinarios / Orientación",
     "Estudios Sociales/Educación Cívica",
     "Inglés",
     "Labores Varias De Oficina",
@@ -13,6 +17,16 @@
   "interesantes": [],
   "todas": [
     {
+      "vacante": "1555927",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asistente De Asesoría Y Supervisión",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Dirección Regional De Educación De Occidente",
+      "lecciones": "0",
+      "rige": "02/12/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1556584",
       "regional": "Administracion Regional Del Sist. Educ.",
       "clasePuesto": "Conductor De Servicio Civil 1",
@@ -21,6 +35,26 @@
       "lecciones": "0",
       "rige": "10/11/2026",
       "vence": "22/12/2026"
+    },
+    {
+      "vacante": "1557335",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Conductor De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Dirección Regional De Educación Cañas",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1557298",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Liceo Monseñor Ruben Odio",
+      "lecciones": "0",
+      "rige": "12/11/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1557417",
@@ -43,14 +77,84 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1557202",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Liceo De Valle Azul",
+      "vacante": "1554334",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Llano Bonito (Roxana)",
       "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "04/03/2027"
+      "rige": "25/11/2026",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1557234",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Colegio Tecnico Profesional De Belen",
+      "lecciones": "0",
+      "rige": "04/12/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1557226",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Ing Manuel Benavides R.",
+      "lecciones": "0",
+      "rige": "02/12/2026",
+      "vence": "31/07/2029"
+    },
+    {
+      "vacante": "1557189",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)",
+      "especialidad": "Accounting",
+      "institucion": "Ctp Guararí",
+      "lecciones": "22",
+      "rige": "06/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1557126",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Ascension Esquivel Ibarra",
+      "lecciones": "0",
+      "rige": "10/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1557209",
+      "regional": "Direc. Regional Educacion Liberia",
+      "clasePuesto": "Trabajador Calificado De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Construcción Civil",
+      "institucion": "C.T.P. De Liberia",
+      "lecciones": "0",
+      "rige": "10/11/2026",
+      "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1550532",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Pacuarito (Pacuarito)",
+      "lecciones": "0",
+      "rige": "16/11/2026",
+      "vence": "10/05/2027"
+    },
+    {
+      "vacante": "1557227",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Equipos Interdisciplinarios / Orientación",
+      "institucion": "El Rodeo (San Marcos)",
+      "lecciones": "0",
+      "rige": "12/11/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1557102",
@@ -61,6 +165,16 @@
       "lecciones": "0",
       "rige": "16/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1555928",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Director De Colegio 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Rural Santiago De San Pe",
+      "lecciones": "0",
+      "rige": "30/11/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1557222",
@@ -91,6 +205,36 @@
       "lecciones": "0",
       "rige": "16/11/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1556810",
+      "regional": "Direc. Regional Educacion San Jose - Central",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Naciones Unidas",
+      "lecciones": "0",
+      "rige": "15/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1557223",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "J.N. Carlos Sanabria",
+      "lecciones": "0",
+      "rige": "07/12/2026",
+      "vence": "01/06/2027"
+    },
+    {
+      "vacante": "1556083",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Omar Dengo Guerrero (Belen)",
+      "lecciones": "0",
+      "rige": "30/11/2026",
+      "vence": "31/07/2031"
     }
   ]
 }
