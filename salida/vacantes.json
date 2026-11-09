@@ -1,18 +1,20 @@
 {
-  "generado": "2026-11-09T18:40:34.769Z",
-  "totalPais": 21,
+  "generado": "2026-11-09T19:00:39.597Z",
+  "totalPais": 24,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Accounting",
     "Biología",
     "Construcción Civil",
+    "Derecho",
     "Educación Para El Hogar",
     "Equipos Interdisciplinarios / Orientación",
     "Estudios Sociales/Educación Cívica",
     "Labores Varias De Oficina",
     "Sin Especialidad T-I",
-    "Sin Especialidad T-Ii"
+    "Sin Especialidad T-Ii",
+    "Trabajo Social"
   ],
   "interesantes": [],
   "todas": [
@@ -137,6 +139,16 @@
       "vence": "31/07/2031"
     },
     {
+      "vacante": "1557074",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Zephaniah Farguharson Vassell",
+      "lecciones": "0",
+      "rige": "12/11/2026",
+      "vence": "31/01/2031"
+    },
+    {
       "vacante": "1550532",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -165,16 +177,6 @@
       "lecciones": "0",
       "rige": "30/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1557222",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "La Ceniza",
-      "lecciones": "0",
-      "rige": "16/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1557446",
@@ -225,6 +227,36 @@
       "lecciones": "0",
       "rige": "30/11/2026",
       "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1557477",
+      "regional": "Evaluacion De Los Servicios",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Trabajo Social",
+      "institucion": "Contraloría De Derechos Estudiantiles",
+      "lecciones": "0",
+      "rige": "16/11/2026",
+      "vence": "07/05/2030"
+    },
+    {
+      "vacante": "1552163",
+      "regional": "Fundamentac. Legal Para Toma Decisiones",
+      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
+      "especialidad": "Derecho",
+      "institucion": "Departamento De Contratación Y Coordinación Interinstitucion",
+      "lecciones": "0",
+      "rige": "16/11/2026",
+      "vence": "07/05/2030"
+    },
+    {
+      "vacante": "1554859",
+      "regional": "Vinculo Al Trabajo",
+      "clasePuesto": "Oficinista De Servicio Civil 2 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Dirección De Educación Técnica Y Capacidades Emprendedoras",
+      "lecciones": "0",
+      "rige": "16/11/2026",
+      "vence": "31/01/2027"
     }
   ]
 }
