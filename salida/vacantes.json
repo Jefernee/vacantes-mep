@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-09T13:40:39.051Z",
-  "totalPais": 22,
+  "generado": "2026-11-09T14:00:35.201Z",
+  "totalPais": 20,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -25,16 +25,6 @@
       "lecciones": "0",
       "rige": "02/12/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1556584",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Conductor De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Dirección Regional De Educación Nicoya",
-      "lecciones": "0",
-      "rige": "10/11/2026",
-      "vence": "22/12/2026"
     },
     {
       "vacante": "1557335",
@@ -195,16 +185,6 @@
       "lecciones": "0",
       "rige": "10/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1552807",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Emiliano Odio Madrigal",
-      "lecciones": "0",
-      "rige": "16/11/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1556810",
