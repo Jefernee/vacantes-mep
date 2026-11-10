@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 29560,
+      "vecesVista": 29566,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 18520,
+      "vecesVista": 18528,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3498,
+      "vecesVista": 3501,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 1570,
+      "vecesVista": 1571,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1845,
+      "vecesVista": 1846,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -142,9 +142,9 @@
     },
     "Informática En Desarrollo Del Software": {
       "calce": "exacta",
-      "vecesVista": 281,
+      "vecesVista": 282,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     },
     "Filosofía": {
@@ -156,9 +156,9 @@
     },
     "Equipos Interdisciplinarios / Orientación": {
       "calce": "no interesa",
-      "vecesVista": 256,
+      "vecesVista": 257,
       "primeraVez": "2026-09-04T17:00:36.807Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Social": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1789,
+      "vecesVista": 1790,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -352,9 +352,9 @@
     },
     "Construcción Civil": {
       "calce": "no interesa",
-      "vecesVista": 201,
+      "vecesVista": 202,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     },
     "Contabilidad Y Finanzas": {
@@ -380,16 +380,16 @@
     },
     "Biología": {
       "calce": "no interesa",
-      "vecesVista": 1005,
+      "vecesVista": 1006,
       "primeraVez": "2026-09-16T18:20:42.372Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     },
     "Derecho": {
       "calce": "no interesa",
-      "vecesVista": 681,
+      "vecesVista": 682,
       "primeraVez": "2026-09-16T20:00:49.006Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     },
     "Administración / Generalista": {
@@ -660,9 +660,9 @@
     },
     "Trabajo Social": {
       "calce": "no interesa",
-      "vecesVista": 127,
+      "vecesVista": 128,
       "primeraVez": "2026-10-28T20:40:36.385Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     },
     "Gerencia Y Produccion En Cocina": {
@@ -681,11 +681,11 @@
     },
     "Accounting": {
       "calce": "no interesa",
-      "vecesVista": 36,
+      "vecesVista": 37,
       "primeraVez": "2026-11-09T13:20:39.028Z",
-      "ultimaVez": "2026-11-10T00:40:38.521Z",
+      "ultimaVez": "2026-11-10T01:00:35.081Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-10T00:40:38.521Z"
+  "actualizado": "2026-11-10T01:00:35.081Z"
 }
