@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 29682,
+      "vecesVista": 29683,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T16:40:32.153Z",
+      "ultimaVez": "2026-11-10T17:00:34.829Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 18680,
+      "vecesVista": 18682,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T16:40:32.153Z",
+      "ultimaVez": "2026-11-10T17:00:34.829Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 2522,
+      "vecesVista": 2523,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T16:40:32.153Z",
+      "ultimaVez": "2026-11-10T17:00:34.829Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3570,
+      "vecesVista": 3572,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T16:40:32.153Z",
+      "ultimaVez": "2026-11-10T17:00:34.829Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -58,16 +58,16 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 2470,
+      "vecesVista": 2471,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T16:40:32.153Z",
+      "ultimaVez": "2026-11-10T17:00:34.829Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1874,
+      "vecesVista": 1875,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T16:40:32.153Z",
+      "ultimaVez": "2026-11-10T17:00:34.829Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -100,9 +100,9 @@
     },
     "Música/Música": {
       "calce": "no interesa",
-      "vecesVista": 2177,
+      "vecesVista": 2178,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T16:40:32.153Z",
+      "ultimaVez": "2026-11-10T17:00:34.829Z",
       "avisadaComoNueva": true
     },
     "Estudios Sociales/Educación Cívica": {
@@ -142,9 +142,9 @@
     },
     "Informática En Desarrollo Del Software": {
       "calce": "exacta",
-      "vecesVista": 310,
+      "vecesVista": 311,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-10T16:40:32.153Z",
+      "ultimaVez": "2026-11-10T17:00:34.829Z",
       "avisadaComoNueva": true
     },
     "Filosofía": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1818,
+      "vecesVista": 1819,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-10T16:40:32.153Z",
+      "ultimaVez": "2026-11-10T17:00:34.829Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -387,9 +387,9 @@
     },
     "Derecho": {
       "calce": "no interesa",
-      "vecesVista": 710,
+      "vecesVista": 711,
       "primeraVez": "2026-09-16T20:00:49.006Z",
-      "ultimaVez": "2026-11-10T16:40:32.153Z",
+      "ultimaVez": "2026-11-10T17:00:34.829Z",
       "avisadaComoNueva": true
     },
     "Administración / Generalista": {
@@ -660,9 +660,9 @@
     },
     "Trabajo Social": {
       "calce": "no interesa",
-      "vecesVista": 156,
+      "vecesVista": 157,
       "primeraVez": "2026-10-28T20:40:36.385Z",
-      "ultimaVez": "2026-11-10T16:40:32.153Z",
+      "ultimaVez": "2026-11-10T17:00:34.829Z",
       "avisadaComoNueva": true
     },
     "Gerencia Y Produccion En Cocina": {
@@ -687,5 +687,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-10T16:40:32.153Z"
+  "actualizado": "2026-11-10T17:00:34.829Z"
 }
