@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-10T13:40:45.051Z",
-  "totalPais": 11,
+  "generado": "2026-11-10T14:01:25.309Z",
+  "totalPais": 12,
   "calzanVT6": 1,
   "advertencias": [],
   "especialidadesVistas": [
@@ -57,6 +57,16 @@
       "lecciones": "0",
       "rige": "11/11/2026",
       "vence": "31/01/2027"
+    },
+    {
+      "vacante": "1557921",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "Rogelio Fernandez Guell",
+      "lecciones": "0",
+      "rige": "12/11/2026",
+      "vence": "24/12/2026"
     },
     {
       "vacante": "1557801",
