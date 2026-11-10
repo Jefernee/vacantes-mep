@@ -1,13 +1,13 @@
 {
-  "generado": "2026-11-10T19:20:30.275Z",
+  "generado": "2026-11-10T19:40:31.719Z",
   "totalPais": 12,
-  "calzanVT6": 1,
+  "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Derecho",
     "Educación Física",
     "Enseñanza Especial . Retardo Mental",
-    "Informática En Desarrollo Del Software",
+    "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
     "Música/Música",
@@ -16,30 +16,8 @@
     "Sin Especialidad T-Ii",
     "Trabajo Social"
   ],
-  "interesantes": [
-    {
-      "vacante": "1557761",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "Cindea Tilaran",
-      "lecciones": "38",
-      "rige": "14/11/2026",
-      "vence": "11/12/2026",
-      "calce": "exacta"
-    }
-  ],
+  "interesantes": [],
   "todas": [
-    {
-      "vacante": "1557761",
-      "regional": "Direc. Regional Educacion Cañas",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática En Desarrollo Del Software",
-      "institucion": "Cindea Tilaran",
-      "lecciones": "38",
-      "rige": "14/11/2026",
-      "vence": "11/12/2026"
-    },
     {
       "vacante": "1558070",
       "regional": "Direc. Regional Educacion Coto",
@@ -108,6 +86,16 @@
       "institucion": "San Jeronimo (San Carlos)",
       "lecciones": "0",
       "rige": "13/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1558262",
+      "regional": "Direc. Regional Educacion San Jose - Oeste",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo Luis Dobles Segreda",
+      "lecciones": "40",
+      "rige": "12/11/2026",
       "vence": "11/12/2026"
     },
     {
