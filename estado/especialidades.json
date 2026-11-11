@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 29774,
+      "vecesVista": 29779,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-11T17:40:30.587Z",
+      "ultimaVez": "2026-11-11T18:00:37.563Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 18794,
+      "vecesVista": 18801,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-11T17:40:30.587Z",
+      "ultimaVez": "2026-11-11T18:00:37.563Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3664,
+      "vecesVista": 3665,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-11T17:40:30.587Z",
+      "ultimaVez": "2026-11-11T18:00:37.563Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6425,
+      "vecesVista": 6426,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-11T17:40:30.587Z",
+      "ultimaVez": "2026-11-11T18:00:37.563Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -387,9 +387,9 @@
     },
     "Derecho": {
       "calce": "no interesa",
-      "vecesVista": 759,
+      "vecesVista": 760,
       "primeraVez": "2026-09-16T20:00:49.006Z",
-      "ultimaVez": "2026-11-11T17:40:30.587Z",
+      "ultimaVez": "2026-11-11T18:00:37.563Z",
       "avisadaComoNueva": true
     },
     "Administración / Generalista": {
@@ -618,9 +618,9 @@
     },
     "Enseñanza Especial . Generalista": {
       "calce": "no interesa",
-      "vecesVista": 114,
+      "vecesVista": 115,
       "primeraVez": "2026-10-13T15:00:39.543Z",
-      "ultimaVez": "2026-11-11T17:40:30.587Z",
+      "ultimaVez": "2026-11-11T18:00:37.563Z",
       "avisadaComoNueva": true
     },
     "Mercadeo": {
@@ -660,9 +660,9 @@
     },
     "Trabajo Social": {
       "calce": "no interesa",
-      "vecesVista": 205,
+      "vecesVista": 206,
       "primeraVez": "2026-10-28T20:40:36.385Z",
-      "ultimaVez": "2026-11-11T17:40:30.587Z",
+      "ultimaVez": "2026-11-11T18:00:37.563Z",
       "avisadaComoNueva": true
     },
     "Gerencia Y Produccion En Cocina": {
@@ -688,11 +688,11 @@
     },
     "Evaluación": {
       "calce": "no interesa",
-      "vecesVista": 3,
+      "vecesVista": 4,
       "primeraVez": "2026-11-11T17:00:33.437Z",
-      "ultimaVez": "2026-11-11T17:40:30.587Z",
+      "ultimaVez": "2026-11-11T18:00:37.563Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-11T17:40:30.587Z"
+  "actualizado": "2026-11-11T18:00:37.563Z"
 }

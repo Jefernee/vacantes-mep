@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-11T17:40:30.585Z",
-  "totalPais": 16,
+  "generado": "2026-11-11T18:00:37.561Z",
+  "totalPais": 18,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -96,6 +96,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1558665",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Rosario Salazar Marin",
+      "lecciones": "0",
+      "rige": "12/11/2026",
+      "vence": "31/01/2027"
+    },
+    {
       "vacante": "1558446",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
@@ -123,6 +133,16 @@
       "institucion": "Liceo Luis Dobles Segreda",
       "lecciones": "40",
       "rige": "12/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1558670",
+      "regional": "Direc. Regional Educacion Santa Cruz",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "El Trapiche",
+      "lecciones": "0",
+      "rige": "16/11/2026",
       "vence": "11/12/2026"
     },
     {
