@@ -1,12 +1,11 @@
 {
-  "generado": "2026-11-11T19:20:29.527Z",
+  "generado": "2026-11-11T19:42:01.044Z",
   "totalPais": 16,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Enseñanza Especial . Generalista",
     "Evaluación",
-    "Inglés",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -113,6 +112,16 @@
       "vence": "31/01/2027"
     },
     {
+      "vacante": "1558747",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Director De Colegio 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Liceo Nicolas Aguilar",
+      "lecciones": "0",
+      "rige": "16/11/2026",
+      "vence": "29/01/2027"
+    },
+    {
       "vacante": "1558446",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
@@ -131,16 +140,6 @@
       "lecciones": "0",
       "rige": "16/11/2026",
       "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1558262",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo Luis Dobles Segreda",
-      "lecciones": "40",
-      "rige": "12/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1558670",
