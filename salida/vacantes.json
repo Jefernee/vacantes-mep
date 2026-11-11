@@ -1,15 +1,13 @@
 {
-  "generado": "2026-11-11T13:40:49.607Z",
-  "totalPais": 13,
+  "generado": "2026-11-11T16:55:44.101Z",
+  "totalPais": 15,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Derecho",
-    "Educación Física",
+    "Enseñanza Especial . Generalista",
     "Inglés",
     "Labores Varias De Oficina",
-    "Música/Música",
-    "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii",
     "Trabajo Social"
@@ -17,34 +15,34 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1558070",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Independencia (Jimenez)",
+      "vacante": "1558521",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Enseñanza Especial . Generalista",
+      "institucion": "Dirección Regional De Educación Limón",
       "lecciones": "0",
-      "rige": "12/11/2026",
-      "vence": "11/12/2026"
+      "rige": "13/12/2026",
+      "vence": "31/01/2027"
     },
     {
-      "vacante": "1558076",
-      "regional": "Direc. Regional Educacion Coto",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Cañaza (Jimenez)",
+      "vacante": "1558525",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Loma (Parrita)",
       "lecciones": "0",
-      "rige": "12/11/2026",
-      "vence": "11/12/2026"
+      "rige": "11/11/2026",
+      "vence": "31/07/2030"
     },
     {
-      "vacante": "1557921",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Rogelio Fernandez Guell",
+      "vacante": "1557535",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Jaco (Jaco)",
       "lecciones": "0",
-      "rige": "12/11/2026",
-      "vence": "24/12/2026"
+      "rige": "04/11/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1558314",
@@ -67,24 +65,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1558088",
-      "regional": "Direc. Regional Educacion Los Santos",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "vacante": "1558594",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Mariano Quiros Segura",
+      "institucion": "Cristobal Colon (Tures)",
       "lecciones": "0",
-      "rige": "13/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1558082",
-      "regional": "Direc. Regional Educacion Los Santos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "San Jeronimo (San Carlos)",
-      "lecciones": "0",
-      "rige": "13/11/2026",
-      "vence": "11/12/2026"
+      "rige": "12/11/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1558278",
@@ -94,6 +82,16 @@
       "institucion": "Santa Margarita (Rosario)",
       "lecciones": "0",
       "rige": "12/11/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1558446",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Colegio Tecnico Profesional La Tigra",
+      "lecciones": "0",
+      "rige": "01/12/2026",
       "vence": "31/07/2030"
     },
     {
@@ -115,6 +113,26 @@
       "lecciones": "40",
       "rige": "12/11/2026",
       "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1557542",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Liceo Coquital",
+      "lecciones": "0",
+      "rige": "26/11/2026",
+      "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1558366",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Isidro (Aguas Claras)",
+      "lecciones": "0",
+      "rige": "09/11/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1557477",
