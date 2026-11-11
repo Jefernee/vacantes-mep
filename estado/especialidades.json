@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 29794,
+      "vecesVista": 29799,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-11T18:40:35.788Z",
+      "ultimaVez": "2026-11-11T19:00:46.992Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 18822,
+      "vecesVista": 18829,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-11T18:40:35.788Z",
+      "ultimaVez": "2026-11-11T19:00:46.992Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6429,
+      "vecesVista": 6430,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-11T18:40:35.788Z",
+      "ultimaVez": "2026-11-11T19:00:46.992Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -618,9 +618,9 @@
     },
     "Enseñanza Especial . Generalista": {
       "calce": "no interesa",
-      "vecesVista": 118,
+      "vecesVista": 119,
       "primeraVez": "2026-10-13T15:00:39.543Z",
-      "ultimaVez": "2026-11-11T18:40:35.788Z",
+      "ultimaVez": "2026-11-11T19:00:46.992Z",
       "avisadaComoNueva": true
     },
     "Mercadeo": {
@@ -688,11 +688,11 @@
     },
     "Evaluación": {
       "calce": "no interesa",
-      "vecesVista": 7,
+      "vecesVista": 8,
       "primeraVez": "2026-11-11T17:00:33.437Z",
-      "ultimaVez": "2026-11-11T18:40:35.788Z",
+      "ultimaVez": "2026-11-11T19:00:46.992Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-11T18:40:35.788Z"
+  "actualizado": "2026-11-11T19:00:46.992Z"
 }

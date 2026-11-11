@@ -1,17 +1,14 @@
 {
-  "generado": "2026-11-11T18:40:35.786Z",
-  "totalPais": 18,
+  "generado": "2026-11-11T19:00:46.990Z",
+  "totalPais": 15,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Derecho",
     "Enseñanza Especial . Generalista",
     "Evaluación",
     "Inglés",
-    "Labores Varias De Oficina",
     "Sin Especialidad T-I",
-    "Sin Especialidad T-Ii",
-    "Trabajo Social"
+    "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
   "todas": [
@@ -163,36 +160,6 @@
       "institucion": "San Isidro (Aguas Claras)",
       "lecciones": "0",
       "rige": "09/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1557477",
-      "regional": "Evaluacion De Los Servicios",
-      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
-      "especialidad": "Trabajo Social",
-      "institucion": "Contraloría De Derechos Estudiantiles",
-      "lecciones": "0",
-      "rige": "16/11/2026",
-      "vence": "07/05/2030"
-    },
-    {
-      "vacante": "1552163",
-      "regional": "Fundamentac. Legal Para Toma Decisiones",
-      "clasePuesto": "Profesional De Servicio Civil 2 (G.De E.)",
-      "especialidad": "Derecho",
-      "institucion": "Departamento De Contratación Y Coordinación Interinstitucion",
-      "lecciones": "0",
-      "rige": "16/11/2026",
-      "vence": "07/05/2030"
-    },
-    {
-      "vacante": "1554859",
-      "regional": "Vinculo Al Trabajo",
-      "clasePuesto": "Oficinista De Servicio Civil 2 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "Dirección De Educación Técnica Y Capacidades Emprendedoras",
-      "lecciones": "0",
-      "rige": "16/11/2026",
       "vence": "31/01/2027"
     }
   ]
