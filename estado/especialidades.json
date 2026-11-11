@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 29849,
+      "vecesVista": 29855,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-11T22:20:40.997Z",
+      "ultimaVez": "2026-11-11T22:40:27.295Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 18874,
+      "vecesVista": 18879,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-11T22:20:40.997Z",
+      "ultimaVez": "2026-11-11T22:40:27.295Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -79,9 +79,9 @@
     },
     "Física": {
       "calce": "no interesa",
-      "vecesVista": 860,
+      "vecesVista": 861,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-11T22:20:40.997Z",
+      "ultimaVez": "2026-11-11T22:40:27.295Z",
       "avisadaComoNueva": true
     },
     "Secretariado Ejecutivo": {
@@ -618,9 +618,9 @@
     },
     "Enseñanza Especial . Generalista": {
       "calce": "no interesa",
-      "vecesVista": 127,
+      "vecesVista": 128,
       "primeraVez": "2026-10-13T15:00:39.543Z",
-      "ultimaVez": "2026-11-11T22:20:40.997Z",
+      "ultimaVez": "2026-11-11T22:40:27.295Z",
       "avisadaComoNueva": true
     },
     "Mercadeo": {
@@ -688,11 +688,11 @@
     },
     "Evaluación": {
       "calce": "no interesa",
-      "vecesVista": 16,
+      "vecesVista": 17,
       "primeraVez": "2026-11-11T17:00:33.437Z",
-      "ultimaVez": "2026-11-11T22:20:40.997Z",
+      "ultimaVez": "2026-11-11T22:40:27.295Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-11T22:20:40.997Z"
+  "actualizado": "2026-11-11T22:40:27.295Z"
 }
