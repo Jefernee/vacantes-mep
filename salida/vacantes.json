@@ -1,11 +1,12 @@
 {
-  "generado": "2026-11-11T16:55:44.101Z",
-  "totalPais": 15,
+  "generado": "2026-11-11T17:00:33.435Z",
+  "totalPais": 16,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Derecho",
     "Enseñanza Especial . Generalista",
+    "Evaluación",
     "Inglés",
     "Labores Varias De Oficina",
     "Sin Especialidad T-I",
@@ -14,6 +15,16 @@
   ],
   "interesantes": [],
   "todas": [
+    {
+      "vacante": "1558515",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Evaluación",
+      "institucion": "Dirección Regional De Educación De Grande De Térraba",
+      "lecciones": "0",
+      "rige": "14/12/2026",
+      "vence": "31/07/2030"
+    },
     {
       "vacante": "1558521",
       "regional": "Administracion Regional Del Sist. Educ.",
