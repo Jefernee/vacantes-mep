@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-11T18:18:26.332Z",
+  "generado": "2026-11-11T18:20:38.452Z",
   "totalPais": 18,
   "calzanVT6": 0,
   "advertencias": [],
@@ -16,16 +16,6 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1558521",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Enseñanza Especial . Generalista",
-      "institucion": "Dirección Regional De Educación Limón",
-      "lecciones": "0",
-      "rige": "13/12/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1558515",
       "regional": "Administracion Regional Del Sist. Educ.",
       "clasePuesto": "Asesor Regional (G. De E.)",
@@ -34,6 +24,16 @@
       "lecciones": "0",
       "rige": "14/12/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1558521",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Enseñanza Especial . Generalista",
+      "institucion": "Dirección Regional De Educación Limón",
+      "lecciones": "0",
+      "rige": "13/12/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1558525",
