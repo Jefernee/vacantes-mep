@@ -1,26 +1,17 @@
 {
-  "generado": "2026-11-11T19:42:01.044Z",
+  "generado": "2026-11-11T20:00:34.951Z",
   "totalPais": 16,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Enseñanza Especial . Generalista",
     "Evaluación",
+    "Física",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1558515",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Evaluación",
-      "institucion": "Dirección Regional De Educación De Grande De Térraba",
-      "lecciones": "0",
-      "rige": "14/12/2026",
-      "vence": "31/07/2030"
-    },
     {
       "vacante": "1558521",
       "regional": "Administracion Regional Del Sist. Educ.",
@@ -32,13 +23,13 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1558525",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Loma (Parrita)",
+      "vacante": "1558515",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Evaluación",
+      "institucion": "Dirección Regional De Educación De Grande De Térraba",
       "lecciones": "0",
-      "rige": "11/11/2026",
+      "rige": "14/12/2026",
       "vence": "31/07/2030"
     },
     {
@@ -52,12 +43,32 @@
       "vence": "31/07/2031"
     },
     {
+      "vacante": "1558525",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Loma (Parrita)",
+      "lecciones": "0",
+      "rige": "11/11/2026",
+      "vence": "31/07/2030"
+    },
+    {
       "vacante": "1558314",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Anita Grande (Jimenez)",
       "lecciones": "0",
+      "rige": "12/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1558777",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "C.T.P. De Pococi",
+      "lecciones": "6",
       "rige": "12/11/2026",
       "vence": "11/12/2026"
     },
@@ -90,16 +101,6 @@
       "lecciones": "0",
       "rige": "12/11/2026",
       "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1558278",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Santa Margarita (Rosario)",
-      "lecciones": "0",
-      "rige": "12/11/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1558665",
