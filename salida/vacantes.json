@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-11T13:00:30.817Z",
-  "totalPais": 12,
+  "generado": "2026-11-11T13:20:32.897Z",
+  "totalPais": 13,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -54,6 +54,16 @@
       "institucion": "Anita Grande (Jimenez)",
       "lecciones": "0",
       "rige": "12/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1558402",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Las Lomas",
+      "lecciones": "0",
+      "rige": "16/11/2026",
       "vence": "11/12/2026"
     },
     {
