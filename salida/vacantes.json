@@ -1,10 +1,11 @@
 {
-  "generado": "2026-11-12T13:40:41.984Z",
-  "totalPais": 14,
+  "generado": "2026-11-12T14:00:32.667Z",
+  "totalPais": 13,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Enseñanza Especial . Generalista",
+    "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Evaluación",
     "Física",
     "Labores Varias De Oficina",
@@ -14,16 +15,6 @@
   "interesantes": [],
   "todas": [
     {
-      "vacante": "1558521",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Enseñanza Especial . Generalista",
-      "institucion": "Dirección Regional De Educación Limón",
-      "lecciones": "0",
-      "rige": "13/12/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1558515",
       "regional": "Administracion Regional Del Sist. Educ.",
       "clasePuesto": "Asesor Regional (G. De E.)",
@@ -32,6 +23,16 @@
       "lecciones": "0",
       "rige": "14/12/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1558521",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Enseñanza Especial . Generalista",
+      "institucion": "Dirección Regional De Educación Limón",
+      "lecciones": "0",
+      "rige": "13/12/2026",
+      "vence": "31/01/2027"
     },
     {
       "vacante": "1558856",
@@ -124,6 +125,16 @@
       "vence": "31/07/2030"
     },
     {
+      "vacante": "1558571",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
+      "especialidad": "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
+      "institucion": "Ctp Purral",
+      "lecciones": "40",
+      "rige": "12/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1558670",
       "regional": "Direc. Regional Educacion Santa Cruz",
       "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
@@ -132,26 +143,6 @@
       "lecciones": "0",
       "rige": "16/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1557542",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Liceo Coquital",
-      "lecciones": "0",
-      "rige": "26/11/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1558366",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Isidro (Aguas Claras)",
-      "lecciones": "0",
-      "rige": "09/11/2026",
-      "vence": "31/01/2027"
     }
   ]
 }
