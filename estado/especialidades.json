@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 30018,
+      "vecesVista": 30023,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-12T14:40:33.724Z",
+      "ultimaVez": "2026-11-12T15:00:51.397Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 19012,
+      "vecesVista": 19014,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-12T14:40:33.724Z",
+      "ultimaVez": "2026-11-12T15:00:51.397Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3674,
+      "vecesVista": 3675,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-12T14:40:33.724Z",
+      "ultimaVez": "2026-11-12T15:00:51.397Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -79,9 +79,9 @@
     },
     "Física": {
       "calce": "no interesa",
-      "vecesVista": 889,
+      "vecesVista": 890,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-12T14:40:33.724Z",
+      "ultimaVez": "2026-11-12T15:00:51.397Z",
       "avisadaComoNueva": true
     },
     "Secretariado Ejecutivo": {
@@ -114,9 +114,9 @@
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 1012,
+      "vecesVista": 1013,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-12T14:40:33.724Z",
+      "ultimaVez": "2026-11-12T15:00:51.397Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -618,9 +618,9 @@
     },
     "Enseñanza Especial . Generalista": {
       "calce": "no interesa",
-      "vecesVista": 156,
+      "vecesVista": 157,
       "primeraVez": "2026-10-13T15:00:39.543Z",
-      "ultimaVez": "2026-11-12T14:40:33.724Z",
+      "ultimaVez": "2026-11-12T15:00:51.397Z",
       "avisadaComoNueva": true
     },
     "Mercadeo": {
@@ -688,11 +688,11 @@
     },
     "Evaluación": {
       "calce": "no interesa",
-      "vecesVista": 45,
+      "vecesVista": 46,
       "primeraVez": "2026-11-11T17:00:33.437Z",
-      "ultimaVez": "2026-11-12T14:40:33.724Z",
+      "ultimaVez": "2026-11-12T15:00:51.397Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-12T14:40:33.724Z"
+  "actualizado": "2026-11-12T15:00:51.397Z"
 }
