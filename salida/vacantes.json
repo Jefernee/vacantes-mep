@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-12T17:40:31.505Z",
+  "generado": "2026-11-12T18:01:12.277Z",
   "totalPais": 11,
   "calzanVT6": 0,
   "advertencias": [],
@@ -85,14 +85,24 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1558665",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "vacante": "1559084",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Rosario Salazar Marin",
+      "institucion": "Cocori",
       "lecciones": "0",
-      "rige": "12/11/2026",
-      "vence": "31/01/2027"
+      "rige": "19/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
+      "vacante": "1559077",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Gerardo (Platanares)",
+      "lecciones": "0",
+      "rige": "16/11/2026",
+      "vence": "11/12/2027"
     },
     {
       "vacante": "1558747",
@@ -112,16 +122,6 @@
       "institucion": "Ctp Purral",
       "lecciones": "40",
       "rige": "12/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1558670",
-      "regional": "Direc. Regional Educacion Santa Cruz",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Trapiche",
-      "lecciones": "0",
-      "rige": "16/11/2026",
       "vence": "11/12/2026"
     }
   ]
