@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-12T16:00:32.749Z",
-  "totalPais": 11,
+  "generado": "2026-11-12T16:20:31.787Z",
+  "totalPais": 9,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -34,16 +34,6 @@
       "vence": "18/05/2028"
     },
     {
-      "vacante": "1557535",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Jaco (Jaco)",
-      "lecciones": "0",
-      "rige": "04/11/2026",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1558777",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -72,16 +62,6 @@
       "lecciones": "0",
       "rige": "16/11/2026",
       "vence": "25/06/2027"
-    },
-    {
-      "vacante": "1558594",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cristobal Colon (Tures)",
-      "lecciones": "0",
-      "rige": "12/11/2026",
-      "vence": "31/01/2027"
     },
     {
       "vacante": "1558665",
