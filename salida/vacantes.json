@@ -1,17 +1,28 @@
 {
-  "generado": "2026-11-12T12:40:34.355Z",
-  "totalPais": 14,
+  "generado": "2026-11-12T13:00:30.285Z",
+  "totalPais": 15,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Enseñanza Especial . Generalista",
     "Evaluación",
     "Física",
+    "Labores Varias De Oficina",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
   "todas": [
+    {
+      "vacante": "1558515",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Evaluación",
+      "institucion": "Dirección Regional De Educación De Grande De Térraba",
+      "lecciones": "0",
+      "rige": "14/12/2026",
+      "vence": "31/07/2030"
+    },
     {
       "vacante": "1558521",
       "regional": "Administracion Regional Del Sist. Educ.",
@@ -23,14 +34,14 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1558515",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Evaluación",
-      "institucion": "Dirección Regional De Educación De Grande De Térraba",
+      "vacante": "1558856",
+      "regional": "Direc. Regional Educacion Alajuela",
+      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
+      "especialidad": "Labores Varias De Oficina",
+      "institucion": "C.T.P. Jesus Ocaña Rojas",
       "lecciones": "0",
-      "rige": "14/12/2026",
-      "vence": "31/07/2030"
+      "rige": "18/11/2026",
+      "vence": "18/05/2028"
     },
     {
       "vacante": "1557535",
