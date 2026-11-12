@@ -1,13 +1,12 @@
 {
-  "generado": "2026-11-12T19:40:27.169Z",
-  "totalPais": 11,
+  "generado": "2026-11-12T20:00:27.646Z",
+  "totalPais": 10,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Educación Física",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Evaluación",
-    "Física",
     "Labores Varias De Oficina",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -43,16 +42,6 @@
       "lecciones": "0",
       "rige": "19/11/2026",
       "vence": "02/05/2027"
-    },
-    {
-      "vacante": "1558777",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "C.T.P. De Pococi",
-      "lecciones": "6",
-      "rige": "12/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1558967",
