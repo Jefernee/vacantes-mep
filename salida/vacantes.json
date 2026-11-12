@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-12T03:00:34.221Z",
+  "generado": "2026-11-12T03:20:32.362Z",
   "totalPais": 14,
   "calzanVT6": 0,
   "advertencias": [],
@@ -33,16 +33,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1558525",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Loma (Parrita)",
-      "lecciones": "0",
-      "rige": "11/11/2026",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1557535",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -51,6 +41,16 @@
       "lecciones": "0",
       "rige": "04/11/2026",
       "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1558525",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Loma (Parrita)",
+      "lecciones": "0",
+      "rige": "11/11/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1558777",
