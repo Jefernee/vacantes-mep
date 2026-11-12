@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-12T19:20:32.881Z",
-  "totalPais": 12,
+  "generado": "2026-11-12T19:40:27.169Z",
+  "totalPais": 11,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -113,16 +113,6 @@
       "lecciones": "0",
       "rige": "16/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1558747",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Director De Colegio 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Nicolas Aguilar",
-      "lecciones": "0",
-      "rige": "16/11/2026",
-      "vence": "29/01/2027"
     },
     {
       "vacante": "1558571",
