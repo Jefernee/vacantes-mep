@@ -1,12 +1,11 @@
 {
-  "generado": "2026-11-13T15:20:35.349Z",
-  "totalPais": 8,
+  "generado": "2026-11-13T15:40:25.850Z",
+  "totalPais": 7,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Educación Física",
     "Evaluación",
-    "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
@@ -30,16 +29,6 @@
       "lecciones": "0",
       "rige": "19/11/2026",
       "vence": "02/05/2027"
-    },
-    {
-      "vacante": "1558967",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "San Luis Gonzaga (Para)",
-      "lecciones": "0",
-      "rige": "16/11/2026",
-      "vence": "25/06/2027"
     },
     {
       "vacante": "1559033",
