@@ -1,10 +1,9 @@
 {
-  "generado": "2026-11-13T17:00:52.573Z",
-  "totalPais": 6,
+  "generado": "2026-11-13T17:20:27.828Z",
+  "totalPais": 4,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Educación Física",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
@@ -18,26 +17,6 @@
       "lecciones": "0",
       "rige": "19/11/2026",
       "vence": "02/05/2027"
-    },
-    {
-      "vacante": "1559033",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carmen L. Castro Rodriguez",
-      "lecciones": "0",
-      "rige": "16/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1559031",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Educación Física",
-      "institucion": "Carmen L. Castro Rodriguez",
-      "lecciones": "0",
-      "rige": "16/11/2026",
-      "vence": "11/12/2026"
     },
     {
       "vacante": "1559084",
