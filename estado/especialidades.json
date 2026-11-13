@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 30175,
+      "vecesVista": 30180,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-13T00:40:27.763Z",
+      "ultimaVez": "2026-11-13T01:00:28.514Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 19048,
+      "vecesVista": 19049,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-13T00:40:27.763Z",
+      "ultimaVez": "2026-11-13T01:00:28.514Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 3705,
+      "vecesVista": 3706,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-13T00:40:27.763Z",
+      "ultimaVez": "2026-11-13T01:00:28.514Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -58,9 +58,9 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 2539,
+      "vecesVista": 2540,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-13T00:40:27.763Z",
+      "ultimaVez": "2026-11-13T01:00:28.514Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -114,9 +114,9 @@
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 1043,
+      "vecesVista": 1044,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-13T00:40:27.763Z",
+      "ultimaVez": "2026-11-13T01:00:28.514Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -688,11 +688,11 @@
     },
     "Evaluación": {
       "calce": "no interesa",
-      "vecesVista": 76,
+      "vecesVista": 77,
       "primeraVez": "2026-11-11T17:00:33.437Z",
-      "ultimaVez": "2026-11-13T00:40:27.763Z",
+      "ultimaVez": "2026-11-13T01:00:28.514Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-13T00:40:27.763Z"
+  "actualizado": "2026-11-13T01:00:28.514Z"
 }
