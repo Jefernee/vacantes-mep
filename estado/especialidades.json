@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 30260,
+      "vecesVista": 30265,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-13T13:00:33.002Z",
+      "ultimaVez": "2026-11-13T13:20:28.957Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 19065,
+      "vecesVista": 19066,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-13T13:00:33.002Z",
+      "ultimaVez": "2026-11-13T13:20:28.957Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -58,9 +58,9 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 2556,
+      "vecesVista": 2557,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-13T13:00:33.002Z",
+      "ultimaVez": "2026-11-13T13:20:28.957Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -114,9 +114,9 @@
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 1060,
+      "vecesVista": 1061,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-13T13:00:33.002Z",
+      "ultimaVez": "2026-11-13T13:20:28.957Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -688,11 +688,11 @@
     },
     "Evaluación": {
       "calce": "no interesa",
-      "vecesVista": 93,
+      "vecesVista": 94,
       "primeraVez": "2026-11-11T17:00:33.437Z",
-      "ultimaVez": "2026-11-13T13:00:33.002Z",
+      "ultimaVez": "2026-11-13T13:20:28.957Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-13T13:00:33.002Z"
+  "actualizado": "2026-11-13T13:20:28.957Z"
 }
