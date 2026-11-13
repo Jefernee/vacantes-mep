@@ -1,13 +1,12 @@
 {
-  "generado": "2026-11-13T12:40:30.940Z",
-  "totalPais": 10,
+  "generado": "2026-11-13T13:00:33.000Z",
+  "totalPais": 9,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Educación Física",
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta",
     "Evaluación",
-    "Labores Varias De Oficina",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -22,16 +21,6 @@
       "lecciones": "0",
       "rige": "14/12/2026",
       "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1558856",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Oficinista De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Varias De Oficina",
-      "institucion": "C.T.P. Jesus Ocaña Rojas",
-      "lecciones": "0",
-      "rige": "18/11/2026",
-      "vence": "18/05/2028"
     },
     {
       "vacante": "1559107",
