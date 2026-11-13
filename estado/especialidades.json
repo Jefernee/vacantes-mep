@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 30270,
+      "vecesVista": 30275,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-13T13:40:39.453Z",
+      "ultimaVez": "2026-11-13T14:00:25.280Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 19067,
+      "vecesVista": 19068,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-13T13:40:39.453Z",
+      "ultimaVez": "2026-11-13T14:00:25.280Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -58,9 +58,9 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 2558,
+      "vecesVista": 2559,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-13T13:40:39.453Z",
+      "ultimaVez": "2026-11-13T14:00:25.280Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -688,11 +688,11 @@
     },
     "Evaluación": {
       "calce": "no interesa",
-      "vecesVista": 95,
+      "vecesVista": 96,
       "primeraVez": "2026-11-11T17:00:33.437Z",
-      "ultimaVez": "2026-11-13T13:40:39.453Z",
+      "ultimaVez": "2026-11-13T14:00:25.280Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-13T13:40:39.453Z"
+  "actualizado": "2026-11-13T14:00:25.280Z"
 }
