@@ -1,24 +1,13 @@
 {
-  "generado": "2026-11-13T18:40:33.339Z",
-  "totalPais": 2,
+  "generado": "2026-11-13T19:00:22.537Z",
+  "totalPais": 1,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Español",
-    "Sin Especialidad T-Ii"
+    "Español"
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1559107",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Millon",
-      "lecciones": "0",
-      "rige": "19/11/2026",
-      "vence": "02/05/2027"
-    },
     {
       "vacante": "1559390",
       "regional": "Direc. Regional Educacion Occidente",
