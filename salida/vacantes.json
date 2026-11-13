@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-13T18:00:27.711Z",
-  "totalPais": 3,
+  "generado": "2026-11-13T18:20:25.860Z",
+  "totalPais": 2,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -27,16 +27,6 @@
       "institucion": "Liceo Dr. Ricardo Moreno Cañas",
       "lecciones": "44",
       "rige": "17/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1559087",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Pedro (San Pedro)",
-      "lecciones": "0",
-      "rige": "16/11/2026",
       "vence": "11/12/2026"
     }
   ]
