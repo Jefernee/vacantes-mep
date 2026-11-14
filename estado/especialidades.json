@@ -72,9 +72,9 @@
     },
     "Español": {
       "calce": "no interesa",
-      "vecesVista": 2728,
+      "vecesVista": 2729,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-14T21:03:35.735Z",
+      "ultimaVez": "2026-11-14T21:20:25.088Z",
       "avisadaComoNueva": true
     },
     "Física": {
@@ -114,9 +114,9 @@
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
       "calce": "no interesa",
-      "vecesVista": 1114,
+      "vecesVista": 1115,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-14T21:03:35.735Z",
+      "ultimaVez": "2026-11-14T21:20:25.088Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
@@ -694,5 +694,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-14T21:03:35.735Z"
+  "actualizado": "2026-11-14T21:20:25.088Z"
 }
