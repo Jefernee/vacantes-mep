@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-16T15:20:31.944Z",
+  "generado": "2026-11-16T15:41:31.476Z",
   "totalPais": 72,
   "calzanVT6": 0,
   "advertencias": [],
@@ -83,21 +83,21 @@
       "vence": "19/02/2027"
     },
     {
-      "vacante": "1556200",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Las Lomas",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1556198",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
       "institucion": "Eduardo Garnier Ugalde",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1556200",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Las Lomas",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
@@ -213,11 +213,11 @@
       "vence": "16/05/2028"
     },
     {
-      "vacante": "1552866",
+      "vacante": "1552865",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
-      "institucion": "Braulio Morales Cerv.(Heredia)",
+      "institucion": "España (San Antonio)",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
@@ -233,11 +233,31 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1552865",
+      "vacante": "1556286",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Pdro Maria Badilla Bolaños",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1552446",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
-      "institucion": "España (San Antonio)",
+      "institucion": "Pdro Maria Badilla Bolaños",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1552866",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Braulio Morales Cerv.(Heredia)",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
@@ -263,24 +283,14 @@
       "vence": "31/07/2029"
     },
     {
-      "vacante": "1556286",
+      "vacante": "1552438",
       "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Pdro Maria Badilla Bolaños",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "El Roble (Santo Domingo)",
       "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1552446",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Pdro Maria Badilla Bolaños",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
+      "vence": "30/04/2027"
     },
     {
       "vacante": "1552434",
@@ -291,16 +301,6 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1552438",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "El Roble (Santo Domingo)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "30/04/2027"
     },
     {
       "vacante": "1559473",
@@ -323,16 +323,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1553929",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Pavones (San Pablo)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1555751",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -341,6 +331,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1553929",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Pavones (San Pablo)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1554971",
@@ -403,16 +403,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1559379",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Macario Valverde Madrigal",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1554305",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -421,6 +411,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1559379",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Macario Valverde Madrigal",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1556952",
@@ -453,6 +453,16 @@
       "vence": "31/01/2032"
     },
     {
+      "vacante": "1559390",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Español",
+      "institucion": "Liceo Dr. Ricardo Moreno Cañas",
+      "lecciones": "44",
+      "rige": "17/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1554901",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -473,14 +483,14 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1559390",
+      "vacante": "1554551",
       "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Español",
-      "institucion": "Liceo Dr. Ricardo Moreno Cañas",
-      "lecciones": "44",
-      "rige": "17/11/2026",
-      "vence": "11/12/2026"
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Nautilio Acosta Piepper",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1554945",
@@ -491,16 +501,6 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1554551",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Nautilio Acosta Piepper",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
     },
     {
       "vacante": "1558403",
@@ -583,16 +583,6 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1552402",
-      "regional": "Direc. Regional Educacion Puriscal",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Cerbatana (Mercedes Sur)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1552468",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -611,6 +601,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1552394",
+      "regional": "Direc. Regional Educacion Puriscal",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Grifo Alto (Grifo Alto)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1552398",
@@ -643,11 +643,11 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1552394",
+      "vacante": "1552402",
       "regional": "Direc. Regional Educacion Puriscal",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
-      "institucion": "Grifo Alto (Grifo Alto)",
+      "institucion": "Cerbatana (Mercedes Sur)",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
@@ -683,21 +683,21 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1552663",
-      "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Concepcion (Quesada)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2031"
-    },
-    {
       "vacante": "1552346",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
       "institucion": "El Saino (Pital)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1552663",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Concepcion (Quesada)",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2031"
