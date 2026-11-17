@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-17T17:40:36.660Z",
-  "totalPais": 64,
+  "generado": "2026-11-17T18:00:51.536Z",
+  "totalPais": 63,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -74,16 +74,6 @@
       "vence": "11/01/2027"
     },
     {
-      "vacante": "1558112",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Asistente De Dirección Escolar",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carlos J.Peralta Echeverria",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1559375",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Asistente De Dirección Escolar",
@@ -92,6 +82,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1558112",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Asistente De Dirección Escolar",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Carlos J.Peralta Echeverria",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1560447",
@@ -114,14 +114,14 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1558468",
+      "vacante": "1560442",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
-      "institucion": "Central De Tres Rios",
+      "institucion": "Quircot (San Nicolas)",
       "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2028"
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1558107",
@@ -154,14 +154,14 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1560442",
+      "vacante": "1558468",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
-      "institucion": "Quircot (San Nicolas)",
+      "institucion": "Central De Tres Rios",
       "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2032"
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1560454",
@@ -224,6 +224,16 @@
       "vence": "31/01/2032"
     },
     {
+      "vacante": "1558482",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "La Inmaculada (Quepos)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1559503",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -244,16 +254,6 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1558482",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "La Inmaculada (Quepos)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1558483",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -264,21 +264,21 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1558093",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Finca Llorona (Quepos)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1558095",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
       "institucion": "Parrita (Parrita)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1558093",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Finca Llorona (Quepos)",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
@@ -312,16 +312,6 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1560001",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Asistente De Servicios De Educacion Especial",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ens. Esp. De Heredia",
-      "lecciones": "0",
-      "rige": "16/11/2026",
-      "vence": "01/01/2027"
     },
     {
       "vacante": "1560030",
