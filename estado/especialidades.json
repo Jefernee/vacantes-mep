@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 31225,
+      "vecesVista": 31228,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-17T13:00:47.746Z",
+      "ultimaVez": "2026-11-17T13:20:54.817Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 19411,
+      "vecesVista": 19415,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-17T13:00:47.746Z",
+      "ultimaVez": "2026-11-17T13:20:54.817Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 3927,
+      "vecesVista": 3935,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-17T13:00:47.746Z",
+      "ultimaVez": "2026-11-17T13:20:54.817Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -58,9 +58,9 @@
     },
     "Educación Física": {
       "calce": "no interesa",
-      "vecesVista": 2598,
+      "vecesVista": 2599,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-17T13:00:47.746Z",
+      "ultimaVez": "2026-11-17T13:20:54.817Z",
       "avisadaComoNueva": true
     },
     "Matemáticas": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 2202,
+      "vecesVista": 2206,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-17T13:00:47.746Z",
+      "ultimaVez": "2026-11-17T13:20:54.817Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -163,9 +163,9 @@
     },
     "Equipos Interdisciplinarios / Social": {
       "calce": "no interesa",
-      "vecesVista": 383,
+      "vecesVista": 384,
       "primeraVez": "2026-09-04T17:40:39.152Z",
-      "ultimaVez": "2026-11-17T13:00:47.746Z",
+      "ultimaVez": "2026-11-17T13:20:54.817Z",
       "avisadaComoNueva": true
     },
     "Francés": {
@@ -198,9 +198,9 @@
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
       "calce": "no interesa",
-      "vecesVista": 1576,
+      "vecesVista": 1577,
       "primeraVez": "2026-09-07T15:00:49.803Z",
-      "ultimaVez": "2026-11-17T13:00:47.746Z",
+      "ultimaVez": "2026-11-17T13:20:54.817Z",
       "avisadaComoNueva": true
     },
     "Música/Instrumento De Percusión": {
@@ -261,9 +261,9 @@
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 890,
+      "vecesVista": 891,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-11-17T13:00:47.746Z",
+      "ultimaVez": "2026-11-17T13:20:54.817Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -527,9 +527,9 @@
     },
     "Desarrollo Web": {
       "calce": "exacta",
-      "vecesVista": 98,
+      "vecesVista": 99,
       "primeraVez": "2026-10-01T13:00:41.425Z",
-      "ultimaVez": "2026-11-17T13:00:47.746Z",
+      "ultimaVez": "2026-11-17T13:20:54.817Z",
       "avisadaComoNueva": true
     },
     "Procesos Industriales": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 163,
+      "vecesVista": 164,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-17T13:00:47.746Z",
+      "ultimaVez": "2026-11-17T13:20:54.817Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-17T13:00:47.746Z"
+  "actualizado": "2026-11-17T13:20:54.817Z"
 }
