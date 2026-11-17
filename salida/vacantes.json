@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-17T18:00:51.536Z",
-  "totalPais": 63,
+  "generado": "2026-11-17T18:21:43.343Z",
+  "totalPais": 61,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -114,16 +114,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1560442",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Quircot (San Nicolas)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1558107",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -132,6 +122,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1558468",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Central De Tres Rios",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1558103",
@@ -154,14 +154,14 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1558468",
+      "vacante": "1560442",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
-      "institucion": "Central De Tres Rios",
+      "institucion": "Quircot (San Nicolas)",
       "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2028"
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1560454",
@@ -204,26 +204,6 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1560443",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Quebrada Ganado",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1558091",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Republica De Corea (Quepos)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1558482",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -254,14 +234,24 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1558483",
+      "vacante": "1560443",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
-      "institucion": "Maria Luisa De Castro (Quepos)",
+      "institucion": "Quebrada Ganado",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1558091",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Republica De Corea (Quepos)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1558095",
@@ -284,6 +274,16 @@
       "vence": "31/01/2032"
     },
     {
+      "vacante": "1558483",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Maria Luisa De Castro (Quepos)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1560111",
       "regional": "Direc. Regional Educacion Coto",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -292,16 +292,6 @@
       "lecciones": "0",
       "rige": "18/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1555110",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Cecilia Orlich Figueres",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
     },
     {
       "vacante": "1554544",
@@ -314,14 +304,14 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1560030",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Auxiliar Administrativo",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Ing Manuel Benavides R.",
+      "vacante": "1555110",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Cecilia Orlich Figueres",
       "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/07/2031"
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1560135",
@@ -414,16 +404,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1560024",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Rep. De Ecuador (San Juan)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "30/06/2027"
-    },
-    {
       "vacante": "1559708",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -444,16 +424,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1560080",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Colegio Academico Tambor De Cobano",
-      "lecciones": "3",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1560099",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -470,6 +440,16 @@
       "especialidad": "Religión",
       "institucion": "Colegio De Lepanto",
       "lecciones": "14",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1560080",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Colegio Academico Tambor De Cobano",
+      "lecciones": "3",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
