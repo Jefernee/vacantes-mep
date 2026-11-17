@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-17T14:40:32.021Z",
+  "generado": "2026-11-17T15:00:49.563Z",
   "totalPais": 62,
   "calzanVT6": 1,
   "advertencias": [],
@@ -119,16 +119,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1558107",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Los Angeles (Parte Occidental)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1558103",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -147,6 +137,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1558107",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Los Angeles (Parte Occidental)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1560442",
@@ -209,6 +209,36 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1560443",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Quebrada Ganado",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1558091",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Republica De Corea (Quepos)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1558095",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Parrita (Parrita)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
       "vacante": "1559503",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -239,36 +269,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1558095",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Parrita (Parrita)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1560443",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Quebrada Ganado",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1558091",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Republica De Corea (Quepos)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1558093",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -289,21 +289,21 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1554544",
-      "regional": "Direc. Regional Educacion Desamparados",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Andres Corrales Mora (Aserri)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1555110",
       "regional": "Direc. Regional Educacion Desamparados",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
       "institucion": "Cecilia Orlich Figueres",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1554544",
+      "regional": "Direc. Regional Educacion Desamparados",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Andres Corrales Mora (Aserri)",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
@@ -449,16 +449,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1559980",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "San Pedro (San Pedro)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1560024",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -474,6 +464,16 @@
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
       "institucion": "Eulogio Salazar L.",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1559980",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "San Pedro (San Pedro)",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
@@ -589,22 +589,22 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1558024",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Fdo.Centeno Retardo Mental",
-      "lecciones": "26",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1558036",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Artes Plásticas/Artes Plásticas",
       "institucion": "Fdo.Centeno Audicion Y Lenguaj",
       "lecciones": "6",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1558024",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Artes Plásticas/Artes Plásticas",
+      "institucion": "Fdo.Centeno Retardo Mental",
+      "lecciones": "26",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
@@ -619,22 +619,22 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1559417",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Cuatro Bocas",
-      "lecciones": "5",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1558561",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Francés",
       "institucion": "Liceo De Aguas Claras",
       "lecciones": "3",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1559417",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Cuatro Bocas",
+      "lecciones": "5",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
