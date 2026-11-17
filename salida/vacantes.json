@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-17T20:00:47.188Z",
+  "generado": "2026-11-17T20:20:37.684Z",
   "totalPais": 61,
   "calzanVT6": 0,
   "advertencias": [],
@@ -76,16 +76,6 @@
       "vence": "11/01/2027"
     },
     {
-      "vacante": "1558112",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Asistente De Dirección Escolar",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carlos J.Peralta Echeverria",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/07/2030"
-    },
-    {
       "vacante": "1559375",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Asistente De Dirección Escolar",
@@ -94,6 +84,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1558112",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Asistente De Dirección Escolar",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Carlos J.Peralta Echeverria",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1560447",
@@ -116,16 +116,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1558468",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Central De Tres Rios",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1558107",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -134,6 +124,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1558468",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Central De Tres Rios",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1558103",
@@ -206,26 +206,6 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1559503",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Porton De Naranjo (Savegre)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1559507",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Porton De Naranjo (Savegre)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1560443",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -244,16 +224,6 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1558483",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Maria Luisa De Castro (Quepos)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
     },
     {
       "vacante": "1558482",
@@ -276,6 +246,26 @@
       "vence": "31/01/2032"
     },
     {
+      "vacante": "1559503",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Porton De Naranjo (Savegre)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1559507",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Porton De Naranjo (Savegre)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
       "vacante": "1558093",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -284,6 +274,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1558483",
+      "regional": "Direc. Regional Educacion Central Del Pacífico",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Maria Luisa De Castro (Quepos)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1560111",
@@ -386,16 +386,6 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1560207",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "El Rosario (Rosario)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1559708",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -404,6 +394,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1560207",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "El Rosario (Rosario)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1560266",
@@ -416,22 +416,22 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1560099",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Rural Santa Teresa Coban",
-      "lecciones": "6",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1560080",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Filosofía",
       "institucion": "Colegio Academico Tambor De Cobano",
       "lecciones": "3",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1560099",
+      "regional": "Direc. Regional Educacion Peninsular",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Liceo Rural Santa Teresa Coban",
+      "lecciones": "6",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
