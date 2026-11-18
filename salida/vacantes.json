@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-18T14:00:36.906Z",
+  "generado": "2026-11-18T14:20:32.380Z",
   "totalPais": 19,
   "calzanVT6": 0,
   "advertencias": [],
@@ -14,16 +14,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1560460",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asistente De Asesoría Y Supervisión",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Dirección Regional De Educación Cartago",
-      "lecciones": "0",
-      "rige": "11/12/2026",
-      "vence": "31/07/2030"
-    },
     {
       "vacante": "1560626",
       "regional": "Administracion Regional Del Sist. Educ.",
@@ -43,6 +33,16 @@
       "lecciones": "0",
       "rige": "18/11/2026",
       "vence": "07/01/2027"
+    },
+    {
+      "vacante": "1560460",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asistente De Asesoría Y Supervisión",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Dirección Regional De Educación Cartago",
+      "lecciones": "0",
+      "rige": "11/12/2026",
+      "vence": "31/07/2030"
     },
     {
       "vacante": "1560712",

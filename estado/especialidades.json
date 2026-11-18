@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 31989,
+      "vecesVista": 31994,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T14:00:36.907Z",
+      "ultimaVez": "2026-11-18T14:20:32.382Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 19828,
+      "vecesVista": 19836,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T14:00:36.907Z",
+      "ultimaVez": "2026-11-18T14:20:32.382Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 4898,
+      "vecesVista": 4900,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T14:00:36.907Z",
+      "ultimaVez": "2026-11-18T14:20:32.382Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -121,9 +121,9 @@
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
       "calce": "no interesa",
-      "vecesVista": 417,
+      "vecesVista": 418,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T14:00:36.907Z",
+      "ultimaVez": "2026-11-18T14:20:32.382Z",
       "avisadaComoNueva": true
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1869,
+      "vecesVista": 1870,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-18T14:00:36.907Z",
+      "ultimaVez": "2026-11-18T14:20:32.382Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -366,9 +366,9 @@
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 816,
+      "vecesVista": 817,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-11-18T14:00:36.907Z",
+      "ultimaVez": "2026-11-18T14:20:32.382Z",
       "avisadaComoNueva": true
     },
     "Rehabilitación / Ocupacional": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 220,
+      "vecesVista": 221,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-18T14:00:36.907Z",
+      "ultimaVez": "2026-11-18T14:20:32.382Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-18T14:00:36.907Z"
+  "actualizado": "2026-11-18T14:20:32.382Z"
 }
