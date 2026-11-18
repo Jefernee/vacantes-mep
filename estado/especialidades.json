@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 32105,
+      "vecesVista": 32113,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T19:40:29.346Z",
+      "ultimaVez": "2026-11-18T20:00:28.713Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 19931,
+      "vecesVista": 19934,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T19:40:29.346Z",
+      "ultimaVez": "2026-11-18T20:00:28.713Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 4917,
+      "vecesVista": 4918,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T19:40:29.346Z",
+      "ultimaVez": "2026-11-18T20:00:28.713Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6623,
+      "vecesVista": 6626,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T19:40:29.346Z",
+      "ultimaVez": "2026-11-18T20:00:28.713Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 2385,
+      "vecesVista": 2386,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T19:40:29.346Z",
+      "ultimaVez": "2026-11-18T20:00:28.713Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 1488,
+      "vecesVista": 1489,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-11-18T19:40:29.346Z",
+      "ultimaVez": "2026-11-18T20:00:28.713Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 238,
+      "vecesVista": 239,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-18T19:40:29.346Z",
+      "ultimaVez": "2026-11-18T20:00:28.713Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-18T19:40:29.346Z"
+  "actualizado": "2026-11-18T20:00:28.713Z"
 }
