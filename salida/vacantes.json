@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-18T15:21:48.065Z",
-  "totalPais": 20,
+  "generado": "2026-11-18T15:40:30.849Z",
+  "totalPais": 21,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -165,6 +165,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1561070",
+      "regional": "Direc. Regional Educacion San Carlos",
+      "clasePuesto": "Orientador Asistente",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "C.T.P. De Pital",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/07/2031"
+    },
+    {
       "vacante": "1561071",
       "regional": "Direc. Regional Educacion San Carlos",
       "clasePuesto": "Orientador Asistente",
@@ -175,14 +185,14 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1561070",
+      "vacante": "1561117",
       "regional": "Direc. Regional Educacion San Carlos",
-      "clasePuesto": "Orientador Asistente",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "C.T.P. De Pital",
+      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
+      "especialidad": "Inglés",
+      "institucion": "Esc. Jose Rodriguez Martinez",
       "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/07/2031"
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1561109",

@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 32012,
+      "vecesVista": 32019,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T15:21:48.067Z",
+      "ultimaVez": "2026-11-18T15:40:30.851Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 19860,
+      "vecesVista": 19868,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T15:21:48.067Z",
+      "ultimaVez": "2026-11-18T15:40:30.851Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 4903,
+      "vecesVista": 4904,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T15:21:48.067Z",
+      "ultimaVez": "2026-11-18T15:40:30.851Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6594,
+      "vecesVista": 6596,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T15:21:48.067Z",
+      "ultimaVez": "2026-11-18T15:40:30.851Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -121,9 +121,9 @@
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
       "calce": "no interesa",
-      "vecesVista": 421,
+      "vecesVista": 422,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T15:21:48.067Z",
+      "ultimaVez": "2026-11-18T15:40:30.851Z",
       "avisadaComoNueva": true
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1873,
+      "vecesVista": 1874,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-18T15:21:48.067Z",
+      "ultimaVez": "2026-11-18T15:40:30.851Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 224,
+      "vecesVista": 225,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-18T15:21:48.067Z",
+      "ultimaVez": "2026-11-18T15:40:30.851Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-18T15:21:48.067Z"
+  "actualizado": "2026-11-18T15:40:30.851Z"
 }
