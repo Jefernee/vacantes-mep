@@ -1,9 +1,10 @@
 {
-  "generado": "2026-11-18T21:00:47.807Z",
-  "totalPais": 19,
+  "generado": "2026-11-18T21:20:37.457Z",
+  "totalPais": 20,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Enseñanza Especial . Generalista",
     "Francés",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
@@ -14,6 +15,16 @@
   ],
   "interesantes": [],
   "todas": [
+    {
+      "vacante": "1561487",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asesor Regional (G. De E.)",
+      "especialidad": "Enseñanza Especial . Generalista",
+      "institucion": "Dirección Regional De Educación Heredia",
+      "lecciones": "0",
+      "rige": "19/11/2026",
+      "vence": "31/07/2031"
+    },
     {
       "vacante": "1560626",
       "regional": "Administracion Regional Del Sist. Educ.",
