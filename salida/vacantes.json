@@ -1,21 +1,12 @@
 {
-  "generado": "2026-11-18T13:40:33.719Z",
-  "totalPais": 56,
+  "generado": "2026-11-18T14:00:36.906Z",
+  "totalPais": 19,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Artes Industriales",
-    "Artes Plásticas/Artes Plásticas",
-    "Educación Para El Hogar",
-    "Enseñanza Especial . Audición Y Lenguaje",
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Terapia Del Lenguaje",
-    "Estudios Sociales",
-    "Filosofía",
-    "Francés",
-    "Informática Educativa. Informática Para I Y Ii Ciclos",
-    "Inglés",
-    "Música/Música",
     "Refrigeración Y Aire Acondicionado",
     "Religión",
     "Sin Especialidad T-I",
@@ -23,16 +14,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1559120",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Estudios Sociales",
-      "institucion": "Dirección Regional De Educación Central Del Pacífico",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
     {
       "vacante": "1560460",
       "regional": "Administracion Regional Del Sist. Educ.",
@@ -84,216 +65,6 @@
       "vence": "11/01/2027"
     },
     {
-      "vacante": "1559375",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Asistente De Dirección Escolar",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Rescate De Ujarraz (Santiago)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1558112",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Asistente De Dirección Escolar",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Carlos J.Peralta Echeverria",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1560447",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Pitahaya (San Francisco)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1558831",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
-      "especialidad": "Enseñanza Especial . Audición Y Lenguaje",
-      "institucion": "Centro Educativo Dr. Carlos Saenz Herrera",
-      "lecciones": "44",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1558107",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Los Angeles (Parte Occidental)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1558468",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Central De Tres Rios",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1558103",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Ascension Esquivel Ibarra",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "30/04/2027"
-    },
-    {
-      "vacante": "1558472",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Orosi (Orosi)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1560442",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Quircot (San Nicolas)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1560454",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Calle Girales",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1558636",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Dr.Fernando Guzman Mata",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/03/2027"
-    },
-    {
-      "vacante": "1558916",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Auxiliar Administrativo",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo De Quebrada Ganado",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/07/2029"
-    },
-    {
-      "vacante": "1558052",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Herradura (Jaco)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1558482",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "La Inmaculada (Quepos)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1560443",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Quebrada Ganado",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1558091",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Republica De Corea (Quepos)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1559503",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Porton De Naranjo (Savegre)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1559507",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Porton De Naranjo (Savegre)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1558093",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Finca Llorona (Quepos)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1558095",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Parrita (Parrita)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1558483",
-      "regional": "Direc. Regional Educacion Central Del Pacífico",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Maria Luisa De Castro (Quepos)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1560764",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -324,14 +95,14 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1560477",
-      "regional": "Direc. Regional Educacion Liberia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Argendora",
+      "vacante": "1560771",
+      "regional": "Direc. Regional Educacion Los Santos",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Sabana",
       "lecciones": "0",
-      "rige": "19/11/2026",
-      "vence": "31/01/2027"
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1554894",
@@ -374,66 +145,6 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1560099",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Rural Santa Teresa Coban",
-      "lecciones": "6",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1560087",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Colegio De Lepanto",
-      "lecciones": "14",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1560080",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Colegio Academico Tambor De Cobano",
-      "lecciones": "3",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1560165",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Música/Música",
-      "institucion": "Lepanto (Lepanto)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2030"
-    },
-    {
-      "vacante": "1560053",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Cabo Blanco (Lepanto)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2030"
-    },
-    {
-      "vacante": "1560022",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Santa Clemencia",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1560765",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Especial (G.De E.)",
@@ -442,36 +153,6 @@
       "lecciones": "32",
       "rige": "23/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1559500",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Heriberto Zeledon Rodriguez",
-      "lecciones": "0",
-      "rige": "16/11/2026",
-      "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1560107",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Fray Casiano De Madrid",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/07/2029"
-    },
-    {
-      "vacante": "1560070",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "El Roble (Puntarenas)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1560713",
@@ -504,34 +185,14 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1555597",
+      "vacante": "1558500",
       "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Angeles",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Trinidad",
       "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1558036",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Fdo.Centeno Audicion Y Lenguaj",
-      "lecciones": "6",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1558024",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Plásticas/Artes Plásticas",
-      "institucion": "Fdo.Centeno Retardo Mental",
-      "lecciones": "26",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
+      "rige": "10/12/2026",
+      "vence": "31/07/2028"
     },
     {
       "vacante": "1560660",
@@ -541,46 +202,6 @@
       "institucion": "Rincon Grande",
       "lecciones": "0",
       "rige": "23/11/2026",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1558561",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Francés",
-      "institucion": "Liceo De Aguas Claras",
-      "lecciones": "3",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1559417",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Cuatro Bocas",
-      "lecciones": "5",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1555602",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Delicias (Delicias)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2031"
-    },
-    {
-      "vacante": "1558578",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo De Aguas Claras",
-      "lecciones": "3",
-      "rige": "01/02/2027",
       "vence": "31/01/2028"
     }
   ]
