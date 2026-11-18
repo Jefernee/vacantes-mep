@@ -1,10 +1,9 @@
 {
-  "generado": "2026-11-18T14:20:32.380Z",
-  "totalPais": 19,
+  "generado": "2026-11-18T14:40:30.475Z",
+  "totalPais": 16,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Artes Industriales",
     "Enseñanza Especial . Retardo Mental",
     "Enseñanza Especial . Terapia Del Lenguaje",
     "Refrigeración Y Aire Acondicionado",
@@ -33,16 +32,6 @@
       "lecciones": "0",
       "rige": "18/11/2026",
       "vence": "07/01/2027"
-    },
-    {
-      "vacante": "1560460",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asistente De Asesoría Y Supervisión",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Dirección Regional De Educación Cartago",
-      "lecciones": "0",
-      "rige": "11/12/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1560712",
@@ -85,16 +74,6 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1560521",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Industriales",
-      "institucion": "I.P.E.C. Barva",
-      "lecciones": "5",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1560771",
       "regional": "Direc. Regional Educacion Los Santos",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -133,16 +112,6 @@
       "lecciones": "40",
       "rige": "23/11/2026",
       "vence": "11/12/2026"
-    },
-    {
-      "vacante": "1559708",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Eulogio Salazar L.",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
     },
     {
       "vacante": "1560765",

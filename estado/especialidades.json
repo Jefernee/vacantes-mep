@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 31994,
+      "vecesVista": 31998,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T14:20:32.382Z",
+      "ultimaVez": "2026-11-18T14:40:30.477Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 19836,
+      "vecesVista": 19844,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T14:20:32.382Z",
+      "ultimaVez": "2026-11-18T14:40:30.477Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 4900,
+      "vecesVista": 4901,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T14:20:32.382Z",
+      "ultimaVez": "2026-11-18T14:40:30.477Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -121,9 +121,9 @@
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
       "calce": "no interesa",
-      "vecesVista": 418,
+      "vecesVista": 419,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T14:20:32.382Z",
+      "ultimaVez": "2026-11-18T14:40:30.477Z",
       "avisadaComoNueva": true
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1870,
+      "vecesVista": 1871,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-18T14:20:32.382Z",
+      "ultimaVez": "2026-11-18T14:40:30.477Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 221,
+      "vecesVista": 222,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-18T14:20:32.382Z",
+      "ultimaVez": "2026-11-18T14:40:30.477Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-18T14:20:32.382Z"
+  "actualizado": "2026-11-18T14:40:30.477Z"
 }
