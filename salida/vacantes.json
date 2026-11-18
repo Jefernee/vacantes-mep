@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-18T22:01:01.233Z",
-  "totalPais": 21,
+  "generado": "2026-11-18T22:20:28.710Z",
+  "totalPais": 22,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -76,14 +76,14 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1561326",
+      "vacante": "1561527",
       "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "clasePuesto": "Asistente De Dirección Escolar",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Conservatorio Castella (Ulloa)",
+      "institucion": "Nuevo Horizonte(San Francisco)",
       "lecciones": "0",
-      "rige": "08/02/2027",
-      "vence": "18/07/2027"
+      "rige": "01/02/2027",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1561337",
@@ -96,14 +96,14 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1561396",
+      "vacante": "1561326",
       "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Regional De Flores",
-      "lecciones": "30",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Conservatorio Castella (Ulloa)",
+      "lecciones": "0",
+      "rige": "08/02/2027",
+      "vence": "18/07/2027"
     },
     {
       "vacante": "1561344",
@@ -112,6 +112,16 @@
       "especialidad": "Inglés",
       "institucion": "C.T.P. De Flores",
       "lecciones": "44",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1561396",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Regional De Flores",
+      "lecciones": "30",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
