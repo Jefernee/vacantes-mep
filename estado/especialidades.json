@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 32057,
+      "vecesVista": 32063,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T17:40:28.566Z",
+      "ultimaVez": "2026-11-18T18:00:30.769Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 19908,
+      "vecesVista": 19912,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T17:40:28.566Z",
+      "ultimaVez": "2026-11-18T18:00:30.769Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 4910,
+      "vecesVista": 4911,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T17:40:28.566Z",
+      "ultimaVez": "2026-11-18T18:00:30.769Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6608,
+      "vecesVista": 6610,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T17:40:28.566Z",
+      "ultimaVez": "2026-11-18T18:00:30.769Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -121,9 +121,9 @@
     },
     "Enseñanza Especial . Terapia Del Lenguaje": {
       "calce": "no interesa",
-      "vecesVista": 428,
+      "vecesVista": 429,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-18T17:40:28.566Z",
+      "ultimaVez": "2026-11-18T18:00:30.769Z",
       "avisadaComoNueva": true
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 1481,
+      "vecesVista": 1482,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-11-18T17:40:28.566Z",
+      "ultimaVez": "2026-11-18T18:00:30.769Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1880,
+      "vecesVista": 1881,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-18T17:40:28.566Z",
+      "ultimaVez": "2026-11-18T18:00:30.769Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 231,
+      "vecesVista": 232,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-18T17:40:28.566Z",
+      "ultimaVez": "2026-11-18T18:00:30.769Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-18T17:40:28.566Z"
+  "actualizado": "2026-11-18T18:00:30.769Z"
 }
