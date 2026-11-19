@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-19T00:20:25.381Z",
+  "generado": "2026-11-19T00:40:53.656Z",
   "totalPais": 22,
   "calzanVT6": 0,
   "advertencias": [],
@@ -86,16 +86,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1561337",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cubujuqui (Mercedes)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1561326",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -104,6 +94,16 @@
       "lecciones": "0",
       "rige": "08/02/2027",
       "vence": "18/07/2027"
+    },
+    {
+      "vacante": "1561337",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cubujuqui (Mercedes)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1561344",
