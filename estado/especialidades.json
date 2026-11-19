@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 32475,
+      "vecesVista": 32481,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-19T15:00:34.066Z",
+      "ultimaVez": "2026-11-19T15:20:35.704Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 20051,
+      "vecesVista": 20054,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-19T15:00:34.066Z",
+      "ultimaVez": "2026-11-19T15:20:35.704Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 4984,
+      "vecesVista": 4986,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-19T15:00:34.066Z",
+      "ultimaVez": "2026-11-19T15:20:35.704Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6740,
+      "vecesVista": 6742,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-19T15:00:34.066Z",
+      "ultimaVez": "2026-11-19T15:20:35.704Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 2424,
+      "vecesVista": 2425,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-19T15:00:34.066Z",
+      "ultimaVez": "2026-11-19T15:20:35.704Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 1527,
+      "vecesVista": 1528,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-11-19T15:00:34.066Z",
+      "ultimaVez": "2026-11-19T15:20:35.704Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -359,9 +359,9 @@
     },
     "Contabilidad Y Finanzas": {
       "calce": "no interesa",
-      "vecesVista": 285,
+      "vecesVista": 286,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-11-19T15:00:34.066Z",
+      "ultimaVez": "2026-11-19T15:20:35.704Z",
       "avisadaComoNueva": true
     },
     "Artes Industriales": {
@@ -618,9 +618,9 @@
     },
     "Enseñanza Especial . Generalista": {
       "calce": "no interesa",
-      "vecesVista": 193,
+      "vecesVista": 194,
       "primeraVez": "2026-10-13T15:00:39.543Z",
-      "ultimaVez": "2026-11-19T15:00:34.066Z",
+      "ultimaVez": "2026-11-19T15:20:35.704Z",
       "avisadaComoNueva": true
     },
     "Mercadeo": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 277,
+      "vecesVista": 278,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-19T15:00:34.066Z",
+      "ultimaVez": "2026-11-19T15:20:35.704Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-19T15:00:34.066Z"
+  "actualizado": "2026-11-19T15:20:35.704Z"
 }
