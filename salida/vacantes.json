@@ -1,11 +1,10 @@
 {
-  "generado": "2026-11-19T20:40:27.992Z",
-  "totalPais": 14,
+  "generado": "2026-11-19T21:00:27.856Z",
+  "totalPais": 12,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Contabilidad Y Finanzas",
-    "Enseñanza Especial . Generalista",
     "Filosofía",
     "Matemáticas",
     "Refrigeración Y Aire Acondicionado",
@@ -15,16 +14,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1561487",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Asesor Regional (G. De E.)",
-      "especialidad": "Enseñanza Especial . Generalista",
-      "institucion": "Dirección Regional De Educación Heredia",
-      "lecciones": "0",
-      "rige": "19/11/2026",
-      "vence": "31/07/2031"
-    },
     {
       "vacante": "1561913",
       "regional": "Direc. Regional Educacion Grande De Terraba",
@@ -134,16 +123,6 @@
       "lecciones": "6",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1555934",
-      "regional": "Direc. Regional Educacion San Jose - Oeste",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Esc. Manuel Brenes Nocturna",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
     },
     {
       "vacante": "1561302",

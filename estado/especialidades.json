@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 32564,
+      "vecesVista": 32566,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-19T20:40:27.994Z",
+      "ultimaVez": "2026-11-19T21:00:27.859Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 20102,
+      "vecesVista": 20106,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-19T20:40:27.994Z",
+      "ultimaVez": "2026-11-19T21:00:27.859Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 5020,
+      "vecesVista": 5022,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-19T20:40:27.994Z",
+      "ultimaVez": "2026-11-19T21:00:27.859Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1942,
+      "vecesVista": 1943,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-19T20:40:27.994Z",
+      "ultimaVez": "2026-11-19T21:00:27.859Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 1275,
+      "vecesVista": 1276,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-11-19T20:40:27.994Z",
+      "ultimaVez": "2026-11-19T21:00:27.859Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -359,9 +359,9 @@
     },
     "Contabilidad Y Finanzas": {
       "calce": "no interesa",
-      "vecesVista": 303,
+      "vecesVista": 304,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-11-19T20:40:27.994Z",
+      "ultimaVez": "2026-11-19T21:00:27.859Z",
       "avisadaComoNueva": true
     },
     "Artes Industriales": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 295,
+      "vecesVista": 296,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-19T20:40:27.994Z",
+      "ultimaVez": "2026-11-19T21:00:27.859Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-19T20:40:27.994Z"
+  "actualizado": "2026-11-19T21:00:27.859Z"
 }
