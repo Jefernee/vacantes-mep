@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-19T17:40:32.307Z",
-  "totalPais": 16,
+  "generado": "2026-11-19T18:00:31.682Z",
+  "totalPais": 15,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -37,16 +37,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1561039",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "El Millon",
-      "lecciones": "0",
-      "rige": "23/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1560745",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -67,16 +57,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1561326",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Conservatorio Castella (Ulloa)",
-      "lecciones": "0",
-      "rige": "08/02/2027",
-      "vence": "18/07/2027"
-    },
-    {
       "vacante": "1561337",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -85,6 +65,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1561326",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Conservatorio Castella (Ulloa)",
+      "lecciones": "0",
+      "rige": "08/02/2027",
+      "vence": "18/07/2027"
     },
     {
       "vacante": "1561396",
