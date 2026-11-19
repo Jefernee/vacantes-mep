@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-19T18:00:31.682Z",
+  "generado": "2026-11-19T18:20:28.277Z",
   "totalPais": 15,
   "calzanVT6": 0,
   "advertencias": [],
@@ -7,7 +7,6 @@
     "Contabilidad Y Finanzas",
     "Enseñanza Especial . Generalista",
     "Filosofía",
-    "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
     "Refrigeración Y Aire Acondicionado",
     "Religión",
@@ -27,6 +26,16 @@
       "vence": "31/07/2031"
     },
     {
+      "vacante": "1561913",
+      "regional": "Direc. Regional Educacion Grande De Terraba",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "San Luis (Buenos Aires)",
+      "lecciones": "0",
+      "rige": "19/11/2026",
+      "vence": "24/12/2026"
+    },
+    {
       "vacante": "1561806",
       "regional": "Direc. Regional Educacion Grande De Terraba",
       "clasePuesto": "Profesor De Enseñanza Unidocente (I Y Ii Ciclos)",
@@ -35,16 +44,6 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1560745",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Toro Amarillo (Guapiles)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
     },
     {
       "vacante": "1561527",
@@ -57,16 +56,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1561337",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cubujuqui (Mercedes)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1561326",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -77,14 +66,14 @@
       "vence": "18/07/2027"
     },
     {
-      "vacante": "1561396",
+      "vacante": "1561337",
       "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Regional De Flores",
-      "lecciones": "30",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cubujuqui (Mercedes)",
+      "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2028"
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1561344",
@@ -93,6 +82,16 @@
       "especialidad": "Inglés",
       "institucion": "C.T.P. De Flores",
       "lecciones": "44",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1561396",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Regional De Flores",
+      "lecciones": "30",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
