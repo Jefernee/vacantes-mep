@@ -1,9 +1,10 @@
 {
-  "generado": "2026-11-19T13:20:32.235Z",
-  "totalPais": 21,
+  "generado": "2026-11-19T13:40:41.777Z",
+  "totalPais": 22,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Contabilidad Y Finanzas",
     "Enseñanza Especial . Generalista",
     "Francés",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
@@ -66,16 +67,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1561337",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cubujuqui (Mercedes)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1561326",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -86,14 +77,14 @@
       "vence": "18/07/2027"
     },
     {
-      "vacante": "1561344",
+      "vacante": "1561337",
       "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. De Flores",
-      "lecciones": "44",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cubujuqui (Mercedes)",
+      "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2028"
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1561396",
@@ -102,6 +93,16 @@
       "especialidad": "Religión",
       "institucion": "Liceo Regional De Flores",
       "lecciones": "30",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1561344",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De Flores",
+      "lecciones": "44",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
@@ -124,6 +125,16 @@
       "lecciones": "14",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1561682",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Contabilidad Y Finanzas",
+      "institucion": "Cindea San Isidro Penas Blancas",
+      "lecciones": "20",
+      "rige": "23/11/2026",
+      "vence": "11/12/2026"
     },
     {
       "vacante": "1561203",
