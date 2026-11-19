@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-19T19:00:26.663Z",
-  "totalPais": 15,
+  "generado": "2026-11-19T19:18:13.639Z",
+  "totalPais": 13,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -56,24 +56,14 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1561326",
+      "vacante": "1561344",
       "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Conservatorio Castella (Ulloa)",
-      "lecciones": "0",
-      "rige": "08/02/2027",
-      "vence": "18/07/2027"
-    },
-    {
-      "vacante": "1561337",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cubujuqui (Mercedes)",
-      "lecciones": "0",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "C.T.P. De Flores",
+      "lecciones": "44",
       "rige": "01/02/2027",
-      "vence": "31/01/2032"
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1561396",
@@ -82,16 +72,6 @@
       "especialidad": "Religión",
       "institucion": "Liceo Regional De Flores",
       "lecciones": "30",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1561344",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "C.T.P. De Flores",
-      "lecciones": "44",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
