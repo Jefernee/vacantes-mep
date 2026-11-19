@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-19T16:00:50.341Z",
-  "totalPais": 18,
+  "generado": "2026-11-19T16:20:33.435Z",
+  "totalPais": 17,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -25,16 +25,6 @@
       "lecciones": "0",
       "rige": "19/11/2026",
       "vence": "31/07/2031"
-    },
-    {
-      "vacante": "1561167",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Las Lomas",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2029"
     },
     {
       "vacante": "1561806",
@@ -77,16 +67,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1561337",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cubujuqui (Mercedes)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1561326",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -97,14 +77,14 @@
       "vence": "18/07/2027"
     },
     {
-      "vacante": "1561396",
+      "vacante": "1561337",
       "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Liceo Regional De Flores",
-      "lecciones": "30",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cubujuqui (Mercedes)",
+      "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2028"
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1561344",
@@ -113,6 +93,16 @@
       "especialidad": "Inglés",
       "institucion": "C.T.P. De Flores",
       "lecciones": "44",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1561396",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Liceo Regional De Flores",
+      "lecciones": "30",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
