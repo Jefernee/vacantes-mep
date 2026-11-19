@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 32555,
+      "vecesVista": 32558,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-19T19:40:27.465Z",
+      "ultimaVez": "2026-11-19T20:01:54.710Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 20090,
+      "vecesVista": 20094,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-19T19:40:27.465Z",
+      "ultimaVez": "2026-11-19T20:01:54.710Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 5014,
+      "vecesVista": 5016,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-19T19:40:27.465Z",
+      "ultimaVez": "2026-11-19T20:01:54.710Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1939,
+      "vecesVista": 1940,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-17T12:40:51.601Z",
+      "ultimaVez": "2026-11-19T20:01:54.710Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 1272,
+      "vecesVista": 1273,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-11-19T19:40:27.465Z",
+      "ultimaVez": "2026-11-19T20:01:54.710Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -359,9 +359,9 @@
     },
     "Contabilidad Y Finanzas": {
       "calce": "no interesa",
-      "vecesVista": 300,
+      "vecesVista": 301,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-11-19T19:40:27.465Z",
+      "ultimaVez": "2026-11-19T20:01:54.710Z",
       "avisadaComoNueva": true
     },
     "Artes Industriales": {
@@ -618,9 +618,9 @@
     },
     "Enseñanza Especial . Generalista": {
       "calce": "no interesa",
-      "vecesVista": 208,
+      "vecesVista": 209,
       "primeraVez": "2026-10-13T15:00:39.543Z",
-      "ultimaVez": "2026-11-19T19:40:27.465Z",
+      "ultimaVez": "2026-11-19T20:01:54.710Z",
       "avisadaComoNueva": true
     },
     "Mercadeo": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 292,
+      "vecesVista": 293,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-19T19:40:27.465Z",
+      "ultimaVez": "2026-11-19T20:01:54.710Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-19T19:40:27.465Z"
+  "actualizado": "2026-11-19T20:01:54.710Z"
 }

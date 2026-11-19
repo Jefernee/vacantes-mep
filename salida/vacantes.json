@@ -1,12 +1,13 @@
 {
-  "generado": "2026-11-19T19:40:27.463Z",
-  "totalPais": 12,
+  "generado": "2026-11-19T20:01:54.709Z",
+  "totalPais": 14,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Contabilidad Y Finanzas",
     "Enseñanza Especial . Generalista",
     "Filosofía",
+    "Matemáticas",
     "Refrigeración Y Aire Acondicionado",
     "Religión",
     "Sin Especialidad T-I",
@@ -43,6 +44,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1561983",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "La Lucha (Rio Jimenez)",
+      "lecciones": "0",
+      "rige": "24/11/2026",
+      "vence": "31/07/2031"
     },
     {
       "vacante": "1561527",
@@ -111,6 +122,16 @@
       "especialidad": "Filosofía",
       "institucion": "Liceo Canaan",
       "lecciones": "6",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1560480",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Canaan",
+      "lecciones": "16",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
