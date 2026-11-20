@@ -310,9 +310,9 @@
     },
     "Producción Agrícola Y Pecuaria": {
       "calce": "no interesa",
-      "vecesVista": 268,
+      "vecesVista": 269,
       "primeraVez": "2026-09-10T17:00:38.825Z",
-      "ultimaVez": "2026-11-20T20:00:39.080Z",
+      "ultimaVez": "2026-11-20T20:20:32.300Z",
       "avisadaComoNueva": true
     },
     "Administración Y Operación Aduanera": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 345,
+      "vecesVista": 346,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-20T20:00:39.080Z",
+      "ultimaVez": "2026-11-20T20:20:32.300Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-20T20:00:39.080Z"
+  "actualizado": "2026-11-20T20:20:32.300Z"
 }
