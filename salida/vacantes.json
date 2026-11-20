@@ -1,26 +1,15 @@
 {
-  "generado": "2026-11-20T19:20:58.081Z",
-  "totalPais": 4,
+  "generado": "2026-11-20T19:48:04.402Z",
+  "totalPais": 3,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Matemáticas",
     "Producción Agrícola Y Pecuaria",
-    "Refrigeración Y Aire Acondicionado",
-    "Sin Especialidad T-I"
+    "Refrigeración Y Aire Acondicionado"
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1561983",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "La Lucha (Rio Jimenez)",
-      "lecciones": "0",
-      "rige": "24/11/2026",
-      "vence": "31/07/2031"
-    },
     {
       "vacante": "1554894",
       "regional": "Direc. Regional Educacion Nicoya",
