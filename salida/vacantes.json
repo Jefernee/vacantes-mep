@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-20T03:40:43.494Z",
+  "generado": "2026-11-20T05:46:31.274Z",
   "totalPais": 11,
   "calzanVT6": 0,
   "advertencias": [],
@@ -86,22 +86,22 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1560480",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo Canaan",
-      "lecciones": "16",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1560479",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Filosofía",
       "institucion": "Liceo Canaan",
       "lecciones": "6",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1560480",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo Canaan",
+      "lecciones": "16",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
