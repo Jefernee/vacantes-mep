@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 32603,
+      "vecesVista": 32604,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-20T15:00:32.893Z",
+      "ultimaVez": "2026-11-20T15:21:41.545Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 20231,
+      "vecesVista": 20233,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-20T15:00:32.893Z",
+      "ultimaVez": "2026-11-20T15:21:41.545Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1977,
+      "vecesVista": 1978,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-20T15:00:32.893Z",
+      "ultimaVez": "2026-11-20T15:21:41.545Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 1310,
+      "vecesVista": 1311,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-11-20T15:00:32.893Z",
+      "ultimaVez": "2026-11-20T15:21:41.545Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -310,9 +310,9 @@
     },
     "Producción Agrícola Y Pecuaria": {
       "calce": "no interesa",
-      "vecesVista": 253,
+      "vecesVista": 254,
       "primeraVez": "2026-09-10T17:00:38.825Z",
-      "ultimaVez": "2026-11-20T15:00:32.893Z",
+      "ultimaVez": "2026-11-20T15:21:41.545Z",
       "avisadaComoNueva": true
     },
     "Administración Y Operación Aduanera": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 330,
+      "vecesVista": 331,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-20T15:00:32.893Z",
+      "ultimaVez": "2026-11-20T15:21:41.545Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-20T15:00:32.893Z"
+  "actualizado": "2026-11-20T15:21:41.545Z"
 }
