@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 32593,
+      "vecesVista": 32594,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-20T11:47:24.194Z",
+      "ultimaVez": "2026-11-20T12:00:54.291Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 20202,
+      "vecesVista": 20206,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-20T11:47:24.194Z",
+      "ultimaVez": "2026-11-20T12:00:54.291Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 5047,
+      "vecesVista": 5048,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-20T11:47:24.194Z",
+      "ultimaVez": "2026-11-20T12:00:54.291Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 1967,
+      "vecesVista": 1968,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-20T11:47:24.194Z",
+      "ultimaVez": "2026-11-20T12:00:54.291Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 1300,
+      "vecesVista": 1301,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-11-20T11:47:24.194Z",
+      "ultimaVez": "2026-11-20T12:00:54.291Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -310,9 +310,9 @@
     },
     "Producción Agrícola Y Pecuaria": {
       "calce": "no interesa",
-      "vecesVista": 243,
+      "vecesVista": 244,
       "primeraVez": "2026-09-10T17:00:38.825Z",
-      "ultimaVez": "2026-11-20T11:47:24.194Z",
+      "ultimaVez": "2026-11-20T12:00:54.291Z",
       "avisadaComoNueva": true
     },
     "Administración Y Operación Aduanera": {
@@ -359,9 +359,9 @@
     },
     "Contabilidad Y Finanzas": {
       "calce": "no interesa",
-      "vecesVista": 328,
+      "vecesVista": 329,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-11-20T11:47:24.194Z",
+      "ultimaVez": "2026-11-20T12:00:54.291Z",
       "avisadaComoNueva": true
     },
     "Artes Industriales": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 320,
+      "vecesVista": 321,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-20T11:47:24.194Z",
+      "ultimaVez": "2026-11-20T12:00:54.291Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-20T11:47:24.194Z"
+  "actualizado": "2026-11-20T12:00:54.291Z"
 }
