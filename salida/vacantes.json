@@ -1,10 +1,9 @@
 {
-  "generado": "2026-11-20T16:40:39.819Z",
-  "totalPais": 6,
+  "generado": "2026-11-20T17:00:47.315Z",
+  "totalPais": 5,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Filosofía",
     "Matemáticas",
     "Producción Agrícola Y Pecuaria",
     "Refrigeración Y Aire Acondicionado",
@@ -49,16 +48,6 @@
       "especialidad": "Matemáticas",
       "institucion": "Liceo Canaan",
       "lecciones": "16",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1560479",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Canaan",
-      "lecciones": "6",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
