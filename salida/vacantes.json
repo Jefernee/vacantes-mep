@@ -1,10 +1,9 @@
 {
-  "generado": "2026-11-20T21:20:22.272Z",
-  "totalPais": 2,
+  "generado": "2026-11-20T21:40:21.257Z",
+  "totalPais": 1,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Producción Agrícola Y Pecuaria",
     "Refrigeración Y Aire Acondicionado"
   ],
   "interesantes": [],
@@ -18,16 +17,6 @@
       "lecciones": "14",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1562129",
-      "regional": "Direc. Regional Educacion Sulá",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Producción Agrícola Y Pecuaria",
-      "institucion": "C.T.P. De Talamanca",
-      "lecciones": "40",
-      "rige": "24/11/2026",
-      "vence": "11/12/2026"
     }
   ]
 }
