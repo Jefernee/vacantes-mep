@@ -1,7 +1,6 @@
 {
   "avisadas": {
     "principal": {
-      "Direc. Regional Educacion Desamparados|1549617": "2026-10-22T13:00:38.540Z",
       "Direc. Regional Educacion Desamparados|1554356": "2026-10-27T19:28:34.936Z",
       "Direc. Regional Educacion Alajuela|1554619": "2026-10-28T18:00:36.563Z",
       "Direc. Regional Educacion Alajuela|1554623": "2026-10-28T18:00:36.563Z",
@@ -11,8 +10,6 @@
       "Direc. Regional Educacion Nicoya|1558298": "2026-11-16T17:00:42.655Z"
     },
     "matematicas": {
-      "Direc. Regional Educacion Occidente|1552301": "2026-10-22T14:12:18.026Z",
-      "Direc. Regional Educacion Puntarenas|1550982": "2026-10-22T14:12:18.026Z",
       "Direc. Regional Educacion Heredia|1554313": "2026-10-27T18:09:48.359Z",
       "Calidad De La Educacion|1551296": "2026-10-28T20:00:40.041Z",
       "Direc. Regional Educacion Desamparados|1555246": "2026-10-30T01:00:37.597Z",
@@ -21,10 +18,10 @@
       "Direc. Regional Educacion San Carlos|1556678": "2026-11-05T15:40:56.793Z",
       "Direc. Regional Educacion Guapiles|1557801": "2026-11-09T20:20:34.156Z",
       "Direc. Regional Educacion Sulá|1556705": "2026-11-16T13:00:41.966Z",
-      "Direc. Regional Educacion Perez Zeledon|1560480": "2026-11-19T20:01:54.710Z"
+      "Direc. Regional Educacion Perez Zeledon|1560480": "2026-11-19T20:01:54.710Z",
+      "Administracion Regional Del Sist. Educ.|1559673": "2026-11-23T13:00:31.722Z"
     },
     "contabilidad": {
-      "Direc. Regional Educacion Los Santos|1552599": "2026-10-22T16:20:36.436Z",
       "Direc. Regional Educacion Zona Norte-Norte|1552052": "2026-10-26T14:40:41.735Z",
       "Direc. Regional Educacion Occidente|1561682": "2026-11-19T13:40:41.779Z"
     }
