@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-23T16:01:58.225Z",
-  "totalPais": 25,
+  "generado": "2026-11-23T16:20:46.266Z",
+  "totalPais": 27,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -109,6 +109,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1562654",
+      "regional": "Direc. Regional Educacion Coto",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Refrigeración Y Aire Acondicionado",
+      "institucion": "C.T.P. Humberto Melloni Campan",
+      "lecciones": "40",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1560894",
       "regional": "Direc. Regional Educacion Guapiles",
       "clasePuesto": "Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)",
@@ -147,6 +157,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1562631",
+      "regional": "Direc. Regional Educacion Limon",
+      "clasePuesto": "Bibliotecólogo De Centro Educativo 2",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Colegio De Limon Diurno",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1562556",
