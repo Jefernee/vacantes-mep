@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-23T16:20:46.266Z",
-  "totalPais": 27,
+  "generado": "2026-11-23T16:40:38.653Z",
+  "totalPais": 28,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -10,6 +10,7 @@
     "Electromecánica",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
+    "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
     "Refrigeración Y Aire Acondicionado",
@@ -79,16 +80,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1560761",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Julian Volio Llorente (Carmen)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1560903",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -97,6 +88,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2031"
+    },
+    {
+      "vacante": "1560761",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Julian Volio Llorente (Carmen)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1560724",
@@ -139,6 +140,16 @@
       "vence": "06/01/2027"
     },
     {
+      "vacante": "1562158",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Los Angeles (Los Angeles)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
       "vacante": "1561856",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -149,14 +160,14 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1562158",
+      "vacante": "1562705",
       "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Angeles (Los Angeles)",
-      "lecciones": "0",
+      "clasePuesto": "Profesor De Enseñanza Media Bilingüe (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo Exp.Bilingüe De Belen",
+      "lecciones": "40",
       "rige": "01/02/2027",
-      "vence": "31/01/2032"
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1562631",
@@ -199,22 +210,22 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1561736",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Academico San Antonio Pe",
-      "lecciones": "6",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1561733",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Liceo Academico San Antonio Pe",
       "lecciones": "15",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1561736",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Liceo Academico San Antonio Pe",
+      "lecciones": "6",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
