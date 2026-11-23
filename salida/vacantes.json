@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-23T19:00:33.720Z",
-  "totalPais": 28,
+  "generado": "2026-11-23T19:20:46.843Z",
+  "totalPais": 30,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -108,6 +108,16 @@
       "vence": "31/01/2031"
     },
     {
+      "vacante": "1562923",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "San Jose (San Josecito)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/07/2031"
+    },
+    {
       "vacante": "1562178",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -146,6 +156,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1562927",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Inglés",
+      "institucion": "Liceo Ing Manuel Benavides R.",
+      "lecciones": "44",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1562705",
@@ -198,22 +218,22 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1561733",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Academico San Antonio Pe",
-      "lecciones": "15",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1561736",
       "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Filosofía",
       "institucion": "Liceo Academico San Antonio Pe",
       "lecciones": "6",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1561733",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Academico San Antonio Pe",
+      "lecciones": "15",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
