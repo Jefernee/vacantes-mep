@@ -1,13 +1,11 @@
 {
-  "generado": "2026-11-23T17:40:32.783Z",
-  "totalPais": 29,
+  "generado": "2026-11-23T18:00:40.491Z",
+  "totalPais": 27,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Educación Física",
-    "Educación Para El Hogar",
     "Ejecutivo Comercial Y De Servicio Al Cliente",
-    "Electromecánica",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
     "Inglés",
@@ -40,26 +38,6 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1562331",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Cindea Puerto Viejo",
-      "lecciones": "5",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1562328",
-      "regional": "Direc. Regional Educacion De Sarapiqui",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Electromecánica",
-      "institucion": "Cindea Puerto Viejo",
-      "lecciones": "5",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1561297",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Cocinero",
@@ -80,14 +58,14 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1560724",
+      "vacante": "1560761",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Leon Cortes Castro (Cot)",
+      "institucion": "Julian Volio Llorente (Carmen)",
       "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2028"
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1560903",
@@ -100,14 +78,14 @@
       "vence": "31/01/2031"
     },
     {
-      "vacante": "1560761",
+      "vacante": "1560724",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Julian Volio Llorente (Carmen)",
+      "institucion": "Leon Cortes Castro (Cot)",
       "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2032"
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1562654",
@@ -140,21 +118,21 @@
       "vence": "06/01/2027"
     },
     {
-      "vacante": "1561856",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Lagos (San Francisco)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1562158",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Los Angeles (Los Angeles)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1561856",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Los Lagos (San Francisco)",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
