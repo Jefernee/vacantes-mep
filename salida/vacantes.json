@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-23T19:40:30.876Z",
-  "totalPais": 32,
+  "generado": "2026-11-23T20:00:44.222Z",
+  "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,6 +8,7 @@
     "Ejecutivo Comercial Y De Servicio Al Cliente",
     "Estudios Sociales/Educación Cívica",
     "Filosofía",
+    "Física",
     "Inglés",
     "Labores Varias De Oficina",
     "Matemáticas",
@@ -58,16 +59,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1560724",
-      "regional": "Direc. Regional Educacion Cartago",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Leon Cortes Castro (Cot)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1560761",
       "regional": "Direc. Regional Educacion Cartago",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -76,6 +67,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1560724",
+      "regional": "Direc. Regional Educacion Cartago",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Leon Cortes Castro (Cot)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1560903",
@@ -148,21 +149,21 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1562158",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Angeles (Los Angeles)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1561856",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Los Lagos (San Francisco)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1562158",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Los Angeles (Los Angeles)",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
@@ -218,6 +219,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1562972",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Bajo De Tapesco (Tapezco)",
+      "lecciones": "0",
+      "rige": "25/11/2026",
+      "vence": "11/12/2026"
+    },
+    {
       "vacante": "1562554",
       "regional": "Direc. Regional Educacion Peninsular",
       "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
@@ -258,6 +269,26 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1562906",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Conserje De Centro Educativo",
+      "especialidad": "Sin Especialidad T-I",
+      "institucion": "Fray Casiano De Madrid",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/07/2031"
+    },
+    {
+      "vacante": "1562883",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Linda Vista",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
       "vacante": "1562545",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
@@ -266,6 +297,16 @@
       "lecciones": "0",
       "rige": "19/11/2026",
       "vence": "31/07/2030"
+    },
+    {
+      "vacante": "1562901",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Física",
+      "institucion": "Liceo De Chacarita",
+      "lecciones": "24",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
     },
     {
       "vacante": "1561817",
