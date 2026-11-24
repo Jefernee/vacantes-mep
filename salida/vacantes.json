@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-24T12:20:31.381Z",
+  "generado": "2026-11-24T12:41:04.612Z",
   "totalPais": 40,
   "calzanVT6": 0,
   "advertencias": [],
@@ -149,21 +149,21 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1562158",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Los Angeles (Los Angeles)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1562933",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Sin Especialidad T-Ii",
       "institucion": "Cubujuqui (Mercedes)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1562158",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Los Angeles (Los Angeles)",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
