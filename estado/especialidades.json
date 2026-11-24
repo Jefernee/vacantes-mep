@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 33223,
+      "vecesVista": 33232,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T13:40:43.445Z",
+      "ultimaVez": "2026-11-24T14:00:35.944Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 20685,
+      "vecesVista": 20693,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T13:40:43.445Z",
+      "ultimaVez": "2026-11-24T14:00:35.944Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -23,9 +23,9 @@
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 4001,
+      "vecesVista": 4002,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T13:40:43.445Z",
+      "ultimaVez": "2026-11-24T14:00:35.944Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -79,9 +79,9 @@
     },
     "Física": {
       "calce": "no interesa",
-      "vecesVista": 939,
+      "vecesVista": 940,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T13:40:43.445Z",
+      "ultimaVez": "2026-11-24T14:00:35.944Z",
       "avisadaComoNueva": true
     },
     "Secretariado Ejecutivo": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6908,
+      "vecesVista": 6912,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T13:40:43.445Z",
+      "ultimaVez": "2026-11-24T14:00:35.944Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 1457,
+      "vecesVista": 1458,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-11-24T13:40:43.445Z",
+      "ultimaVez": "2026-11-24T14:00:35.944Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1882,
+      "vecesVista": 1883,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-18T18:20:36.138Z",
+      "ultimaVez": "2026-11-24T14:00:35.944Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 585,
+      "vecesVista": 586,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-24T13:40:43.445Z",
+      "ultimaVez": "2026-11-24T14:00:35.944Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-24T13:40:43.445Z"
+  "actualizado": "2026-11-24T14:00:35.944Z"
 }
