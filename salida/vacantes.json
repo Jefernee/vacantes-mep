@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-24T14:40:42.987Z",
-  "totalPais": 25,
+  "generado": "2026-11-24T15:00:50.280Z",
+  "totalPais": 24,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -9,12 +9,23 @@
     "Física",
     "Inglés",
     "Labores Varias De Oficina",
+    "Matemáticas",
     "Refrigeración Y Aire Acondicionado",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
   "interesantes": [],
   "todas": [
+    {
+      "vacante": "1562513",
+      "regional": "Administracion Regional Del Sist. Educ.",
+      "clasePuesto": "Asistente De Asesoría Y Supervisión",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Dirección Regional De Educación De Grande De Térraba",
+      "lecciones": "0",
+      "rige": "04/01/2027",
+      "vence": "31/01/2028"
+    },
     {
       "vacante": "1561911",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
@@ -106,16 +117,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1562556",
-      "regional": "Direc. Regional Educacion Limon",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Silvestre Grant Griffith (Cair",
-      "lecciones": "0",
-      "rige": "25/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1560636",
       "regional": "Direc. Regional Educacion Limon",
       "clasePuesto": "Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)",
@@ -166,14 +167,14 @@
       "vence": "11/12/2026"
     },
     {
-      "vacante": "1562554",
-      "regional": "Direc. Regional Educacion Peninsular",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Rosa Barquero Azofeifa",
-      "lecciones": "0",
-      "rige": "19/11/2026",
-      "vence": "31/01/2027"
+      "vacante": "1561842",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Inst. Sup. Julio Acosta G.",
+      "lecciones": "44",
+      "rige": "01/02/2027",
+      "vence": "30/06/2027"
     },
     {
       "vacante": "1561168",
@@ -204,16 +205,6 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1562545",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Flora Guevara Barahona",
-      "lecciones": "0",
-      "rige": "19/11/2026",
-      "vence": "31/07/2030"
     },
     {
       "vacante": "1562901",
