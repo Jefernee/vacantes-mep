@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 33409,
+      "vecesVista": 33414,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T23:00:53.701Z",
+      "ultimaVez": "2026-11-24T23:20:51.169Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 20846,
+      "vecesVista": 20851,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T23:00:53.701Z",
+      "ultimaVez": "2026-11-24T23:20:51.169Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 5069,
+      "vecesVista": 5070,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T23:00:53.701Z",
+      "ultimaVez": "2026-11-24T23:20:51.169Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 4035,
+      "vecesVista": 4037,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T23:00:53.701Z",
+      "ultimaVez": "2026-11-24T23:20:51.169Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 2069,
+      "vecesVista": 2070,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T23:00:53.701Z",
+      "ultimaVez": "2026-11-24T23:20:51.169Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6968,
+      "vecesVista": 6969,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T23:00:53.701Z",
+      "ultimaVez": "2026-11-24T23:20:51.169Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 2456,
+      "vecesVista": 2457,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T23:00:53.701Z",
+      "ultimaVez": "2026-11-24T23:20:51.169Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 1523,
+      "vecesVista": 1527,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-11-24T23:00:53.701Z",
+      "ultimaVez": "2026-11-24T23:20:51.169Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 1555,
+      "vecesVista": 1556,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-11-24T23:00:53.701Z",
+      "ultimaVez": "2026-11-24T23:20:51.169Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1910,
+      "vecesVista": 1911,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-24T23:00:53.701Z",
+      "ultimaVez": "2026-11-24T23:20:51.169Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 613,
+      "vecesVista": 614,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-24T23:00:53.701Z",
+      "ultimaVez": "2026-11-24T23:20:51.169Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-24T23:00:53.701Z"
+  "actualizado": "2026-11-24T23:20:51.169Z"
 }
