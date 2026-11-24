@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-24T14:00:35.942Z",
-  "totalPais": 26,
+  "generado": "2026-11-24T14:20:29.455Z",
+  "totalPais": 25,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -15,16 +15,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1562539",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Supervisor De Educación",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Dirección Regional De Educación San Carlos",
-      "lecciones": "0",
-      "rige": "24/11/2026",
-      "vence": "31/01/2027"
-    },
     {
       "vacante": "1561911",
       "regional": "Direc. Regional Educacion Central Del Pacífico",
