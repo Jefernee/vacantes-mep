@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-24T19:20:43.686Z",
-  "totalPais": 25,
+  "generado": "2026-11-24T19:40:52.438Z",
+  "totalPais": 24,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -130,16 +130,6 @@
       "vence": "30/06/2027"
     },
     {
-      "vacante": "1563897",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Jose Joaquin Salas Perez",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1562972",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -150,6 +140,16 @@
       "vence": "11/12/2026"
     },
     {
+      "vacante": "1563897",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Jose Joaquin Salas Perez",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
       "vacante": "1561842",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -158,16 +158,6 @@
       "lecciones": "44",
       "rige": "01/02/2027",
       "vence": "30/06/2027"
-    },
-    {
-      "vacante": "1561168",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Las Esperanzas",
-      "lecciones": "2",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
     },
     {
       "vacante": "1562906",
