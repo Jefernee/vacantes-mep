@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-24T19:00:32.447Z",
-  "totalPais": 27,
+  "generado": "2026-11-24T19:20:43.686Z",
+  "totalPais": 25,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -13,6 +13,7 @@
     "Labores Varias De Oficina",
     "Matemáticas",
     "Refrigeración Y Aire Acondicionado",
+    "Religión",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
   ],
@@ -69,16 +70,6 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1562923",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Bibliotecólogo De Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "San Jose (San Josecito)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/07/2031"
-    },
-    {
       "vacante": "1563869",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Conserje De Centro Educativo",
@@ -87,26 +78,6 @@
       "lecciones": "0",
       "rige": "24/11/2026",
       "vence": "01/01/2027"
-    },
-    {
-      "vacante": "1562933",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cubujuqui (Mercedes)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1562927",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Inglés",
-      "institucion": "Liceo Ing Manuel Benavides R.",
-      "lecciones": "44",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
     },
     {
       "vacante": "1560636",
@@ -157,6 +128,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "30/06/2027"
+    },
+    {
+      "vacante": "1563897",
+      "regional": "Direc. Regional Educacion Occidente",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Jose Joaquin Salas Perez",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1562972",

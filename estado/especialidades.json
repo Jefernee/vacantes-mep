@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 33341,
+      "vecesVista": 33348,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T19:00:32.449Z",
+      "ultimaVez": "2026-11-24T19:20:43.687Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 20774,
+      "vecesVista": 20781,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T19:00:32.449Z",
+      "ultimaVez": "2026-11-24T19:20:43.687Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 5056,
+      "vecesVista": 5057,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-20T14:40:54.111Z",
+      "ultimaVez": "2026-11-24T19:20:43.687Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 4016,
+      "vecesVista": 4017,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T19:00:32.449Z",
+      "ultimaVez": "2026-11-24T19:20:43.687Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 2056,
+      "vecesVista": 2057,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T19:00:32.449Z",
+      "ultimaVez": "2026-11-24T19:20:43.687Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -79,9 +79,9 @@
     },
     "Física": {
       "calce": "no interesa",
-      "vecesVista": 954,
+      "vecesVista": 955,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T19:00:32.449Z",
+      "ultimaVez": "2026-11-24T19:20:43.687Z",
       "avisadaComoNueva": true
     },
     "Secretariado Ejecutivo": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 6954,
+      "vecesVista": 6955,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T19:00:32.449Z",
+      "ultimaVez": "2026-11-24T19:20:43.687Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 2443,
+      "vecesVista": 2444,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-24T19:00:32.449Z",
+      "ultimaVez": "2026-11-24T19:20:43.687Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 1477,
+      "vecesVista": 1479,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-11-24T19:00:32.449Z",
+      "ultimaVez": "2026-11-24T19:20:43.687Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 1542,
+      "vecesVista": 1543,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-11-24T19:00:32.449Z",
+      "ultimaVez": "2026-11-24T19:20:43.687Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -191,9 +191,9 @@
     },
     "Enseñanza Especial . Retardo Mental": {
       "calce": "no interesa",
-      "vecesVista": 1897,
+      "vecesVista": 1898,
       "primeraVez": "2026-09-07T14:53:06.317Z",
-      "ultimaVez": "2026-11-24T19:00:32.449Z",
+      "ultimaVez": "2026-11-24T19:20:43.687Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Problemas De Aprendizaje": {
@@ -695,11 +695,11 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 600,
+      "vecesVista": 601,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-24T19:00:32.449Z",
+      "ultimaVez": "2026-11-24T19:20:43.687Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-24T19:00:32.449Z"
+  "actualizado": "2026-11-24T19:20:43.687Z"
 }
