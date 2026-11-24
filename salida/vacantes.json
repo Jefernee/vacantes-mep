@@ -1,13 +1,12 @@
 {
-  "generado": "2026-11-24T19:40:52.438Z",
-  "totalPais": 24,
+  "generado": "2026-11-24T20:00:34.228Z",
+  "totalPais": 23,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Enseñanza Especial . Retardo Mental",
     "Filosofía",
     "Francés",
-    "Física",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
     "Labores Varias De Oficina",
@@ -100,6 +99,16 @@
       "vence": "31/01/2032"
     },
     {
+      "vacante": "1563992",
+      "regional": "Direc. Regional Educacion Nicoya",
+      "clasePuesto": "Asistente De Dirección Centro Educativo 1",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Cindea Nandayure",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "11/04/2027"
+    },
+    {
       "vacante": "1563070",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -130,16 +139,6 @@
       "vence": "30/06/2027"
     },
     {
-      "vacante": "1562972",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Bajo De Tapesco (Tapezco)",
-      "lecciones": "0",
-      "rige": "25/11/2026",
-      "vence": "11/12/2026"
-    },
-    {
       "vacante": "1563897",
       "regional": "Direc. Regional Educacion Occidente",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -160,32 +159,12 @@
       "vence": "30/06/2027"
     },
     {
-      "vacante": "1562906",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Fray Casiano De Madrid",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/07/2031"
-    },
-    {
-      "vacante": "1562883",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Linda Vista",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1562901",
-      "regional": "Direc. Regional Educacion Puntarenas",
+      "vacante": "1564007",
+      "regional": "Direc. Regional Educacion Perez Zeledon",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Física",
-      "institucion": "Liceo De Chacarita",
-      "lecciones": "24",
+      "especialidad": "Filosofía",
+      "institucion": "Col. Concepcion Daniel Flores",
+      "lecciones": "6",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
@@ -256,6 +235,16 @@
       "especialidad": "Filosofía",
       "institucion": "Cindea De Bribri",
       "lecciones": "2",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1564015",
+      "regional": "Direc. Regional Educacion Sulá",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Cindea De Bribri",
+      "lecciones": "6",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     }
