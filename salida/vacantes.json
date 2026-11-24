@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-24T20:00:34.228Z",
+  "generado": "2026-11-24T20:20:39.325Z",
   "totalPais": 23,
   "calzanVT6": 0,
   "advertencias": [],
@@ -57,16 +57,6 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1563019",
-      "regional": "Direc. Regional Educacion Grande De Terraba",
-      "clasePuesto": "Profesor De Enseñanza Preescolar (G.De E)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Las Lomas",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
     },
     {
       "vacante": "1563869",
@@ -245,6 +235,16 @@
       "especialidad": "Filosofía",
       "institucion": "Cindea De Bribri",
       "lecciones": "6",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1564040",
+      "regional": "Direc. Regional Educacion Sulá",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Cindea De Bribri",
+      "lecciones": "2",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     }
