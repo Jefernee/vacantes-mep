@@ -2,30 +2,30 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 33644,
+      "vecesVista": 33658,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 21010,
+      "vecesVista": 21015,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 5166,
+      "vecesVista": 5175,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
       "calce": "no interesa",
-      "vecesVista": 4101,
+      "vecesVista": 4103,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Audición Y Lenguaje": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 1726,
+      "vecesVista": 1728,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -65,9 +65,9 @@
     },
     "Matemáticas": {
       "calce": "no interesa",
-      "vecesVista": 2113,
+      "vecesVista": 2115,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Español": {
@@ -93,9 +93,9 @@
     },
     "Inglés": {
       "calce": "no interesa",
-      "vecesVista": 7009,
+      "vecesVista": 7011,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Música/Música": {
@@ -107,9 +107,9 @@
     },
     "Estudios Sociales/Educación Cívica": {
       "calce": "no interesa",
-      "vecesVista": 2769,
+      "vecesVista": 2770,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Trastornos Emocionales Y De Conducta": {
@@ -128,9 +128,9 @@
     },
     "Informática Educativa. Informática Para I Y Ii Ciclos": {
       "calce": "excluida",
-      "vecesVista": 2519,
+      "vecesVista": 2523,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": false
     },
     "Contabilidad": {
@@ -149,9 +149,9 @@
     },
     "Filosofía": {
       "calce": "no interesa",
-      "vecesVista": 1671,
+      "vecesVista": 1676,
       "primeraVez": "2026-09-04T14:42:59.193Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Equipos Interdisciplinarios / Orientación": {
@@ -170,9 +170,9 @@
     },
     "Francés": {
       "calce": "no interesa",
-      "vecesVista": 1594,
+      "vecesVista": 1595,
       "primeraVez": "2026-09-04T18:00:41.540Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Turismo Rural": {
@@ -261,9 +261,9 @@
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 975,
+      "vecesVista": 979,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -366,16 +366,16 @@
     },
     "Artes Industriales": {
       "calce": "no interesa",
-      "vecesVista": 825,
+      "vecesVista": 826,
       "primeraVez": "2026-09-14T13:00:44.125Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Rehabilitación / Ocupacional": {
       "calce": "no interesa",
-      "vecesVista": 169,
+      "vecesVista": 170,
       "primeraVez": "2026-09-16T13:00:34.738Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Biología": {
@@ -695,18 +695,18 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 646,
+      "vecesVista": 647,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     },
     "Labores Básicas De Mantenimiento": {
       "calce": "no interesa",
-      "vecesVista": 9,
+      "vecesVista": 10,
       "primeraVez": "2026-11-25T13:40:40.822Z",
-      "ultimaVez": "2026-11-25T17:01:11.380Z",
+      "ultimaVez": "2026-11-25T17:20:39.658Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-25T17:01:11.380Z"
+  "actualizado": "2026-11-25T17:20:39.658Z"
 }

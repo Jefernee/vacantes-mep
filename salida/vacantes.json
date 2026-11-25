@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-25T17:01:11.379Z",
-  "totalPais": 56,
+  "generado": "2026-11-25T17:20:39.656Z",
+  "totalPais": 55,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -364,6 +364,16 @@
       "vence": "31/01/2032"
     },
     {
+      "vacante": "1563460",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Estudios Sociales/Educación Cívica",
+      "institucion": "Liceo Exp. Bil. La Trinidad",
+      "lecciones": "20",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1563101",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -380,16 +390,6 @@
       "especialidad": "Matemáticas",
       "institucion": "Cindea Moravia",
       "lecciones": "15",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1563460",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Estudios Sociales/Educación Cívica",
-      "institucion": "Liceo Exp. Bil. La Trinidad",
-      "lecciones": "20",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
@@ -434,16 +434,6 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1563725",
-      "regional": "Direc. Regional Educacion Sulá",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Cindea De Bribri",
-      "lecciones": "2",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1564015",
       "regional": "Direc. Regional Educacion Sulá",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -474,6 +464,16 @@
       "vence": "31/01/2032"
     },
     {
+      "vacante": "1562534",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Filosofía",
+      "institucion": "Liceo Dos Rios",
+      "lecciones": "3",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1563478",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -490,16 +490,6 @@
       "especialidad": "Filosofía",
       "institucion": "Cindea Katira",
       "lecciones": "2",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1562534",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Liceo Dos Rios",
-      "lecciones": "3",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
@@ -554,12 +544,12 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1563484",
+      "vacante": "1562784",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Artes Industriales",
-      "institucion": "Liceo De Brasilia",
-      "lecciones": "9",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "C.T.P. Los Chiles",
+      "lecciones": "36",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
@@ -574,12 +564,12 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1562784",
+      "vacante": "1563484",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "C.T.P. Los Chiles",
-      "lecciones": "36",
+      "especialidad": "Artes Industriales",
+      "institucion": "Liceo De Brasilia",
+      "lecciones": "9",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     }
