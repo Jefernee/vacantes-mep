@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-25T20:20:28.771Z",
+  "generado": "2026-11-25T20:21:04.228Z",
   "totalPais": 36,
   "calzanVT6": 0,
   "advertencias": [],
@@ -240,36 +240,6 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1559996",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Betania",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1560006",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Esmeralda Oreamuno De Jimenez",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
-      "vacante": "1562639",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Porfirio Brenes Castro",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "01/11/2028"
-    },
-    {
       "vacante": "1563469",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -300,14 +270,34 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1563466",
+      "vacante": "1562639",
       "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Cindea Moravia",
-      "lecciones": "15",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Porfirio Brenes Castro",
+      "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2028"
+      "vence": "01/11/2028"
+    },
+    {
+      "vacante": "1559996",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Betania",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1560006",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Esmeralda Oreamuno De Jimenez",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1563101",
@@ -340,14 +330,14 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1561082",
+      "vacante": "1560012",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Jose Ana Marin Cubero",
+      "institucion": "Jose Cubero Muñoz",
       "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2030"
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1560002",
@@ -360,14 +350,14 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1560012",
+      "vacante": "1561082",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Jose Cubero Muñoz",
+      "institucion": "Jose Ana Marin Cubero",
       "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2032"
+      "vence": "31/01/2030"
     },
     {
       "vacante": "1562784",
