@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-25T19:40:47.397Z",
-  "totalPais": 50,
+  "generado": "2026-11-25T20:00:33.642Z",
+  "totalPais": 47,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -114,16 +114,6 @@
       "vence": "31/07/2031"
     },
     {
-      "vacante": "1563992",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Asistente De Dirección Centro Educativo 1",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Cindea Nandayure",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "11/04/2027"
-    },
-    {
       "vacante": "1564031",
       "regional": "Direc. Regional Educacion Nicoya",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -150,16 +140,6 @@
       "especialidad": "Religión",
       "institucion": "Liceo Exp. Bilingue San Ramon",
       "lecciones": "14",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1564007",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Col. Concepcion Daniel Flores",
-      "lecciones": "6",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
@@ -324,16 +304,6 @@
       "vence": "01/11/2028"
     },
     {
-      "vacante": "1563466",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Cindea Moravia",
-      "lecciones": "15",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1563101",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
@@ -350,6 +320,16 @@
       "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Liceo Exp. Bil. La Trinidad",
       "lecciones": "20",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1563466",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Cindea Moravia",
+      "lecciones": "15",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
@@ -374,16 +354,6 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1560002",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Monterrey (San Pedro)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1560012",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -394,14 +364,14 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1564015",
-      "regional": "Direc. Regional Educacion Sulá",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Filosofía",
-      "institucion": "Cindea De Bribri",
-      "lecciones": "6",
+      "vacante": "1560002",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Monterrey (San Pedro)",
+      "lecciones": "0",
       "rige": "01/02/2027",
-      "vence": "31/01/2028"
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1564040",
@@ -454,6 +424,36 @@
       "vence": "31/01/2032"
     },
     {
+      "vacante": "1562152",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo San Jorge",
+      "lecciones": "3",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1562153",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
+      "institucion": "Liceo San Jorge",
+      "lecciones": "12",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1558963",
+      "regional": "Direc. Regional Educacion Zona Norte-Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "Liceo Colonia Puntarenas",
+      "lecciones": "3",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1563484",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -474,26 +474,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1562784",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "C.T.P. Los Chiles",
-      "lecciones": "36",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1558963",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo Colonia Puntarenas",
-      "lecciones": "3",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1562780",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
@@ -504,22 +484,12 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1562152",
-      "regional": "Direc. Regional Educacion Zona Norte-Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo San Jorge",
-      "lecciones": "3",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1562153",
+      "vacante": "1562784",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "Liceo San Jorge",
-      "lecciones": "12",
+      "institucion": "C.T.P. Los Chiles",
+      "lecciones": "36",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     }
