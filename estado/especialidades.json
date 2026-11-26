@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 34114,
+      "vecesVista": 34117,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-26T19:20:26.648Z",
+      "ultimaVez": "2026-11-26T19:40:30.199Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 21236,
+      "vecesVista": 21240,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-26T19:20:26.648Z",
+      "ultimaVez": "2026-11-26T19:40:30.199Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 1754,
+      "vecesVista": 1755,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-26T19:20:26.648Z",
+      "ultimaVez": "2026-11-26T19:40:30.199Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -261,9 +261,9 @@
     },
     "Informática Educativa .Informática Para Iii Y Iv Ciclos": {
       "calce": "excluida",
-      "vecesVista": 1041,
+      "vecesVista": 1042,
       "primeraVez": "2026-09-08T14:00:49.921Z",
-      "ultimaVez": "2026-11-26T19:20:26.648Z",
+      "ultimaVez": "2026-11-26T19:40:30.199Z",
       "avisadaComoNueva": false
     },
     "Informática En Programación": {
@@ -695,9 +695,9 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 706,
+      "vecesVista": 707,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-26T19:20:26.648Z",
+      "ultimaVez": "2026-11-26T19:40:30.199Z",
       "avisadaComoNueva": true
     },
     "Labores Básicas De Mantenimiento": {
@@ -708,5 +708,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-26T19:20:26.648Z"
+  "actualizado": "2026-11-26T19:40:30.199Z"
 }
