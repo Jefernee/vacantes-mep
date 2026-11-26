@@ -2,23 +2,23 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 34086,
+      "vecesVista": 34088,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-26T15:20:28.670Z",
+      "ultimaVez": "2026-11-26T15:40:39.262Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 21191,
+      "vecesVista": 21194,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-26T15:20:28.670Z",
+      "ultimaVez": "2026-11-26T15:40:39.262Z",
       "avisadaComoNueva": true
     },
     "Religión": {
       "calce": "no interesa",
-      "vecesVista": 5562,
+      "vecesVista": 5563,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-26T15:20:28.670Z",
+      "ultimaVez": "2026-11-26T15:40:39.262Z",
       "avisadaComoNueva": true
     },
     "Labores Varias De Oficina": {
@@ -695,9 +695,9 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 694,
+      "vecesVista": 695,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-26T15:20:28.670Z",
+      "ultimaVez": "2026-11-26T15:40:39.262Z",
       "avisadaComoNueva": true
     },
     "Labores Básicas De Mantenimiento": {
@@ -708,5 +708,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-26T15:20:28.670Z"
+  "actualizado": "2026-11-26T15:40:39.262Z"
 }
