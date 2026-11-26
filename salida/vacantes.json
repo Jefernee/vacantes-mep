@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-26T13:00:29.223Z",
-  "totalPais": 35,
+  "generado": "2026-11-26T13:20:29.321Z",
+  "totalPais": 34,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -57,16 +57,6 @@
       "lecciones": "10",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1564365",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Las Lomas",
-      "lecciones": "0",
-      "rige": "27/11/2026",
-      "vence": "23/03/2027"
     },
     {
       "vacante": "1564374",
@@ -229,16 +219,6 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1562639",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Porfirio Brenes Castro",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "01/11/2028"
-    },
-    {
       "vacante": "1563469",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -289,22 +269,22 @@
       "vence": "31/01/2032"
     },
     {
+      "vacante": "1562639",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Porfirio Brenes Castro",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "01/11/2028"
+    },
+    {
       "vacante": "1563101",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Matemáticas",
       "institucion": "Liceo De Moravia",
       "lecciones": "30",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1563466",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Cindea Moravia",
-      "lecciones": "15",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
@@ -319,6 +299,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1563466",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Cindea Moravia",
+      "lecciones": "15",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1563323",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -329,11 +319,11 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1560012",
+      "vacante": "1560002",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Jose Cubero Muñoz",
+      "institucion": "Monterrey (San Pedro)",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
@@ -349,11 +339,11 @@
       "vence": "31/01/2030"
     },
     {
-      "vacante": "1560002",
+      "vacante": "1560012",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
       "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Monterrey (San Pedro)",
+      "institucion": "Jose Cubero Muñoz",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
