@@ -1,11 +1,11 @@
 {
-  "generado": "2026-11-26T03:00:32.169Z",
+  "generado": "2026-11-26T03:03:41.911Z",
   "totalPais": 34,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
+    "Artes Industriales",
     "Estudios Sociales/Educación Cívica",
-    "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
     "Labores Básicas De Mantenimiento",
@@ -219,16 +219,6 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1562639",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Porfirio Brenes Castro",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "01/11/2028"
-    },
-    {
       "vacante": "1563469",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -279,22 +269,22 @@
       "vence": "31/01/2032"
     },
     {
+      "vacante": "1562639",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Porfirio Brenes Castro",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "01/11/2028"
+    },
+    {
       "vacante": "1563101",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Matemáticas",
       "institucion": "Liceo De Moravia",
       "lecciones": "30",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1563466",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Cindea Moravia",
-      "lecciones": "15",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
@@ -309,6 +299,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1563466",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Cindea Moravia",
+      "lecciones": "15",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1563323",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -317,16 +317,6 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1560012",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Jose Cubero Muñoz",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
     },
     {
       "vacante": "1561082",
@@ -339,6 +329,16 @@
       "vence": "31/01/2030"
     },
     {
+      "vacante": "1560012",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Jose Cubero Muñoz",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
       "vacante": "1560002",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -349,12 +349,12 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1562784",
+      "vacante": "1563484",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "C.T.P. Los Chiles",
-      "lecciones": "36",
+      "especialidad": "Artes Industriales",
+      "institucion": "Liceo De Brasilia",
+      "lecciones": "9",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     }
