@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-26T11:20:36.148Z",
+  "generado": "2026-11-26T11:40:41.354Z",
   "totalPais": 34,
   "calzanVT6": 0,
   "advertencias": [],
@@ -139,21 +139,21 @@
       "vence": "31/01/2027"
     },
     {
-      "vacante": "1563505",
-      "regional": "Direc. Regional Educacion Puntarenas",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Religión",
-      "institucion": "Carrizal",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1563530",
       "regional": "Direc. Regional Educacion Puntarenas",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
       "especialidad": "Religión",
       "institucion": "Fray Casiano De Madrid",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1563505",
+      "regional": "Direc. Regional Educacion Puntarenas",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Religión",
+      "institucion": "Carrizal",
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2032"
@@ -239,6 +239,16 @@
       "vence": "31/01/2032"
     },
     {
+      "vacante": "1562639",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
+      "especialidad": "Sin Especialidad T-Ii",
+      "institucion": "Porfirio Brenes Castro",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "01/11/2028"
+    },
+    {
       "vacante": "1563469",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
@@ -269,32 +279,12 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1562639",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Porfirio Brenes Castro",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "01/11/2028"
-    },
-    {
       "vacante": "1563101",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Matemáticas",
       "institucion": "Liceo De Moravia",
       "lecciones": "30",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1563466",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Cindea Moravia",
-      "lecciones": "15",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
@@ -309,6 +299,16 @@
       "vence": "31/01/2028"
     },
     {
+      "vacante": "1563466",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Cindea Moravia",
+      "lecciones": "15",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
       "vacante": "1563323",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -319,16 +319,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1560002",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Monterrey (San Pedro)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1561082",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -337,6 +327,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/01/2030"
+    },
+    {
+      "vacante": "1560002",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Monterrey (San Pedro)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
     },
     {
       "vacante": "1560012",
