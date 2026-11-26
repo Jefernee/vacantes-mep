@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-26T13:20:29.321Z",
-  "totalPais": 34,
+  "generado": "2026-11-26T13:40:34.148Z",
+  "totalPais": 32,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -8,7 +8,6 @@
     "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Informática Educativa. Informática Para I Y Ii Ciclos",
     "Inglés",
-    "Labores Básicas De Mantenimiento",
     "Matemáticas",
     "Refrigeración Y Aire Acondicionado",
     "Rehabilitación / Ocupacional",
@@ -29,16 +28,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1564376",
-      "regional": "Administracion Regional Del Sist. Educ.",
-      "clasePuesto": "Misceláneo De Servicio Civil 1 (G. De E.)",
-      "especialidad": "Labores Básicas De Mantenimiento",
-      "institucion": "Dirección Regional De Educación Desamparados",
-      "lecciones": "0",
-      "rige": "26/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
       "vacante": "1564391",
       "regional": "Direc. Regional Educacion Cañas",
       "clasePuesto": "Asistente De Dirección Centro Educativo 1",
@@ -57,16 +46,6 @@
       "lecciones": "10",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1564374",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Auxiliar Administrativo",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Liceo Samuel Saenz Flores",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/07/2031"
     },
     {
       "vacante": "1564623",
@@ -279,22 +258,22 @@
       "vence": "01/11/2028"
     },
     {
-      "vacante": "1563101",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
-      "especialidad": "Matemáticas",
-      "institucion": "Liceo De Moravia",
-      "lecciones": "30",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1563460",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
       "especialidad": "Estudios Sociales/Educación Cívica",
       "institucion": "Liceo Exp. Bil. La Trinidad",
       "lecciones": "20",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1563101",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Media (G. De E.)",
+      "especialidad": "Matemáticas",
+      "institucion": "Liceo De Moravia",
+      "lecciones": "30",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     },
@@ -319,16 +298,6 @@
       "vence": "31/01/2028"
     },
     {
-      "vacante": "1560002",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
-      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
-      "institucion": "Monterrey (San Pedro)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
-    },
-    {
       "vacante": "1561082",
       "regional": "Direc. Regional Educacion San Jose - Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
@@ -349,12 +318,22 @@
       "vence": "31/01/2032"
     },
     {
-      "vacante": "1562784",
+      "vacante": "1560002",
+      "regional": "Direc. Regional Educacion San Jose - Norte",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)",
+      "especialidad": "Informática Educativa. Informática Para I Y Ii Ciclos",
+      "institucion": "Monterrey (San Pedro)",
+      "lecciones": "0",
+      "rige": "01/02/2027",
+      "vence": "31/01/2032"
+    },
+    {
+      "vacante": "1562153",
       "regional": "Direc. Regional Educacion Zona Norte-Norte",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "C.T.P. Los Chiles",
-      "lecciones": "36",
+      "institucion": "Liceo San Jorge",
+      "lecciones": "12",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
     }
