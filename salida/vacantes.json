@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-27T12:40:31.826Z",
-  "totalPais": 12,
+  "generado": "2026-11-27T13:00:30.143Z",
+  "totalPais": 11,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -61,16 +61,6 @@
       "lecciones": "44",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1564623",
-      "regional": "Direc. Regional Educacion Nicoya",
-      "clasePuesto": "Cocinero",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Serapio Lopez Fajardo (Nicoya)",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
     },
     {
       "vacante": "1554894",
