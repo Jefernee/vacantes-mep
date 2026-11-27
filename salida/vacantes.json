@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-27T16:20:51.407Z",
-  "totalPais": 10,
+  "generado": "2026-11-27T16:40:28.669Z",
+  "totalPais": 8,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -91,26 +91,6 @@
       "lecciones": "0",
       "rige": "26/11/2026",
       "vence": "15/03/2027"
-    },
-    {
-      "vacante": "1565389",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Conserje De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Roberto Cantillano Vindas",
-      "lecciones": "0",
-      "rige": "26/11/2026",
-      "vence": "31/01/2027"
-    },
-    {
-      "vacante": "1564381",
-      "regional": "Direc. Regional Educacion San Jose - Norte",
-      "clasePuesto": "Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Franklin D. Roosevelt",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2032"
     }
   ]
 }
