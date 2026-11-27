@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-27T15:00:29.163Z",
-  "totalPais": 11,
+  "generado": "2026-11-27T15:20:25.615Z",
+  "totalPais": 10,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -81,16 +81,6 @@
       "lecciones": "0",
       "rige": "02/12/2026",
       "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1563724",
-      "regional": "Direc. Regional Educacion Perez Zeledon",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "Liceo Platanillo De Baru",
-      "lecciones": "7",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
     },
     {
       "vacante": "1565773",
