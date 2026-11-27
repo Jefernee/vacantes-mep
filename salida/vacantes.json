@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-27T14:21:01.172Z",
-  "totalPais": 13,
+  "generado": "2026-11-27T14:40:30.452Z",
+  "totalPais": 12,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -12,16 +12,6 @@
   ],
   "interesantes": [],
   "todas": [
-    {
-      "vacante": "1550176",
-      "regional": "Direc. Regional Educacion Alajuela",
-      "clasePuesto": "Auxiliar De Vigilancia De Centro Educativo",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Ctp Santa Eulalia",
-      "lecciones": "0",
-      "rige": "01/12/2026",
-      "vence": "31/07/2030"
-    },
     {
       "vacante": "1565711",
       "regional": "Direc. Regional Educacion Guapiles",
