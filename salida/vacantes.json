@@ -1,10 +1,11 @@
 {
-  "generado": "2026-11-27T18:20:32.685Z",
-  "totalPais": 8,
+  "generado": "2026-11-27T18:40:56.995Z",
+  "totalPais": 9,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Educación Para El Hogar",
+    "Equipos Interdisciplinarios / Psicología",
     "Refrigeración Y Aire Acondicionado",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -30,6 +31,16 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/12/2027"
+    },
+    {
+      "vacante": "1566191",
+      "regional": "Direc. Regional Educacion Guapiles",
+      "clasePuesto": "Profesional De Servicio Civil 1 B (G.De E.)",
+      "especialidad": "Equipos Interdisciplinarios / Psicología",
+      "institucion": "Los Angeles (Cariari)",
+      "lecciones": "0",
+      "rige": "02/12/2026",
+      "vence": "31/07/2028"
     },
     {
       "vacante": "1565741",

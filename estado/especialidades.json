@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 34275,
+      "vecesVista": 34276,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-27T18:20:32.687Z",
+      "ultimaVez": "2026-11-27T18:40:56.996Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 21431,
+      "vecesVista": 21435,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-27T18:20:32.687Z",
+      "ultimaVez": "2026-11-27T18:40:56.996Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 1839,
+      "vecesVista": 1840,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-27T18:20:32.687Z",
+      "ultimaVez": "2026-11-27T18:40:56.996Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -604,9 +604,9 @@
     },
     "Equipos Interdisciplinarios / Psicología": {
       "calce": "no interesa",
-      "vecesVista": 54,
+      "vecesVista": 55,
       "primeraVez": "2026-10-12T13:00:37.734Z",
-      "ultimaVez": "2026-10-13T12:40:47.514Z",
+      "ultimaVez": "2026-11-27T18:40:56.996Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Deficiencias Visuales": {
@@ -695,9 +695,9 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 795,
+      "vecesVista": 797,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-27T18:20:32.687Z",
+      "ultimaVez": "2026-11-27T18:40:56.996Z",
       "avisadaComoNueva": true
     },
     "Labores Básicas De Mantenimiento": {
@@ -708,5 +708,5 @@
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-27T18:20:32.687Z"
+  "actualizado": "2026-11-27T18:40:56.996Z"
 }
