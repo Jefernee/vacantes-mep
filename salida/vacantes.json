@@ -1,10 +1,9 @@
 {
-  "generado": "2026-11-27T20:40:26.367Z",
-  "totalPais": 9,
+  "generado": "2026-11-27T21:00:55.218Z",
+  "totalPais": 8,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
-    "Educación Para El Hogar",
     "Enseñanza Especial . Atención Temprana",
     "Equipos Interdisciplinarios / Psicología",
     "Refrigeración Y Aire Acondicionado",
@@ -31,16 +30,6 @@
       "lecciones": "0",
       "rige": "02/12/2026",
       "vence": "31/07/2028"
-    },
-    {
-      "vacante": "1565741",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "C.T.P. De Ulloa",
-      "lecciones": "44",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
     },
     {
       "vacante": "1565770",
