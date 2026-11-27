@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-27T21:20:26.813Z",
-  "totalPais": 8,
+  "generado": "2026-11-27T21:40:22.729Z",
+  "totalPais": 7,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -80,16 +80,6 @@
       "lecciones": "32",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
-    },
-    {
-      "vacante": "1565773",
-      "regional": "Direc. Regional Educacion San Jose - Central",
-      "clasePuesto": "Oficial De Seguridad De Servicio Civil 1",
-      "especialidad": "Sin Especialidad T-I",
-      "institucion": "Marcelino Garcia Flamenco",
-      "lecciones": "0",
-      "rige": "26/11/2026",
-      "vence": "15/03/2027"
     }
   ]
 }
