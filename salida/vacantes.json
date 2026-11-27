@@ -1,11 +1,10 @@
 {
-  "generado": "2026-11-27T18:00:27.336Z",
-  "totalPais": 9,
+  "generado": "2026-11-27T18:20:32.685Z",
+  "totalPais": 8,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
     "Educación Para El Hogar",
-    "Informática Educativa .Informática Para Iii Y Iv Ciclos",
     "Refrigeración Y Aire Acondicionado",
     "Sin Especialidad T-I",
     "Sin Especialidad T-Ii"
@@ -31,16 +30,6 @@
       "lecciones": "0",
       "rige": "01/02/2027",
       "vence": "31/12/2027"
-    },
-    {
-      "vacante": "1565558",
-      "regional": "Direc. Regional Educacion Guapiles",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Informática Educativa .Informática Para Iii Y Iv Ciclos",
-      "institucion": "Liceo De Cariari",
-      "lecciones": "18",
-      "rige": "01/02/2027",
-      "vence": "22/03/2027"
     },
     {
       "vacante": "1565741",
