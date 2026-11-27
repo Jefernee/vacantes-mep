@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-27T14:40:30.452Z",
-  "totalPais": 12,
+  "generado": "2026-11-27T15:00:29.163Z",
+  "totalPais": 11,
   "calzanVT6": 0,
   "advertencias": [],
   "especialidadesVistas": [
@@ -33,21 +33,21 @@
       "vence": "22/03/2027"
     },
     {
-      "vacante": "1565741",
-      "regional": "Direc. Regional Educacion Heredia",
-      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
-      "especialidad": "Educación Para El Hogar",
-      "institucion": "C.T.P. De Ulloa",
-      "lecciones": "44",
-      "rige": "01/02/2027",
-      "vence": "31/01/2028"
-    },
-    {
       "vacante": "1565770",
       "regional": "Direc. Regional Educacion Heredia",
       "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
       "especialidad": "Refrigeración Y Aire Acondicionado",
       "institucion": "I.P.E.C. De Santo Domingo",
+      "lecciones": "44",
+      "rige": "01/02/2027",
+      "vence": "31/01/2028"
+    },
+    {
+      "vacante": "1565741",
+      "regional": "Direc. Regional Educacion Heredia",
+      "clasePuesto": "Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)",
+      "especialidad": "Educación Para El Hogar",
+      "institucion": "C.T.P. De Ulloa",
       "lecciones": "44",
       "rige": "01/02/2027",
       "vence": "31/01/2028"
@@ -81,16 +81,6 @@
       "lecciones": "0",
       "rige": "02/12/2026",
       "vence": "31/07/2030"
-    },
-    {
-      "vacante": "1563381",
-      "regional": "Direc. Regional Educacion Occidente",
-      "clasePuesto": "Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)",
-      "especialidad": "Sin Especialidad T-Ii",
-      "institucion": "Eulogio Salazar L.",
-      "lecciones": "0",
-      "rige": "01/02/2027",
-      "vence": "31/01/2031"
     },
     {
       "vacante": "1563724",
