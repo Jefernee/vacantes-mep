@@ -2,16 +2,16 @@
   "especialidades": {
     "Sin Especialidad T-Ii": {
       "calce": "no interesa",
-      "vecesVista": 34277,
+      "vecesVista": 34278,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-27T19:00:26.789Z",
+      "ultimaVez": "2026-11-27T19:20:28.791Z",
       "avisadaComoNueva": true
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 21439,
+      "vecesVista": 21443,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-27T19:00:26.789Z",
+      "ultimaVez": "2026-11-27T19:20:28.791Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -44,9 +44,9 @@
     },
     "Educación Para El Hogar": {
       "calce": "no interesa",
-      "vecesVista": 1841,
+      "vecesVista": 1842,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-27T19:00:26.789Z",
+      "ultimaVez": "2026-11-27T19:20:28.791Z",
       "avisadaComoNueva": true
     },
     "Artes Plásticas/Artes Plásticas": {
@@ -604,9 +604,9 @@
     },
     "Equipos Interdisciplinarios / Psicología": {
       "calce": "no interesa",
-      "vecesVista": 56,
+      "vecesVista": 57,
       "primeraVez": "2026-10-12T13:00:37.734Z",
-      "ultimaVez": "2026-11-27T19:00:26.789Z",
+      "ultimaVez": "2026-11-27T19:20:28.791Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Deficiencias Visuales": {
@@ -695,9 +695,9 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 799,
+      "vecesVista": 801,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-27T19:00:26.789Z",
+      "ultimaVez": "2026-11-27T19:20:28.791Z",
       "avisadaComoNueva": true
     },
     "Labores Básicas De Mantenimiento": {
@@ -709,11 +709,11 @@
     },
     "Enseñanza Especial . Atención Temprana": {
       "calce": "no interesa",
-      "vecesVista": 1,
+      "vecesVista": 2,
       "primeraVez": "2026-11-27T19:00:26.789Z",
-      "ultimaVez": "2026-11-27T19:00:26.789Z",
+      "ultimaVez": "2026-11-27T19:20:28.791Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-27T19:00:26.789Z"
+  "actualizado": "2026-11-27T19:20:28.791Z"
 }
