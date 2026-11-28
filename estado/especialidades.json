@@ -9,9 +9,9 @@
     },
     "Sin Especialidad T-I": {
       "calce": "no interesa",
-      "vecesVista": 21498,
+      "vecesVista": 21501,
       "primeraVez": "2026-09-03T22:15:22.538Z",
-      "ultimaVez": "2026-11-28T00:20:29.519Z",
+      "ultimaVez": "2026-11-28T00:40:35.080Z",
       "avisadaComoNueva": true
     },
     "Religión": {
@@ -604,9 +604,9 @@
     },
     "Equipos Interdisciplinarios / Psicología": {
       "calce": "no interesa",
-      "vecesVista": 73,
+      "vecesVista": 74,
       "primeraVez": "2026-10-12T13:00:37.734Z",
-      "ultimaVez": "2026-11-28T00:20:29.519Z",
+      "ultimaVez": "2026-11-28T00:40:35.080Z",
       "avisadaComoNueva": true
     },
     "Enseñanza Especial . Deficiencias Visuales": {
@@ -695,9 +695,9 @@
     },
     "Refrigeración Y Aire Acondicionado": {
       "calce": "no interesa",
-      "vecesVista": 828,
+      "vecesVista": 829,
       "primeraVez": "2026-11-16T13:00:41.966Z",
-      "ultimaVez": "2026-11-28T00:20:29.519Z",
+      "ultimaVez": "2026-11-28T00:40:35.080Z",
       "avisadaComoNueva": true
     },
     "Labores Básicas De Mantenimiento": {
@@ -709,11 +709,11 @@
     },
     "Enseñanza Especial . Atención Temprana": {
       "calce": "no interesa",
-      "vecesVista": 18,
+      "vecesVista": 19,
       "primeraVez": "2026-11-27T19:00:26.789Z",
-      "ultimaVez": "2026-11-28T00:20:29.519Z",
+      "ultimaVez": "2026-11-28T00:40:35.080Z",
       "avisadaComoNueva": true
     }
   },
-  "actualizado": "2026-11-28T00:20:29.519Z"
+  "actualizado": "2026-11-28T00:40:35.080Z"
 }
